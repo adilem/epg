@@ -39,7 +39,7 @@
 <channel id="BFMGrandLille.fr"><display-name>BFM Grand Lille</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F78d8f6a0044d9fe1.2Epng/30x30/quality/80/bfm-grand-lille.png"/></channel>
 <channel id="BFMLyon.fr"><display-name>BFM Lyon</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F35ed1e7f7981fcf9.2Epng/30x30/quality/80/bfm-lyon-metropole.png"/></channel>
 <channel id="BFMParis.fr"><display-name>BFM Paris</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fcfad56f8972ea36a.2Epng/30x30/quality/80/bfm-paris.png"/></channel>
-<channel id="BFMTV.fr"><display-name>BFMTV</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfm-tv.png"/></channel>
+<channel id="BFMTV.fr"><display-name>BFMTV</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfmtv.png"/></channel>
 <channel id="BoingFrance.it"><display-name>Boing France</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0d38be6aa6f7bbd7.2Epng/30x30/quality/80/boing.png"/></channel>
 <channel id="BoomerangFrance.us"><display-name>Boomerang France</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F737335dc2fe15da5.2Epng/30x30/quality/80/boomerang.png"/></channel>
 <channel id="C8.fr"><display-name>C8</display-name><icon src="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F281db64e909102f5.2Epng/30x30/quality/80/c8.png"/></channel>
@@ -1706,13 +1706,13 @@
 <programme start="20210425073500 +0000" stop="20210425074500 +0000" channel="BoomerangFrance.us"><title lang="fr">Mr Bean</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425074500 +0000" stop="20210425075500 +0000" channel="BoomerangFrance.us"><title lang="fr">Mr Bean</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425075500 +0000" stop="20210425081000 +0000" channel="BoomerangFrance.us"><title lang="fr">Mr Bean</title><category lang="fr">Série d&apos;animation</category></programme>
-<programme start="20210425081000 +0000" stop="20210425081500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425081500 +0000" stop="20210425082500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425082500 +0000" stop="20210425083000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425083000 +0000" stop="20210425083500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425083500 +0000" stop="20210425084000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425084000 +0000" stop="20210425085000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425085000 +0000" stop="20210425090000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
+<programme start="20210425081000 +0000" stop="20210425081500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425081500 +0000" stop="20210425082500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425082500 +0000" stop="20210425083000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425083000 +0000" stop="20210425083500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425083500 +0000" stop="20210425084000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425084000 +0000" stop="20210425085000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425085000 +0000" stop="20210425090000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425090000 +0000" stop="20210425090700 +0000" channel="BoomerangFrance.us"><title lang="fr">Mike, une vie de chien</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425090700 +0000" stop="20210425091400 +0000" channel="BoomerangFrance.us"><title lang="fr">Mike, une vie de chien</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425091400 +0000" stop="20210425092500 +0000" channel="BoomerangFrance.us"><title lang="fr">Mike, une vie de chien</title><category lang="fr">Série d&apos;animation</category></programme>
@@ -1730,13 +1730,13 @@
 <programme start="20210425121000 +0000" stop="20210425122500 +0000" channel="BoomerangFrance.us"><title lang="fr">Géo Jet</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425122500 +0000" stop="20210425123500 +0000" channel="BoomerangFrance.us"><title lang="fr">Kingdom Force</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425123500 +0000" stop="20210425125000 +0000" channel="BoomerangFrance.us"><title lang="fr">Kingdom Force</title><category lang="fr">Série d&apos;animation</category></programme>
-<programme start="20210425125000 +0000" stop="20210425125500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425125500 +0000" stop="20210425130500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425130500 +0000" stop="20210425131000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425131000 +0000" stop="20210425131500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425131500 +0000" stop="20210425132000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425132000 +0000" stop="20210425132500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425132500 +0000" stop="20210425133500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
+<programme start="20210425125000 +0000" stop="20210425125500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425125500 +0000" stop="20210425130500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425130500 +0000" stop="20210425131000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425131000 +0000" stop="20210425131500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425131500 +0000" stop="20210425132000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425132000 +0000" stop="20210425132500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425132500 +0000" stop="20210425133500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425133500 +0000" stop="20210425140000 +0000" channel="BoomerangFrance.us"><title lang="fr">Scooby-Doo et compagnie</title><category lang="fr">Dessin animé</category></programme>
 <programme start="20210425140000 +0000" stop="20210425142500 +0000" channel="BoomerangFrance.us"><title lang="fr">Scooby-Doo et compagnie</title><category lang="fr">Dessin animé</category></programme>
 <programme start="20210425142500 +0000" stop="20210425143500 +0000" channel="BoomerangFrance.us"><title lang="fr">Mr Bean</title><category lang="fr">Série d&apos;animation</category></programme>
@@ -1767,13 +1767,13 @@
 <programme start="20210425190000 +0000" stop="20210425191000 +0000" channel="BoomerangFrance.us"><title lang="fr">Mr Bean</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425191000 +0000" stop="20210425192500 +0000" channel="BoomerangFrance.us"><title lang="fr">Mr Bean</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425192500 +0000" stop="20210425193500 +0000" channel="BoomerangFrance.us"><title lang="fr">Mr Bean</title><category lang="fr">Série d&apos;animation</category></programme>
-<programme start="20210425193500 +0000" stop="20210425194100 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425194100 +0000" stop="20210425194800 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425194800 +0000" stop="20210425195500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425195500 +0000" stop="20210425200200 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425200200 +0000" stop="20210425201000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425201000 +0000" stop="20210425201700 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
-<programme start="20210425201700 +0000" stop="20210425202500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série Dessin animé</category></programme>
+<programme start="20210425193500 +0000" stop="20210425194100 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425194100 +0000" stop="20210425194800 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425194800 +0000" stop="20210425195500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425195500 +0000" stop="20210425200200 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425200200 +0000" stop="20210425201000 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425201000 +0000" stop="20210425201700 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425201700 +0000" stop="20210425202500 +0000" channel="BoomerangFrance.us"><title lang="fr">Grizzy et les lemmings</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425202500 +0000" stop="20210425203500 +0000" channel="BoomerangFrance.us"><title lang="fr">Yabba Dabba Dinosaures</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425203500 +0000" stop="20210425205000 +0000" channel="BoomerangFrance.us"><title lang="fr">Yabba Dabba Dinosaures</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425205000 +0000" stop="20210425210000 +0000" channel="BoomerangFrance.us"><title lang="fr">Bugs ! Une Production Looney Tunes</title><category lang="fr">Série d&apos;animation</category></programme>
@@ -2063,9 +2063,9 @@
 <programme start="20210425113500 +0000" stop="20210425120600 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Premier League World</title><category lang="fr">Football</category></programme>
 <programme start="20210425120600 +0000" stop="20210425130000 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Premier League Saturday Review</title><category lang="fr">Football</category></programme>
 <programme start="20210425130000 +0000" stop="20210425142500 +0000" channel="CanalPlusDecale.fr"><title lang="fr">WRC : Rallye de Croatie</title><category lang="fr">Rallye</category></programme>
-<programme start="20210425142500 +0000" stop="20210425145200 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Match of ze Day</title><category lang="fr">Magazine sportif</category></programme>
-<programme start="20210425145200 +0000" stop="20210425165500 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Leeds / Manchester United</title><category lang="fr">Football</category></programme>
-<programme start="20210425165500 +0000" stop="20210425182700 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Voile : Sail GP</title><category lang="fr">Voile</category></programme>
+<programme start="20210425142500 +0000" stop="20210425160900 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Western Force / Queensland Reds</title><category lang="fr">Rugby</category></programme>
+<programme start="20210425160900 +0000" stop="20210425173400 +0000" channel="CanalPlusDecale.fr"><title lang="fr">WRC : Rallye de Croatie</title><category lang="fr">Rallye</category></programme>
+<programme start="20210425173400 +0000" stop="20210425182700 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Indycar : Grand Prix d&apos;Alabama</title><category lang="fr">Indycar</category></programme>
 <programme start="20210425182700 +0000" stop="20210425190000 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Sport Reporter</title><category lang="fr">Multisports</category></programme>
 <programme start="20210425190000 +0000" stop="20210425203000 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Voile : Sail GP</title><category lang="fr">Voile</category></programme>
 <programme start="20210425203000 +0000" stop="20210425222100 +0000" channel="CanalPlusDecale.fr"><title lang="fr">Aston Villa / West Bromwich Albion</title><category lang="fr">Football</category></programme>
@@ -5599,8 +5599,8 @@
 <programme start="20210425150400 +0000" stop="20210425151500 +0000" channel="Gong.fr"><title lang="fr">Inside</title><category lang="fr">Magazine d&apos;actualité</category></programme>
 <programme start="20210425151500 +0000" stop="20210425161700 +0000" channel="Gong.fr"><title lang="fr">Hospital Ship</title><category lang="fr">Série sentimentale</category></programme>
 <programme start="20210425161700 +0000" stop="20210425163000 +0000" channel="Gong.fr"><title lang="fr">Focus</title><category lang="fr">Magazine culturel</category></programme>
-<programme start="20210425163000 +0000" stop="20210425165600 +0000" channel="Gong.fr"><title lang="fr">Yu Gi Oh! Duel Monster</title><category lang="fr">Série d&apos;animation</category></programme>
-<programme start="20210425165600 +0000" stop="20210425171800 +0000" channel="Gong.fr"><title lang="fr">Yu Gi Oh! Duel Monster</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425163000 +0000" stop="20210425165600 +0000" channel="Gong.fr"><title lang="fr">Yu Gi Oh! Duel Monster</title><category lang="fr">Dessin animé manga</category></programme>
+<programme start="20210425165600 +0000" stop="20210425171800 +0000" channel="Gong.fr"><title lang="fr">Yu Gi Oh! Duel Monster</title><category lang="fr">Dessin animé manga</category></programme>
 <programme start="20210425171800 +0000" stop="20210425172900 +0000" channel="Gong.fr"><title lang="fr">Focus</title><category lang="fr">Magazine culturel</category></programme>
 <programme start="20210425172900 +0000" stop="20210425183000 +0000" channel="Gong.fr"><title lang="fr">Music Star Story</title><category lang="fr">Magazine du show-biz</category></programme>
 <programme start="20210425183000 +0000" stop="20210425194500 +0000" channel="Gong.fr"><title lang="fr">Tunnel</title><category lang="fr">Série fantastique</category></programme>
@@ -5627,7 +5627,7 @@
 <programme start="20210425062500 +0000" stop="20210425065000 +0000" channel="GongMax.fr"><title lang="fr">School Rumble</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425065000 +0000" stop="20210425071700 +0000" channel="GongMax.fr"><title lang="fr">Hunter X Hunter</title><category lang="fr">Dessin animé manga</category></programme>
 <programme start="20210425071700 +0000" stop="20210425072800 +0000" channel="GongMax.fr"><title lang="fr">Focus</title><category lang="fr">Magazine culturel</category></programme>
-<programme start="20210425072800 +0000" stop="20210425075400 +0000" channel="GongMax.fr"><title lang="fr">Yu Gi Oh! Duel Monster</title><category lang="fr">Série d&apos;animation</category></programme>
+<programme start="20210425072800 +0000" stop="20210425075400 +0000" channel="GongMax.fr"><title lang="fr">Yu Gi Oh! Duel Monster</title><category lang="fr">Dessin animé manga</category></programme>
 <programme start="20210425075400 +0000" stop="20210425081800 +0000" channel="GongMax.fr"><title lang="fr">Yu Gi Oh! Duel Monster</title><category lang="fr">Série d&apos;animation</category></programme>
 <programme start="20210425081800 +0000" stop="20210425082800 +0000" channel="GongMax.fr"><title lang="fr">Inside</title><category lang="fr">Magazine d&apos;actualité</category></programme>
 <programme start="20210425082800 +0000" stop="20210425085300 +0000" channel="GongMax.fr"><title lang="fr">Himawari</title><category lang="fr">Série d&apos;animation</category></programme>
@@ -7615,12 +7615,11 @@
 <programme start="20210425160000 +0000" stop="20210425200000 +0000" channel="Proximus11.be"><title lang="fr">A bientôt sur Proximus 11</title><category lang="fr">Multisports</category></programme>
 <programme start="20210425200000 +0000" stop="20210425220000 +0000" channel="Proximus11.be"><title lang="fr">A bientôt sur Proximus 11</title><category lang="fr">Multisports</category></programme>
 <programme start="20210425220000 +0000" stop="20210426020000 +0000" channel="Proximus11.be"><title lang="fr">A bientôt sur Proximus 11</title><category lang="fr">Multisports</category></programme>
-<programme start="20210425001000 +0000" stop="20210425014500 +0000" channel="Rai1.it"><title lang="fr">Ciao Maschio</title><category lang="fr">Magazine d&apos;information</category></programme>
+<programme start="20210425004500 +0000" stop="20210425014500 +0000" channel="Rai1.it"><title lang="fr">Ciao Maschio</title><category lang="fr">Magazine d&apos;information</category></programme>
 <programme start="20210425014500 +0000" stop="20210425021800 +0000" channel="Rai1.it"><title lang="fr">RAInews24</title><category lang="fr">Journal</category></programme>
 <programme start="20210425021800 +0000" stop="20210425022000 +0000" channel="Rai1.it"><title lang="fr">Che tempo fa</title><category lang="fr">Météo</category></programme>
 <programme start="20210425022000 +0000" stop="20210425025000 +0000" channel="Rai1.it"><title lang="fr">Sottovoce</title><category lang="fr">Magazine de société</category></programme>
-<programme start="20210425025000 +0000" stop="20210425032000 +0000" channel="Rai1.it"><title lang="fr">Milleeunlibro - Scrittori in TV</title><category lang="fr">Magazine littéraire</category></programme>
-<programme start="20210425032000 +0000" stop="20210425035000 +0000" channel="Rai1.it"><title lang="fr">Legend</title><category lang="fr">Thriller</category></programme>
+<programme start="20210425025000 +0000" stop="20210425035000 +0000" channel="Rai1.it"><title lang="fr">Milleeunlibro - Scrittori in TV</title><category lang="fr">Magazine littéraire</category></programme>
 <programme start="20210425035000 +0000" stop="20210425052500 +0000" channel="Rai1.it"><title lang="fr">Non essere cattivo</title><category lang="fr">Drame</category></programme>
 <programme start="20210425052500 +0000" stop="20210425054500 +0000" channel="Rai1.it"><title lang="fr">RAInews24</title><category lang="fr">Journal</category></programme>
 <programme start="20210425054500 +0000" stop="20210425063000 +0000" channel="Rai1.it"><title lang="fr">A Sua immagine</title><category lang="fr">Magazine religieux</category></programme>

@@ -3,128 +3,123 @@
 <channel id="TV2.zm"><display-name>TV2</display-name><icon src="https://www.znbc.co.zm/wp-content/uploads/2019/04/TV2-Logo.jpg"/></channel>
 <channel id="TV3.zm"><display-name>TV3</display-name></channel>
 <channel id="TV4.zm"><display-name>TV4</display-name><icon src="https://www.znbc.co.zm/wp-content/uploads/2020/04/tv4-1.png"/></channel>
-<programme start="20210730000000 +0000" stop="20210730010000 +0000" channel="TV1.zm"><title lang="en">MAIN NEWS – Rebroadcast</title></programme>
-<programme start="20210730010000 +0000" stop="20210730020000 +0000" channel="TV1.zm"><title lang="en">BABY TALK – Rebroadcast</title></programme>
-<programme start="20210730020000 +0000" stop="20210730030000 +0000" channel="TV1.zm"><title lang="en">DOCUMENTARY – DW</title></programme>
-<programme start="20210730030000 +0000" stop="20210730040000 +0000" channel="TV1.zm"><title lang="en">BUTUKU – OMNIBUS (Sunday &amp; Monday Editions)</title></programme>
-<programme start="20210730040000 +0000" stop="20210730043000 +0000" channel="TV1.zm"><title lang="en">RDA – My road – MOU – rebroadcast</title></programme>
-<programme start="20210730043000 +0000" stop="20210730050000 +0000" channel="TV1.zm"><title lang="en">MUSIC – Gospel</title></programme>
-<programme start="20210730050000 +0000" stop="20210730060000 +0000" channel="TV1.zm"><title lang="en">AFTER 9 – Rebroadcast</title></programme>
-<programme start="20210730060000 +0000" stop="20210730063000 +0000" channel="TV1.zm"><title lang="en">ZANIS NEWS – RPT</title></programme>
-<programme start="20210730063000 +0000" stop="20210730063500 +0000" channel="TV1.zm"><title lang="en">PF SONG – Chiti x Mini</title></programme>
-<programme start="20210730063500 +0000" stop="20210730070000 +0000" channel="TV1.zm"><title lang="en">DOCUMENTARY – DW</title></programme>
-<programme start="20210730070000 +0000" stop="20210730090000 +0000" channel="TV1.zm"><title lang="en">RACE TO MANDAHILL – Ndola Central – Rebroadcast</title></programme>
-<programme start="20210730090000 +0000" stop="20210730100000 +0000" channel="TV1.zm"><title lang="en">CHIJILO CHA LUVALE – LUVALE</title></programme>
-<programme start="20210730100000 +0000" stop="20210730103000 +0000" channel="TV1.zm"><title lang="en">NEWS SUMMARY</title></programme>
-<programme start="20210730103000 +0000" stop="20210730103500 +0000" channel="TV1.zm"><title lang="en">PF SONG – Dambisa x Kekera</title></programme>
-<programme start="20210730103500 +0000" stop="20210730113000 +0000" channel="TV1.zm"><title lang="en">ATLASMARA TENGA MONEY GAME SHOW – Rebroadcast</title></programme>
-<programme start="20210730113000 +0000" stop="20210730123000 +0000" channel="TV1.zm"><title lang="en">KNOW MY MANIFESTO – EFF</title></programme>
-<programme start="20210730123000 +0000" stop="20210730130000 +0000" channel="TV1.zm"><title lang="en">MEN CAN COOK – (TV2 Rebroadcast)</title></programme>
-<programme start="20210730130000 +0000" stop="20210730150000 +0000" channel="TV1.zm"><title lang="en">RACE TO MANDAHILL – Kwacha – Kitwe</title></programme>
-<programme start="20210730150000 +0000" stop="20210730155500 +0000" channel="TV1.zm"><title lang="en">THUMBA LA MWILI – NYANJA</title></programme>
-<programme start="20210730155500 +0000" stop="20210730160000 +0000" channel="TV1.zm"><title lang="en">PF SONG – Davaos 2</title></programme>
-<programme start="20210730160000 +0000" stop="20210730163000 +0000" channel="TV1.zm"><title lang="en">NEWS IN LOCAL LANGUAGES</title></programme>
-<programme start="20210730163000 +0000" stop="20210730173000 +0000" channel="TV1.zm"><title lang="en">SHOPPING GUIDE (45MINS)</title></programme>
-<programme start="20210730173000 +0000" stop="20210730180000 +0000" channel="TV1.zm"><title lang="en">DSTV SO MUCH MORE</title></programme>
-<programme start="20210730180000 +0000" stop="20210730190000 +0000" channel="TV1.zm"><title lang="en">BEYOND NEWS – KITWE</title></programme>
-<programme start="20210730190000 +0000" stop="20210730200000 +0000" channel="TV1.zm"><title lang="en">MAIN NEWS</title></programme>
-<programme start="20210730200000 +0000" stop="20210730203000 +0000" channel="TV1.zm"><title lang="en">NORTHERN NEWS –(30) KITWE</title></programme>
-<programme start="20210730203000 +0000" stop="20210730210000 +0000" channel="TV1.zm"><title lang="en">AN EYE ON DEVELOPMENT –</title></programme>
-<programme start="20210730210000 +0000" stop="20210730220000 +0000" channel="TV1.zm"><title lang="en">FATE SEASON 3 – #11</title></programme>
-<programme start="20210730220000 +0000" stop="20210730224000 +0000" channel="TV1.zm"><title lang="en">NEWS</title></programme>
-<programme start="20210730224000 +0000" stop="20210730233000 +0000" channel="TV1.zm"><title lang="en">SMOOTH TALK – LIVE</title></programme>
-<programme start="20210730233000 +0000" channel="TV1.zm"><title lang="en">EYE ON SADC</title></programme>
-<programme start="20210730050000 +0000" stop="20210730060000 +0000" channel="TV2.zm"><title lang="en">Documentary</title></programme>
-<programme start="20210730060000 +0000" stop="20210730070000 +0000" channel="TV2.zm"><title lang="en">COVID-19 Messages/Music</title></programme>
-<programme start="20210730070000 +0000" stop="20210730090000 +0000" channel="TV2.zm"><title lang="en">MORNING LIVE – LIFESTYLE – LIVE</title></programme>
-<programme start="20210730090000 +0000" stop="20210730093000 +0000" channel="TV2.zm"><title lang="en">Africa 54 – VOA – RPT</title></programme>
-<programme start="20210730093000 +0000" stop="20210730100000 +0000" channel="TV2.zm"><title lang="en">DW – Recorded</title></programme>
-<programme start="20210730100000 +0000" stop="20210730100500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
-<programme start="20210730100500 +0000" stop="20210730110000 +0000" channel="TV2.zm"><title lang="en">My Community – Rebroadcast</title></programme>
-<programme start="20210730110000 +0000" stop="20210730113000 +0000" channel="TV2.zm"><title lang="en">BBC – Focus on Africa -rebroadcast</title></programme>
-<programme start="20210730113000 +0000" stop="20210730120000 +0000" channel="TV2.zm"><title lang="en">COVID-19 Update – Live</title></programme>
-<programme start="20210730120000 +0000" stop="20210730123000 +0000" channel="TV2.zm"><title lang="en">News</title></programme>
-<programme start="20210730123000 +0000" stop="20210730130000 +0000" channel="TV2.zm"><title lang="en">COVID-19 Update – Live</title></programme>
-<programme start="20210730130000 +0000" stop="20210730140000 +0000" channel="TV2.zm"><title lang="en">Straight Talk Africa – Rebroadcast</title></programme>
-<programme start="20210730140000 +0000" stop="20210730141500 +0000" channel="TV2.zm"><title lang="en">News Summary News</title></programme>
-<programme start="20210730141500 +0000" stop="20210730143000 +0000" channel="TV2.zm"><title lang="en">Music – Secular</title></programme>
-<programme start="20210730143000 +0000" stop="20210730150000 +0000" channel="TV2.zm"><title lang="en">Drive it – Rebroadcast</title></programme>
-<programme start="20210730150000 +0000" stop="20210730160000 +0000" channel="TV2.zm"><title lang="en">COVID-19 Messages/Music</title></programme>
-<programme start="20210730160000 +0000" stop="20210730160500 +0000" channel="TV2.zm"><title lang="en">News Summary News</title></programme>
-<programme start="20210730160500 +0000" stop="20210730163000 +0000" channel="TV2.zm"><title lang="en">Turning point</title></programme>
-<programme start="20210730163000 +0000" stop="20210730170000 +0000" channel="TV2.zm"><title lang="en">Documentary DW – Recorded</title></programme>
-<programme start="20210730170000 +0000" stop="20210730180000 +0000" channel="TV2.zm"><title lang="en">Shopping Guide</title></programme>
-<programme start="20210730180000 +0000" stop="20210730184000 +0000" channel="TV2.zm"><title lang="en">News</title></programme>
-<programme start="20210730184000 +0000" stop="20210730190000 +0000" channel="TV2.zm"><title lang="en">MIND MASTER – Game show – Live(10mins)</title></programme>
-<programme start="20210730190000 +0000" stop="20210730200000 +0000" channel="TV2.zm"><title lang="en">Main News(TV1 Edition)</title></programme>
-<programme start="20210730200000 +0000" stop="20210730203000 +0000" channel="TV2.zm"><title lang="en">Main News</title></programme>
-<programme start="20210730203000 +0000" stop="20210730213000 +0000" channel="TV2.zm"><title lang="en">The Dressing Room – Rebroadcast</title></programme>
-<programme start="20210730213000 +0000" stop="20210730214000 +0000" channel="TV2.zm"><title lang="en">Zambian Lotto Draw – Live(10mins)</title></programme>
-<programme start="20210730214000 +0000" stop="20210730220000 +0000" channel="TV2.zm"><title lang="en">ZRA</title></programme>
-<programme start="20210730220000 +0000" stop="20210730220500 +0000" channel="TV2.zm"><title lang="en">News Head lines</title></programme>
-<programme start="20210730220500 +0000" stop="20210730223000 +0000" channel="TV2.zm"><title lang="en">Africa 54 – VOA</title></programme>
-<programme start="20210730223000 +0000" stop="20210730230000 +0000" channel="TV2.zm"><title lang="en">BBC – Focus on Africa</title></programme>
-<programme start="20210730230000 +0000" stop="20210730233000 +0000" channel="TV2.zm"><title lang="en">Cultural Values – Rebroadcast</title></programme>
-<programme start="20210730233000 +0000" stop="20210730000000 +0000" channel="TV2.zm"><title lang="en">DW Documentary</title></programme>
-<programme start="20210730000000 +0000" stop="20210730000500 +0000" channel="TV2.zm"><title lang="en">News Headlines News</title></programme>
-<programme start="20210730000500 +0000" stop="20210730020000 +0000" channel="TV2.zm"><title lang="en">MORNING LIVE – LIFESTYLE – Rebroadcast</title></programme>
-<programme start="20210730020000 +0000" stop="20210730020500 +0000" channel="TV2.zm"><title lang="en">News Headlines News</title></programme>
-<programme start="20210730020500 +0000" stop="20210730030000 +0000" channel="TV2.zm"><title lang="en">Documentary</title></programme>
-<programme start="20210730030000 +0000" stop="20210730033000 +0000" channel="TV2.zm"><title lang="en">Africa 54</title></programme>
-<programme start="20210730033000 +0000" stop="20210730040000 +0000" channel="TV2.zm"><title lang="en">COVID-19 Messages/Music</title></programme>
-<programme start="20210730040000 +0000" stop="20210730040500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
-<programme start="20210730040500 +0000" channel="TV2.zm"><title lang="en">3.7 Blaze Repeat</title></programme>
-<programme start="20210730050000 +0000" stop="20210730060000 +0000" channel="TV3.zm"><title lang="en">Voice of Prophecy – Building Better minds (Rebroadcast from Monday)</title></programme>
-<programme start="20210730060000 +0000" stop="20210730063000 +0000" channel="TV3.zm"><title lang="en">700 Club</title></programme>
-<programme start="20210730063000 +0000" stop="20210730070000 +0000" channel="TV3.zm"><title lang="en">Kingdom Insights</title></programme>
-<programme start="20210730070000 +0000" stop="20210730080000 +0000" channel="TV3.zm"><title lang="en">Drama Series – For the General – Rebroadcast</title></programme>
-<programme start="20210730080000 +0000" stop="20210730090000 +0000" channel="TV3.zm"><title lang="en">Drama Series – Lost Hearts – Rebroadcast</title></programme>
-<programme start="20210730090000 +0000" stop="20210730093000 +0000" channel="TV3.zm"><title lang="en">News Analysis -(25mins) LIVE</title></programme>
-<programme start="20210730093000 +0000" stop="20210730100000 +0000" channel="TV3.zm"><title lang="en">Power to become Wealth</title></programme>
-<programme start="20210730100000 +0000" stop="20210730110000 +0000" channel="TV3.zm"><title lang="en">Drama Series – Forever my love – Rebroadcast</title></programme>
-<programme start="20210730110000 +0000" stop="20210730120000 +0000" channel="TV3.zm"><title lang="en">Sport on – Rebroadcast</title></programme>
-<programme start="20210730120000 +0000" stop="20210730140000 +0000" channel="TV3.zm"><title lang="en">New Apostolic Church</title></programme>
-<programme start="20210730140000 +0000" stop="20210730150000 +0000" channel="TV3.zm"><title lang="en">News Analysis – LIVE(45mins)</title></programme>
-<programme start="20210730150000 +0000" stop="20210730160000 +0000" channel="TV3.zm"><title lang="en">Music/Promos/ COVID 19 Messages</title></programme>
-<programme start="20210730160000 +0000" stop="20210730173000 +0000" channel="TV3.zm"><title lang="en">Movie – The Healer (Rebroadcast)</title></programme>
-<programme start="20210730173000 +0000" stop="20210730180000 +0000" channel="TV3.zm"><title lang="en">Power to become wealth (an Entrepreneur)</title></programme>
-<programme start="20210730180000 +0000" stop="20210730190000 +0000" channel="TV3.zm"><title lang="en">Drama Series – For the General</title></programme>
-<programme start="20210730190000 +0000" stop="20210730200000 +0000" channel="TV3.zm"><title lang="en">Drama Series – The Lost Heart</title></programme>
-<programme start="20210730200000 +0000" stop="20210730210000 +0000" channel="TV3.zm"><title lang="en">Drama Series – Forever my love</title></programme>
-<programme start="20210730210000 +0000" stop="20210730220000 +0000" channel="TV3.zm"><title lang="en">Faith Gospel Hour – Rebroadcast</title></programme>
-<programme start="20210730220000 +0000" stop="20210730230000 +0000" channel="TV3.zm"><title lang="en">My Bible – Quiz</title></programme>
-<programme start="20210730230000 +0000" stop="20210730000000 +0000" channel="TV3.zm"><title lang="en">New Apostolic Church – Rebroadcast</title></programme>
-<programme start="20210730000000 +0000" stop="20210730010000 +0000" channel="TV3.zm"><title lang="en">Music/Promos/ COVID 19 Messages</title></programme>
-<programme start="20210730010000 +0000" stop="20210730013000 +0000" channel="TV3.zm"><title lang="en">700 Club – Rebroadcast</title></programme>
-<programme start="20210730013000 +0000" stop="20210730020000 +0000" channel="TV3.zm"><title lang="en">Kingdom Insights – Rebroadcast</title></programme>
-<programme start="20210730020000 +0000" stop="20210730030000 +0000" channel="TV3.zm"><title lang="en">Drama Series – For the General</title></programme>
-<programme start="20210730030000 +0000" stop="20210730040000 +0000" channel="TV3.zm"><title lang="en">Drama Series – The Lost Heart</title></programme>
-<programme start="20210730040000 +0000" channel="TV3.zm"><title lang="en">Drama Series – Forever my love</title></programme>
-<programme start="20210730070000 +0000" stop="20210730073000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
-<programme start="20210730073000 +0000" stop="20210730080000 +0000" channel="TV4.zm"><title lang="en">Biology Snr: Photosynthesis</title></programme>
-<programme start="20210730080000 +0000" stop="20210730083000 +0000" channel="TV4.zm"><title lang="en">Physics Senior: Refraction of Light</title></programme>
-<programme start="20210730083000 +0000" stop="20210730090000 +0000" channel="TV4.zm"><title lang="en">Chemistry Snr: Structure &amp; Bonding</title></programme>
-<programme start="20210730090000 +0000" stop="20210730093000 +0000" channel="TV4.zm"><title lang="en">Maths G 8: Plane</title></programme>
-<programme start="20210730093000 +0000" stop="20210730100000 +0000" channel="TV4.zm"><title lang="en">Maths Senior: Independent Events</title></programme>
-<programme start="20210730100000 +0000" stop="20210730103000 +0000" channel="TV4.zm"><title lang="en">Integrated Science G 8: Lab. Preparation</title></programme>
-<programme start="20210730103000 +0000" stop="20210730110000 +0000" channel="TV4.zm"><title lang="en">Civic Education G 9 National Budget</title></programme>
-<programme start="20210730110000 +0000" stop="20210730113000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
-<programme start="20210730113000 +0000" stop="20210730120000 +0000" channel="TV4.zm"><title lang="en">English G8: Rhythm, stress and sound</title></programme>
-<programme start="20210730120000 +0000" stop="20210730123000 +0000" channel="TV4.zm"><title lang="en">ICT Grade8: Working with Computers</title></programme>
-<programme start="20210730123000 +0000" stop="20210730130000 +0000" channel="TV4.zm"><title lang="en">Geography G 8: Farming in Zambia part 1</title></programme>
-<programme start="20210730130000 +0000" stop="20210730133000 +0000" channel="TV4.zm"><title lang="en">History Grade 9: Arrival of Africans into Africa P2</title></programme>
-<programme start="20210730133000 +0000" stop="20210730140000 +0000" channel="TV4.zm"><title lang="en">Computer Studies G 9: Internet Part 1</title></programme>
-<programme start="20210730140000 +0000" stop="20210730143000 +0000" channel="TV4.zm"><title lang="en">Mathematics G 9: Number Bases PT 1</title></programme>
-<programme start="20210730143000 +0000" stop="20210730150000 +0000" channel="TV4.zm"><title lang="en">Integrated Science G 9: Transpiration</title></programme>
-<programme start="20210730150000 +0000" stop="20210730153000 +0000" channel="TV4.zm"><title lang="en">Civic Education G 8: Political Parties</title></programme>
-<programme start="20210730153000 +0000" stop="20210730160000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
-<programme start="20210730160000 +0000" stop="20210730163000 +0000" channel="TV4.zm"><title lang="en">Biology Snr: Excretion</title></programme>
-<programme start="20210730163000 +0000" stop="20210730170000 +0000" channel="TV4.zm"><title lang="en">Physics Senior: Refraction of Light</title></programme>
-<programme start="20210730170000 +0000" stop="20210730173000 +0000" channel="TV4.zm"><title lang="en">Chemistry Snr: Structure &amp; Bonding</title></programme>
-<programme start="20210730173000 +0000" stop="20210730180000 +0000" channel="TV4.zm"><title lang="en">Maths G 8: XOY</title></programme>
-<programme start="20210730180000 +0000" stop="20210730183000 +0000" channel="TV4.zm"><title lang="en">Maths Senior: Independent Events</title></programme>
-<programme start="20210730183000 +0000" stop="20210730190000 +0000" channel="TV4.zm"><title lang="en">Integrated Science G 8: Carbon Dioxide</title></programme>
-<programme start="20210730190000 +0000" stop="20210730193000 +0000" channel="TV4.zm"><title lang="en">Civic Education G 9 National Budget</title></programme>
-<programme start="20210730193000 +0000" stop="20210730200000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
-<programme start="20210730200000 +0000" channel="TV4.zm"><title lang="en">CLOSEDOWN</title></programme>
+<programme start="20210731000000 +0000" stop="20210731010000 +0000" channel="TV1.zm"><title lang="en">MAIN NEWS – Rebroadcast</title></programme>
+<programme start="20210731010000 +0000" stop="20210731020000 +0000" channel="TV1.zm"><title lang="en">BORN &amp; BRED THROWBACK – Rebroadcast</title></programme>
+<programme start="20210731020000 +0000" stop="20210731030000 +0000" channel="TV1.zm"><title lang="en">DOCUMENTARY – DW</title></programme>
+<programme start="20210731030000 +0000" stop="20210731033000 +0000" channel="TV1.zm"><title lang="en">MUSIC/PROMOS</title></programme>
+<programme start="20210731033000 +0000" stop="20210731040000 +0000" channel="TV1.zm"><title lang="en">MEN CAN COOK – Rebroadcast</title></programme>
+<programme start="20210731040000 +0000" stop="20210731050000 +0000" channel="TV1.zm"><title lang="en">GOSPEL MUSIC – Worship</title></programme>
+<programme start="20210731050000 +0000" stop="20210731060000 +0000" channel="TV1.zm"><title lang="en">THUMBA LA MWILI – NYANJA – RPT</title></programme>
+<programme start="20210731060000 +0000" stop="20210731063000 +0000" channel="TV1.zm"><title lang="en">NEWS – (Recorded 22:00hrs News)</title></programme>
+<programme start="20210731063000 +0000" stop="20210731063000 +0000" channel="TV1.zm"><title lang="en">PF SONG – ECL 2021 -2</title></programme>
+<programme start="20210731063000 +0000" stop="20210731070000 +0000" channel="TV1.zm"><title lang="en">DSTV SO MUCH MORE – Rebroadcast</title></programme>
+<programme start="20210731070000 +0000" stop="20210731090000 +0000" channel="TV1.zm"><title lang="en">KWACHA GOODMORNING ZAMBIA – LIVE</title></programme>
+<programme start="20210731090000 +0000" stop="20210731093000 +0000" channel="TV1.zm"><title lang="en">ZANIS NEWS</title></programme>
+<programme start="20210731093000 +0000" stop="20210731100000 +0000" channel="TV1.zm"><title lang="en">INVESTMENT TRENDS – Rebroadcast</title></programme>
+<programme start="20210731100000 +0000" stop="20210731110000 +0000" channel="TV1.zm"><title lang="en">HOT PRESS</title></programme>
+<programme start="20210731110000 +0000" stop="20210731120000 +0000" channel="TV1.zm"><title lang="en">KNOW MY MANIFESTO – Leadership Movement</title></programme>
+<programme start="20210731120000 +0000" stop="20210731125500 +0000" channel="TV1.zm"><title lang="en">FATE DRAMA SERIES – Rebroadcast</title></programme>
+<programme start="20210731125500 +0000" stop="20210731130000 +0000" channel="TV1.zm"><title lang="en">PF SONG – Hamoba x Raydo</title></programme>
+<programme start="20210731130000 +0000" stop="20210731135500 +0000" channel="TV1.zm"><title lang="en">– ZONE – KITWE (50mins)</title></programme>
+<programme start="20210731135500 +0000" stop="20210731140000 +0000" channel="TV1.zm"><title lang="en">PF SONG – HD Empire</title></programme>
+<programme start="20210731140000 +0000" stop="20210731140500 +0000" channel="TV1.zm"><title lang="en">NEWS HEADLINES</title></programme>
+<programme start="20210731140500 +0000" stop="20210731150000 +0000" channel="TV1.zm"><title lang="en">KANTUNYA KAMUNSABATA</title></programme>
+<programme start="20210731150000 +0000" stop="20210731160000 +0000" channel="TV1.zm"><title lang="en">BUTUKU – OMNIBUS (Sunday &amp; Monday Editions)</title></programme>
+<programme start="20210731160000 +0000" stop="20210731170000 +0000" channel="TV1.zm"><title lang="en">TBA</title></programme>
+<programme start="20210731170000 +0000" stop="20210731180000 +0000" channel="TV1.zm"><title lang="en">HOUR OF BLESSING</title></programme>
+<programme start="20210731180000 +0000" stop="20210731190000 +0000" channel="TV1.zm"><title lang="en">TBA</title></programme>
+<programme start="20210731190000 +0000" stop="20210731200000 +0000" channel="TV1.zm"><title lang="en">MAIN NEWS (50mins)</title></programme>
+<programme start="20210731200000 +0000" stop="20210731203000 +0000" channel="TV1.zm"><title lang="en">NORTHERN NEWS – KITWE (30 Mins)</title></programme>
+<programme start="20210731203000 +0000" stop="20210731210000 +0000" channel="TV1.zm"><title lang="en">TBA</title></programme>
+<programme start="20210731210000 +0000" stop="20210731211500 +0000" channel="TV1.zm"><title lang="en">ZAMBIAN LOTTO DRAW – LIVE (15mins</title></programme>
+<programme start="20210731211500 +0000" stop="20210731213000 +0000" channel="TV1.zm"><title lang="en">HEALTH IN FOCUS –</title></programme>
+<programme start="20210731213000 +0000" stop="20210731220000 +0000" channel="TV1.zm"><title lang="en">ON AIR</title></programme>
+<programme start="20210731220000 +0000" stop="20210731223000 +0000" channel="TV1.zm"><title lang="en">NEWS</title></programme>
+<programme start="20210731223000 +0000" stop="20210731230000 +0000" channel="TV1.zm"><title lang="en">EVENTS OF THE WEEK- Rebroadcast</title></programme>
+<programme start="20210731230000 +0000" channel="TV1.zm"><title lang="en">BORN &amp; BRED – Tuesday Edition- Rebroadcast</title></programme>
+<programme start="20210731050000 +0000" stop="20210731060500 +0000" channel="TV2.zm"><title lang="en">Documentary</title></programme>
+<programme start="20210731060500 +0000" stop="20210731080000 +0000" channel="TV2.zm"><title lang="en">MORNING LIVE – LIFESTYLE – Rebroadcast</title></programme>
+<programme start="20210731080000 +0000" stop="20210731080500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
+<programme start="20210731080500 +0000" stop="20210731083000 +0000" channel="TV2.zm"><title lang="en">Ubongo – Cartoon</title></programme>
+<programme start="20210731083000 +0000" stop="20210731090000 +0000" channel="TV2.zm"><title lang="en">Akili &amp; Me – Cartoon</title></programme>
+<programme start="20210731090000 +0000" stop="20210731100000 +0000" channel="TV2.zm"><title lang="en">The Dressing Room – Rebroadcast</title></programme>
+<programme start="20210731100000 +0000" stop="20210731100500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
+<programme start="20210731100500 +0000" stop="20210731110000 +0000" channel="TV2.zm"><title lang="en">Gospel Cruise</title></programme>
+<programme start="20210731110000 +0000" stop="20210731113000 +0000" channel="TV2.zm"><title lang="en">Health Living</title></programme>
+<programme start="20210731113000 +0000" stop="20210731120000 +0000" channel="TV2.zm"><title lang="en">COVID-19 Update – Live</title></programme>
+<programme start="20210731120000 +0000" stop="20210731123000 +0000" channel="TV2.zm"><title lang="en">News</title></programme>
+<programme start="20210731123000 +0000" stop="20210731130000 +0000" channel="TV2.zm"><title lang="en">COVID-19 Update – Live</title></programme>
+<programme start="20210731130000 +0000" stop="20210731140000 +0000" channel="TV2.zm"><title lang="en">Music</title></programme>
+<programme start="20210731140000 +0000" stop="20210731141500 +0000" channel="TV2.zm"><title lang="en">News Summary</title></programme>
+<programme start="20210731141500 +0000" stop="20210731143000 +0000" channel="TV2.zm"><title lang="en">COVID Messages</title></programme>
+<programme start="20210731143000 +0000" stop="20210731150000 +0000" channel="TV2.zm"><title lang="en">Sport on 2</title></programme>
+<programme start="20210731150000 +0000" stop="20210731160000 +0000" channel="TV2.zm"><title lang="en">Documentary –</title></programme>
+<programme start="20210731160000 +0000" stop="20210731160500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
+<programme start="20210731160500 +0000" stop="20210731170000 +0000" channel="TV2.zm"><title lang="en">3.7 Blaze – Musical Show – Repeat</title></programme>
+<programme start="20210731170000 +0000" stop="20210731180000 +0000" channel="TV2.zm"><title lang="en">My Community – Rebroadcast</title></programme>
+<programme start="20210731180000 +0000" stop="20210731184000 +0000" channel="TV2.zm"><title lang="en">News</title></programme>
+<programme start="20210731184000 +0000" stop="20210731190000 +0000" channel="TV2.zm"><title lang="en">MIND MASTER – Game show – Live(10mins)</title></programme>
+<programme start="20210731190000 +0000" stop="20210731200000 +0000" channel="TV2.zm"><title lang="en">Main News(TV1 Edition)</title></programme>
+<programme start="20210731200000 +0000" stop="20210731203000 +0000" channel="TV2.zm"><title lang="en">Main News</title></programme>
+<programme start="20210731203000 +0000" stop="20210731213000 +0000" channel="TV2.zm"><title lang="en">Real Love Show – LIVE</title></programme>
+<programme start="20210731213000 +0000" stop="20210731220000 +0000" channel="TV2.zm"><title lang="en">Life Clinic</title></programme>
+<programme start="20210731220000 +0000" stop="20210731220500 +0000" channel="TV2.zm"><title lang="en">News Summary</title></programme>
+<programme start="20210731220500 +0000" stop="20210731230000 +0000" channel="TV2.zm"><title lang="en">Gospel Cruise</title></programme>
+<programme start="20210731230000 +0000" stop="20210731000000 +0000" channel="TV2.zm"><title lang="en">EFC – Extreme Fighting Championships</title></programme>
+<programme start="20210731000000 +0000" stop="20210731000500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
+<programme start="20210731000500 +0000" stop="20210731010000 +0000" channel="TV2.zm"><title lang="en">3.7 Blaze – Musical Show – Repeat</title></programme>
+<programme start="20210731010000 +0000" stop="20210731020000 +0000" channel="TV2.zm"><title lang="en">Documentary – DW</title></programme>
+<programme start="20210731020000 +0000" stop="20210731020500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
+<programme start="20210731020500 +0000" stop="20210731023000 +0000" channel="TV2.zm"><title lang="en">Comedy Time</title></programme>
+<programme start="20210731023000 +0000" stop="20210731030000 +0000" channel="TV2.zm"><title lang="en">Life Clinic – Rebroadcast</title></programme>
+<programme start="20210731030000 +0000" stop="20210731040000 +0000" channel="TV2.zm"><title lang="en">EFC – Extreme Fighting Championships</title></programme>
+<programme start="20210731040000 +0000" stop="20210731040500 +0000" channel="TV2.zm"><title lang="en">News Headlines</title></programme>
+<programme start="20210731040500 +0000" channel="TV2.zm"><title lang="en">Real Love – Repeat</title></programme>
+<programme start="20210731050000 +0000" stop="20210731060000 +0000" channel="TV3.zm"><title lang="en">OnLine Bible Seminars (Rebroadcast of Thursday)</title></programme>
+<programme start="20210731060000 +0000" stop="20210731063000 +0000" channel="TV3.zm"><title lang="en">God’s Talk Time – Rebroadcast (Monday)</title></programme>
+<programme start="20210731063000 +0000" stop="20210731070000 +0000" channel="TV3.zm"><title lang="en">Tabernacle of David – Hard Truth- Rebroadcast of Thursday</title></programme>
+<programme start="20210731070000 +0000" stop="20210731090000 +0000" channel="TV3.zm"><title lang="en">Movie – Scooby Doo – The Sword and Scooby Doo (Cartoon)</title></programme>
+<programme start="20210731090000 +0000" stop="20210731130000 +0000" channel="TV3.zm"><title lang="en">Drama Series – Forever my love – Mon – Friday- Omnibus</title></programme>
+<programme start="20210731130000 +0000" stop="20210731130000 +0000" channel="TV3.zm"><title lang="en">Little Chefs</title></programme>
+<programme start="20210731130000 +0000" stop="20210731140000 +0000" channel="TV3.zm"><title lang="en">Turning point</title></programme>
+<programme start="20210731140000 +0000" stop="20210731150000 +0000" channel="TV3.zm"><title lang="en">Match Build up – LIVE</title></programme>
+<programme start="20210731150000 +0000" stop="20210731173000 +0000" channel="TV3.zm"><title lang="en">FAZ/Eden Division One –</title></programme>
+<programme start="20210731173000 +0000" stop="20210731180000 +0000" channel="TV3.zm"><title lang="en">Music/promos</title></programme>
+<programme start="20210731180000 +0000" stop="20210731183000 +0000" channel="TV3.zm"><title lang="en">Shaping Generation</title></programme>
+<programme start="20210731183000 +0000" stop="20210731190000 +0000" channel="TV3.zm"><title lang="en">MY Story</title></programme>
+<programme start="20210731190000 +0000" stop="20210731193000 +0000" channel="TV3.zm"><title lang="en">Kingdom Insights</title></programme>
+<programme start="20210731193000 +0000" stop="20210731200000 +0000" channel="TV3.zm"><title lang="en">Sports Leaders</title></programme>
+<programme start="20210731200000 +0000" stop="20210731210000 +0000" channel="TV3.zm"><title lang="en">The Prayer Alter</title></programme>
+<programme start="20210731210000 +0000" stop="20210731230000 +0000" channel="TV3.zm"><title lang="en">SATURDAY MOVIE –</title></programme>
+<programme start="20210731230000 +0000" stop="20210731000000 +0000" channel="TV3.zm"><title lang="en">Gospel Cruise</title></programme>
+<programme start="20210731000000 +0000" stop="20210731010000 +0000" channel="TV3.zm"><title lang="en">The Choirs (TV1)</title></programme>
+<programme start="20210731010000 +0000" stop="20210731040000 +0000" channel="TV3.zm"><title lang="en">Drama Series – Forever my love – Omnibus</title></programme>
+<programme start="20210731040000 +0000" channel="TV3.zm"><title lang="en">Prayer Alter – Rebroadcast</title></programme>
+<programme start="20210731070000 +0000" stop="20210731073000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
+<programme start="20210731073000 +0000" stop="20210731080000 +0000" channel="TV4.zm"><title lang="en">Biology Snr: Teeth Function</title></programme>
+<programme start="20210731080000 +0000" stop="20210731083000 +0000" channel="TV4.zm"><title lang="en">Physics Snr: Radio Activity</title></programme>
+<programme start="20210731083000 +0000" stop="20210731090000 +0000" channel="TV4.zm"><title lang="en">Chemistry Snr: Titration Volumetric Analysis</title></programme>
+<programme start="20210731090000 +0000" stop="20210731093000 +0000" channel="TV4.zm"><title lang="en">Maths G 8: Sub-sets</title></programme>
+<programme start="20210731093000 +0000" stop="20210731100000 +0000" channel="TV4.zm"><title lang="en">Maths Senior: Probability Mutual Exclusion</title></programme>
+<programme start="20210731100000 +0000" stop="20210731103000 +0000" channel="TV4.zm"><title lang="en">Integrated Science G 8: Hydrogen</title></programme>
+<programme start="20210731103000 +0000" stop="20210731110000 +0000" channel="TV4.zm"><title lang="en">Civic Education G 9 Personal Budget</title></programme>
+<programme start="20210731110000 +0000" stop="20210731113000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
+<programme start="20210731113000 +0000" stop="20210731120000 +0000" channel="TV4.zm"><title lang="en">English G8: Past simple Tense</title></programme>
+<programme start="20210731120000 +0000" stop="20210731123000 +0000" channel="TV4.zm"><title lang="en">ICT Grade 8: Computer and your Health</title></programme>
+<programme start="20210731123000 +0000" stop="20210731130000 +0000" channel="TV4.zm"><title lang="en">Geography G 8: Farming in Zambia part 2</title></programme>
+<programme start="20210731130000 +0000" stop="20210731133000 +0000" channel="TV4.zm"><title lang="en">History Grade 9: European exploration of Central Africa</title></programme>
+<programme start="20210731133000 +0000" stop="20210731140000 +0000" channel="TV4.zm"><title lang="en">Computer Studies G 9: Internet part 2</title></programme>
+<programme start="20210731140000 +0000" stop="20210731143000 +0000" channel="TV4.zm"><title lang="en">Mathematics G 9: Pythagoras</title></programme>
+<programme start="20210731143000 +0000" stop="20210731150000 +0000" channel="TV4.zm"><title lang="en">Integrated Science G 9: Energy</title></programme>
+<programme start="20210731150000 +0000" stop="20210731153000 +0000" channel="TV4.zm"><title lang="en">Civic Education G 8: Functions and powers of National Assembly</title></programme>
+<programme start="20210731153000 +0000" stop="20210731160000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
+<programme start="20210731160000 +0000" stop="20210731163000 +0000" channel="TV4.zm"><title lang="en">Biology Snr: Photosynthesis</title></programme>
+<programme start="20210731163000 +0000" stop="20210731170000 +0000" channel="TV4.zm"><title lang="en">Physics Snr: Magnetism</title></programme>
+<programme start="20210731170000 +0000" stop="20210731173000 +0000" channel="TV4.zm"><title lang="en">Chemistry Snr: Titration Volumetric Analysis</title></programme>
+<programme start="20210731173000 +0000" stop="20210731180000 +0000" channel="TV4.zm"><title lang="en">Maths G 8: Sub-sets</title></programme>
+<programme start="20210731180000 +0000" stop="20210731183000 +0000" channel="TV4.zm"><title lang="en">Maths Senior: Probability Mutual Exclusion</title></programme>
+<programme start="20210731183000 +0000" stop="20210731190000 +0000" channel="TV4.zm"><title lang="en">Integrated Science G 8: Hydrogen</title></programme>
+<programme start="20210731190000 +0000" stop="20210731193000 +0000" channel="TV4.zm"><title lang="en">Civic Education G 9: Personal Budget</title></programme>
+<programme start="20210731193000 +0000" stop="20210731200000 +0000" channel="TV4.zm"><title lang="en">Educational Music</title></programme>
+<programme start="20210731200000 +0000" channel="TV4.zm"><title lang="en">CLOSEDOWN</title></programme>
 </tv>

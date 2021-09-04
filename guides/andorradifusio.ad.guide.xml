@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
-<channel id="ATV.ad"><display-name>ATV</display-name></channel>
-<programme start="20210903060000 +0000" stop="20210903070000 +0000" channel="ATV.ad"><title lang="ca">Club Piolet</title></programme>
-<programme start="20210903070000 +0000" stop="20210903090000 +0000" channel="ATV.ad"><title lang="ca">Obert per vacances (RNA)</title></programme>
-<programme start="20210903090000 +0000" stop="20210903091500 +0000" channel="ATV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
-<programme start="20210903091500 +0000" stop="20210903110000 +0000" channel="ATV.ad"><title lang="ca">Fons Històric Arxiu Nacional</title></programme>
-<programme start="20210903110000 +0000" stop="20210903113000 +0000" channel="ATV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
-<programme start="20210903113000 +0000" stop="20210903114000 +0000" channel="ATV.ad"><title lang="ca">Fons Històric Arxiu Nacional</title></programme>
-<programme start="20210903114000 +0000" stop="20210903114500 +0000" channel="ATV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210903114500 +0000" stop="20210903121000 +0000" channel="ATV.ad"><title lang="ca">Informatiu migdia</title></programme>
-<programme start="20210903121000 +0000" stop="20210903130000 +0000" channel="ATV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210903130000 +0000" stop="20210903140000 +0000" channel="ATV.ad"><title lang="ca">Informatiu migdia</title></programme>
-<programme start="20210903140000 +0000" stop="20210903144500 +0000" channel="ATV.ad"><title lang="ca">Obert per vacances (RNA)</title></programme>
-<programme start="20210903144500 +0000" stop="20210903150000 +0000" channel="ATV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
-<programme start="20210903150000 +0000" stop="20210903160000 +0000" channel="ATV.ad"><title lang="ca">Club Piolet</title></programme>
-<programme start="20210903160000 +0000" stop="20210903163000 +0000" channel="ATV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210903163000 +0000" stop="20210903170000 +0000" channel="ATV.ad"><title lang="ca">Informatiu France 24</title></programme>
-<programme start="20210903170000 +0000" stop="20210903173000 +0000" channel="ATV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
-<programme start="20210903173000 +0000" stop="20210903174000 +0000" channel="ATV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210903174000 +0000" stop="20210903184000 +0000" channel="ATV.ad"><title lang="ca">Club Piolet</title></programme>
-<programme start="20210903184000 +0000" stop="20210903184500 +0000" channel="ATV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210903184500 +0000" stop="20210903191000 +0000" channel="ATV.ad"><title lang="ca">Informatiu vespre</title></programme>
-<programme start="20210903191000 +0000" stop="20210903202500 +0000" channel="ATV.ad"><title lang="ca">La cultura no s&apos;atura: Concert: Punkers love the 80&apos;s</title></programme>
-<programme start="20210903202500 +0000" stop="20210903204500 +0000" channel="ATV.ad"><title lang="ca">A l&apos;alça</title></programme>
-<programme start="20210903204500 +0000" stop="20210903230000 +0000" channel="ATV.ad"><title lang="ca">Informatiu vespre</title></programme>
-<programme start="20210903230000 +0000" stop="20210904035959 +0000" channel="ATV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<channel id="AndorraTV.ad"><display-name>Andorra TV</display-name></channel>
+<programme start="20210904070000 +0000" stop="20210904080000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210904080000 +0000" stop="20210904090000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210904090000 +0000" stop="20210904091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210904091500 +0000" stop="20210904110000 +0000" channel="AndorraTV.ad"><title lang="ca">Fons Històric Arxiu Nacional</title></programme>
+<programme start="20210904110000 +0000" stop="20210904113000 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20210904113000 +0000" stop="20210904114000 +0000" channel="AndorraTV.ad"><title lang="ca">Fons Històric Arxiu Nacional</title></programme>
+<programme start="20210904114000 +0000" stop="20210904114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210904114500 +0000" stop="20210904121000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210904121000 +0000" stop="20210904125000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210904125000 +0000" stop="20210904130000 +0000" channel="AndorraTV.ad"><title lang="ca">La Terre vue du Sport</title></programme>
+<programme start="20210904130000 +0000" stop="20210904132500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210904132500 +0000" stop="20210904142500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210904142500 +0000" stop="20210904145000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210904145000 +0000" stop="20210904150500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210904150500 +0000" stop="20210904174000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210904174000 +0000" stop="20210904184000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210904184000 +0000" stop="20210904184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210904184500 +0000" stop="20210904191000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210904191000 +0000" stop="20210904193500 +0000" channel="AndorraTV.ad"><title lang="ca">Memòries d&apos;arxiu: Identitats, amb Josep Anton Rosell: Àngels Mach</title></programme>
+<programme start="20210904193500 +0000" stop="20210904205000 +0000" channel="AndorraTV.ad"><title lang="ca">La cultura no s&apos;atura: Concert: Punkers love the 80&apos;s</title></programme>
+<programme start="20210904205000 +0000" stop="20210904210000 +0000" channel="AndorraTV.ad"><title lang="ca">La Terre vue du Sport</title></programme>
+<programme start="20210904210000 +0000" stop="20210904230000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210904230000 +0000" stop="20210905035959 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
 </tv>

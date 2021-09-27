@@ -1,30 +1,186 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
 <channel id="AndorraTV.ad"><display-name>Andorra TV</display-name><url>https://andorradifusio.ad</url></channel>
-<programme start="20210926070000 +0000" stop="20210926080000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
-<programme start="20210926080000 +0000" stop="20210926090000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210926090000 +0000" stop="20210926091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
-<programme start="20210926091500 +0000" stop="20210926110000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210926110000 +0000" stop="20210926112000 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
-<programme start="20210926112000 +0000" stop="20210926113500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210926113500 +0000" stop="20210926114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
-<programme start="20210926114000 +0000" stop="20210926114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210926114500 +0000" stop="20210926121000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
-<programme start="20210926121000 +0000" stop="20210926125000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210926125000 +0000" stop="20210926130000 +0000" channel="AndorraTV.ad"><title lang="ca">La Terre vue du Sport</title></programme>
-<programme start="20210926130000 +0000" stop="20210926132500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
-<programme start="20210926132500 +0000" stop="20210926142500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
-<programme start="20210926142500 +0000" stop="20210926145000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
-<programme start="20210926145000 +0000" stop="20210926150500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
-<programme start="20210926150500 +0000" stop="20210926165000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210926165000 +0000" stop="20210926173500 +0000" channel="AndorraTV.ad"><title lang="ca">La rotonda</title></programme>
-<programme start="20210926173500 +0000" stop="20210926183500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
-<programme start="20210926183500 +0000" stop="20210926184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
-<programme start="20210926184000 +0000" stop="20210926184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
-<programme start="20210926184500 +0000" stop="20210926191000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
-<programme start="20210926191000 +0000" stop="20210926194500 +0000" channel="AndorraTV.ad"><title lang="ca">Recull setmanal</title></programme>
-<programme start="20210926194500 +0000" stop="20210926205000 +0000" channel="AndorraTV.ad"><title lang="ca">Memòries d&apos;arxiu: Enraonar per no callar, amb Josep Anton Rosell</title></programme>
-<programme start="20210926205000 +0000" stop="20210926214000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
-<programme start="20210926214000 +0000" stop="20210926215000 +0000" channel="AndorraTV.ad"><title lang="ca">La Terre vue du Sport</title></programme>
-<programme start="20210926215000 +0000" stop="20210926230000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
-<programme start="20210926230000 +0000" stop="20210927035959 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20210927050000 +0000" stop="20210927060000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210927060000 +0000" stop="20210927090000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210927090000 +0000" stop="20210927091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210927091500 +0000" stop="20210927110000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210927110000 +0000" stop="20210927113500 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20210927113500 +0000" stop="20210927114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210927114000 +0000" stop="20210927114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210927114500 +0000" stop="20210927121500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210927121500 +0000" stop="20210927130000 +0000" channel="AndorraTV.ad"><title lang="ca">Dia E</title></programme>
+<programme start="20210927130000 +0000" stop="20210927133000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210927133000 +0000" stop="20210927140500 +0000" channel="AndorraTV.ad"><title lang="ca">Recull setmanal</title></programme>
+<programme start="20210927140500 +0000" stop="20210927144500 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20210927144500 +0000" stop="20210927150000 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210927150000 +0000" stop="20210927160000 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20210927160000 +0000" stop="20210927163000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu Tarda</title></programme>
+<programme start="20210927163000 +0000" stop="20210927170000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu France 24</title></programme>
+<programme start="20210927170000 +0000" stop="20210927170500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210927170500 +0000" stop="20210927180500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210927180500 +0000" stop="20210927183500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210927183500 +0000" stop="20210927184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210927184000 +0000" stop="20210927184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210927184500 +0000" stop="20210927191500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210927191500 +0000" stop="20210927193000 +0000" channel="AndorraTV.ad"><title lang="ca">Tot Lliga</title></programme>
+<programme start="20210927193000 +0000" stop="20210927201500 +0000" channel="AndorraTV.ad"><title lang="ca">Dia E</title></programme>
+<programme start="20210927201500 +0000" stop="20210927204500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210927204500 +0000" stop="20210927230000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210927230000 +0000" stop="20210928000000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20210928050000 +0000" stop="20210928060000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210928060000 +0000" stop="20210928090000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210928090000 +0000" stop="20210928091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210928091500 +0000" stop="20210928110000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210928110000 +0000" stop="20210928113500 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20210928113500 +0000" stop="20210928114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210928114000 +0000" stop="20210928114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210928114500 +0000" stop="20210928121500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210928121500 +0000" stop="20210928130000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210928130000 +0000" stop="20210928133000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210928133000 +0000" stop="20210928141500 +0000" channel="AndorraTV.ad"><title lang="ca">Dia E</title></programme>
+<programme start="20210928141500 +0000" stop="20210928143000 +0000" channel="AndorraTV.ad"><title lang="ca">Tot Lliga</title></programme>
+<programme start="20210928143000 +0000" stop="20210928144500 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20210928144500 +0000" stop="20210928150000 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210928150000 +0000" stop="20210928160000 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20210928160000 +0000" stop="20210928163000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu Tarda</title></programme>
+<programme start="20210928163000 +0000" stop="20210928170000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu France 24</title></programme>
+<programme start="20210928170000 +0000" stop="20210928170500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210928170500 +0000" stop="20210928180500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210928180500 +0000" stop="20210928183500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210928183500 +0000" stop="20210928184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210928184000 +0000" stop="20210928184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210928184500 +0000" stop="20210928191500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210928191500 +0000" stop="20210928201500 +0000" channel="AndorraTV.ad"><title lang="ca">Concert de Primavera (ONCA)</title></programme>
+<programme start="20210928201500 +0000" stop="20210928204500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210928204500 +0000" stop="20210928230000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210928230000 +0000" stop="20210929000000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20210929050000 +0000" stop="20210929060000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210929060000 +0000" stop="20210929090000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210929090000 +0000" stop="20210929091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210929091500 +0000" stop="20210929110000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210929110000 +0000" stop="20210929113500 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20210929113500 +0000" stop="20210929114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210929114000 +0000" stop="20210929114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210929114500 +0000" stop="20210929121500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210929121500 +0000" stop="20210929130000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210929130000 +0000" stop="20210929133000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210929133000 +0000" stop="20210929144500 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20210929144500 +0000" stop="20210929150000 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210929150000 +0000" stop="20210929160000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210929160000 +0000" stop="20210929163000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu Tarda</title></programme>
+<programme start="20210929163000 +0000" stop="20210929170000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu France 24</title></programme>
+<programme start="20210929170000 +0000" stop="20210929170500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210929170500 +0000" stop="20210929180500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210929180500 +0000" stop="20210929183500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210929183500 +0000" stop="20210929184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210929184000 +0000" stop="20210929184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210929184500 +0000" stop="20210929191500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210929191500 +0000" stop="20210929200000 +0000" channel="AndorraTV.ad"><title lang="ca">Memòries d&apos;arxiu: Enraonar per no callar, amb Josep Anton Rosell</title></programme>
+<programme start="20210929200000 +0000" stop="20210929210000 +0000" channel="AndorraTV.ad"><title lang="ca">Roda de premsa posterior al consell de ministres</title></programme>
+<programme start="20210929210000 +0000" stop="20210929213000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210929213000 +0000" stop="20210929230000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210929230000 +0000" stop="20210930000000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20210930050000 +0000" stop="20210930060000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210930060000 +0000" stop="20210930090000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210930090000 +0000" stop="20210930091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210930091500 +0000" stop="20210930110000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20210930110000 +0000" stop="20210930113500 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20210930113500 +0000" stop="20210930114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210930114000 +0000" stop="20210930114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210930114500 +0000" stop="20210930121500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210930121500 +0000" stop="20210930130000 +0000" channel="AndorraTV.ad"><title lang="ca">La rèplica</title></programme>
+<programme start="20210930130000 +0000" stop="20210930133000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20210930133000 +0000" stop="20210930141500 +0000" channel="AndorraTV.ad"><title lang="ca">Memòries d&apos;arxiu: Enraonar per no callar, amb Josep Anton Rosell</title></programme>
+<programme start="20210930141500 +0000" stop="20210930144500 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20210930144500 +0000" stop="20210930150000 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20210930150000 +0000" stop="20210930160000 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20210930160000 +0000" stop="20210930163000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu Tarda</title></programme>
+<programme start="20210930163000 +0000" stop="20210930170000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu France 24</title></programme>
+<programme start="20210930170000 +0000" stop="20210930170500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210930170500 +0000" stop="20210930180500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20210930180500 +0000" stop="20210930183500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210930183500 +0000" stop="20210930184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20210930184000 +0000" stop="20210930184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20210930184500 +0000" stop="20210930191500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210930191500 +0000" stop="20210930200000 +0000" channel="AndorraTV.ad"><title lang="ca">La rèplica</title></programme>
+<programme start="20210930200000 +0000" stop="20210930203000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20210930203000 +0000" stop="20210930230000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20210930230000 +0000" stop="20211001000000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20211001050000 +0000" stop="20211001060000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211001060000 +0000" stop="20211001090000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20211001090000 +0000" stop="20211001091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20211001091500 +0000" stop="20211001110000 +0000" channel="AndorraTV.ad"><title lang="ca">Els Matins de la Nacional</title></programme>
+<programme start="20211001110000 +0000" stop="20211001113500 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20211001113500 +0000" stop="20211001114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20211001114000 +0000" stop="20211001114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211001114500 +0000" stop="20211001121500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211001121500 +0000" stop="20211001130000 +0000" channel="AndorraTV.ad"><title lang="ca">La rotonda</title></programme>
+<programme start="20211001130000 +0000" stop="20211001133000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211001133000 +0000" stop="20211001141500 +0000" channel="AndorraTV.ad"><title lang="ca">La rèplica</title></programme>
+<programme start="20211001141500 +0000" stop="20211001144500 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20211001144500 +0000" stop="20211001150000 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20211001150000 +0000" stop="20211001160000 +0000" channel="AndorraTV.ad"><title lang="ca">Becaris</title></programme>
+<programme start="20211001160000 +0000" stop="20211001163000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu Tarda</title></programme>
+<programme start="20211001163000 +0000" stop="20211001170000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu France 24</title></programme>
+<programme start="20211001170000 +0000" stop="20211001170500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211001170500 +0000" stop="20211001180500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211001180500 +0000" stop="20211001183500 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20211001183500 +0000" stop="20211001184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20211001184000 +0000" stop="20211001184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211001184500 +0000" stop="20211001191500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20211001191500 +0000" stop="20211001200000 +0000" channel="AndorraTV.ad"><title lang="ca">La rotonda</title></programme>
+<programme start="20211001200000 +0000" stop="20211001210000 +0000" channel="AndorraTV.ad"><title lang="ca">Concert de Primavera (ONCA)</title></programme>
+<programme start="20211001210000 +0000" stop="20211001214500 +0000" channel="AndorraTV.ad"><title lang="ca">Memòries d&apos;arxiu: Enraonar per no callar, amb Josep Anton Rosell</title></programme>
+<programme start="20211001214500 +0000" stop="20211001230000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20211001230000 +0000" stop="20211002000000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20211002070000 +0000" stop="20211002080000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211002080000 +0000" stop="20211002090000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211002090000 +0000" stop="20211002091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20211002091500 +0000" stop="20211002105000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211002105000 +0000" stop="20211002113500 +0000" channel="AndorraTV.ad"><title lang="ca">La rotonda</title></programme>
+<programme start="20211002113500 +0000" stop="20211002114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20211002114000 +0000" stop="20211002114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211002114500 +0000" stop="20211002121000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211002121000 +0000" stop="20211002125000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211002125000 +0000" stop="20211002130000 +0000" channel="AndorraTV.ad"><title lang="ca">La Terre vue du Sport</title></programme>
+<programme start="20211002130000 +0000" stop="20211002132500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211002132500 +0000" stop="20211002142500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211002142500 +0000" stop="20211002145000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211002145000 +0000" stop="20211002150500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20211002150500 +0000" stop="20211002173500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211002173500 +0000" stop="20211002183500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211002183500 +0000" stop="20211002184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20211002184000 +0000" stop="20211002184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211002184500 +0000" stop="20211002191000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20211002191000 +0000" stop="20211002195500 +0000" channel="AndorraTV.ad"><title lang="ca">La rèplica</title></programme>
+<programme start="20211002195500 +0000" stop="20211002205500 +0000" channel="AndorraTV.ad"><title lang="ca">Concert de Primavera (ONCA)</title></programme>
+<programme start="20211002205500 +0000" stop="20211002230000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20211002230000 +0000" stop="20211003000000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
+<programme start="20211003070000 +0000" stop="20211003080000 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211003080000 +0000" stop="20211003090000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211003090000 +0000" stop="20211003091500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20211003091500 +0000" stop="20211003110000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211003110000 +0000" stop="20211003112000 +0000" channel="AndorraTV.ad"><title lang="ca">Andorra Actualitat (RNA)</title></programme>
+<programme start="20211003112000 +0000" stop="20211003113500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211003113500 +0000" stop="20211003114000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20211003114000 +0000" stop="20211003114500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211003114500 +0000" stop="20211003121000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211003121000 +0000" stop="20211003125000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211003125000 +0000" stop="20211003130000 +0000" channel="AndorraTV.ad"><title lang="ca">La Terre vue du Sport</title></programme>
+<programme start="20211003130000 +0000" stop="20211003132500 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211003132500 +0000" stop="20211003142500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211003142500 +0000" stop="20211003145000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu migdia</title></programme>
+<programme start="20211003145000 +0000" stop="20211003150500 +0000" channel="AndorraTV.ad"><title lang="ca">Exercicis físics per a la gent gran</title></programme>
+<programme start="20211003150500 +0000" stop="20211003165000 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211003165000 +0000" stop="20211003173500 +0000" channel="AndorraTV.ad"><title lang="ca">La rotonda</title></programme>
+<programme start="20211003173500 +0000" stop="20211003183500 +0000" channel="AndorraTV.ad"><title lang="ca">Club Piolet</title></programme>
+<programme start="20211003183500 +0000" stop="20211003184000 +0000" channel="AndorraTV.ad"><title lang="ca">Va ser notícia</title></programme>
+<programme start="20211003184000 +0000" stop="20211003184500 +0000" channel="AndorraTV.ad"><title lang="ca">El Trànsit</title></programme>
+<programme start="20211003184500 +0000" stop="20211003191000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20211003191000 +0000" stop="20211003194500 +0000" channel="AndorraTV.ad"><title lang="ca">Recull setmanal</title></programme>
+<programme start="20211003194500 +0000" stop="20211003203000 +0000" channel="AndorraTV.ad"><title lang="ca">Memòries d&apos;arxiu: Enraonar per no callar, amb Josep Anton Rosell</title></programme>
+<programme start="20211003203000 +0000" stop="20211003212000 +0000" channel="AndorraTV.ad"><title lang="ca">El cafè dels matins</title></programme>
+<programme start="20211003212000 +0000" stop="20211003213000 +0000" channel="AndorraTV.ad"><title lang="ca">La Terre vue du Sport</title></programme>
+<programme start="20211003213000 +0000" stop="20211003230000 +0000" channel="AndorraTV.ad"><title lang="ca">Informatiu vespre</title></programme>
+<programme start="20211003230000 +0000" stop="20211004000000 +0000" channel="AndorraTV.ad"><title lang="ca">Àrea Andorra Difusió</title></programme>
 </tv>

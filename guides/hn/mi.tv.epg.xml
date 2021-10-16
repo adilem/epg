@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv>
+<channel id="3ABNLatino.us"><display-name>3ABN Latino</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_3abn-latino_m.png"/></channel>
+<channel id="AlfaOmegaVision.hn"><display-name>Alfa &amp; Omega Vision</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_alfa-omega-vision_m.png"/></channel>
+<channel id="Azteca7.mx"><display-name>Azteca 7</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_azteca-7_m.png"/></channel>
+<channel id="Bandamax.mx"><display-name>Bandamax</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_bandamax_m.png"/></channel>
+<channel id="BethelTV.pe"><display-name>Bethel TV</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_bethel_m.png"/></channel>
+<channel id="Canal11.hn"><display-name>Canal 11</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_canal-11-sotel_m.png"/></channel>
+<channel id="CCIChannel.hn"><display-name>CCI Channel</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_cci-channel_m.png"/></channel>
+<channel id="CDMInternacional.pr"><display-name>CDM Internacional</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_cdm-cadena-de-milagros_m.png"/></channel>
+<channel id="CinecanalOeste.us"><display-name>Cinecanal Oeste</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_cinecanal_m.png"/></channel>
+<channel id="CubavisionInternacional.cu"><display-name>Cubavisión Internacional</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_cubavision_m.png"/></channel>
+<channel id="DisneyChannelLatinoamerica.us"><display-name>Disney Channel Latinoamérica</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_disney-multicountry_m.png"/></channel>
+<channel id="DTV.hn"><display-name>DTV</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_dtv_m.png"/></channel>
+<channel id="FoxSportsLatinAmerica.us"><display-name>Fox Sports Latin America</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_fox-sports_m.png"/></channel>
+<channel id="GolTVLatinoamerica.us"><display-name>Gol TV Latinoamérica</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_gol-tv_m.png"/></channel>
+<channel id="HCH.hn"><display-name>HCH</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_hch-hable-como-habla_m.png"/></channel>
+<channel id="StudioUniversalAmericaLatina.us"><display-name>Studio Universal América Latina</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_studio-universal_m.png"/></channel>
+<channel id="Telecadena7y4.hn"><display-name>Telecadena 7 y 4</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_telecadena_m.png"/></channel>
+<channel id="Teleceiba.hn"><display-name>Teleceiba</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_teleceiba_m.png"/></channel>
+<channel id="Telesistema3y7.hn"><display-name>Telesistema 3 y 7</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_telesistema-hondureno_m.png"/></channel>
+<channel id="Televicentro.hn"><display-name>Televicentro</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_canal-5_m.png"/></channel>
+<channel id="UniversalTVAmericaLatinaOeste.us"><display-name>Universal TV América Latina Oeste</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_universal-channel_m.png"/></channel>
+<channel id="VTV.hn"><display-name>VTV</display-name><icon src="https://cdn.mitvstatic.com/channels/hn_vica-vtv_m.png"/></channel>
+<programme start="20211016060000 +0000" stop="20211016070000 +0000" channel="3ABNLatino.us"><title lang="es">3ABN Hoy</title></programme>
+<programme start="20211016070000 +0000" stop="20211016073000 +0000" channel="3ABNLatino.us"><title lang="es">3ABN Gravando</title></programme>
+<programme start="20211016073000 +0000" stop="20211016080000 +0000" channel="3ABNLatino.us"><title lang="es">Está escrito</title></programme>
+<programme start="20211016080000 +0000" stop="20211016083000 +0000" channel="3ABNLatino.us"><title lang="es">El conflicto de los siglos</title></programme>
+<programme start="20211016083000 +0000" stop="20211016090000 +0000" channel="3ABNLatino.us"><title lang="es">El conflicto de los siglos</title></programme>
+<programme start="20211016090000 +0000" stop="20211016093000 +0000" channel="3ABNLatino.us"><title lang="es">La gran revelación</title></programme>
+<programme start="20211016093000 +0000" stop="20211016100000 +0000" channel="3ABNLatino.us"><title lang="es">El jóven de hoy</title></programme>
+<programme start="20211016100000 +0000" stop="20211016103000 +0000" channel="3ABNLatino.us"><title lang="es">Certeza y convicción</title></programme>
+<programme start="20211016103000 +0000" stop="20211016110000 +0000" channel="3ABNLatino.us"><title lang="es">A los pies de Jesús</title></programme>
+<programme start="20211016110000 +0000" stop="20211016113000 +0000" channel="3ABNLatino.us"><title lang="es">Renacer en Jesús</title></programme>
+<programme start="20211016113000 +0000" stop="20211016120000 +0000" channel="3ABNLatino.us"><title lang="es">Alabanzas infantiles</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="3ABNLatino.us"><title lang="es">El cristiano victorioso</title></programme>
+<programme start="20211016123000 +0000" stop="20211016124500 +0000" channel="3ABNLatino.us"><title lang="es">Sus palabras son vida</title></programme>
+<programme start="20211016124500 +0000" stop="20211016130000 +0000" channel="3ABNLatino.us"><title lang="es">Volvamos a la naturaleza</title></programme>
+<programme start="20211016130000 +0000" stop="20211016140000 +0000" channel="3ABNLatino.us"><title lang="es">3ABN Hoy</title></programme>
+<programme start="20211016140000 +0000" stop="20211016143000 +0000" channel="3ABNLatino.us"><title lang="es">A Cristo adoremos</title></programme>
+<programme start="20211016143000 +0000" stop="20211016150000 +0000" channel="3ABNLatino.us"><title lang="es">Lecciones de vida</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="3ABNLatino.us"><title lang="es">Hora de adoración</title></programme>
+<programme start="20211016160000 +0000" stop="20211016163000 +0000" channel="3ABNLatino.us"><title lang="es">Ofrenda musical</title></programme>
+<programme start="20211016163000 +0000" stop="20211016170000 +0000" channel="3ABNLatino.us"><title lang="es">Mensaje de vida</title></programme>
+<programme start="20211016170000 +0000" stop="20211016180000 +0000" channel="3ABNLatino.us"><title lang="es">Anclas de la verdad</title></programme>
+<programme start="20211016180000 +0000" stop="20211016183000 +0000" channel="3ABNLatino.us"><title lang="es">Orígenes</title></programme>
+<programme start="20211016183000 +0000" stop="20211016190000 +0000" channel="3ABNLatino.us"><title lang="es">Punto joven</title></programme>
+<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="3ABNLatino.us"><title lang="es">Pilares de la profecía</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="3ABNLatino.us"><title lang="es">3ABN Hoy</title></programme>
+<programme start="20211016210000 +0000" stop="20211016213000 +0000" channel="3ABNLatino.us"><title lang="es">La Biblia sorprende</title></programme>
+<programme start="20211016213000 +0000" stop="20211016220000 +0000" channel="3ABNLatino.us"><title lang="es">Estrellitas de Jesús</title></programme>
+<programme start="20211016220000 +0000" stop="20211016223000 +0000" channel="3ABNLatino.us"><title lang="es">Maravillosa creación</title></programme>
+<programme start="20211016223000 +0000" stop="20211016230000 +0000" channel="3ABNLatino.us"><title lang="es">Ciencia 360º</title></programme>
+<programme start="20211016230000 +0000" stop="20211017000000 +0000" channel="3ABNLatino.us"><title lang="es">Solo con su espíritu</title></programme>
+<programme start="20211017000000 +0000" stop="20211017003000 +0000" channel="3ABNLatino.us"><title lang="es">Conexiones bíblicas</title></programme>
+<programme start="20211017003000 +0000" stop="20211017010000 +0000" channel="3ABNLatino.us"><title lang="es">Escrito está</title></programme>
+<programme start="20211017010000 +0000" stop="20211017020000 +0000" channel="3ABNLatino.us"><title lang="es">3ABN Hoy</title></programme>
+<programme start="20211017020000 +0000" stop="20211017030000 +0000" channel="3ABNLatino.us"><title lang="es">Salvación en señales y símbolos</title></programme>
+<programme start="20211017030000 +0000" stop="20211017040000 +0000" channel="3ABNLatino.us"><title lang="es">Respuestas bíblicas</title></programme>
+<programme start="20211017040000 +0000" stop="20211017043000 +0000" channel="3ABNLatino.us"><title lang="es">Descubra</title></programme>
+<programme start="20211017043000 +0000" stop="20211017050000 +0000" channel="3ABNLatino.us"><title lang="es">Ofrenda musical</title></programme>
+<programme start="20211017050000 +0000" stop="20211017053000 +0000" channel="3ABNLatino.us"><title lang="es">Vence</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="3ABNLatino.us"><title lang="es">La Biblia sorprende</title></programme>
+<programme start="20211017060000 +0000" stop="20211017070000 +0000" channel="3ABNLatino.us"><title lang="es">A confirmar</title></programme>
+<programme start="20211017070000 +0000" stop="20211017083000 +0000" channel="3ABNLatino.us"><title lang="es">Marcando la diferencia</title></programme>
+<programme start="20211017083000 +0000" stop="20211017090000 +0000" channel="3ABNLatino.us"><title lang="es">Ciencia 360º</title></programme>
+<programme start="20211017090000 +0000" stop="20211017093000 +0000" channel="3ABNLatino.us"><title lang="es">Libro del libro</title></programme>
+<programme start="20211017093000 +0000" stop="20211017094500 +0000" channel="3ABNLatino.us"><title lang="es">Sus palabras son vida</title></programme>
+<programme start="20211017094500 +0000" stop="20211017100000 +0000" channel="3ABNLatino.us"><title lang="es">Volvamos a la naturaleza</title></programme>
+<programme start="20211017100000 +0000" stop="20211017103000 +0000" channel="3ABNLatino.us"><title lang="es">Camino, verdad y vida</title></programme>
+<programme start="20211017103000 +0000" stop="20211017110000 +0000" channel="3ABNLatino.us"><title lang="es">Lecciones de vida</title></programme>
+<programme start="20211017110000 +0000" stop="20211017113000 +0000" channel="3ABNLatino.us"><title lang="es">Mensaje de vida</title></programme>
+<programme start="20211017113000 +0000" stop="20211017120000 +0000" channel="3ABNLatino.us"><title lang="es">Mejor cada día</title></programme>
+<programme start="20211017120000 +0000" stop="20211017130000 +0000" channel="3ABNLatino.us"><title lang="es">Sacrificio eterno</title></programme>
+<programme start="20211017130000 +0000" stop="20211017150000 +0000" channel="3ABNLatino.us"><title lang="es">A confirmar</title></programme>
+<programme start="20211017150000 +0000" stop="20211017153000 +0000" channel="3ABNLatino.us"><title lang="es">Amiguitos de Jesús</title></programme>
+<programme start="20211017153000 +0000" stop="20211017160000 +0000" channel="3ABNLatino.us"><title lang="es">Estrellitas de Jesús</title></programme>
+<programme start="20211017160000 +0000" stop="20211017161500 +0000" channel="3ABNLatino.us"><title lang="es">Con mis manos</title></programme>
+<programme start="20211017161500 +0000" stop="20211017163000 +0000" channel="3ABNLatino.us"><title lang="es">Cocina con color</title></programme>
+<programme start="20211017163000 +0000" stop="20211017170000 +0000" channel="3ABNLatino.us"><title lang="es">La fe de Jesús</title></programme>
+<programme start="20211017170000 +0000" stop="20211017180000 +0000" channel="3ABNLatino.us"><title lang="es">Hora de adoración</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="3ABNLatino.us"><title lang="es">Sabores</title></programme>
+<programme start="20211017190000 +0000" stop="20211017193000 +0000" channel="3ABNLatino.us"><title lang="es">Escrito está</title></programme>
+<programme start="20211017193000 +0000" stop="20211017200000 +0000" channel="3ABNLatino.us"><title lang="es">Sí podemos</title></programme>
+<programme start="20211017200000 +0000" stop="20211017220000 +0000" channel="3ABNLatino.us"><title lang="es">3ABN Hoy</title></programme>
+<programme start="20211017220000 +0000" stop="20211017230000 +0000" channel="3ABNLatino.us"><title lang="es">Diez mandamientos 2008</title></programme>
+<programme start="20211017230000 +0000" stop="20211018000000 +0000" channel="3ABNLatino.us"><title lang="es">Dios y la mujer del siglo 21</title></programme>
+<programme start="20211018000000 +0000" stop="20211018003000 +0000" channel="3ABNLatino.us"><title lang="es">Seguridad en tiempos angustiosos</title></programme>
+<programme start="20211018003000 +0000" stop="20211018010000 +0000" channel="3ABNLatino.us"><title lang="es">Edificando familias</title></programme>
+<programme start="20211018010000 +0000" stop="20211018020000 +0000" channel="3ABNLatino.us"><title lang="es">A confirmar</title></programme>
+<programme start="20211018020000 +0000" stop="20211018023000 +0000" channel="3ABNLatino.us"><title lang="es">Consulta médica</title></programme>
+<programme start="20211018023000 +0000" stop="20211018030000 +0000" channel="3ABNLatino.us"><title lang="es">El cristiano victorioso</title></programme>
+<programme start="20211018030000 +0000" stop="20211018033000 +0000" channel="3ABNLatino.us"><title lang="es">Viva en abundancia</title></programme>
+<programme start="20211018033000 +0000" stop="20211018040000 +0000" channel="3ABNLatino.us"><title lang="es">Camino, verdad y vida</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="3ABNLatino.us"><title lang="es">Es tiempo</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="3ABNLatino.us"><title lang="es">Seguridad Profética</title></programme>
+<programme start="20211016060000 +0000" stop="20211016100000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211016100000 +0000" stop="20211016140000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211016140000 +0000" stop="20211016180000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211016180000 +0000" stop="20211016220000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211016220000 +0000" stop="20211017020000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211017020000 +0000" stop="20211017030000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211017060000 +0000" stop="20211017100000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211017100000 +0000" stop="20211017140000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211017140000 +0000" stop="20211017180000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211017180000 +0000" stop="20211017220000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211017220000 +0000" stop="20211018020000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211018020000 +0000" stop="20211018030000 +0000" channel="AlfaOmegaVision.hn"><title lang="es">Alfa &amp; Omega Visión</title></programme>
+<programme start="20211016060000 +0000" stop="20211016063000 +0000" channel="Azteca7.mx"><title lang="es">CV directo</title></programme>
+<programme start="20211016063000 +0000" stop="20211016070000 +0000" channel="Azteca7.mx"><title lang="es">CV directo</title></programme>
+<programme start="20211016070000 +0000" stop="20211016073000 +0000" channel="Azteca7.mx"><title lang="es">Marcas de renombre</title></programme>
+<programme start="20211016073000 +0000" stop="20211016080000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211016080000 +0000" stop="20211016083000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211016083000 +0000" stop="20211016090000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211016090000 +0000" stop="20211016093000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211016093000 +0000" stop="20211016095500 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211016095500 +0000" stop="20211016102000 +0000" channel="Azteca7.mx"><title lang="es">Barras de ajuste</title></programme>
+<programme start="20211016102000 +0000" stop="20211016103000 +0000" channel="Azteca7.mx"><title lang="es">RTC</title></programme>
+<programme start="20211016103000 +0000" stop="20211016105800 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211016105800 +0000" stop="20211016110000 +0000" channel="Azteca7.mx"><title lang="es">Himno nacional</title></programme>
+<programme start="20211016110000 +0000" stop="20211016113000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211016113000 +0000" stop="20211016120000 +0000" channel="Azteca7.mx"><title lang="es">Amigazazo</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="Azteca7.mx"><title lang="es">Chuggington</title></programme>
+<programme start="20211016123000 +0000" stop="20211016130000 +0000" channel="Azteca7.mx"><title lang="es">Pocoyo</title></programme>
+<programme start="20211016130000 +0000" stop="20211016133000 +0000" channel="Azteca7.mx"><title lang="es">Molang</title></programme>
+<programme start="20211016133000 +0000" stop="20211016140000 +0000" channel="Azteca7.mx"><title lang="es">Rev &amp; Roll</title></programme>
+<programme start="20211016140000 +0000" stop="20211016151500 +0000" channel="Azteca7.mx"><title lang="es">Transformers: Cyberverse</title></programme>
+<programme start="20211016151500 +0000" stop="20211016171500 +0000" channel="Azteca7.mx"><title lang="es">Al ritmo</title></programme>
+<programme start="20211016171500 +0000" stop="20211016191500 +0000" channel="Azteca7.mx"><title lang="es">Minicampeones</title></programme>
+<programme start="20211016191500 +0000" stop="20211016210000 +0000" channel="Azteca7.mx"><title lang="es">Seguridad nacional</title></programme>
+<programme start="20211016210000 +0000" stop="20211016230000 +0000" channel="Azteca7.mx"><title lang="es">Dos tontos, todavía más tontos</title></programme>
+<programme start="20211016230000 +0000" stop="20211017011500 +0000" channel="Azteca7.mx"><title lang="es">Atrapa a un ladrón</title></programme>
+<programme start="20211017011500 +0000" stop="20211017033000 +0000" channel="Azteca7.mx"><title lang="es">¿Por qué él?</title></programme>
+<programme start="20211017033000 +0000" stop="20211017050000 +0000" channel="Azteca7.mx"><title lang="es">Emanuel &quot;Vaquero&quot; Navarrete vs. Joet González</title></programme>
+<programme start="20211017050000 +0000" stop="20211017055800 +0000" channel="Azteca7.mx"><title lang="es">Lucha Azteca AAA</title></programme>
+<programme start="20211017055800 +0000" stop="20211017065800 +0000" channel="Azteca7.mx"><title lang="es">Himno nacional</title></programme>
+<programme start="20211017060000 +0000" stop="20211017063000 +0000" channel="Azteca7.mx"><title lang="es">CV directo</title></programme>
+<programme start="20211017063000 +0000" stop="20211017070000 +0000" channel="Azteca7.mx"><title lang="es">CV directo</title></programme>
+<programme start="20211017070000 +0000" stop="20211017073000 +0000" channel="Azteca7.mx"><title lang="es">CV directo</title></programme>
+<programme start="20211017073000 +0000" stop="20211017080000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211017080000 +0000" stop="20211017083000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211017083000 +0000" stop="20211017090000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211017090000 +0000" stop="20211017093000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211017093000 +0000" stop="20211017095500 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211017095500 +0000" stop="20211017102000 +0000" channel="Azteca7.mx"><title lang="es">Barras de ajuste</title></programme>
+<programme start="20211017102000 +0000" stop="20211017103000 +0000" channel="Azteca7.mx"><title lang="es">RTC</title></programme>
+<programme start="20211017103000 +0000" stop="20211017105800 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211017105800 +0000" stop="20211017110000 +0000" channel="Azteca7.mx"><title lang="es">Himno nacional</title></programme>
+<programme start="20211017110000 +0000" stop="20211017113000 +0000" channel="Azteca7.mx"><title lang="es">Inova</title></programme>
+<programme start="20211017113000 +0000" stop="20211017120000 +0000" channel="Azteca7.mx"><title lang="es">Amigazazo</title></programme>
+<programme start="20211017120000 +0000" stop="20211017123000 +0000" channel="Azteca7.mx"><title lang="es">Bubu y las lechucitas</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="Azteca7.mx"><title lang="es">Chuggington</title></programme>
+<programme start="20211017130000 +0000" stop="20211017133000 +0000" channel="Azteca7.mx"><title lang="es">Octonautas</title></programme>
+<programme start="20211017133000 +0000" stop="20211017140000 +0000" channel="Azteca7.mx"><title lang="es">Pocoyo</title></programme>
+<programme start="20211017140000 +0000" stop="20211017143000 +0000" channel="Azteca7.mx"><title lang="es">Vera y el Reino Arcoíris</title></programme>
+<programme start="20211017143000 +0000" stop="20211017150000 +0000" channel="Azteca7.mx"><title lang="es">Molang</title></programme>
+<programme start="20211017150000 +0000" stop="20211017151500 +0000" channel="Azteca7.mx"><title lang="es">Buenas noches con Elmo</title></programme>
+<programme start="20211017151500 +0000" stop="20211017160000 +0000" channel="Azteca7.mx"><title lang="es">Rev &amp; Roll</title></programme>
+<programme start="20211017160000 +0000" stop="20211017164500 +0000" channel="Azteca7.mx"><title lang="es">44 gatos</title></programme>
+<programme start="20211017164500 +0000" stop="20211017173000 +0000" channel="Azteca7.mx"><title lang="es">Gigantosaurus</title></programme>
+<programme start="20211017173000 +0000" stop="20211017193000 +0000" channel="Azteca7.mx"><title lang="es">El tesoro del Amazonas</title></programme>
+<programme start="20211017193000 +0000" stop="20211017214500 +0000" channel="Azteca7.mx"><title lang="es">Alicia a través del espejo</title></programme>
+<programme start="20211017214500 +0000" stop="20211018001500 +0000" channel="Azteca7.mx"><title lang="es">Piratas del Caribe: La venganza de Salazar</title></programme>
+<programme start="20211018001500 +0000" stop="20211018023000 +0000" channel="Azteca7.mx"><title lang="es">El planeta de los simios: Revolución</title></programme>
+<programme start="20211018023000 +0000" stop="20211018050000 +0000" channel="Azteca7.mx"><title lang="es">El planeta de los simios: Confrontación</title></programme>
+<programme start="20211018050000 +0000" stop="20211018053000 +0000" channel="Azteca7.mx"><title lang="es">Farmacias similares</title></programme>
+<programme start="20211018053000 +0000" stop="20211018063000 +0000" channel="Azteca7.mx"><title lang="es">CV directo</title></programme>
+<programme start="20211016060000 +0000" stop="20211016070000 +0000" channel="Bandamax.mx"><title lang="es">Trepale a la cumbia</title></programme>
+<programme start="20211016070000 +0000" stop="20211016080000 +0000" channel="Bandamax.mx"><title lang="es">Trepale al Norteño</title></programme>
+<programme start="20211016080000 +0000" stop="20211016090000 +0000" channel="Bandamax.mx"><title lang="es">Bandamáximo dolor</title></programme>
+<programme start="20211016090000 +0000" stop="20211016100000 +0000" channel="Bandamax.mx"><title lang="es">Bandamáximo dolor</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="Bandamax.mx"><title lang="es">Trepale al ranchero</title></programme>
+<programme start="20211016110000 +0000" stop="20211016140000 +0000" channel="Bandamax.mx"><title lang="es">Las imperdibles</title></programme>
+<programme start="20211016140000 +0000" stop="20211016150000 +0000" channel="Bandamax.mx"><title lang="es">2x1 Bandamax</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="Bandamax.mx"><title lang="es">Viejitas pero sabrosas</title></programme>
+<programme start="20211016160000 +0000" stop="20211016190000 +0000" channel="Bandamax.mx"><title lang="es">Las más sonadas</title></programme>
+<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="Bandamax.mx"><title lang="es">Los reyes del regional</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="Bandamax.mx"><title lang="es">Las 10 más picudas</title></programme>
+<programme start="20211016210000 +0000" stop="20211016220000 +0000" channel="Bandamax.mx"><title lang="es">Las divas de Bandamax</title></programme>
+<programme start="20211016220000 +0000" stop="20211016230000 +0000" channel="Bandamax.mx"><title lang="es">Las más sonadas</title></programme>
+<programme start="20211016230000 +0000" stop="20211017000000 +0000" channel="Bandamax.mx"><title lang="es">Esta va para ti</title></programme>
+<programme start="20211017000000 +0000" stop="20211017010000 +0000" channel="Bandamax.mx"><title lang="es">Las 10 más picudas de la cumbia</title></programme>
+<programme start="20211017010000 +0000" stop="20211017020000 +0000" channel="Bandamax.mx"><title lang="es">Los consagrados de Bandamax</title></programme>
+<programme start="20211017020000 +0000" stop="20211017030000 +0000" channel="Bandamax.mx"><title lang="es">Los patrones de Bandamax</title></programme>
+<programme start="20211017030000 +0000" stop="20211017040000 +0000" channel="Bandamax.mx"><title lang="es">La cantina del Tunco Maclovich</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="Bandamax.mx"><title lang="es">Banda-Oke</title></programme>
+<programme start="20211017050000 +0000" stop="20211017060000 +0000" channel="Bandamax.mx"><title lang="es">Trepale al ranchero</title></programme>
+<programme start="20211017060000 +0000" stop="20211017070000 +0000" channel="Bandamax.mx"><title lang="es">Trepale al sierreño</title></programme>
+<programme start="20211017070000 +0000" stop="20211017080000 +0000" channel="Bandamax.mx"><title lang="es">Trepale a la cumbia</title></programme>
+<programme start="20211017080000 +0000" stop="20211017090000 +0000" channel="Bandamax.mx"><title lang="es">Bandamáximo dolor</title></programme>
+<programme start="20211017090000 +0000" stop="20211017100000 +0000" channel="Bandamax.mx"><title lang="es">Bandamáximo dolor</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="Bandamax.mx"><title lang="es">Trepale a la cumbia</title></programme>
+<programme start="20211017110000 +0000" stop="20211017120000 +0000" channel="Bandamax.mx"><title lang="es">5x8 Comedia</title></programme>
+<programme start="20211017120000 +0000" stop="20211017130000 +0000" channel="Bandamax.mx"><title lang="es">Las imperdibles</title></programme>
+<programme start="20211017130000 +0000" stop="20211017140000 +0000" channel="Bandamax.mx"><title lang="es">Trepale al Norteño</title></programme>
+<programme start="20211017140000 +0000" stop="20211017150000 +0000" channel="Bandamax.mx"><title lang="es">Las más sonadas</title></programme>
+<programme start="20211017150000 +0000" stop="20211017160000 +0000" channel="Bandamax.mx"><title lang="es">El show del hombre</title></programme>
+<programme start="20211017160000 +0000" stop="20211017170000 +0000" channel="Bandamax.mx"><title lang="es">Esta va para ti</title></programme>
+<programme start="20211017170000 +0000" stop="20211017180000 +0000" channel="Bandamax.mx"><title lang="es">Las 10 más picudas</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="Bandamax.mx"><title lang="es">El circo</title></programme>
+<programme start="20211017190000 +0000" stop="20211017200000 +0000" channel="Bandamax.mx"><title lang="es">Las 10 más picudas de la cumbia</title></programme>
+<programme start="20211017200000 +0000" stop="20211017213000 +0000" channel="Bandamax.mx"><title lang="es">Las más sonadas</title></programme>
+<programme start="20211017213000 +0000" stop="20211017233000 +0000" channel="Bandamax.mx"><title lang="es">2x1 Bandamax</title></programme>
+<programme start="20211017233000 +0000" stop="20211018000000 +0000" channel="Bandamax.mx"><title lang="es">Regional clasificado</title></programme>
+<programme start="20211018000000 +0000" stop="20211018010000 +0000" channel="Bandamax.mx"><title lang="es">Las 10 más picudas de la cumbia</title></programme>
+<programme start="20211018010000 +0000" stop="20211018020000 +0000" channel="Bandamax.mx"><title lang="es">Los patrones de Bandamax</title></programme>
+<programme start="20211018020000 +0000" stop="20211018030000 +0000" channel="Bandamax.mx"><title lang="es">Los consagrados de Bandamax</title></programme>
+<programme start="20211018030000 +0000" stop="20211018040000 +0000" channel="Bandamax.mx"><title lang="es">Los consagrados de Bandamax</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="Bandamax.mx"><title lang="es">Banda-Oke</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="Bandamax.mx"><title lang="es">Las más sonadas</title></programme>
+<programme start="20211016050000 +0000" stop="20211016070000 +0000" channel="BethelTV.pe"><title lang="es">Película</title></programme>
+<programme start="20211016070000 +0000" stop="20211016073000 +0000" channel="BethelTV.pe"><title lang="es">La lista de Erick</title></programme>
+<programme start="20211016073000 +0000" stop="20211016080000 +0000" channel="BethelTV.pe"><title lang="es">Siguiendo al Mesías</title></programme>
+<programme start="20211016080000 +0000" stop="20211016090000 +0000" channel="BethelTV.pe"><title lang="es">Llamados</title></programme>
+<programme start="20211016090000 +0000" stop="20211016093000 +0000" channel="BethelTV.pe"><title lang="es">Lo que Dios unió</title></programme>
+<programme start="20211016093000 +0000" stop="20211016100000 +0000" channel="BethelTV.pe"><title lang="es">Palabras de vida eterna</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="BethelTV.pe"><title lang="es">Biblia 360</title></programme>
+<programme start="20211016110000 +0000" stop="20211016120000 +0000" channel="BethelTV.pe"><title lang="es">Impacto Evangelístico</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="BethelTV.pe"><title lang="es">The Power of God&apos;s Word</title></programme>
+<programme start="20211016123000 +0000" stop="20211016130000 +0000" channel="BethelTV.pe"><title lang="es">Hechos de fe</title></programme>
+<programme start="20211016130000 +0000" stop="20211016133000 +0000" channel="BethelTV.pe"><title lang="es">Historias animadas</title></programme>
+<programme start="20211016133000 +0000" stop="20211016140000 +0000" channel="BethelTV.pe"><title lang="es">Mi casa feliz</title></programme>
+<programme start="20211016140000 +0000" stop="20211016143000 +0000" channel="BethelTV.pe"><title lang="es">Súper libro</title></programme>
+<programme start="20211016143000 +0000" stop="20211016150000 +0000" channel="BethelTV.pe"><title lang="es">Evangelismo en acción</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="BethelTV.pe"><title lang="es">Llamados</title></programme>
+<programme start="20211016160000 +0000" stop="20211016163000 +0000" channel="BethelTV.pe"><title lang="es">Héroes de la fe</title></programme>
+<programme start="20211016163000 +0000" stop="20211016170000 +0000" channel="BethelTV.pe"><title lang="es">Historias reales</title></programme>
+<programme start="20211016170000 +0000" stop="20211016173000 +0000" channel="BethelTV.pe"><title lang="es">Creacionismo</title></programme>
+<programme start="20211016173000 +0000" stop="20211016180000 +0000" channel="BethelTV.pe"><title lang="es">La lista de Erick</title></programme>
+<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="BethelTV.pe"><title lang="es">Impacto Evangelístico</title></programme>
+<programme start="20211016190000 +0000" stop="20211016193000 +0000" channel="BethelTV.pe"><title lang="es">Siguiendo al Mesías</title></programme>
+<programme start="20211016193000 +0000" stop="20211016200000 +0000" channel="BethelTV.pe"><title lang="es">Hechos de fe</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="BethelTV.pe"><title lang="es">Campañas y convenciones</title></programme>
+<programme start="20211016210000 +0000" stop="20211016213000 +0000" channel="BethelTV.pe"><title lang="es">Evangelismo en acción</title></programme>
+<programme start="20211016213000 +0000" stop="20211016220000 +0000" channel="BethelTV.pe"><title lang="es">Historias animadas</title></programme>
+<programme start="20211016220000 +0000" stop="20211016223000 +0000" channel="BethelTV.pe"><title lang="es">Mi casa feliz</title></programme>
+<programme start="20211016223000 +0000" stop="20211016230000 +0000" channel="BethelTV.pe"><title lang="es">Súper libro</title></programme>
+<programme start="20211016230000 +0000" stop="20211017010000 +0000" channel="BethelTV.pe"><title lang="es">Película</title></programme>
+<programme start="20211017010000 +0000" stop="20211017013000 +0000" channel="BethelTV.pe"><title lang="es">Héroes de la fe</title></programme>
+<programme start="20211017013000 +0000" stop="20211017020000 +0000" channel="BethelTV.pe"><title lang="es">Creacionismo</title></programme>
+<programme start="20211017020000 +0000" stop="20211017030000 +0000" channel="BethelTV.pe"><title lang="es">Adorando</title></programme>
+<programme start="20211017030000 +0000" stop="20211017033000 +0000" channel="BethelTV.pe"><title lang="es">La lista de Erick</title></programme>
+<programme start="20211017033000 +0000" stop="20211017040000 +0000" channel="BethelTV.pe"><title lang="es">Hechos de fe</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="BethelTV.pe"><title lang="es">Llamados</title></programme>
+<programme start="20211017050000 +0000" stop="20211017053000 +0000" channel="BethelTV.pe"><title lang="es">Historias reales</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="BethelTV.pe"><title lang="es">Siguiendo al Mesías</title></programme>
+<programme start="20211017060000 +0000" stop="20211017070000 +0000" channel="BethelTV.pe"><title lang="es">Llamados</title></programme>
+<programme start="20211017070000 +0000" stop="20211017073000 +0000" channel="BethelTV.pe"><title lang="es">Creacionismo</title></programme>
+<programme start="20211017073000 +0000" stop="20211017080000 +0000" channel="BethelTV.pe"><title lang="es">Héroes de la fe</title></programme>
+<programme start="20211017080000 +0000" stop="20211017090000 +0000" channel="BethelTV.pe"><title lang="es">Conectados con Dios</title></programme>
+<programme start="20211017090000 +0000" stop="20211017100000 +0000" channel="BethelTV.pe"><title lang="es">Adorando</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="BethelTV.pe"><title lang="es">Conectados con Dios</title></programme>
+<programme start="20211017110000 +0000" stop="20211017113000 +0000" channel="BethelTV.pe"><title lang="es">La lista de Erick</title></programme>
+<programme start="20211017113000 +0000" stop="20211017120000 +0000" channel="BethelTV.pe"><title lang="es">Creacionismo</title></programme>
+<programme start="20211017120000 +0000" stop="20211017123000 +0000" channel="BethelTV.pe"><title lang="es">Hechos de fe</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="BethelTV.pe"><title lang="es">Historias animadas</title></programme>
+<programme start="20211017130000 +0000" stop="20211017133000 +0000" channel="BethelTV.pe"><title lang="es">Mi casa feliz</title></programme>
+<programme start="20211017133000 +0000" stop="20211017140000 +0000" channel="BethelTV.pe"><title lang="es">Súper libro</title></programme>
+<programme start="20211017140000 +0000" stop="20211017153000 +0000" channel="BethelTV.pe"><title lang="es">Evangelio con poder</title></programme>
+<programme start="20211017153000 +0000" stop="20211017160000 +0000" channel="BethelTV.pe"><title lang="es">Historias reales</title></programme>
+<programme start="20211017160000 +0000" stop="20211017163000 +0000" channel="BethelTV.pe"><title lang="es">Héroes de la fe</title></programme>
+<programme start="20211017163000 +0000" stop="20211017180000 +0000" channel="BethelTV.pe"><title lang="es">Explosión de Gloria</title></programme>
+<programme start="20211017180000 +0000" stop="20211017193000 +0000" channel="BethelTV.pe"><title lang="es">La hora de la transformación</title></programme>
+<programme start="20211017193000 +0000" stop="20211017200000 +0000" channel="BethelTV.pe"><title lang="es">Historias animadas</title></programme>
+<programme start="20211017200000 +0000" stop="20211017203000 +0000" channel="BethelTV.pe"><title lang="es">Mi casa feliz</title></programme>
+<programme start="20211017203000 +0000" stop="20211017210000 +0000" channel="BethelTV.pe"><title lang="es">Súper libro</title></programme>
+<programme start="20211017210000 +0000" stop="20211017220000 +0000" channel="BethelTV.pe"><title lang="es">Conectados con Dios</title></programme>
+<programme start="20211017220000 +0000" stop="20211018000000 +0000" channel="BethelTV.pe"><title lang="es">Película</title></programme>
+<programme start="20211018000000 +0000" stop="20211018010000 +0000" channel="BethelTV.pe"><title lang="es">Cámara en mano</title></programme>
+<programme start="20211018010000 +0000" stop="20211018020000 +0000" channel="BethelTV.pe"><title lang="es">Conectados con Dios</title></programme>
+<programme start="20211018020000 +0000" stop="20211018030000 +0000" channel="BethelTV.pe"><title lang="es">Llamados</title></programme>
+<programme start="20211018030000 +0000" stop="20211018033000 +0000" channel="BethelTV.pe"><title lang="es">Historias reales</title></programme>
+<programme start="20211018033000 +0000" stop="20211018040000 +0000" channel="BethelTV.pe"><title lang="es">Hechos de fe</title></programme>
+<programme start="20211018040000 +0000" stop="20211018043000 +0000" channel="BethelTV.pe"><title lang="es">La lista de Erick</title></programme>
+<programme start="20211018043000 +0000" stop="20211018050000 +0000" channel="BethelTV.pe"><title lang="es">Siguiendo al Mesías</title></programme>
+<programme start="20211018050000 +0000" stop="20211018053000 +0000" channel="BethelTV.pe"><title lang="es">Historias reales</title></programme>
+<programme start="20211018053000 +0000" stop="20211018063000 +0000" channel="BethelTV.pe"><title lang="es">Siguiendo al Mesías</title></programme>
+<programme start="20211016053000 +0000" stop="20211016083000 +0000" channel="Canal11.hn"><title lang="es">El poder del amor</title></programme>
+<programme start="20211016083000 +0000" stop="20211016093000 +0000" channel="Canal11.hn"><title lang="es">El milagro</title></programme>
+<programme start="20211016093000 +0000" stop="20211016103000 +0000" channel="Canal11.hn"><title lang="es">Alas rotas</title></programme>
+<programme start="20211016103000 +0000" stop="20211016110000 +0000" channel="Canal11.hn"><title lang="es">La señora Fazilet y sus hijas</title></programme>
+<programme start="20211016110000 +0000" stop="20211016113000 +0000" channel="Canal11.hn"><title lang="es">Programación</title></programme>
+<programme start="20211016113000 +0000" stop="20211016130000 +0000" channel="Canal11.hn"><title lang="es">100 latinos dijeron</title></programme>
+<programme start="20211016130000 +0000" stop="20211016150000 +0000" channel="Canal11.hn"><title lang="es">Carrusel</title></programme>
+<programme start="20211016150000 +0000" stop="20211016170000 +0000" channel="Canal11.hn"><title lang="es">Mi película favorita - Sábado</title></programme>
+<programme start="20211016170000 +0000" stop="20211016173000 +0000" channel="Canal11.hn"><title lang="es">Más que cine</title></programme>
+<programme start="20211016173000 +0000" stop="20211016180000 +0000" channel="Canal11.hn"><title lang="es">Noticiero 360</title></programme>
+<programme start="20211016180000 +0000" stop="20211016183000 +0000" channel="Canal11.hn"><title lang="es">Secretos de cocina</title></programme>
+<programme start="20211016183000 +0000" stop="20211016190000 +0000" channel="Canal11.hn"><title lang="es">100 latinos dijeron</title></programme>
+<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="Canal11.hn"><title lang="es">No me digas</title></programme>
+<programme start="20211016200000 +0000" stop="20211016220000 +0000" channel="Canal11.hn"><title lang="es">Cine Pop</title></programme>
+<programme start="20211016220000 +0000" stop="20211016230000 +0000" channel="Canal11.hn"><title lang="es">La casa de la risa</title></programme>
+<programme start="20211016230000 +0000" stop="20211016233000 +0000" channel="Canal11.hn"><title lang="es">Once noticias sabatino</title></programme>
+<programme start="20211016233000 +0000" stop="20211017010000 +0000" channel="Canal11.hn"><title lang="es">El poder del amor</title></programme>
+<programme start="20211017010000 +0000" stop="20211017030000 +0000" channel="Canal11.hn"><title lang="es">MasterChef Latino</title></programme>
+<programme start="20211017030000 +0000" stop="20211017053000 +0000" channel="Canal11.hn"><title lang="es">Noche de película</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="Canal11.hn"><title lang="es">El poder del amor</title></programme>
+<programme start="20211017053000 +0000" stop="20211017083000 +0000" channel="Canal11.hn"><title lang="es">El poder del amor</title></programme>
+<programme start="20211017083000 +0000" stop="20211017093000 +0000" channel="Canal11.hn"><title lang="es">Extra TV</title></programme>
+<programme start="20211017093000 +0000" stop="20211017140000 +0000" channel="Canal11.hn"><title lang="es">Programación</title></programme>
+<programme start="20211017140000 +0000" stop="20211017210000 +0000" channel="Canal11.hn"><title lang="es">Todo deportes</title></programme>
+<programme start="20211017210000 +0000" stop="20211017230000 +0000" channel="Canal11.hn"><title lang="es">Cine 11</title></programme>
+<programme start="20211017230000 +0000" stop="20211017233000 +0000" channel="Canal11.hn"><title lang="es">Once noticias - Dominical</title></programme>
+<programme start="20211017233000 +0000" stop="20211018010000 +0000" channel="Canal11.hn"><title lang="es">El poder del amor</title></programme>
+<programme start="20211018010000 +0000" stop="20211018013000 +0000" channel="Canal11.hn"><title lang="es">Once noticias - Dominical</title></programme>
+<programme start="20211018013000 +0000" stop="20211018020000 +0000" channel="Canal11.hn"><title lang="es">Deportes TV11 - Dominical</title></programme>
+<programme start="20211018020000 +0000" stop="20211018053000 +0000" channel="Canal11.hn"><title lang="es">Cine Premier</title></programme>
+<programme start="20211018053000 +0000" stop="20211018063000 +0000" channel="Canal11.hn"><title lang="es">El poder del amor</title></programme>
+<programme start="20211016053000 +0000" stop="20211016063000 +0000" channel="CCIChannel.hn"><title lang="es">Mensajes para la vida</title></programme>
+<programme start="20211016063000 +0000" stop="20211016073000 +0000" channel="CCIChannel.hn"><title lang="es">Pulpito CCI</title></programme>
+<programme start="20211016073000 +0000" stop="20211016080000 +0000" channel="CCIChannel.hn"><title lang="es">Realidades</title></programme>
+<programme start="20211016080000 +0000" stop="20211016083000 +0000" channel="CCIChannel.hn"><title lang="es">Joel Osteen</title></programme>
+<programme start="20211016083000 +0000" stop="20211016090000 +0000" channel="CCIChannel.hn"><title lang="es">Respuestas con Bayless Conley</title></programme>
+<programme start="20211016090000 +0000" stop="20211016100000 +0000" channel="CCIChannel.hn"><title lang="es">Alex López</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="CCIChannel.hn"><title lang="es">Andrés Corsón</title></programme>
+<programme start="20211016110000 +0000" stop="20211016120000 +0000" channel="CCIChannel.hn"><title lang="es">Mensajes para la vida</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="CCIChannel.hn"><title lang="es">Micro devocionales</title></programme>
+<programme start="20211016123000 +0000" stop="20211016130000 +0000" channel="CCIChannel.hn"><title lang="es">Realidades</title></programme>
+<programme start="20211016130000 +0000" stop="20211016133000 +0000" channel="CCIChannel.hn"><title lang="es">Música de adoración suave en español</title></programme>
+<programme start="20211016133000 +0000" stop="20211016143000 +0000" channel="CCIChannel.hn"><title lang="es">La iglesia en el hogar</title></programme>
+<programme start="20211016143000 +0000" stop="20211016150000 +0000" channel="CCIChannel.hn"><title lang="es">UPL Raul Zaldívar</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="CCIChannel.hn"><title lang="es">Hechos y crónicas</title></programme>
+<programme start="20211016160000 +0000" stop="20211016170000 +0000" channel="CCIChannel.hn"><title lang="es">Gloriana Montero</title></programme>
+<programme start="20211016170000 +0000" stop="20211016180000 +0000" channel="CCIChannel.hn"><title lang="es">Viva la juventud</title></programme>
+<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="CCIChannel.hn"><title lang="es">No solo música</title></programme>
+<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="CCIChannel.hn"><title lang="es">A la luz de la palabra</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="CCIChannel.hn"><title lang="es">Palabra de vida</title></programme>
+<programme start="20211016210000 +0000" stop="20211016220000 +0000" channel="CCIChannel.hn"><title lang="es">Esperanza viva</title></programme>
+<programme start="20211016220000 +0000" stop="20211016233000 +0000" channel="CCIChannel.hn"><title lang="es">Celebración en vivo sábado</title></programme>
+<programme start="20211016233000 +0000" stop="20211017000000 +0000" channel="CCIChannel.hn"><title lang="es">Música variada en español</title></programme>
+<programme start="20211017000000 +0000" stop="20211017013000 +0000" channel="CCIChannel.hn"><title lang="es">CCI jovenes online</title></programme>
+<programme start="20211017013000 +0000" stop="20211017020000 +0000" channel="CCIChannel.hn"><title lang="es">Música variada en español</title></programme>
+<programme start="20211017020000 +0000" stop="20211017040000 +0000" channel="CCIChannel.hn"><title lang="es">Film Box</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="CCIChannel.hn"><title lang="es">La iglesia en el hogar</title></programme>
+<programme start="20211017050000 +0000" stop="20211017060000 +0000" channel="CCIChannel.hn"><title lang="es">Mensajes para la vida</title></programme>
+<programme start="20211017060000 +0000" stop="20211017070000 +0000" channel="CCIChannel.hn"><title lang="es">Palabra de vida</title></programme>
+<programme start="20211017070000 +0000" stop="20211017073000 +0000" channel="CCIChannel.hn"><title lang="es">Vida dura</title></programme>
+<programme start="20211017073000 +0000" stop="20211017080000 +0000" channel="CCIChannel.hn"><title lang="es">Realidades</title></programme>
+<programme start="20211017080000 +0000" stop="20211017090000 +0000" channel="CCIChannel.hn"><title lang="es">Enrique Bremer</title></programme>
+<programme start="20211017090000 +0000" stop="20211017100000 +0000" channel="CCIChannel.hn"><title lang="es">Rick Warren</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="CCIChannel.hn"><title lang="es">Danilo Montero</title></programme>
+<programme start="20211017110000 +0000" stop="20211017120000 +0000" channel="CCIChannel.hn"><title lang="es">La iglesia en el hogar</title></programme>
+<programme start="20211017120000 +0000" stop="20211017123000 +0000" channel="CCIChannel.hn"><title lang="es">Micro devocionales</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="CCIChannel.hn"><title lang="es">Realidades</title></programme>
+<programme start="20211017130000 +0000" stop="20211017133000 +0000" channel="CCIChannel.hn"><title lang="es">Música de adoración suave en español</title></programme>
+<programme start="20211017133000 +0000" stop="20211017143000 +0000" channel="CCIChannel.hn"><title lang="es">Danilo Montero</title></programme>
+<programme start="20211017143000 +0000" stop="20211017150000 +0000" channel="CCIChannel.hn"><title lang="es">Recurso de vida</title></programme>
+<programme start="20211017150000 +0000" stop="20211017163000 +0000" channel="CCIChannel.hn"><title lang="es">Celebracion en vivo domingo</title></programme>
+<programme start="20211017163000 +0000" stop="20211017170000 +0000" channel="CCIChannel.hn"><title lang="es">Música variada en español</title></programme>
+<programme start="20211017170000 +0000" stop="20211017183000 +0000" channel="CCIChannel.hn"><title lang="es">Celebracion en vivo domingo</title></programme>
+<programme start="20211017183000 +0000" stop="20211017190000 +0000" channel="CCIChannel.hn"><title lang="es">Música variada en español</title></programme>
+<programme start="20211017190000 +0000" stop="20211017200000 +0000" channel="CCIChannel.hn"><title lang="es">Esperanza viva</title></programme>
+<programme start="20211017200000 +0000" stop="20211017210000 +0000" channel="CCIChannel.hn"><title lang="es">A la luz de la palabra</title></programme>
+<programme start="20211017210000 +0000" stop="20211017220000 +0000" channel="CCIChannel.hn"><title lang="es">Palabra de vida</title></programme>
+<programme start="20211017220000 +0000" stop="20211017233000 +0000" channel="CCIChannel.hn"><title lang="es">CCI Felloship</title></programme>
+<programme start="20211017233000 +0000" stop="20211018000000 +0000" channel="CCIChannel.hn"><title lang="es">Música variada en español</title></programme>
+<programme start="20211018000000 +0000" stop="20211018013000 +0000" channel="CCIChannel.hn"><title lang="es">Celebracion en vivo domingo</title></programme>
+<programme start="20211018013000 +0000" stop="20211018020000 +0000" channel="CCIChannel.hn"><title lang="es">Música variada en español</title></programme>
+<programme start="20211018020000 +0000" stop="20211018040000 +0000" channel="CCIChannel.hn"><title lang="es">Film Box</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="CCIChannel.hn"><title lang="es">Especiales CCI</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="CCIChannel.hn"><title lang="es">No solo música</title></programme>
+<programme start="20211016060000 +0000" stop="20211016070000 +0000" channel="CDMInternacional.pr"><title lang="es">Madres en clamor</title></programme>
+<programme start="20211016070000 +0000" stop="20211016080000 +0000" channel="CDMInternacional.pr"><title lang="es">Clásicos impacto de Dios</title></programme>
+<programme start="20211016080000 +0000" stop="20211016083000 +0000" channel="CDMInternacional.pr"><title lang="es">Compartiendo el pan de vida</title></programme>
+<programme start="20211016083000 +0000" stop="20211016090000 +0000" channel="CDMInternacional.pr"><title lang="es">El amor que vale</title></programme>
+<programme start="20211016090000 +0000" stop="20211016093000 +0000" channel="CDMInternacional.pr"><title lang="es">Vida dura</title></programme>
+<programme start="20211016093000 +0000" stop="20211016100000 +0000" channel="CDMInternacional.pr"><title lang="es">Music Box</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="CDMInternacional.pr"><title lang="es">Clásicos impacto de Dios</title></programme>
+<programme start="20211016110000 +0000" stop="20211016180000 +0000" channel="CDMInternacional.pr"><title lang="es">Pasa a Macedonia y ayúdanos</title></programme>
+<programme start="20211016180000 +0000" stop="20211016183000 +0000" channel="CDMInternacional.pr"><title lang="es">Club 700 hoy</title></programme>
+<programme start="20211016183000 +0000" stop="20211016190000 +0000" channel="CDMInternacional.pr"><title lang="es">El amor que vale</title></programme>
+<programme start="20211016190000 +0000" stop="20211016193000 +0000" channel="CDMInternacional.pr"><title lang="es">Disfrutando la vida diaria</title></programme>
+<programme start="20211016193000 +0000" stop="20211016200000 +0000" channel="CDMInternacional.pr"><title lang="es">Nuevo Impacto Int</title></programme>
+<programme start="20211016200000 +0000" stop="20211016203000 +0000" channel="CDMInternacional.pr"><title lang="es">La policía informa</title></programme>
+<programme start="20211016203000 +0000" stop="20211016210000 +0000" channel="CDMInternacional.pr"><title lang="es">En contacto</title></programme>
+<programme start="20211016210000 +0000" stop="20211017030000 +0000" channel="CDMInternacional.pr"><title lang="es">Pasa a Macedonia y ayúdanos</title></programme>
+<programme start="20211017030000 +0000" stop="20211017033000 +0000" channel="CDMInternacional.pr"><title lang="es">La hora de fe</title></programme>
+<programme start="20211017033000 +0000" stop="20211017040000 +0000" channel="CDMInternacional.pr"><title lang="es">Vida dura</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="CDMInternacional.pr"><title lang="es">Reflexiones de esperanza</title></programme>
+<programme start="20211017050000 +0000" stop="20211017053000 +0000" channel="CDMInternacional.pr"><title lang="es">Disfrutando la vida diaria</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="CDMInternacional.pr"><title lang="es">Music Box</title></programme>
+<programme start="20211017060000 +0000" stop="20211017063000 +0000" channel="CDMInternacional.pr"><title lang="es">En contacto</title></programme>
+<programme start="20211017063000 +0000" stop="20211017070000 +0000" channel="CDMInternacional.pr"><title lang="es">Viviendo con sentido común</title></programme>
+<programme start="20211017070000 +0000" stop="20211017080000 +0000" channel="CDMInternacional.pr"><title lang="es">Clásicos impacto de Dios</title></programme>
+<programme start="20211017080000 +0000" stop="20211017083000 +0000" channel="CDMInternacional.pr"><title lang="es">Compartiendo el pan de vida</title></programme>
+<programme start="20211017083000 +0000" stop="20211017090000 +0000" channel="CDMInternacional.pr"><title lang="es">El amor que vale</title></programme>
+<programme start="20211017090000 +0000" stop="20211017093000 +0000" channel="CDMInternacional.pr"><title lang="es">Vida dura</title></programme>
+<programme start="20211017093000 +0000" stop="20211017100000 +0000" channel="CDMInternacional.pr"><title lang="es">Music Box</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="CDMInternacional.pr"><title lang="es">Clásicos impacto de Dios</title></programme>
+<programme start="20211017110000 +0000" stop="20211017113000 +0000" channel="CDMInternacional.pr"><title lang="es">Impacto de Dios</title></programme>
+<programme start="20211017113000 +0000" stop="20211017120000 +0000" channel="CDMInternacional.pr"><title lang="es">Compartiendo el pan de vida</title></programme>
+<programme start="20211017120000 +0000" stop="20211017123000 +0000" channel="CDMInternacional.pr"><title lang="es">Casa voladora</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="CDMInternacional.pr"><title lang="es">Donkey Ollie</title></programme>
+<programme start="20211017130000 +0000" stop="20211017133000 +0000" channel="CDMInternacional.pr"><title lang="es">Culto de adoración</title></programme>
+<programme start="20211017133000 +0000" stop="20211017140000 +0000" channel="CDMInternacional.pr"><title lang="es">Music Box</title></programme>
+<programme start="20211017140000 +0000" stop="20211017143000 +0000" channel="CDMInternacional.pr"><title lang="es">El amor que vale</title></programme>
+<programme start="20211017143000 +0000" stop="20211017150000 +0000" channel="CDMInternacional.pr"><title lang="es">En contacto</title></programme>
+<programme start="20211017150000 +0000" stop="20211017160000 +0000" channel="CDMInternacional.pr"><title lang="es">Hechos y crónicas</title></programme>
+<programme start="20211017160000 +0000" stop="20211017170000 +0000" channel="CDMInternacional.pr"><title lang="es">Clásicos impacto de Dios</title></programme>
+<programme start="20211017170000 +0000" stop="20211017173000 +0000" channel="CDMInternacional.pr"><title lang="es">Compartiendo el pan de vida</title></programme>
+<programme start="20211017173000 +0000" stop="20211017180000 +0000" channel="CDMInternacional.pr"><title lang="es">El amor que vale</title></programme>
+<programme start="20211017180000 +0000" stop="20211017183000 +0000" channel="CDMInternacional.pr"><title lang="es">Club 700 hoy</title></programme>
+<programme start="20211017183000 +0000" stop="20211017190000 +0000" channel="CDMInternacional.pr"><title lang="es">Bill Winston</title></programme>
+<programme start="20211017190000 +0000" stop="20211017193000 +0000" channel="CDMInternacional.pr"><title lang="es">Disfrutando la vida diaria</title></programme>
+<programme start="20211017193000 +0000" stop="20211017200000 +0000" channel="CDMInternacional.pr"><title lang="es">Impacto de Dios</title></programme>
+<programme start="20211017200000 +0000" stop="20211017203000 +0000" channel="CDMInternacional.pr"><title lang="es">Viviendo con sentido común</title></programme>
+<programme start="20211017203000 +0000" stop="20211017210000 +0000" channel="CDMInternacional.pr"><title lang="es">Answers</title></programme>
+<programme start="20211017210000 +0000" stop="20211017213000 +0000" channel="CDMInternacional.pr"><title lang="es">En contacto</title></programme>
+<programme start="20211017213000 +0000" stop="20211017220000 +0000" channel="CDMInternacional.pr"><title lang="es">Music Box</title></programme>
+<programme start="20211017220000 +0000" stop="20211017223000 +0000" channel="CDMInternacional.pr"><title lang="es">Mundo cristiano</title></programme>
+<programme start="20211017223000 +0000" stop="20211017230000 +0000" channel="CDMInternacional.pr"><title lang="es">Vida dura</title></programme>
+<programme start="20211017230000 +0000" stop="20211018000000 +0000" channel="CDMInternacional.pr"><title lang="es">Volviéndonos a Dios</title></programme>
+<programme start="20211018000000 +0000" stop="20211018003000 +0000" channel="CDMInternacional.pr"><title lang="es">Nuevo Impacto Int</title></programme>
+<programme start="20211018003000 +0000" stop="20211018010000 +0000" channel="CDMInternacional.pr"><title lang="es">Ventana al mundo</title></programme>
+<programme start="20211018010000 +0000" stop="20211018030000 +0000" channel="CDMInternacional.pr"><title lang="es">Clásicos impacto de Dios</title></programme>
+<programme start="20211018030000 +0000" stop="20211018033000 +0000" channel="CDMInternacional.pr"><title lang="es">Club 700 hoy</title></programme>
+<programme start="20211018033000 +0000" stop="20211018040000 +0000" channel="CDMInternacional.pr"><title lang="es">Vida dura</title></programme>
+<programme start="20211018040000 +0000" stop="20211018053000 +0000" channel="CDMInternacional.pr"><title lang="es">En esto pensad</title></programme>
+<programme start="20211018053000 +0000" stop="20211018063000 +0000" channel="CDMInternacional.pr"><title lang="es">Music Box</title></programme>
+<programme start="20211016045200 +0000" stop="20211016065100 +0000" channel="CinecanalOeste.us"><title lang="es">Al diablo con las noticias</title></programme>
+<programme start="20211016065100 +0000" stop="20211016081800 +0000" channel="CinecanalOeste.us"><title lang="es">Los tres chiflados</title></programme>
+<programme start="20211016081800 +0000" stop="20211016095000 +0000" channel="CinecanalOeste.us"><title lang="es">Jackass: el abuelo sinvergüenza</title></programme>
+<programme start="20211016095000 +0000" stop="20211016120000 +0000" channel="CinecanalOeste.us"><title lang="es">Tan muertos como yo</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016123000 +0000" stop="20211016130000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016130000 +0000" stop="20211016133000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016133000 +0000" stop="20211016140000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016140000 +0000" stop="20211016143000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016143000 +0000" stop="20211016150000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016150000 +0000" stop="20211016153000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016153000 +0000" stop="20211016160000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016160000 +0000" stop="20211016161600 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211016161600 +0000" stop="20211016163300 +0000" channel="CinecanalOeste.us"><title lang="es">Programación especial</title></programme>
+<programme start="20211016163300 +0000" stop="20211016164900 +0000" channel="CinecanalOeste.us"><title lang="es">Programación especial</title></programme>
+<programme start="20211016164900 +0000" stop="20211016170000 +0000" channel="CinecanalOeste.us"><title lang="es">Programación especial</title></programme>
+<programme start="20211016170000 +0000" stop="20211016184900 +0000" channel="CinecanalOeste.us"><title lang="es">Pelotas en juego</title></programme>
+<programme start="20211016184900 +0000" stop="20211016204200 +0000" channel="CinecanalOeste.us"><title lang="es">Un jefe en pañales</title></programme>
+<programme start="20211016204200 +0000" stop="20211016222700 +0000" channel="CinecanalOeste.us"><title lang="es">Hotel Transylvania</title></programme>
+<programme start="20211016222700 +0000" stop="20211017001200 +0000" channel="CinecanalOeste.us"><title lang="es">Hotel Transylvania 2</title></programme>
+<programme start="20211017001200 +0000" stop="20211017030000 +0000" channel="CinecanalOeste.us"><title lang="es">Los juegos del hambre: En llamas</title></programme>
+<programme start="20211017030000 +0000" stop="20211017052500 +0000" channel="CinecanalOeste.us"><title lang="es">Máquinas mortales</title></programme>
+<programme start="20211017052500 +0000" stop="20211017062500 +0000" channel="CinecanalOeste.us"><title lang="es">Magic Mike</title></programme>
+<programme start="20211017052500 +0000" stop="20211017071800 +0000" channel="CinecanalOeste.us"><title lang="es">Magic Mike</title></programme>
+<programme start="20211017071800 +0000" stop="20211017090500 +0000" channel="CinecanalOeste.us"><title lang="es">Correr o morir</title></programme>
+<programme start="20211017090500 +0000" stop="20211017104500 +0000" channel="CinecanalOeste.us"><title lang="es">Espíritus</title></programme>
+<programme start="20211017104500 +0000" stop="20211017120000 +0000" channel="CinecanalOeste.us"><title lang="es">Thor: cuentos de Asgard</title></programme>
+<programme start="20211017120000 +0000" stop="20211017123000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017130000 +0000" stop="20211017133000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017133000 +0000" stop="20211017140000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017140000 +0000" stop="20211017143000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017143000 +0000" stop="20211017150000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017150000 +0000" stop="20211017153000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017153000 +0000" stop="20211017162000 +0000" channel="CinecanalOeste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211017162000 +0000" stop="20211017181000 +0000" channel="CinecanalOeste.us"><title lang="es">Madagascar 3: Los fugitivos</title></programme>
+<programme start="20211017181000 +0000" stop="20211017195000 +0000" channel="CinecanalOeste.us"><title lang="es">Los tuyos, los míos y los nuestros</title></programme>
+<programme start="20211017195000 +0000" stop="20211017220000 +0000" channel="CinecanalOeste.us"><title lang="es">Qué esperar cuando estás esperando</title></programme>
+<programme start="20211017220000 +0000" stop="20211018003000 +0000" channel="CinecanalOeste.us"><title lang="es">Los milagros del Cielo</title></programme>
+<programme start="20211018003000 +0000" stop="20211018030000 +0000" channel="CinecanalOeste.us"><title lang="es">El bebé de Bridget Jones</title></programme>
+<programme start="20211018030000 +0000" stop="20211018053000 +0000" channel="CinecanalOeste.us"><title lang="es">Viudas</title></programme>
+<programme start="20211018053000 +0000" stop="20211018063000 +0000" channel="CinecanalOeste.us"><title lang="es">El código del miedo</title></programme>
+<programme start="20211016022100 +0000" stop="20211016110000 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211016110000 +0000" stop="20211016125700 +0000" channel="CubavisionInternacional.cu"><title lang="es">Revista buenos días</title></programme>
+<programme start="20211016125700 +0000" stop="20211016130000 +0000" channel="CubavisionInternacional.cu"><title lang="es">En la mañana su cartelera</title></programme>
+<programme start="20211016130000 +0000" stop="20211016140000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Conferencia de prensa sobre el enfrentamiento a la Covid-19</title></programme>
+<programme start="20211016140000 +0000" stop="20211016141500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Beto y Enrique, las grandes aventuras</title></programme>
+<programme start="20211016141500 +0000" stop="20211016144500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Corazón feliz</title></programme>
+<programme start="20211016144500 +0000" stop="20211016150000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Muñes en TV</title></programme>
+<programme start="20211016150000 +0000" stop="20211016151500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Travesura musical</title></programme>
+<programme start="20211016151500 +0000" stop="20211016160000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Vuelve a mirar</title></programme>
+<programme start="20211016160000 +0000" stop="20211016170000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Al medio día</title></programme>
+<programme start="20211016170000 +0000" stop="20211016175700 +0000" channel="CubavisionInternacional.cu"><title lang="es">Noticiero del sábado - Emisión del mediodía</title></programme>
+<programme start="20211016175700 +0000" stop="20211016180000 +0000" channel="CubavisionInternacional.cu"><title lang="es">En la tarde su cartelera</title></programme>
+<programme start="20211016180000 +0000" stop="20211016184500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Entre tú y yo</title></programme>
+<programme start="20211016184500 +0000" stop="20211016191500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Lucas</title></programme>
+<programme start="20211016191500 +0000" stop="20211016212700 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211016212700 +0000" stop="20211016213000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Este día</title></programme>
+<programme start="20211016213000 +0000" stop="20211016220000 +0000" channel="CubavisionInternacional.cu"><title lang="es">La cuerda</title></programme>
+<programme start="20211016220000 +0000" stop="20211016223000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Cuba por la salud</title></programme>
+<programme start="20211016223000 +0000" stop="20211017000000 +0000" channel="CubavisionInternacional.cu"><title lang="es">23 y M</title></programme>
+<programme start="20211017000000 +0000" stop="20211017002700 +0000" channel="CubavisionInternacional.cu"><title lang="es">NTV - Emisión estelar</title></programme>
+<programme start="20211017002700 +0000" stop="20211017003000 +0000" channel="CubavisionInternacional.cu"><title lang="es">En la noche su cartelera</title></programme>
+<programme start="20211017003000 +0000" stop="20211017011500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Mujeres ambiciosas</title></programme>
+<programme start="20211017011500 +0000" stop="20211017013000 +0000" channel="CubavisionInternacional.cu"><title lang="es">La hora de Noelia</title></programme>
+<programme start="20211017013000 +0000" stop="20211017021500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Las chicas del cable</title></programme>
+<programme start="20211017021500 +0000" stop="20211017031500 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211017021500 +0000" stop="20211017113000 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211017113000 +0000" stop="20211017125700 +0000" channel="CubavisionInternacional.cu"><title lang="es">Revista buenos días</title></programme>
+<programme start="20211017125700 +0000" stop="20211017130000 +0000" channel="CubavisionInternacional.cu"><title lang="es">En la mañana su cartelera</title></programme>
+<programme start="20211017130000 +0000" stop="20211017140000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Conferencia de prensa sobre el enfrentamiento a la Covid-19</title></programme>
+<programme start="20211017140000 +0000" stop="20211017163000 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211017163000 +0000" stop="20211017165700 +0000" channel="CubavisionInternacional.cu"><title lang="es">Entre recetas</title></programme>
+<programme start="20211017165700 +0000" stop="20211017170000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Este día</title></programme>
+<programme start="20211017170000 +0000" stop="20211017175700 +0000" channel="CubavisionInternacional.cu"><title lang="es">Noticiero del mediodía - Emisión del mediodía</title></programme>
+<programme start="20211017175700 +0000" stop="20211017180000 +0000" channel="CubavisionInternacional.cu"><title lang="es">En la tarde su cartelera</title></programme>
+<programme start="20211017180000 +0000" stop="20211017195000 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211017195000 +0000" stop="20211017205000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Mi vida es un homicidio</title></programme>
+<programme start="20211017205000 +0000" stop="20211017223000 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211017223000 +0000" stop="20211017230000 +0000" channel="CubavisionInternacional.cu"><title lang="es">A otro con ese cuento</title></programme>
+<programme start="20211017230000 +0000" stop="20211018000000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Palmas y cañas</title></programme>
+<programme start="20211018000000 +0000" stop="20211018002700 +0000" channel="CubavisionInternacional.cu"><title lang="es">NTV - Emisión estelar</title></programme>
+<programme start="20211018002700 +0000" stop="20211018003000 +0000" channel="CubavisionInternacional.cu"><title lang="es">En la noche su cartelera</title></programme>
+<programme start="20211018003000 +0000" stop="20211018011500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Tras la huella</title></programme>
+<programme start="20211018011500 +0000" stop="20211018020000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Canción contigo</title></programme>
+<programme start="20211018020000 +0000" stop="20211018021500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Teleavances</title></programme>
+<programme start="20211018021500 +0000" stop="20211018030000 +0000" channel="CubavisionInternacional.cu"><title lang="es">Pasaje a lo desconocido</title></programme>
+<programme start="20211018030000 +0000" stop="20211018050000 +0000" channel="CubavisionInternacional.cu"><title lang="es">A confirmar</title></programme>
+<programme start="20211018050000 +0000" stop="20211018051500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Caribe noticias</title></programme>
+<programme start="20211018051500 +0000" stop="20211018051700 +0000" channel="CubavisionInternacional.cu"><title lang="es">En la madrugada su cartelera</title></programme>
+<programme start="20211018051700 +0000" stop="20211018054500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Telecine</title></programme>
+<programme start="20211018054500 +0000" stop="20211018064500 +0000" channel="CubavisionInternacional.cu"><title lang="es">Telecine</title></programme>
+<programme start="20211016050000 +0000" stop="20211016063000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Upside-Down Magic: escuela de magia</title></programme>
+<programme start="20211016063000 +0000" stop="20211016070000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Hannah Montana</title></programme>
+<programme start="20211016070000 +0000" stop="20211016073000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Austin y Ally</title></programme>
+<programme start="20211016073000 +0000" stop="20211016080000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los hechiceros de Waverly Place</title></programme>
+<programme start="20211016080000 +0000" stop="20211016090000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Soy Luna</title></programme>
+<programme start="20211016090000 +0000" stop="20211016093000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Sydney como Max</title></programme>
+<programme start="20211016093000 +0000" stop="20211016100000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Coop y Cami</title></programme>
+<programme start="20211016100000 +0000" stop="20211016103000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Gabby Duran: niñera de aliens</title></programme>
+<programme start="20211016103000 +0000" stop="20211016110000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Hotel Transylvania: la serie</title></programme>
+<programme start="20211016110000 +0000" stop="20211016113000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211016113000 +0000" stop="20211016114500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Star vs. Las fuerzas del mal</title></programme>
+<programme start="20211016114500 +0000" stop="20211016120000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Cortos Mickey Mouse</title></programme>
+<programme start="20211016120000 +0000" stop="20211016121500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Zip Zip</title></programme>
+<programme start="20211016121500 +0000" stop="20211016123000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Zip Zip</title></programme>
+<programme start="20211016123000 +0000" stop="20211016130000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">¡Vete ya, Unicornio!</title></programme>
+<programme start="20211016130000 +0000" stop="20211016133000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Las aventuras enredadas de Rapunzel</title></programme>
+<programme start="20211016133000 +0000" stop="20211016140000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Glitter Model</title></programme>
+<programme start="20211016140000 +0000" stop="20211016143000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Phineas y Ferb</title></programme>
+<programme start="20211016143000 +0000" stop="20211016150000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Phineas y Ferb</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Phineas y Ferb</title></programme>
+<programme start="20211016160000 +0000" stop="20211016163000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Slime chef</title></programme>
+<programme start="20211016163000 +0000" stop="20211016170000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211016170000 +0000" stop="20211016171500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">¡Vete ya, Unicornio!</title></programme>
+<programme start="20211016171500 +0000" stop="20211016173000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Amphibia</title></programme>
+<programme start="20211016173000 +0000" stop="20211016180000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Las aventuras de Brandy y el Sr. Bigotes</title></programme>
+<programme start="20211016180000 +0000" stop="20211016183000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">The Owl House - La Casa Búho</title></programme>
+<programme start="20211016183000 +0000" stop="20211016184500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Hotel Transylvania: la serie</title></programme>
+<programme start="20211016184500 +0000" stop="20211016190000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Star vs. Las fuerzas del mal</title></programme>
+<programme start="20211016190000 +0000" stop="20211016204500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Brujillizas</title></programme>
+<programme start="20211016204500 +0000" stop="20211016223000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Brujillizas II</title></programme>
+<programme start="20211016223000 +0000" stop="20211016230000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los Green en la gran ciudad</title></programme>
+<programme start="20211016230000 +0000" stop="20211016233000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Gabby Duran: niñera de aliens</title></programme>
+<programme start="20211016233000 +0000" stop="20211017000000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Sydney como Max</title></programme>
+<programme start="20211017000000 +0000" stop="20211017010000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Secretos en Sulphur Springs</title></programme>
+<programme start="20211017010000 +0000" stop="20211017024500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Escalofríos</title></programme>
+<programme start="20211017024500 +0000" stop="20211017043000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Chica vs. Monstruo</title></programme>
+<programme start="20211017043000 +0000" stop="20211017050000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211017050000 +0000" stop="20211017053000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los hechiceros de Waverly Place</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Acampados</title></programme>
+<programme start="20211017060000 +0000" stop="20211017063000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Gabby Duran: niñera de aliens</title></programme>
+<programme start="20211017063000 +0000" stop="20211017070000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Sydney como Max</title></programme>
+<programme start="20211017070000 +0000" stop="20211017073000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Gravity Falls: un verano de misterios</title></programme>
+<programme start="20211017073000 +0000" stop="20211017080000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Coop y Cami</title></programme>
+<programme start="20211017080000 +0000" stop="20211017083000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Las aventuras enredadas de Rapunzel</title></programme>
+<programme start="20211017083000 +0000" stop="20211017090000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los Green en la gran ciudad</title></programme>
+<programme start="20211017090000 +0000" stop="20211017093000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211017093000 +0000" stop="20211017100000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Hotel Transylvania: la serie</title></programme>
+<programme start="20211017100000 +0000" stop="20211017103000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Star vs. Las fuerzas del mal</title></programme>
+<programme start="20211017103000 +0000" stop="20211017110000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Gravity Falls: un verano de misterios</title></programme>
+<programme start="20211017110000 +0000" stop="20211017113000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211017113000 +0000" stop="20211017114500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Star vs. Las fuerzas del mal</title></programme>
+<programme start="20211017114500 +0000" stop="20211017120000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Cortos Mickey Mouse</title></programme>
+<programme start="20211017120000 +0000" stop="20211017121500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Zip Zip</title></programme>
+<programme start="20211017121500 +0000" stop="20211017123000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Zip Zip</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">¡Vete ya, Unicornio!</title></programme>
+<programme start="20211017130000 +0000" stop="20211017133000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Las aventuras enredadas de Rapunzel</title></programme>
+<programme start="20211017133000 +0000" stop="20211017140000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Glitter Model</title></programme>
+<programme start="20211017140000 +0000" stop="20211017143000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los Green en la gran ciudad</title></programme>
+<programme start="20211017143000 +0000" stop="20211017150000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Amphibia</title></programme>
+<programme start="20211017150000 +0000" stop="20211017153000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211017153000 +0000" stop="20211017163000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Secretos en Sulphur Springs</title></programme>
+<programme start="20211017163000 +0000" stop="20211017181500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Espejito, espejito</title></programme>
+<programme start="20211017181500 +0000" stop="20211017183000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Hotel Transylvania: la serie</title></programme>
+<programme start="20211017183000 +0000" stop="20211017190000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Acampados</title></programme>
+<programme start="20211017190000 +0000" stop="20211017210000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Descendientes</title></programme>
+<programme start="20211017210000 +0000" stop="20211017213000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los Green en la gran ciudad</title></programme>
+<programme start="20211017213000 +0000" stop="20211017220000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Slime chef</title></programme>
+<programme start="20211017220000 +0000" stop="20211017223000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Holly Hobbie</title></programme>
+<programme start="20211017223000 +0000" stop="20211017230000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211017230000 +0000" stop="20211017231500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">¡Vete ya, Unicornio!</title></programme>
+<programme start="20211017231500 +0000" stop="20211017233000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Amphibia</title></programme>
+<programme start="20211017233000 +0000" stop="20211018000000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Las aventuras de Brandy y el Sr. Bigotes</title></programme>
+<programme start="20211018000000 +0000" stop="20211018003000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">The Owl House - La Casa Búho</title></programme>
+<programme start="20211018003000 +0000" stop="20211018004500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Hotel Transylvania: la serie</title></programme>
+<programme start="20211018004500 +0000" stop="20211018010000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Star vs. Las fuerzas del mal</title></programme>
+<programme start="20211018010000 +0000" stop="20211018024500 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los hechiceros de Waverly Place: La película</title></programme>
+<programme start="20211018024500 +0000" stop="20211018030000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Star vs. Las fuerzas del mal</title></programme>
+<programme start="20211018030000 +0000" stop="20211018033000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Encuéntrame en París</title></programme>
+<programme start="20211018033000 +0000" stop="20211018040000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Encuéntrame en París</title></programme>
+<programme start="20211018040000 +0000" stop="20211018043000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211018043000 +0000" stop="20211018050000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Prodigiosa: las aventuras de Ladybug</title></programme>
+<programme start="20211018050000 +0000" stop="20211018053000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Los hechiceros de Waverly Place</title></programme>
+<programme start="20211018053000 +0000" stop="20211018063000 +0000" channel="DisneyChannelLatinoamerica.us"><title lang="es">Acampados</title></programme>
+<programme start="20211016060000 +0000" stop="20211016120000 +0000" channel="DTV.hn"><title lang="es">Fin de transmisión</title></programme>
+<programme start="20211016120000 +0000" stop="20211016140000 +0000" channel="DTV.hn"><title lang="es">Animación</title></programme>
+<programme start="20211016140000 +0000" stop="20211016170000 +0000" channel="DTV.hn"><title lang="es">Musicales</title></programme>
+<programme start="20211016170000 +0000" stop="20211016190000 +0000" channel="DTV.hn"><title lang="es">Película familiar</title></programme>
+<programme start="20211016190000 +0000" stop="20211016210000 +0000" channel="DTV.hn"><title lang="es">Musicales</title></programme>
+<programme start="20211016210000 +0000" stop="20211016220000 +0000" channel="DTV.hn"><title lang="es">Serie</title></programme>
+<programme start="20211016220000 +0000" stop="20211017000000 +0000" channel="DTV.hn"><title lang="es">Musicales</title></programme>
+<programme start="20211017000000 +0000" stop="20211017020000 +0000" channel="DTV.hn"><title lang="es">Película familiar</title></programme>
+<programme start="20211017020000 +0000" stop="20211017040000 +0000" channel="DTV.hn"><title lang="es">Series</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="DTV.hn"><title lang="es">Musicales</title></programme>
+<programme start="20211017050000 +0000" stop="20211017060000 +0000" channel="DTV.hn"><title lang="es">Fin de transmisión</title></programme>
+<programme start="20211017050000 +0000" stop="20211017120000 +0000" channel="DTV.hn"><title lang="es">Fin de transmisión</title></programme>
+<programme start="20211017120000 +0000" stop="20211017140000 +0000" channel="DTV.hn"><title lang="es">Animación</title></programme>
+<programme start="20211017140000 +0000" stop="20211017160000 +0000" channel="DTV.hn"><title lang="es">Musicales</title></programme>
+<programme start="20211017160000 +0000" stop="20211017180000 +0000" channel="DTV.hn"><title lang="es">Serie</title></programme>
+<programme start="20211017180000 +0000" stop="20211017210000 +0000" channel="DTV.hn"><title lang="es">Conciertos</title></programme>
+<programme start="20211017210000 +0000" stop="20211017230000 +0000" channel="DTV.hn"><title lang="es">Película familiar</title></programme>
+<programme start="20211017230000 +0000" stop="20211018030000 +0000" channel="DTV.hn"><title lang="es">Series</title></programme>
+<programme start="20211018030000 +0000" stop="20211018050000 +0000" channel="DTV.hn"><title lang="es">Película estelar</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="DTV.hn"><title lang="es">Fin de transmisión</title></programme>
+<programme start="20211016060000 +0000" stop="20211016080000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Montreal (Can) vs. América (Méx)</title></programme>
+<programme start="20211016080000 +0000" stop="20211016090000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211016090000 +0000" stop="20211016100000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211016110000 +0000" stop="20211016120000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Fox Fit</title></programme>
+<programme start="20211016123000 +0000" stop="20211016130000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Fox Fit</title></programme>
+<programme start="20211016130000 +0000" stop="20211016132400 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Bundesliga Weekly</title></programme>
+<programme start="20211016132400 +0000" stop="20211016153000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Friburgo vs. RB Leipzig</title></programme>
+<programme start="20211016153000 +0000" stop="20211016173000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">WWE Smackdown</title></programme>
+<programme start="20211016173000 +0000" stop="20211016180000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">NFL GameDay</title></programme>
+<programme start="20211016180000 +0000" stop="20211016200000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Guadalajara vs. América</title></programme>
+<programme start="20211016200000 +0000" stop="20211016203000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Fox Fight Club</title></programme>
+<programme start="20211016203000 +0000" stop="20211016210000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Inside UFC</title></programme>
+<programme start="20211016210000 +0000" stop="20211017000000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">263: Adesanya vs. Vettori 2</title></programme>
+<programme start="20211017000000 +0000" stop="20211017030000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Juego 1</title></programme>
+<programme start="20211017030000 +0000" stop="20211017040000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211017050000 +0000" stop="20211017060000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211017060000 +0000" stop="20211017080000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Monterrey vs. León</title></programme>
+<programme start="20211017080000 +0000" stop="20211017090000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211017090000 +0000" stop="20211017100000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211017110000 +0000" stop="20211017120000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211017120000 +0000" stop="20211017123000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Fox Fit</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Fox Fit</title></programme>
+<programme start="20211017130000 +0000" stop="20211017140000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211017140000 +0000" stop="20211017150000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211017150000 +0000" stop="20211017153000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Fox Fight Club</title></programme>
+<programme start="20211017153000 +0000" stop="20211017160000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">NFL GameDay</title></programme>
+<programme start="20211017160000 +0000" stop="20211017165000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Impacto N.F.L.</title></programme>
+<programme start="20211017165000 +0000" stop="20211017200000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Kansas City Chiefs vs. Washington Football Team</title></programme>
+<programme start="20211017200000 +0000" stop="20211017230000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Dallas Cowboys vs. New England Patriots</title></programme>
+<programme start="20211017230000 +0000" stop="20211018010000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Budo Sento Championship</title></programme>
+<programme start="20211018010000 +0000" stop="20211018013000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Best of 2020 &amp; 2021</title></programme>
+<programme start="20211018013000 +0000" stop="20211018020000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Hispanic Legends</title></programme>
+<programme start="20211018020000 +0000" stop="20211018030000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Fox Gol México</title></programme>
+<programme start="20211018030000 +0000" stop="20211018040000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="FoxSportsLatinAmerica.us"><title lang="es">Central Fox</title></programme>
+<programme start="20211016060000 +0000" stop="20211016063000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">The Football Review</title></programme>
+<programme start="20211016063000 +0000" stop="20211016070000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">GoGoGoal</title></programme>
+<programme start="20211016070000 +0000" stop="20211016090000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211016090000 +0000" stop="20211016093000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Tu fútbol - Uruguay</title></programme>
+<programme start="20211016093000 +0000" stop="20211016103000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Fanáticos</title></programme>
+<programme start="20211016103000 +0000" stop="20211016123000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211016123000 +0000" stop="20211016143000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211016143000 +0000" stop="20211016150000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Fechas pasadas</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">El show del fútbol</title></programme>
+<programme start="20211016160000 +0000" stop="20211016170000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol noticias</title></programme>
+<programme start="20211016170000 +0000" stop="20211016190000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Fanáticos</title></programme>
+<programme start="20211016200000 +0000" stop="20211016203000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Tu fútbol - Perú</title></programme>
+<programme start="20211016203000 +0000" stop="20211016223000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211016223000 +0000" stop="20211017003000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017003000 +0000" stop="20211017010000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Fechas pasadas</title></programme>
+<programme start="20211017010000 +0000" stop="20211017030000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017030000 +0000" stop="20211017050000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017050000 +0000" stop="20211017060000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017050000 +0000" stop="20211017070000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017070000 +0000" stop="20211017090000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017090000 +0000" stop="20211017110000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017110000 +0000" stop="20211017120000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Fanáticos</title></programme>
+<programme start="20211017120000 +0000" stop="20211017123000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Tu fútbol - Perú</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Fechas pasadas</title></programme>
+<programme start="20211017130000 +0000" stop="20211017150000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017150000 +0000" stop="20211017170000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017170000 +0000" stop="20211017190000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017190000 +0000" stop="20211017210000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017210000 +0000" stop="20211017230000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211017230000 +0000" stop="20211017233000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Tu fútbol - Uruguay</title></programme>
+<programme start="20211017233000 +0000" stop="20211018000000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Tu fútbol - Perú</title></programme>
+<programme start="20211018000000 +0000" stop="20211018020000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211018020000 +0000" stop="20211018040000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="GolTVLatinoamerica.us"><title lang="es">Gol TV</title></programme>
+<programme start="20211016060000 +0000" stop="20211016070000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016070000 +0000" stop="20211016080000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016080000 +0000" stop="20211016090000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016090000 +0000" stop="20211016100000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016110000 +0000" stop="20211016120000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016120000 +0000" stop="20211016130000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016130000 +0000" stop="20211016140000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016140000 +0000" stop="20211016150000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016160000 +0000" stop="20211016170000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016170000 +0000" stop="20211016180000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016210000 +0000" stop="20211016220000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016220000 +0000" stop="20211016230000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016230000 +0000" stop="20211017000000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017000000 +0000" stop="20211017010000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017010000 +0000" stop="20211017020000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017020000 +0000" stop="20211017030000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017030000 +0000" stop="20211017040000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017050000 +0000" stop="20211017060000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017060000 +0000" stop="20211017070000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017070000 +0000" stop="20211017080000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017080000 +0000" stop="20211017090000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017090000 +0000" stop="20211017100000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017110000 +0000" stop="20211017120000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017120000 +0000" stop="20211017130000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017130000 +0000" stop="20211017140000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017140000 +0000" stop="20211017150000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017150000 +0000" stop="20211017160000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017160000 +0000" stop="20211017170000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017170000 +0000" stop="20211017180000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017190000 +0000" stop="20211017200000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017200000 +0000" stop="20211017210000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017210000 +0000" stop="20211017220000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017220000 +0000" stop="20211017230000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211017230000 +0000" stop="20211018000000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211018000000 +0000" stop="20211018010000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211018010000 +0000" stop="20211018020000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211018020000 +0000" stop="20211018030000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211018030000 +0000" stop="20211018040000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="HCH.hn"><title lang="es">HCH Hable como habla</title></programme>
+<programme start="20211016050500 +0000" stop="20211016070500 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Línea mortal</title></programme>
+<programme start="20211016070500 +0000" stop="20211016094500 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Los hijos de la calle</title></programme>
+<programme start="20211016094500 +0000" stop="20211016104500 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211016104500 +0000" stop="20211016110000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211016110000 +0000" stop="20211016112000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211016112000 +0000" stop="20211016122000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211016122000 +0000" stop="20211016140000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Jorge el curioso 3: De regreso a la jungla</title></programme>
+<programme start="20211016140000 +0000" stop="20211016154000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">El gran vuelo</title></programme>
+<programme start="20211016154000 +0000" stop="20211016173000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Año bisiesto</title></programme>
+<programme start="20211016173000 +0000" stop="20211016192000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">La cruda verdad</title></programme>
+<programme start="20211016192000 +0000" stop="20211016210000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Al diablo con el amor</title></programme>
+<programme start="20211016210000 +0000" stop="20211016225500 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Pequeña Italia</title></programme>
+<programme start="20211016225500 +0000" stop="20211017010000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Chef: La receta de la felicidad</title></programme>
+<programme start="20211017010000 +0000" stop="20211017025000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Lowriders: el sueño americano</title></programme>
+<programme start="20211017025000 +0000" stop="20211017044000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Step Up: La revolución</title></programme>
+<programme start="20211017044000 +0000" stop="20211017054000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Gladiador</title></programme>
+<programme start="20211017044000 +0000" stop="20211017073000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Gladiador</title></programme>
+<programme start="20211017073000 +0000" stop="20211017100000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Capitán de mar y guerra</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211017110000 +0000" stop="20211017114500 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211017114500 +0000" stop="20211017134000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Metegol</title></programme>
+<programme start="20211017134000 +0000" stop="20211017154000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Viviendo con mi ex</title></programme>
+<programme start="20211017154000 +0000" stop="20211017172000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Al diablo con el amor</title></programme>
+<programme start="20211017172000 +0000" stop="20211017191500 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Loco por ella</title></programme>
+<programme start="20211017191500 +0000" stop="20211017212000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Chef: La receta de la felicidad</title></programme>
+<programme start="20211017212000 +0000" stop="20211017231000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Lowriders: el sueño americano</title></programme>
+<programme start="20211017231000 +0000" stop="20211018010000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Step Up: La revolución</title></programme>
+<programme start="20211018010000 +0000" stop="20211018031500 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Cincuenta sombras de Grey</title></programme>
+<programme start="20211018031500 +0000" stop="20211018052000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Más notas perfectas</title></programme>
+<programme start="20211018052000 +0000" stop="20211018062000 +0000" channel="StudioUniversalAmericaLatina.us"><title lang="es">Expiación, deseo y pecado</title></programme>
+<programme start="20211016050000 +0000" stop="20211016120000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cierre</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016123000 +0000" stop="20211016130000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016130000 +0000" stop="20211016133000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016133000 +0000" stop="20211016140000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016140000 +0000" stop="20211016143000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016143000 +0000" stop="20211016150000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016150000 +0000" stop="20211016153000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016153000 +0000" stop="20211016163000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016163000 +0000" stop="20211016200000 +0000" channel="Telecadena7y4.hn"><title lang="es">Infantiles</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="Telecadena7y4.hn"><title lang="es">Relatos macabrones</title></programme>
+<programme start="20211016210000 +0000" stop="20211016220000 +0000" channel="Telecadena7y4.hn"><title lang="es">Los Gonzalez</title></programme>
+<programme start="20211016220000 +0000" stop="20211017000000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cine sensacional</title></programme>
+<programme start="20211017000000 +0000" stop="20211017030000 +0000" channel="Telecadena7y4.hn"><title lang="es">Guerreros</title></programme>
+<programme start="20211017030000 +0000" stop="20211017040000 +0000" channel="Telecadena7y4.hn"><title lang="es">Hasta que te conocí</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="Telecadena7y4.hn"><title lang="es">La ley secreta</title></programme>
+<programme start="20211017060000 +0000" stop="20211017123000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cierre</title></programme>
+<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="Telecadena7y4.hn"><title lang="es">Relatos macabrones</title></programme>
+<programme start="20211017130000 +0000" stop="20211017140000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cambiando vidas</title></programme>
+<programme start="20211017140000 +0000" stop="20211017150000 +0000" channel="Telecadena7y4.hn"><title lang="es">Estableciendo el reino de Jesucristo</title></programme>
+<programme start="20211017150000 +0000" stop="20211017163000 +0000" channel="Telecadena7y4.hn"><title lang="es">Abriendo brecha</title></programme>
+<programme start="20211017163000 +0000" stop="20211017200000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cine dominical</title></programme>
+<programme start="20211017200000 +0000" stop="20211017220000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cine mexicano</title></programme>
+<programme start="20211017220000 +0000" stop="20211017233000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cine de cines</title></programme>
+<programme start="20211017233000 +0000" stop="20211018023000 +0000" channel="Telecadena7y4.hn"><title lang="es">Nuestra Belleza Latina</title></programme>
+<programme start="20211018023000 +0000" stop="20211018053000 +0000" channel="Telecadena7y4.hn"><title lang="es">María Magdalena</title></programme>
+<programme start="20211018053000 +0000" stop="20211018063000 +0000" channel="Telecadena7y4.hn"><title lang="es">Cierre</title></programme>
+<programme start="20211016060000 +0000" stop="20211016080000 +0000" channel="Teleceiba.hn"><title lang="es">Primera edición</title></programme>
+<programme start="20211016080000 +0000" stop="20211016090000 +0000" channel="Teleceiba.hn"><title lang="es">Primera edición extra</title></programme>
+<programme start="20211016090000 +0000" stop="20211016110000 +0000" channel="Teleceiba.hn"><title lang="es">Línea directa</title></programme>
+<programme start="20211016110000 +0000" stop="20211016120000 +0000" channel="Teleceiba.hn"><title lang="es">El camino antiguo</title></programme>
+<programme start="20211016120000 +0000" stop="20211016130000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211016130000 +0000" stop="20211016140000 +0000" channel="Teleceiba.hn"><title lang="es">El camino antiguo</title></programme>
+<programme start="20211016140000 +0000" stop="20211016160000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211016160000 +0000" stop="20211016170000 +0000" channel="Teleceiba.hn"><title lang="es">Cocina catracha</title></programme>
+<programme start="20211016170000 +0000" stop="20211016180000 +0000" channel="Teleceiba.hn"><title lang="es">Teledeportes</title></programme>
+<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="Teleceiba.hn"><title lang="es">Telenoticias - Fin de semana</title></programme>
+<programme start="20211016190000 +0000" stop="20211016220000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211016220000 +0000" stop="20211016230000 +0000" channel="Teleceiba.hn"><title lang="es">Qué ondas</title></programme>
+<programme start="20211016230000 +0000" stop="20211017000000 +0000" channel="Teleceiba.hn"><title lang="es">Ciudad paraíso - Fin de semana</title></programme>
+<programme start="20211017000000 +0000" stop="20211017010000 +0000" channel="Teleceiba.hn"><title lang="es">Teledeportes</title></programme>
+<programme start="20211017010000 +0000" stop="20211017013000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211017013000 +0000" stop="20211017023000 +0000" channel="Teleceiba.hn"><title lang="es">Está de moda</title></programme>
+<programme start="20211017023000 +0000" stop="20211017033000 +0000" channel="Teleceiba.hn"><title lang="es">El camino antiguo</title></programme>
+<programme start="20211017033000 +0000" stop="20211017043000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211017043000 +0000" stop="20211017053000 +0000" channel="Teleceiba.hn"><title lang="es">Ciudad paraíso - Fin de semana</title></programme>
+<programme start="20211017043000 +0000" stop="20211017063000 +0000" channel="Teleceiba.hn"><title lang="es">Ciudad paraíso - Fin de semana</title></programme>
+<programme start="20211017063000 +0000" stop="20211017090000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211017090000 +0000" stop="20211017100000 +0000" channel="Teleceiba.hn"><title lang="es">Está de moda</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="Teleceiba.hn"><title lang="es">Telenoticias - Fin de semana</title></programme>
+<programme start="20211017110000 +0000" stop="20211017130000 +0000" channel="Teleceiba.hn"><title lang="es">Cocina catracha</title></programme>
+<programme start="20211017130000 +0000" stop="20211017140000 +0000" channel="Teleceiba.hn"><title lang="es">El camino antiguo</title></programme>
+<programme start="20211017140000 +0000" stop="20211017160000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211017160000 +0000" stop="20211017170000 +0000" channel="Teleceiba.hn"><title lang="es">Ciudad paraíso - Fin de semana</title></programme>
+<programme start="20211017170000 +0000" stop="20211017180000 +0000" channel="Teleceiba.hn"><title lang="es">Qué ondas</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="Teleceiba.hn"><title lang="es">Telenoticias - Fin de semana</title></programme>
+<programme start="20211017190000 +0000" stop="20211017200000 +0000" channel="Teleceiba.hn"><title lang="es">Está de moda</title></programme>
+<programme start="20211017200000 +0000" stop="20211017230000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211017230000 +0000" stop="20211018000000 +0000" channel="Teleceiba.hn"><title lang="es">Ciudad paraíso - Fin de semana</title></programme>
+<programme start="20211018000000 +0000" stop="20211018010000 +0000" channel="Teleceiba.hn"><title lang="es">Misa dominical</title></programme>
+<programme start="20211018010000 +0000" stop="20211018023000 +0000" channel="Teleceiba.hn"><title lang="es">Conversando con Margie</title></programme>
+<programme start="20211018023000 +0000" stop="20211018040000 +0000" channel="Teleceiba.hn"><title lang="es">El camino antiguo</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="Teleceiba.hn"><title lang="es">Teleceiba Music</title></programme>
+<programme start="20211016053000 +0000" stop="20211016063000 +0000" channel="Telesistema3y7.hn"><title lang="es">Las dueñas del balón</title></programme>
+<programme start="20211016063000 +0000" stop="20211016080000 +0000" channel="Telesistema3y7.hn"><title lang="es">Hoy mismo</title></programme>
+<programme start="20211016080000 +0000" stop="20211016083000 +0000" channel="Telesistema3y7.hn"><title lang="es">El mundo al día VOA</title></programme>
+<programme start="20211016083000 +0000" stop="20211016093000 +0000" channel="Telesistema3y7.hn"><title lang="es">Las dueñas del balón</title></programme>
+<programme start="20211016093000 +0000" stop="20211016100000 +0000" channel="Telesistema3y7.hn"><title lang="es">Día político</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="Telesistema3y7.hn"><title lang="es">Con Pineda Chacón</title></programme>
+<programme start="20211016110000 +0000" stop="20211016120000 +0000" channel="Telesistema3y7.hn"><title lang="es">Fútbol a fondo</title></programme>
+<programme start="20211016120000 +0000" stop="20211016123000 +0000" channel="Telesistema3y7.hn"><title lang="es">More Curious</title></programme>
+<programme start="20211016123000 +0000" stop="20211016133000 +0000" channel="Telesistema3y7.hn"><title lang="es">Al banquillo</title></programme>
+<programme start="20211016133000 +0000" stop="20211016140000 +0000" channel="Telesistema3y7.hn"><title lang="es">Noticiero infantil TSI</title></programme>
+<programme start="20211016140000 +0000" stop="20211016150000 +0000" channel="Telesistema3y7.hn"><title lang="es">Datos de cabeza</title></programme>
+<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="Telesistema3y7.hn"><title lang="es">Aquí con mi médico</title></programme>
+<programme start="20211016160000 +0000" stop="20211016170000 +0000" channel="Telesistema3y7.hn"><title lang="es">Lo mejor de la semana: Las dueñas del balón</title></programme>
+<programme start="20211016170000 +0000" stop="20211016180000 +0000" channel="Telesistema3y7.hn"><title lang="es">Agenda retro</title></programme>
+<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="Telesistema3y7.hn"><title lang="es">Hoy mismo sabatino</title></programme>
+<programme start="20211016190000 +0000" stop="20211016193000 +0000" channel="Telesistema3y7.hn"><title lang="es">Motagua TV</title></programme>
+<programme start="20211016193000 +0000" stop="20211016200000 +0000" channel="Telesistema3y7.hn"><title lang="es">Héroes del fútbol</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="Telesistema3y7.hn"><title lang="es">Sobre ruedas</title></programme>
+<programme start="20211016210000 +0000" stop="20211016220000 +0000" channel="Telesistema3y7.hn"><title lang="es">Dale play</title></programme>
+<programme start="20211016220000 +0000" stop="20211016230000 +0000" channel="Telesistema3y7.hn"><title lang="es">Myrna vs. Binbo</title></programme>
+<programme start="20211016230000 +0000" stop="20211017000000 +0000" channel="Telesistema3y7.hn"><title lang="es">La hora del té</title></programme>
+<programme start="20211017000000 +0000" stop="20211017010000 +0000" channel="Telesistema3y7.hn"><title lang="es">Hoy mismo sabatino</title></programme>
+<programme start="20211017010000 +0000" stop="20211017033000 +0000" channel="Telesistema3y7.hn"><title lang="es">Partido en repetición</title></programme>
+<programme start="20211017033000 +0000" stop="20211017043000 +0000" channel="Telesistema3y7.hn"><title lang="es">Con Pineda Chacón</title></programme>
+<programme start="20211017043000 +0000" stop="20211017053000 +0000" channel="Telesistema3y7.hn"><title lang="es">Más noche</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="Telesistema3y7.hn"><title lang="es">Miembros al aire</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="Telesistema3y7.hn"><title lang="es">Miembros al aire</title></programme>
+<programme start="20211017063000 +0000" stop="20211017073000 +0000" channel="Telesistema3y7.hn"><title lang="es">Sobre ruedas</title></programme>
+<programme start="20211017073000 +0000" stop="20211017083000 +0000" channel="Telesistema3y7.hn"><title lang="es">La hora del té</title></programme>
+<programme start="20211017083000 +0000" stop="20211017093000 +0000" channel="Telesistema3y7.hn"><title lang="es">Más noche</title></programme>
+<programme start="20211017093000 +0000" stop="20211017103000 +0000" channel="Telesistema3y7.hn"><title lang="es">Miembros al aire</title></programme>
+<programme start="20211017103000 +0000" stop="20211017113000 +0000" channel="Telesistema3y7.hn"><title lang="es">El mejor programa al banquillo</title></programme>
+<programme start="20211017113000 +0000" stop="20211017123000 +0000" channel="Telesistema3y7.hn"><title lang="es">Hoy mismo sabatino</title></programme>
+<programme start="20211017123000 +0000" stop="20211017133000 +0000" channel="Telesistema3y7.hn"><title lang="es">Misa dominical</title></programme>
+<programme start="20211017133000 +0000" stop="20211017140000 +0000" channel="Telesistema3y7.hn"><title lang="es">Foro Interamericano VOA</title></programme>
+<programme start="20211017140000 +0000" stop="20211017150000 +0000" channel="Telesistema3y7.hn"><title lang="es">Aquí con mi médico</title></programme>
+<programme start="20211017150000 +0000" stop="20211017160000 +0000" channel="Telesistema3y7.hn"><title lang="es">Datos de cabeza</title></programme>
+<programme start="20211017160000 +0000" stop="20211017170000 +0000" channel="Telesistema3y7.hn"><title lang="es">Dale play</title></programme>
+<programme start="20211017170000 +0000" stop="20211017180000 +0000" channel="Telesistema3y7.hn"><title lang="es">Netas divinas</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="Telesistema3y7.hn"><title lang="es">Hoy mismo dominical</title></programme>
+<programme start="20211017190000 +0000" stop="20211017193000 +0000" channel="Telesistema3y7.hn"><title lang="es">Rey de copas</title></programme>
+<programme start="20211017193000 +0000" stop="20211017203000 +0000" channel="Telesistema3y7.hn"><title lang="es">Con Pineda Chacón</title></programme>
+<programme start="20211017203000 +0000" stop="20211017213000 +0000" channel="Telesistema3y7.hn"><title lang="es">Agenda retro</title></programme>
+<programme start="20211017213000 +0000" stop="20211017223000 +0000" channel="Telesistema3y7.hn"><title lang="es">Myrna vs. Binbo</title></programme>
+<programme start="20211017223000 +0000" stop="20211017230000 +0000" channel="Telesistema3y7.hn"><title lang="es">Dentro de las cosas</title></programme>
+<programme start="20211017230000 +0000" stop="20211018000000 +0000" channel="Telesistema3y7.hn"><title lang="es">Banegas</title></programme>
+<programme start="20211018000000 +0000" stop="20211018010000 +0000" channel="Telesistema3y7.hn"><title lang="es">TN5 Dominical</title></programme>
+<programme start="20211018010000 +0000" stop="20211018020000 +0000" channel="Telesistema3y7.hn"><title lang="es">Gente</title></programme>
+<programme start="20211018020000 +0000" stop="20211018031500 +0000" channel="Telesistema3y7.hn"><title lang="es">30/30</title></programme>
+<programme start="20211018031500 +0000" stop="20211018050000 +0000" channel="Telesistema3y7.hn"><title lang="es">La noche del gol</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="Telesistema3y7.hn"><title lang="es">Liga Nacional de Honduras</title></programme>
+<programme start="20211016051500 +0000" stop="20211016073000 +0000" channel="Televicentro.hn"><title lang="es">Frente a frente</title></programme>
+<programme start="20211016073000 +0000" stop="20211016103000 +0000" channel="Televicentro.hn"><title lang="es">Las mañanas del 5</title></programme>
+<programme start="20211016103000 +0000" stop="20211016113000 +0000" channel="Televicentro.hn"><title lang="es">La cocina del Cinco</title></programme>
+<programme start="20211016113000 +0000" stop="20211016120000 +0000" channel="Televicentro.hn"><title lang="es">Caso cerrado</title></programme>
+<programme start="20211016120000 +0000" stop="20211016130000 +0000" channel="Televicentro.hn"><title lang="es">Noticiero TN5 Estelar</title></programme>
+<programme start="20211016130000 +0000" stop="20211016140000 +0000" channel="Televicentro.hn"><title lang="es">TN5 Matutino</title></programme>
+<programme start="20211016140000 +0000" stop="20211016160000 +0000" channel="Televicentro.hn"><title lang="es">Alborada</title></programme>
+<programme start="20211016160000 +0000" stop="20211016170000 +0000" channel="Televicentro.hn"><title lang="es">La rosa de Guadalupe</title></programme>
+<programme start="20211016170000 +0000" stop="20211016180000 +0000" channel="Televicentro.hn"><title lang="es">La cocina del Cinco</title></programme>
+<programme start="20211016180000 +0000" stop="20211016200000 +0000" channel="Televicentro.hn"><title lang="es">Macaneo TV</title></programme>
+<programme start="20211016200000 +0000" stop="20211016220000 +0000" channel="Televicentro.hn"><title lang="es">Sábado feliz</title></programme>
+<programme start="20211016220000 +0000" stop="20211017000000 +0000" channel="Televicentro.hn"><title lang="es">Cine de la tarde</title></programme>
+<programme start="20211017000000 +0000" stop="20211017020000 +0000" channel="Televicentro.hn"><title lang="es">Cantinflas</title></programme>
+<programme start="20211017020000 +0000" stop="20211017043000 +0000" channel="Televicentro.hn"><title lang="es">Los del cuarto</title></programme>
+<programme start="20211017043000 +0000" stop="20211017053000 +0000" channel="Televicentro.hn"><title lang="es">Cine de media noche</title></programme>
+<programme start="20211017043000 +0000" stop="20211017063000 +0000" channel="Televicentro.hn"><title lang="es">Cine de media noche</title></programme>
+<programme start="20211017063000 +0000" stop="20211017083000 +0000" channel="Televicentro.hn"><title lang="es">Macaneo TV</title></programme>
+<programme start="20211017083000 +0000" stop="20211017113000 +0000" channel="Televicentro.hn"><title lang="es">Sábado feliz</title></programme>
+<programme start="20211017113000 +0000" stop="20211017120000 +0000" channel="Televicentro.hn"><title lang="es">Caso cerrado</title></programme>
+<programme start="20211017120000 +0000" stop="20211017140000 +0000" channel="Televicentro.hn"><title lang="es">Cantinflas</title></programme>
+<programme start="20211017140000 +0000" stop="20211017180000 +0000" channel="Televicentro.hn"><title lang="es">Cinco deportivo</title></programme>
+<programme start="20211017180000 +0000" stop="20211017203000 +0000" channel="Televicentro.hn"><title lang="es">X-0 da dinero</title></programme>
+<programme start="20211017203000 +0000" stop="20211017213000 +0000" channel="Televicentro.hn"><title lang="es">Minuto para ganar</title></programme>
+<programme start="20211017213000 +0000" stop="20211018000000 +0000" channel="Televicentro.hn"><title lang="es">Cine matineé</title></programme>
+<programme start="20211018000000 +0000" stop="20211018020000 +0000" channel="Televicentro.hn"><title lang="es">TN5 Dominical</title></programme>
+<programme start="20211018020000 +0000" stop="20211018040000 +0000" channel="Televicentro.hn"><title lang="es">Noche de gala</title></programme>
+<programme start="20211018040000 +0000" stop="20211018050000 +0000" channel="Televicentro.hn"><title lang="es">Banegas</title></programme>
+<programme start="20211016044000 +0000" stop="20211016063500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Mamma Mia!: La película</title></programme>
+<programme start="20211016063500 +0000" stop="20211016072500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Dr. House</title></programme>
+<programme start="20211016072500 +0000" stop="20211016081500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Dr. House</title></programme>
+<programme start="20211016081500 +0000" stop="20211016090500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago Med</title></programme>
+<programme start="20211016090500 +0000" stop="20211016104500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Hermanastros</title></programme>
+<programme start="20211016104500 +0000" stop="20211016110000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211016110000 +0000" stop="20211016140000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Programación pagada</title></programme>
+<programme start="20211016140000 +0000" stop="20211016141500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211016141500 +0000" stop="20211016151000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Dr. House</title></programme>
+<programme start="20211016151000 +0000" stop="20211016160000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Dr. House</title></programme>
+<programme start="20211016160000 +0000" stop="20211016165000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">MacGyver</title></programme>
+<programme start="20211016165000 +0000" stop="20211016174000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Magnum</title></programme>
+<programme start="20211016174000 +0000" stop="20211016183000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La forense</title></programme>
+<programme start="20211016183000 +0000" stop="20211016192000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Deputy</title></programme>
+<programme start="20211016192000 +0000" stop="20211016201000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">El novato</title></programme>
+<programme start="20211016201000 +0000" stop="20211016210000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211016210000 +0000" stop="20211016215000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211016215000 +0000" stop="20211016224000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211016224000 +0000" stop="20211016233000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211016233000 +0000" stop="20211017002000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017002000 +0000" stop="20211017011000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017011000 +0000" stop="20211017020000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017020000 +0000" stop="20211017040000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Mamma Mia! Vamos otra vez</title></programme>
+<programme start="20211017040000 +0000" stop="20211017050000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Enamorándome de mi ex</title></programme>
+<programme start="20211017040000 +0000" stop="20211017061000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Enamorándome de mi ex</title></programme>
+<programme start="20211017061000 +0000" stop="20211017070000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago Fire</title></programme>
+<programme start="20211017070000 +0000" stop="20211017075000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago Fire</title></programme>
+<programme start="20211017075000 +0000" stop="20211017084000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago Fire</title></programme>
+<programme start="20211017084000 +0000" stop="20211017093000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago Fire</title></programme>
+<programme start="20211017093000 +0000" stop="20211017101500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago Fire</title></programme>
+<programme start="20211017101500 +0000" stop="20211017110000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago Fire</title></programme>
+<programme start="20211017110000 +0000" stop="20211017140000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Programación pagada</title></programme>
+<programme start="20211017140000 +0000" stop="20211017141500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Hollywood en primer plano</title></programme>
+<programme start="20211017141500 +0000" stop="20211017151000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Dr. House</title></programme>
+<programme start="20211017151000 +0000" stop="20211017160000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Dr. House</title></programme>
+<programme start="20211017160000 +0000" stop="20211017165000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">MacGyver</title></programme>
+<programme start="20211017165000 +0000" stop="20211017174000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017174000 +0000" stop="20211017183000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017183000 +0000" stop="20211017192000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017192000 +0000" stop="20211017201000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017201000 +0000" stop="20211017210000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211017210000 +0000" stop="20211017215000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211017215000 +0000" stop="20211017224000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211017224000 +0000" stop="20211017233000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211017233000 +0000" stop="20211018002000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211018002000 +0000" stop="20211018011000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211018011000 +0000" stop="20211018020000 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211018020000 +0000" stop="20211018035500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Mamma Mia!: La película</title></programme>
+<programme start="20211018035500 +0000" stop="20211018055500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Mamma Mia! Vamos otra vez</title></programme>
+<programme start="20211018055500 +0000" stop="20211018065500 +0000" channel="UniversalTVAmericaLatinaOeste.us"><title lang="es">Chicago P.D.</title></programme>
+<programme start="20211016060000 +0000" stop="20211016080000 +0000" channel="VTV.hn"><title lang="es">El Gran Hotel</title></programme>
+<programme start="20211016080000 +0000" stop="20211016090000 +0000" channel="VTV.hn"><title lang="es">Numb3rs</title></programme>
+<programme start="20211016090000 +0000" stop="20211016100000 +0000" channel="VTV.hn"><title lang="es">Walker Texas Ranger</title></programme>
+<programme start="20211016100000 +0000" stop="20211016110000 +0000" channel="VTV.hn"><title lang="es">Highlander: el inmortal</title></programme>
+<programme start="20211016110000 +0000" stop="20211016130000 +0000" channel="VTV.hn"><title lang="es">MacGyver</title></programme>
+<programme start="20211016130000 +0000" stop="20211016133000 +0000" channel="VTV.hn"><title lang="es">3, 2, 1, ¡Vamos!</title></programme>
+<programme start="20211016133000 +0000" stop="20211016140000 +0000" channel="VTV.hn"><title lang="es">9-1-1</title></programme>
+<programme start="20211016140000 +0000" stop="20211016150000 +0000" channel="VTV.hn"><title lang="es">Honduras avanza</title></programme>
+<programme start="20211016150000 +0000" stop="20211016153000 +0000" channel="VTV.hn"><title lang="es">La pantera rosa</title></programme>
+<programme start="20211016153000 +0000" stop="20211016163000 +0000" channel="VTV.hn"><title lang="es">El conciertazo</title></programme>
+<programme start="20211016163000 +0000" stop="20211016170000 +0000" channel="VTV.hn"><title lang="es">El show de la Pantera Rosa</title></programme>
+<programme start="20211016170000 +0000" stop="20211016180000 +0000" channel="VTV.hn"><title lang="es">Raw</title></programme>
+<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="VTV.hn"><title lang="es">Desafío extremo</title></programme>
+<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="VTV.hn"><title lang="es">Saber y ganar</title></programme>
+<programme start="20211016200000 +0000" stop="20211016210000 +0000" channel="VTV.hn"><title lang="es">XRC Extreme Reality</title></programme>
+<programme start="20211016210000 +0000" stop="20211016230000 +0000" channel="VTV.hn"><title lang="es">MTV Fear Factor</title></programme>
+<programme start="20211016230000 +0000" stop="20211017000000 +0000" channel="VTV.hn"><title lang="es">Raw</title></programme>
+<programme start="20211017000000 +0000" stop="20211017010000 +0000" channel="VTV.hn"><title lang="es">Al sur de la frontera</title></programme>
+<programme start="20211017010000 +0000" stop="20211017020000 +0000" channel="VTV.hn"><title lang="es">Alerta cobra</title></programme>
+<programme start="20211017020000 +0000" stop="20211017050000 +0000" channel="VTV.hn"><title lang="es">Into the Badlands</title></programme>
+<programme start="20211017050000 +0000" stop="20211017060000 +0000" channel="VTV.hn"><title lang="es">Spartacus</title></programme>
+<programme start="20211017090000 +0000" stop="20211017100000 +0000" channel="VTV.hn"><title lang="es">No matarás</title></programme>
+<programme start="20211017100000 +0000" stop="20211017110000 +0000" channel="VTV.hn"><title lang="es">Fear Itself</title></programme>
+<programme start="20211017110000 +0000" stop="20211017130000 +0000" channel="VTV.hn"><title lang="es">Intelligence</title></programme>
+<programme start="20211017130000 +0000" stop="20211017150000 +0000" channel="VTV.hn"><title lang="es">3, 2, 1, ¡Vamos!</title></programme>
+<programme start="20211017150000 +0000" stop="20211017153000 +0000" channel="VTV.hn"><title lang="es">La pantera rosa</title></programme>
+<programme start="20211017153000 +0000" stop="20211017163000 +0000" channel="VTV.hn"><title lang="es">El conciertazo</title></programme>
+<programme start="20211017163000 +0000" stop="20211017170000 +0000" channel="VTV.hn"><title lang="es">La nueva Honduras</title></programme>
+<programme start="20211017170000 +0000" stop="20211017180000 +0000" channel="VTV.hn"><title lang="es">Makdown</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="VTV.hn"><title lang="es">Desafío extremo</title></programme>
+<programme start="20211017190000 +0000" stop="20211017200000 +0000" channel="VTV.hn"><title lang="es">Saber y ganar</title></programme>
+<programme start="20211017200000 +0000" stop="20211017210000 +0000" channel="VTV.hn"><title lang="es">XRC Extreme Reality</title></programme>
+<programme start="20211017210000 +0000" stop="20211017230000 +0000" channel="VTV.hn"><title lang="es">MTV Fear Factor</title></programme>
+<programme start="20211017230000 +0000" stop="20211018010000 +0000" channel="VTV.hn"><title lang="es">Smackdown</title></programme>
+<programme start="20211018010000 +0000" stop="20211018020000 +0000" channel="VTV.hn"><title lang="es">Alerta cobra</title></programme>
+<programme start="20211018020000 +0000" stop="20211018050000 +0000" channel="VTV.hn"><title lang="es">Locura digital</title></programme>
+<programme start="20211018050000 +0000" stop="20211018060000 +0000" channel="VTV.hn"><title lang="es">Spartacus</title></programme>
+</tv>

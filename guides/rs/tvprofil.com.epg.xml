@@ -6,28 +6,6 @@
 <channel id="TVBelleAmie.rs"><display-name>TV Belle Amie</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-belle-amie-logo.png"/></channel>
 <channel id="TVGalaksija32.rs"><display-name>TV Galaksija 32</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/tv-galaksija-logo.png"/></channel>
 <channel id="TV1000RusskoeKino.se"><display-name>TV 1000 Russkoe Kino</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TV1000_Russkoe_Kino_logo.png"/></channel>
-<programme start="20211016040000 +0000" stop="20211016044000 +0000" channel="RTLPlus.de"><title lang="hr">Benny Hill Show</title></programme>
-<programme start="20211016044000 +0000" stop="20211016054000 +0000" channel="RTLPlus.de"><title lang="hr">Kész Átverés!</title></programme>
-<programme start="20211016054000 +0000" stop="20211016061000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
-<programme start="20211016061000 +0000" stop="20211016064000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
-<programme start="20211016064000 +0000" stop="20211016071000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
-<programme start="20211016071000 +0000" stop="20211016074000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
-<programme start="20211016074000 +0000" stop="20211016081000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
-<programme start="20211016081000 +0000" stop="20211016091000 +0000" channel="RTLPlus.de"><title lang="hr">Baywatch</title></programme>
-<programme start="20211016091000 +0000" stop="20211016101000 +0000" channel="RTLPlus.de"><title lang="hr">Baywatch</title></programme>
-<programme start="20211016101000 +0000" stop="20211016111500 +0000" channel="RTLPlus.de"><title lang="hr">UEFA Magazin 2021/22</title></programme>
-<programme start="20211016111500 +0000" stop="20211016122000 +0000" channel="RTLPlus.de"><title lang="hr">Alarm für Cobra 11 - Die Autobahnpolizei</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2257900_1445130310.jpg"/></programme>
-<programme start="20211016122000 +0000" stop="20211016132500 +0000" channel="RTLPlus.de"><title lang="hr">Alarm für Cobra 11 - Die Autobahnpolizei</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2257900_1445130310.jpg"/></programme>
-<programme start="20211016132500 +0000" stop="20211016143000 +0000" channel="RTLPlus.de"><title lang="hr">Alarm für Cobra 11 - Die Autobahnpolizei</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2257900_1445130310.jpg"/></programme>
-<programme start="20211016143000 +0000" stop="20211016153500 +0000" channel="RTLPlus.de"><title lang="hr">Alarm für Cobra 11 - Die Autobahnpolizei</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2257900_1445130310.jpg"/></programme>
-<programme start="20211016153500 +0000" stop="20211016164000 +0000" channel="RTLPlus.de"><title lang="hr">Alarm für Cobra 11 - Die Autobahnpolizei</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2257900_1445130310.jpg"/></programme>
-<programme start="20211016164000 +0000" stop="20211016185000 +0000" channel="RTLPlus.de"><title lang="hr">Kémecském</title></programme>
-<programme start="20211016185000 +0000" stop="20211016212000 +0000" channel="RTLPlus.de"><title lang="hr">Inspektor Fletfut u AfriciPiedone l&apos;Africano (1978)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402293-tv1577914.jpg"/></programme>
-<programme start="20211016212000 +0000" stop="20211016235000 +0000" channel="RTLPlus.de"><title lang="hr">Fékezhetetlen</title></programme>
-<programme start="20211016235000 +0000" stop="20211017015000 +0000" channel="RTLPlus.de"><title lang="hr">Stone</title></programme>
-<programme start="20211017020000 +0000" stop="20211017030000 +0000" channel="RTLPlus.de"><title lang="hr">Győzike Show</title></programme>
-<programme start="20211017030000 +0000" stop="20211017033000 +0000" channel="RTLPlus.de"><title lang="hr">Nevess csak!</title></programme>
-<programme start="20211017033000 +0000" stop="20211017040000 +0000" channel="RTLPlus.de"><title lang="hr">Nevess csak!</title></programme>
 <programme start="20211017040000 +0000" stop="20211017044000 +0000" channel="RTLPlus.de"><title lang="hr">Benny Hill Show</title></programme>
 <programme start="20211017044000 +0000" stop="20211017054000 +0000" channel="RTLPlus.de"><title lang="hr">Kész Átverés!</title></programme>
 <programme start="20211017054000 +0000" stop="20211017061000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
@@ -49,20 +27,31 @@
 <programme start="20211017233000 +0000" stop="20211018013000 +0000" channel="RTLPlus.de"><title lang="hr">Fékezhetetlen</title></programme>
 <programme start="20211018020000 +0000" stop="20211018030000 +0000" channel="RTLPlus.de"><title lang="hr">Harmadik műszak</title></programme>
 <programme start="20211018030000 +0000" stop="20211018040000 +0000" channel="RTLPlus.de"><title lang="hr">Kész Átverés!</title></programme>
-<programme start="20211016050500 +0000" stop="20211016052500 +0000" channel="Kazbuka.rs"><title lang="hr">Thomas</title></programme>
-<programme start="20211016052500 +0000" stop="20211016053500 +0000" channel="Kazbuka.rs"><title lang="hr">Pepa Prase</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img367929-tv2567394.jpg"/></programme>
-<programme start="20211016053500 +0000" stop="20211016054000 +0000" channel="Kazbuka.rs"><title lang="hr">Majstorčići</title></programme>
-<programme start="20211016054000 +0000" stop="20211016060000 +0000" channel="Kazbuka.rs"><title lang="hr">Raspakivanje</title></programme>
-<programme start="20211016060000 +0000" stop="20211016060500 +0000" channel="Kazbuka.rs"><title lang="hr">Nepotrebno znanje</title></programme>
-<programme start="20211016060500 +0000" stop="20211016061500 +0000" channel="Kazbuka.rs"><title lang="hr">Brojanje sa Paulom</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img357596-tv10570667.jpg"/></programme>
-<programme start="20211016061500 +0000" stop="20211016070000 +0000" channel="Kazbuka.rs"><title lang="hr">Problemdžije</title></programme>
-<programme start="20211016070000 +0000" stop="20211016072500 +0000" channel="Kazbuka.rs"><title lang="hr">Super baka</title></programme>
-<programme start="20211016072500 +0000" stop="20211016083500 +0000" channel="Kazbuka.rs"><title lang="hr">Da li možeš?</title></programme>
-<programme start="20211016083500 +0000" stop="20211016090000 +0000" channel="Kazbuka.rs"><title lang="hr">Poslovi</title></programme>
-<programme start="20211016090000 +0000" stop="20211016093000 +0000" channel="Kazbuka.rs"><title lang="hr">Ćaskalica</title></programme>
-<programme start="20211016093000 +0000" stop="20211016110000 +0000" channel="Kazbuka.rs"><title lang="hr">Klub 57</title></programme>
-<programme start="20211016110000 +0000" stop="20211016120000 +0000" channel="Kazbuka.rs"><title lang="hr">Dance Moms</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img355077-tv11364944.jpg"/></programme>
-<programme start="20211016120000 +0000" stop="20211016140000 +0000" channel="Kazbuka.rs"><title lang="hr">Mozgalići</title></programme>
+<programme start="20211018040000 +0000" stop="20211018043000 +0000" channel="RTLPlus.de"><title lang="hr">Pingvini sa Madagaskara</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img353474-tv4230756.jpg"/></programme>
+<programme start="20211018043000 +0000" stop="20211018050000 +0000" channel="RTLPlus.de"><title lang="hr">Pingvini sa Madagaskara</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img353474-tv4230756.jpg"/></programme>
+<programme start="20211018050000 +0000" stop="20211018053000 +0000" channel="RTLPlus.de"><title lang="hr">Nevess csak!</title></programme>
+<programme start="20211018053000 +0000" stop="20211018061000 +0000" channel="RTLPlus.de"><title lang="hr">Benny Hill Show</title></programme>
+<programme start="20211018061000 +0000" stop="20211018065000 +0000" channel="RTLPlus.de"><title lang="hr">Benny Hill Show</title></programme>
+<programme start="20211018065000 +0000" stop="20211018075000 +0000" channel="RTLPlus.de"><title lang="hr">Baywatch</title></programme>
+<programme start="20211018075000 +0000" stop="20211018082000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
+<programme start="20211018082000 +0000" stop="20211018085000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
+<programme start="20211018085000 +0000" stop="20211018092000 +0000" channel="RTLPlus.de"><title lang="hr">A dadus</title></programme>
+<programme start="20211018092000 +0000" stop="20211018113000 +0000" channel="RTLPlus.de"><title lang="hr">A Midsomer gyilkosságok</title></programme>
+<programme start="20211018113000 +0000" stop="20211018134000 +0000" channel="RTLPlus.de"><title lang="hr">A Midsomer gyilkosságok</title></programme>
+<programme start="20211018134000 +0000" stop="20211018144500 +0000" channel="RTLPlus.de"><title lang="hr">Medicopter 117 - Jedes Leben zählt</title></programme>
+<programme start="20211018144500 +0000" stop="20211018155000 +0000" channel="RTLPlus.de"><title lang="hr">Medicopter 117 - Jedes Leben zählt</title></programme>
+<programme start="20211018155000 +0000" stop="20211018165500 +0000" channel="RTLPlus.de"><title lang="hr">Alarm für Cobra 11 - Die Autobahnpolizei</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2257900_1445130310.jpg"/></programme>
+<programme start="20211018165500 +0000" stop="20211018180000 +0000" channel="RTLPlus.de"><title lang="hr">Alarm für Cobra 11 - Die Autobahnpolizei</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2257900_1445130310.jpg"/></programme>
+<programme start="20211018180000 +0000" stop="20211018190000 +0000" channel="RTLPlus.de"><title lang="hr">Baywatch</title></programme>
+<programme start="20211018190000 +0000" stop="20211018200000 +0000" channel="RTLPlus.de"><title lang="hr">Harmadik műszak</title></programme>
+<programme start="20211018200000 +0000" stop="20211018210000 +0000" channel="RTLPlus.de"><title lang="hr">Gyilkos vagy áldozat?</title></programme>
+<programme start="20211018210000 +0000" stop="20211018220000 +0000" channel="RTLPlus.de"><title lang="hr">Hidegvérrel</title></programme>
+<programme start="20211018220000 +0000" stop="20211018230000 +0000" channel="RTLPlus.de"><title lang="hr">Gyilkos kapcsolatok</title></programme>
+<programme start="20211018230000 +0000" stop="20211019000000 +0000" channel="RTLPlus.de"><title lang="hr">Gyilkos vagy áldozat?</title></programme>
+<programme start="20211019000000 +0000" stop="20211019010000 +0000" channel="RTLPlus.de"><title lang="hr">Hidegvérrel</title></programme>
+<programme start="20211019010000 +0000" stop="20211019020000 +0000" channel="RTLPlus.de"><title lang="hr">Gyilkos kapcsolatok</title></programme>
+<programme start="20211019020000 +0000" stop="20211019030000 +0000" channel="RTLPlus.de"><title lang="hr">Harmadik műszak</title></programme>
+<programme start="20211019030000 +0000" stop="20211019040000 +0000" channel="RTLPlus.de"><title lang="hr">Kész Átverés!</title></programme>
 <programme start="20211017050500 +0000" stop="20211017052500 +0000" channel="Kazbuka.rs"><title lang="hr">Thomas</title></programme>
 <programme start="20211017052500 +0000" stop="20211017053500 +0000" channel="Kazbuka.rs"><title lang="hr">Pepa Prase</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img367929-tv2567394.jpg"/></programme>
 <programme start="20211017053500 +0000" stop="20211017054000 +0000" channel="Kazbuka.rs"><title lang="hr">Majstorčići</title></programme>
@@ -77,81 +66,79 @@
 <programme start="20211017093000 +0000" stop="20211017110000 +0000" channel="Kazbuka.rs"><title lang="hr">Film</title></programme>
 <programme start="20211017110000 +0000" stop="20211017120000 +0000" channel="Kazbuka.rs"><title lang="hr">Dance Moms</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img355077-tv11364944.jpg"/></programme>
 <programme start="20211017120000 +0000" stop="20211017140000 +0000" channel="Kazbuka.rs"><title lang="hr">Mozgalići</title></programme>
-<programme start="20211016043000 +0000" stop="20211016080000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Novosadsko jutro</title></programme>
-<programme start="20211016080000 +0000" stop="20211016080500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211016080500 +0000" stop="20211016083000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sve što treba da znate o ..</title></programme>
-<programme start="20211016083000 +0000" stop="20211016090000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
-<programme start="20211016090000 +0000" stop="20211016090500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211016090500 +0000" stop="20211016100000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
-<programme start="20211016100000 +0000" stop="20211016100500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211016100500 +0000" stop="20211016103000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Neke važne stvari R</title></programme>
-<programme start="20211016103000 +0000" stop="20211016110000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Osvrt</title></programme>
-<programme start="20211016110000 +0000" stop="20211016110500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211016110500 +0000" stop="20211016120000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vošino ćoše R</title></programme>
-<programme start="20211016120000 +0000" stop="20211016120500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211016120500 +0000" stop="20211016130000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Komnet Srbija R</title></programme>
-<programme start="20211016130000 +0000" stop="20211016130500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211016130500 +0000" stop="20211016140000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Zabranjena strast</title><category lang="hr">Serija</category></programme>
-<programme start="20211016140000 +0000" stop="20211016141600 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
-<programme start="20211016141600 +0000" stop="20211016150000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
-<programme start="20211016150000 +0000" stop="20211016160000 +0000" channel="NovosadskaTV.rs"><title lang="hr">POPODNE SA TANJOM</title></programme>
-<programme start="20211016160000 +0000" stop="20211016163000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sve što treba da znate o ..</title></programme>
-<programme start="20211016163000 +0000" stop="20211016170000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vojvođanska događanja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351237-img351236-dogadjanja.png_0-144_1712x778.jpg"/></programme>
-<programme start="20211016170000 +0000" stop="20211016173000 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
-<programme start="20211016173000 +0000" stop="20211016180000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Objektiv na slovačkom jeziku</title></programme>
-<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Zabranjena strast</title><category lang="hr">Serija</category></programme>
-<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="NovosadskaTV.rs"><title lang="hr">LENIJA</title></programme>
-<programme start="20211016200000 +0000" stop="20211016203000 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
-<programme start="20211016203000 +0000" stop="20211016210000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vojvođanska događanja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351237-img351236-dogadjanja.png_0-144_1712x778.jpg"/></programme>
-<programme start="20211016210000 +0000" stop="20211016220000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
-<programme start="20211016220000 +0000" stop="20211016230000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Popodne sa Tanjom R</title></programme>
-<programme start="20211016230000 +0000" stop="20211017043000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
-<programme start="20211017043000 +0000" stop="20211017080000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Novosadsko jutro</title></programme>
-<programme start="20211017080000 +0000" stop="20211017080500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211017080500 +0000" stop="20211017083000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sve što treba da znate o ..</title></programme>
-<programme start="20211017083000 +0000" stop="20211017090000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
+<programme start="20211018050500 +0000" stop="20211018051500 +0000" channel="Kazbuka.rs"><title lang="hr">Brojanje sa Paulom</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img357596-tv10570667.jpg"/></programme>
+<programme start="20211018051500 +0000" stop="20211018053000 +0000" channel="Kazbuka.rs"><title lang="hr">Majstorčići</title></programme>
+<programme start="20211018053000 +0000" stop="20211018054500 +0000" channel="Kazbuka.rs"><title lang="hr">Fintin</title></programme>
+<programme start="20211018054500 +0000" stop="20211018055000 +0000" channel="Kazbuka.rs"><title lang="hr">Pepa Prase</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img367929-tv2567394.jpg"/></programme>
+<programme start="20211018055000 +0000" stop="20211018062000 +0000" channel="Kazbuka.rs"><title lang="hr">Tomas</title></programme>
+<programme start="20211018062000 +0000" stop="20211018070000 +0000" channel="Kazbuka.rs"><title lang="hr">Problemdžije</title></programme>
+<programme start="20211018070000 +0000" stop="20211018072500 +0000" channel="Kazbuka.rs"><title lang="hr">Na treningu</title></programme>
+<programme start="20211018072500 +0000" stop="20211018080000 +0000" channel="Kazbuka.rs"><title lang="hr">Raspakivanje</title></programme>
+<programme start="20211018080000 +0000" stop="20211018082500 +0000" channel="Kazbuka.rs"><title lang="hr">Mamin san</title></programme>
+<programme start="20211018082500 +0000" stop="20211018083000 +0000" channel="Kazbuka.rs"><title lang="hr">Slovarica</title></programme>
+<programme start="20211018083000 +0000" stop="20211018084500 +0000" channel="Kazbuka.rs"><title lang="hr">Problemdžije</title></programme>
+<programme start="20211018084500 +0000" stop="20211018085000 +0000" channel="Kazbuka.rs"><title lang="hr">Da li možeš?</title></programme>
+<programme start="20211018085000 +0000" stop="20211018090000 +0000" channel="Kazbuka.rs"><title lang="hr">Nepotrebno znanje</title></programme>
+<programme start="20211018090000 +0000" stop="20211018103000 +0000" channel="Kazbuka.rs"><title lang="hr">Film Mune</title></programme>
+<programme start="20211018103000 +0000" stop="20211018123000 +0000" channel="Kazbuka.rs"><title lang="hr">Operation Ouch</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img332281-tv10570666.jpg"/></programme>
+<programme start="20211017050000 +0000" stop="20211017053000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Bački lov i ribolov</title></programme>
+<programme start="20211017053000 +0000" stop="20211017063000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Komnet Srbija</title></programme>
+<programme start="20211017063000 +0000" stop="20211017070000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
+<programme start="20211017070000 +0000" stop="20211017070500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211017070500 +0000" stop="20211017073000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Osvrt</title></programme>
+<programme start="20211017073000 +0000" stop="20211017080000 +0000" channel="NovosadskaTV.rs"><title lang="hr">NEKE VAŽNE STVARI</title></programme>
+<programme start="20211017080000 +0000" stop="20211017083000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vošino ćoše plus R</title></programme>
+<programme start="20211017083000 +0000" stop="20211017090000 +0000" channel="NovosadskaTV.rs"><title lang="hr">7 NS dana</title></programme>
 <programme start="20211017090000 +0000" stop="20211017090500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211017090500 +0000" stop="20211017100000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
-<programme start="20211017100000 +0000" stop="20211017100500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211017100500 +0000" stop="20211017110000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Bački lov i ribolov</title></programme>
+<programme start="20211017090500 +0000" stop="20211017103000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Otkos R</title></programme>
+<programme start="20211017103000 +0000" stop="20211017110000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Svi na sajam</title></programme>
 <programme start="20211017110000 +0000" stop="20211017110500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211017110500 +0000" stop="20211017120000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Lenija R</title></programme>
-<programme start="20211017120000 +0000" stop="20211017120500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211017120500 +0000" stop="20211017123000 +0000" channel="NovosadskaTV.rs"><title lang="hr">MOBIL AUTO</title></programme>
-<programme start="20211017123000 +0000" stop="20211017130000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Tvrđava</title></programme>
-<programme start="20211017130000 +0000" stop="20211017130500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
-<programme start="20211017130500 +0000" stop="20211017140000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Zabranjena strast</title><category lang="hr">Serija</category></programme>
-<programme start="20211017140000 +0000" stop="20211017141700 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
-<programme start="20211017141700 +0000" stop="20211017150000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
-<programme start="20211017150000 +0000" stop="20211017160000 +0000" channel="NovosadskaTV.rs"><title lang="hr">POPODNE SA TANJOM</title></programme>
-<programme start="20211017160000 +0000" stop="20211017163000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sve što treba da znate o ..</title></programme>
-<programme start="20211017163000 +0000" stop="20211017170000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vojvođanska događanja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351237-img351236-dogadjanja.png_0-144_1712x778.jpg"/></programme>
-<programme start="20211017170000 +0000" stop="20211017174500 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
-<programme start="20211017174500 +0000" stop="20211017180000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Neon siti</title></programme>
-<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Zabranjena strast</title><category lang="hr">Serija</category></programme>
-<programme start="20211017190000 +0000" stop="20211017200000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Argumenti</title></programme>
+<programme start="20211017110500 +0000" stop="20211017130000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Film Savana</title></programme>
+<programme start="20211017130000 +0000" stop="20211017140000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Uzdravlje</title></programme>
+<programme start="20211017140000 +0000" stop="20211017143000 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
+<programme start="20211017143000 +0000" stop="20211017150000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Tvrđava</title></programme>
+<programme start="20211017150000 +0000" stop="20211017153000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
+<programme start="20211017153000 +0000" stop="20211017163000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sa nama u svet R</title></programme>
+<programme start="20211017163000 +0000" stop="20211017170000 +0000" channel="NovosadskaTV.rs"><title lang="hr">MOBIL AUTO</title></programme>
+<programme start="20211017170000 +0000" stop="20211017173000 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
+<programme start="20211017173000 +0000" stop="20211017180000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sremski Karlovci</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="NovosadskaTV.rs"><title lang="hr">VOŠINO ĆOŠE PLUS</title></programme>
+<programme start="20211017190000 +0000" stop="20211017200000 +0000" channel="NovosadskaTV.rs"><title lang="hr">LICE NACIJE</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351197-img351196-ln.png_0-77_1895x861.jpg"/></programme>
 <programme start="20211017200000 +0000" stop="20211017203000 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
-<programme start="20211017203000 +0000" stop="20211017210000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vojvođanska događanja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351237-img351236-dogadjanja.png_0-144_1712x778.jpg"/></programme>
-<programme start="20211017210000 +0000" stop="20211017220000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
+<programme start="20211017203000 +0000" stop="20211017210000 +0000" channel="NovosadskaTV.rs"><title lang="hr">7 NS dana</title></programme>
+<programme start="20211017210000 +0000" stop="20211017213000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vošino ćoše plus R</title></programme>
+<programme start="20211017213000 +0000" stop="20211017220000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
 <programme start="20211017220000 +0000" stop="20211017230000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Novosadska televizija zadržava pravo izmene</title></programme>
 <programme start="20211017230000 +0000" stop="20211018043000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Zabranjena strast</title><category lang="hr">Serija</category></programme>
-<programme start="20211016041500 +0000" stop="20211016073000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Praktična žena</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img81106-tv0.jpg"/></programme>
-<programme start="20211016073000 +0000" stop="20211016081500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Zvjezdice</title></programme>
-<programme start="20211016081500 +0000" stop="20211016083000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Studio Moderna</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387068-img387058-SM-Logo-Header_0-36_600x273.jpg"/></programme>
-<programme start="20211016083000 +0000" stop="20211016113000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Zvezde Granda</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img218045-tv3916336.jpg"/></programme>
-<programme start="20211016113000 +0000" stop="20211016130000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Žikina Dinastija 2Žikina dinastija 2 (1986)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img372511-tv1135582.jpg"/></programme>
-<programme start="20211016130000 +0000" stop="20211016140000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">S Tamarom u akciji</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img81948-tv0.jpg"/></programme>
-<programme start="20211016140000 +0000" stop="20211016150000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Šok Tok</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img320238-tv10144892.jpg"/></programme>
-<programme start="20211016150000 +0000" stop="20211016150500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Dnevni žurnal</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img394017-tv11835789.jpg"/></programme>
-<programme start="20211016150500 +0000" stop="20211016170000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Kolo sreće</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img380764-img380762-Kolo_srece_0-284_3240x1473.jpg"/></programme>
-<programme start="20211016170000 +0000" stop="20211016173000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Žurnal</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387080-img387079-zurnal_0-79_1920x873.jpg"/></programme>
-<programme start="20211016173000 +0000" stop="20211016190000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">12 reči</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img373056-tv10136400.jpg"/></programme>
-<programme start="20211016190000 +0000" stop="20211016221500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Zvezde Granda</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img218045-tv3916336.jpg"/></programme>
-<programme start="20211016221500 +0000" stop="20211017000000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Igra sudbine - rekapitulacija</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img277231-tv0.jpg"/></programme>
-<programme start="20211017000000 +0000" stop="20211017010000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Nikšićko rocks: Anita Popović</title></programme>
-<programme start="20211017010000 +0000" stop="20211017013000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Žurnal</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387080-img387079-zurnal_0-79_1920x873.jpg"/></programme>
-<programme start="20211017013000 +0000" stop="20211017034500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Kolo sreće</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img380764-img380762-Kolo_srece_0-284_3240x1473.jpg"/></programme>
-<programme start="20211017034500 +0000" stop="20211017051500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Lilo i Stič 2Lilo &amp; Stitch 2: Stitch Has a Glitch (2005)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img288228-tv216380.jpg"/></programme>
+<programme start="20211018043000 +0000" stop="20211018080000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Novosadsko jutro</title></programme>
+<programme start="20211018080000 +0000" stop="20211018080500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018080500 +0000" stop="20211018083000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sve što treba da znate o ..</title></programme>
+<programme start="20211018083000 +0000" stop="20211018090000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
+<programme start="20211018090000 +0000" stop="20211018090500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018090500 +0000" stop="20211018100000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
+<programme start="20211018100000 +0000" stop="20211018100500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018100500 +0000" stop="20211018103000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Neke važne stvari R</title></programme>
+<programme start="20211018103000 +0000" stop="20211018110000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Osvrt</title></programme>
+<programme start="20211018110000 +0000" stop="20211018110500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018110500 +0000" stop="20211018120000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vošino ćoše R</title></programme>
+<programme start="20211018120000 +0000" stop="20211018120500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018120500 +0000" stop="20211018130000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Komnet Srbija R</title></programme>
+<programme start="20211018130000 +0000" stop="20211018130500 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018130500 +0000" stop="20211018140000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Zabranjena strast</title><category lang="hr">Serija</category></programme>
+<programme start="20211018140000 +0000" stop="20211018141600 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
+<programme start="20211018141600 +0000" stop="20211018150000 +0000" channel="NovosadskaTV.rs"><title lang="hr">TV prodaja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213385-tv0.jpg"/></programme>
+<programme start="20211018150000 +0000" stop="20211018160000 +0000" channel="NovosadskaTV.rs"><title lang="hr">POPODNE SA TANJOM</title></programme>
+<programme start="20211018160000 +0000" stop="20211018163000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Sve što treba da znate o ..</title></programme>
+<programme start="20211018163000 +0000" stop="20211018170000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vojvođanska događanja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351237-img351236-dogadjanja.png_0-144_1712x778.jpg"/></programme>
+<programme start="20211018170000 +0000" stop="20211018173000 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
+<programme start="20211018173000 +0000" stop="20211018180000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Objektiv na slovačkom jeziku</title></programme>
+<programme start="20211018180000 +0000" stop="20211018190000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Zabranjena strast</title><category lang="hr">Serija</category></programme>
+<programme start="20211018190000 +0000" stop="20211018200000 +0000" channel="NovosadskaTV.rs"><title lang="hr">LENIJA</title></programme>
+<programme start="20211018200000 +0000" stop="20211018203000 +0000" channel="NovosadskaTV.rs"><title lang="hr">OBJEKTIV</title></programme>
+<programme start="20211018203000 +0000" stop="20211018210000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Vojvođanska događanja</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351237-img351236-dogadjanja.png_0-144_1712x778.jpg"/></programme>
+<programme start="20211018210000 +0000" stop="20211018220000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
+<programme start="20211018220000 +0000" stop="20211018230000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Popodne sa Tanjom R</title></programme>
+<programme start="20211018230000 +0000" stop="20211019043000 +0000" channel="NovosadskaTV.rs"><title lang="hr">Serija</title></programme>
 <programme start="20211017051500 +0000" stop="20211017071500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Igra sudbine - rekapitulacija</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img277231-tv0.jpg"/></programme>
 <programme start="20211017071500 +0000" stop="20211017080000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Zvjezdice</title></programme>
 <programme start="20211017080000 +0000" stop="20211017100000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Nikad nije kasno</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img81787-tv3902310.jpg"/></programme>
@@ -170,59 +157,35 @@
 <programme start="20211018021500 +0000" stop="20211018024500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Na mestu zločina sa Mašanom Lekićem</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img98078-tv0.jpg"/></programme>
 <programme start="20211018024500 +0000" stop="20211018031500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Žurnal</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387080-img387079-zurnal_0-79_1920x873.jpg"/></programme>
 <programme start="20211018031500 +0000" stop="20211018043000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Slatke muke</title></programme>
-<programme start="20211016040000 +0000" stop="20211016041500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Glas Amerike</title></programme>
-<programme start="20211016041500 +0000" stop="20211016043000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peti član</title></programme>
-<programme start="20211016043000 +0000" stop="20211016044000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Crtani film</title></programme>
-<programme start="20211016044000 +0000" stop="20211016050000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peta noć</title></programme>
-<programme start="20211016050000 +0000" stop="20211016053000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Na dohvat ruke</title></programme>
-<programme start="20211016053000 +0000" stop="20211016054000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Jezičke zavrzlame ; Dogadjaj dana; Misao ; Mudrice</title></programme>
-<programme start="20211016054000 +0000" stop="20211016060000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Muzika</title></programme>
-<programme start="20211016060000 +0000" stop="20211016083000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Jutarnji program</title></programme>
-<programme start="20211016083000 +0000" stop="20211016090000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peti član</title></programme>
-<programme start="20211016090000 +0000" stop="20211016100000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Između redova</title></programme>
-<programme start="20211016100000 +0000" stop="20211016100500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">; Svet; Sport</category></programme>
-<programme start="20211016100500 +0000" stop="20211016102000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Glas Amerike</title></programme>
-<programme start="20211016102000 +0000" stop="20211016103500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Kulturni krugovi</title></programme>
-<programme start="20211016103500 +0000" stop="20211016104500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Sokobanja</title></programme>
-<programme start="20211016104500 +0000" stop="20211016110000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Projekat Leskovac</title></programme>
-<programme start="20211016110000 +0000" stop="20211016110500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">; Svet; Sport</category></programme>
-<programme start="20211016110500 +0000" stop="20211016112000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Stari zanati</title></programme>
-<programme start="20211016112000 +0000" stop="20211016113500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Endi Vorhol</title></programme>
-<programme start="20211016113500 +0000" stop="20211016114500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Kulturni dijalog</title></programme>
-<programme start="20211016114500 +0000" stop="20211016120000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vaganje duše</title></programme>
-<programme start="20211016120000 +0000" stop="20211016121000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">; Svet; Sport</category></programme>
-<programme start="20211016121000 +0000" stop="20211016130000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peta noć</title></programme>
-<programme start="20211016130000 +0000" stop="20211016130500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">; Svet; Sport</category></programme>
-<programme start="20211016130500 +0000" stop="20211016133000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Zanimanje iz senke</title></programme>
-<programme start="20211016133000 +0000" stop="20211016134000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Događaj dana</title></programme>
-<programme start="20211016134000 +0000" stop="20211016134500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211016134500 +0000" stop="20211016141500 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 1; Sport; Vremenska prognoza</title></programme>
-<programme start="20211016141500 +0000" stop="20211016154000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Subotom</title></programme>
-<programme start="20211016154000 +0000" stop="20211016154500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211016154500 +0000" stop="20211016161500 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 2; Sport; Vremenska prognoza</title></programme>
-<programme start="20211016161500 +0000" stop="20211016170000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Ljudi oko nas</title></programme>
-<programme start="20211016170000 +0000" stop="20211016173000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Brzina</title></programme>
-<programme start="20211016173000 +0000" stop="20211016175500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Sajber sfera</title></programme>
-<programme start="20211016175500 +0000" stop="20211016180000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211016180000 +0000" stop="20211016183000 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 3; Sport; Vremenska prognoza</title></programme>
-<programme start="20211016183000 +0000" stop="20211016190000 +0000" channel="TVBelleAmie.rs"><title lang="hr">YU Intervju</title></programme>
-<programme start="20211016190000 +0000" stop="20211016200000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Izjava nedelje</title></programme>
-<programme start="20211016200000 +0000" stop="20211016201500 +0000" channel="TVBelleAmie.rs"><title lang="hr">TV Biblioteka</title></programme>
-<programme start="20211016201500 +0000" stop="20211016203000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Znamenite Nišlije; A posle vesti njuz;</title></programme>
-<programme start="20211016203000 +0000" stop="20211016210000 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 4; Sport; Vremenska prognoza</title></programme>
-<programme start="20211016210000 +0000" stop="20211016213500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vaganje duše</title></programme>
-<programme start="20211016213500 +0000" stop="20211016214500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211016214500 +0000" stop="20211016220500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Na kraju dana</title></programme>
-<programme start="20211016220500 +0000" stop="20211016221500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Laku noć odrasli</title></programme>
-<programme start="20211016221500 +0000" stop="20211016231500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Belle Amie popodne</title></programme>
-<programme start="20211016231500 +0000" stop="20211017001500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Sa Anom u 13</title></programme>
-<programme start="20211017001500 +0000" stop="20211017004500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Raskopčavanje</title></programme>
-<programme start="20211017004500 +0000" stop="20211017011500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Ljudi oko nas</title></programme>
-<programme start="20211017011500 +0000" stop="20211017021500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Subotom</title></programme>
-<programme start="20211017021500 +0000" stop="20211017024500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Brzina</title></programme>
-<programme start="20211017024500 +0000" stop="20211017030500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peti član</title></programme>
-<programme start="20211017030500 +0000" stop="20211017034500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Slike regiona</title></programme>
-<programme start="20211017034500 +0000" stop="20211017040500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Play off</title></programme>
+<programme start="20211018043000 +0000" stop="20211018051500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Pogrešan čovek, ep. 117</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213381-tv0.jpg"/></programme>
+<programme start="20211018051500 +0000" stop="20211018061000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">60 MINUTA</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img331200-hqdefault_1_.jpg.jpg"/></programme>
+<programme start="20211018061000 +0000" stop="20211018070000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Jutro</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img267217-tv6250598.jpg"/></programme>
+<programme start="20211018070000 +0000" stop="20211018071500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">TV Shop</title></programme>
+<programme start="20211018071500 +0000" stop="20211018080000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Jutro</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img267217-tv6250598.jpg"/></programme>
+<programme start="20211018080000 +0000" stop="20211018081500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Studio Moderna</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387068-img387058-SM-Logo-Header_0-36_600x273.jpg"/></programme>
+<programme start="20211018081500 +0000" stop="20211018090000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Jutro</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img267217-tv6250598.jpg"/></programme>
+<programme start="20211018090000 +0000" stop="20211018110000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Brusko</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img356902-tv3579156.jpg"/></programme>
+<programme start="20211018110000 +0000" stop="20211018114500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Pokucaj na moja vrata</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img348507-tv10504070.jpg"/></programme>
+<programme start="20211018114500 +0000" stop="20211018130000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Igra sudbine</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img277231-tv0.jpg"/></programme>
+<programme start="20211018130000 +0000" stop="20211018131500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">TV Shop</title></programme>
+<programme start="20211018131500 +0000" stop="20211018140000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Kolo sreće</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img380764-img380762-Kolo_srece_0-284_3240x1473.jpg"/></programme>
+<programme start="20211018140000 +0000" stop="20211018141500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Studio Moderna</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387068-img387058-SM-Logo-Header_0-36_600x273.jpg"/></programme>
+<programme start="20211018141500 +0000" stop="20211018150000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Praktična žena 7, ep. 26</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img81106-tv0.jpg"/></programme>
+<programme start="20211018150000 +0000" stop="20211018160000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">60 MINUTA</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img331200-hqdefault_1_.jpg.jpg"/></programme>
+<programme start="20211018160000 +0000" stop="20211018163000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Exkluziv</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img75037-tv3626007.jpg"/></programme>
+<programme start="20211018163000 +0000" stop="20211018170000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Slatke muke</title></programme>
+<programme start="20211018170000 +0000" stop="20211018173000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Žurnal</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387080-img387079-zurnal_0-79_1920x873.jpg"/></programme>
+<programme start="20211018173000 +0000" stop="20211018182000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Pokucaj na moja vrata, ep. 79</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img348507-tv10504070.jpg"/></programme>
+<programme start="20211018182000 +0000" stop="20211018191000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Igra sudbine 2, ep. 31</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img277231-tv0.jpg"/></programme>
+<programme start="20211018191000 +0000" stop="20211018200000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Kolo sreće 1, ep. 31</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img380764-img380762-Kolo_srece_0-284_3240x1473.jpg"/></programme>
+<programme start="20211018200000 +0000" stop="20211018205000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">12 reči 1, ep. 5</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img373056-tv10136400.jpg"/></programme>
+<programme start="20211018205000 +0000" stop="20211018222500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">MunjeMunje (2001)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img237475-tv692696.jpg"/></programme>
+<programme start="20211018222500 +0000" stop="20211018224500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Exkluziv</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img75037-tv3626007.jpg"/></programme>
+<programme start="20211018224500 +0000" stop="20211018231500 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Žurnal</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img387080-img387079-zurnal_0-79_1920x873.jpg"/></programme>
+<programme start="20211018231500 +0000" stop="20211019000000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Pogrešan čovek, ep. 117</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img213381-tv0.jpg"/></programme>
+<programme start="20211019000000 +0000" stop="20211019013000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Brusko</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img356902-tv3579156.jpg"/></programme>
+<programme start="20211019013000 +0000" stop="20211019030000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">MunjeMunje (2001)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img237475-tv692696.jpg"/></programme>
+<programme start="20211019030000 +0000" stop="20211019043000 +0000" channel="PrvaTVCrnaGora.rs"><title lang="hr">Tate</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342696-tv8819704.jpg"/></programme>
 <programme start="20211017040500 +0000" stop="20211017043000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Izjava nedelje</title></programme>
 <programme start="20211017043000 +0000" stop="20211017050500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Muzika</title></programme>
 <programme start="20211017050500 +0000" stop="20211017053000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Crtani film</title></programme>
@@ -238,7 +201,7 @@
 <programme start="20211017104500 +0000" stop="20211017110000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Podržimo selo</title></programme>
 <programme start="20211017110000 +0000" stop="20211017110500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title></programme>
 <programme start="20211017110500 +0000" stop="20211017120000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Subotom</title></programme>
-<programme start="20211017120000 +0000" stop="20211017120500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">Svet, Sport</category></programme>
+<programme start="20211017120000 +0000" stop="20211017120500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">Svet ;Sport</category></programme>
 <programme start="20211017120500 +0000" stop="20211017130000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Dijagnoza</title></programme>
 <programme start="20211017130000 +0000" stop="20211017130500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">; Svet; Sport</category></programme>
 <programme start="20211017130500 +0000" stop="20211017132000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peti član</title></programme>
@@ -271,70 +234,107 @@
 <programme start="20211018020000 +0000" stop="20211018030000 +0000" channel="TVBelleAmie.rs"><title lang="hr">7. dan</title></programme>
 <programme start="20211018030000 +0000" stop="20211018033000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Stari zanati</title></programme>
 <programme start="20211018033000 +0000" stop="20211018040000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Sajber sfera</title></programme>
-<programme start="20211016061500 +0000" stop="20211016064500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211016064500 +0000" stop="20211016071500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
-<programme start="20211016071500 +0000" stop="20211016074500 +0000" channel="TVGalaksija32.rs"><title lang="hr">MERIDIJANIMA</title></programme>
-<programme start="20211016074500 +0000" stop="20211016080000 +0000" channel="TVGalaksija32.rs"><title lang="hr">BELI LUK I PAPRICICA</title></programme>
-<programme start="20211016080000 +0000" stop="20211016081500 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
-<programme start="20211016081500 +0000" stop="20211016091500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
-<programme start="20211016091500 +0000" stop="20211016100000 +0000" channel="TVGalaksija32.rs"><title lang="hr">OGLASI, ANKETA, SVETACNIK</title></programme>
-<programme start="20211016100000 +0000" stop="20211016104500 +0000" channel="TVGalaksija32.rs"><title lang="hr">VISE OD SPORTA</title></programme>
-<programme start="20211016104500 +0000" stop="20211016113000 +0000" channel="TVGalaksija32.rs"><title lang="hr">TREND SETTER</title></programme>
-<programme start="20211016113000 +0000" stop="20211016120500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211016120500 +0000" stop="20211016125000 +0000" channel="TVGalaksija32.rs"><title lang="hr">KARUSEL</title></programme>
-<programme start="20211016125000 +0000" stop="20211016133000 +0000" channel="TVGalaksija32.rs"><title lang="hr">GALASPORT</title></programme>
-<programme start="20211016133000 +0000" stop="20211016135500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 1</title></programme>
-<programme start="20211016135500 +0000" stop="20211016141500 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
-<programme start="20211016141500 +0000" stop="20211016144500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
-<programme start="20211016144500 +0000" stop="20211016151500 +0000" channel="TVGalaksija32.rs"><title lang="hr">BELI LUK I PAPRICICA</title></programme>
-<programme start="20211016151500 +0000" stop="20211016154500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211016154500 +0000" stop="20211016161500 +0000" channel="TVGalaksija32.rs"><title lang="hr">STAKLENO ZVONO</title></programme>
-<programme start="20211016161500 +0000" stop="20211016165500 +0000" channel="TVGalaksija32.rs"><title lang="hr">MILANOVACKA SEDMICA</title></programme>
-<programme start="20211016165500 +0000" stop="20211016173500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 2</title></programme>
-<programme start="20211016173500 +0000" stop="20211016180000 +0000" channel="TVGalaksija32.rs"><title lang="hr">MERIDIJANIMA</title></programme>
-<programme start="20211016180000 +0000" stop="20211016190000 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV MEDIKUS</title></programme>
-<programme start="20211016190000 +0000" stop="20211016203000 +0000" channel="TVGalaksija32.rs"><title lang="hr">ARHIVA TV GALAKSIJA</title></programme>
-<programme start="20211016203000 +0000" stop="20211016211500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 3</title></programme>
-<programme start="20211016211500 +0000" stop="20211016231500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Program Srbija na dlanu 1</title></programme>
+<programme start="20211018040000 +0000" stop="20211018042000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Brzina</title></programme>
+<programme start="20211018042000 +0000" stop="20211018044000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peti član</title></programme>
+<programme start="20211018044000 +0000" stop="20211018045500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Moj izbor</title></programme>
+<programme start="20211018045500 +0000" stop="20211018050000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Crtani film</title></programme>
+<programme start="20211018050000 +0000" stop="20211018080000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Jutarnji program</title></programme>
+<programme start="20211018080000 +0000" stop="20211018080500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018080500 +0000" stop="20211018090000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Odgovorni</title></programme>
+<programme start="20211018090000 +0000" stop="20211018092000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Podržimo selo</title></programme>
+<programme start="20211018092000 +0000" stop="20211018093000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Autogram</title></programme>
+<programme start="20211018093000 +0000" stop="20211018100000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Peti član</title></programme>
+<programme start="20211018100000 +0000" stop="20211018100500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title><category lang="hr">Svet ; Oglasi</category></programme>
+<programme start="20211018100500 +0000" stop="20211018104000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Apostrof</title></programme>
+<programme start="20211018104000 +0000" stop="20211018110000 +0000" channel="TVBelleAmie.rs"><title lang="hr">YU Intervju</title></programme>
+<programme start="20211018110000 +0000" stop="20211018110500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018110500 +0000" stop="20211018120000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Sa Anom u 13</title></programme>
+<programme start="20211018120000 +0000" stop="20211018120500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018120500 +0000" stop="20211018123000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vaganje duše</title></programme>
+<programme start="20211018123000 +0000" stop="20211018130000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Zanimanje iz senke</title></programme>
+<programme start="20211018130000 +0000" stop="20211018130500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti</title></programme>
+<programme start="20211018130500 +0000" stop="20211018131500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Osnažimo poljoprivredu</title></programme>
+<programme start="20211018131500 +0000" stop="20211018134000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Razgovor s povodom</title></programme>
+<programme start="20211018134000 +0000" stop="20211018134500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018134500 +0000" stop="20211018141500 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 1, Info biz, Svet, Balkan, Sport</title></programme>
+<programme start="20211018141500 +0000" stop="20211018143000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Vesti iz Pirota</title></programme>
+<programme start="20211018143000 +0000" stop="20211018153000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Belle Amie popodne</title></programme>
+<programme start="20211018153000 +0000" stop="20211018154000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Događaj dana</title></programme>
+<programme start="20211018154000 +0000" stop="20211018154500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018154500 +0000" stop="20211018161500 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 2, Svet, Sport</title></programme>
+<programme start="20211018161500 +0000" stop="20211018170000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Između redova</title></programme>
+<programme start="20211018170000 +0000" stop="20211018175500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Treće poluvreme</title></programme>
+<programme start="20211018175500 +0000" stop="20211018180000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018180000 +0000" stop="20211018183000 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 3, Info biz, Svet, Balkan, Sport</title></programme>
+<programme start="20211018183000 +0000" stop="20211018184500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Moj izbor</title></programme>
+<programme start="20211018184500 +0000" stop="20211018194500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Dijagnoza</title></programme>
+<programme start="20211018194500 +0000" stop="20211018201500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Raskopčavanje</title></programme>
+<programme start="20211018201500 +0000" stop="20211018203000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Događaj dana</title></programme>
+<programme start="20211018203000 +0000" stop="20211018210000 +0000" channel="TVBelleAmie.rs"><title lang="hr">SLIKE DANA 4, Info biz;Svet, Balkan, Sport</title></programme>
+<programme start="20211018210000 +0000" stop="20211018213000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Glas Amerike</title></programme>
+<programme start="20211018213000 +0000" stop="20211018213500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Znamenite Nišlije</title></programme>
+<programme start="20211018213500 +0000" stop="20211018214500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018214500 +0000" stop="20211018220500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Na kraju dana</title></programme>
+<programme start="20211018220500 +0000" stop="20211018221500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Laku noć odrasli</title></programme>
+<programme start="20211018221500 +0000" stop="20211018231500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Belle Amie popodne</title></programme>
+<programme start="20211018231500 +0000" stop="20211019001500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Sa Anom u 13</title></programme>
+<programme start="20211019001500 +0000" stop="20211019010000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Odgovorni</title></programme>
+<programme start="20211019010000 +0000" stop="20211019013000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Sajber sfera</title></programme>
+<programme start="20211019013000 +0000" stop="20211019014500 +0000" channel="TVBelleAmie.rs"><title lang="hr">TV Biblioteka</title></programme>
+<programme start="20211019014500 +0000" stop="20211019023000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Dijagnoza</title></programme>
+<programme start="20211019023000 +0000" stop="20211019031500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Treće poluvreme</title></programme>
+<programme start="20211019031500 +0000" stop="20211019034500 +0000" channel="TVBelleAmie.rs"><title lang="hr">Play off</title></programme>
+<programme start="20211019034500 +0000" stop="20211019040000 +0000" channel="TVBelleAmie.rs"><title lang="hr">Zanimanje iz senke</title></programme>
 <programme start="20211017061500 +0000" stop="20211017064500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
 <programme start="20211017064500 +0000" stop="20211017071500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
-<programme start="20211017071500 +0000" stop="20211017074500 +0000" channel="TVGalaksija32.rs"><title lang="hr">BELI LUK I PAPRICICA</title></programme>
-<programme start="20211017074500 +0000" stop="20211017080000 +0000" channel="TVGalaksija32.rs"><title lang="hr">MERIDIJANIMA</title></programme>
+<programme start="20211017071500 +0000" stop="20211017074500 +0000" channel="TVGalaksija32.rs"><title lang="hr">MERIDIJANIMA</title></programme>
+<programme start="20211017074500 +0000" stop="20211017080000 +0000" channel="TVGalaksija32.rs"><title lang="hr">BELI LUK I PAPRICICA</title></programme>
 <programme start="20211017080000 +0000" stop="20211017081500 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
 <programme start="20211017081500 +0000" stop="20211017091500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
-<programme start="20211017091500 +0000" stop="20211017094500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211017094500 +0000" stop="20211017100000 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
-<programme start="20211017100000 +0000" stop="20211017104500 +0000" channel="TVGalaksija32.rs"><title lang="hr">AUTOSPRINT</title></programme>
-<programme start="20211017104500 +0000" stop="20211017113000 +0000" channel="TVGalaksija32.rs"><title lang="hr">Dokumentarac</title></programme>
+<programme start="20211017091500 +0000" stop="20211017100000 +0000" channel="TVGalaksija32.rs"><title lang="hr">OGLASI, ANKETA, SVETACNIK</title></programme>
+<programme start="20211017100000 +0000" stop="20211017104500 +0000" channel="TVGalaksija32.rs"><title lang="hr">VISE OD SPORTA</title></programme>
+<programme start="20211017104500 +0000" stop="20211017113000 +0000" channel="TVGalaksija32.rs"><title lang="hr">TREND SETTER</title></programme>
 <programme start="20211017113000 +0000" stop="20211017120500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211017120500 +0000" stop="20211017133000 +0000" channel="TVGalaksija32.rs"><title lang="hr">SRBIJA I SVET</title></programme>
+<programme start="20211017120500 +0000" stop="20211017125000 +0000" channel="TVGalaksija32.rs"><title lang="hr">KARUSEL</title></programme>
+<programme start="20211017125000 +0000" stop="20211017133000 +0000" channel="TVGalaksija32.rs"><title lang="hr">GALASPORT</title></programme>
 <programme start="20211017133000 +0000" stop="20211017135500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 1</title></programme>
 <programme start="20211017135500 +0000" stop="20211017141500 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
 <programme start="20211017141500 +0000" stop="20211017144500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
 <programme start="20211017144500 +0000" stop="20211017151500 +0000" channel="TVGalaksija32.rs"><title lang="hr">BELI LUK I PAPRICICA</title></programme>
 <programme start="20211017151500 +0000" stop="20211017154500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
-<programme start="20211017154500 +0000" stop="20211017165500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV MEDIKUS-r.</title></programme>
+<programme start="20211017154500 +0000" stop="20211017161500 +0000" channel="TVGalaksija32.rs"><title lang="hr">STAKLENO ZVONO</title></programme>
+<programme start="20211017161500 +0000" stop="20211017165500 +0000" channel="TVGalaksija32.rs"><title lang="hr">MILANOVACKA SEDMICA</title></programme>
 <programme start="20211017165500 +0000" stop="20211017173500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 2</title></programme>
 <programme start="20211017173500 +0000" stop="20211017180000 +0000" channel="TVGalaksija32.rs"><title lang="hr">MERIDIJANIMA</title></programme>
-<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="TVGalaksija32.rs"><title lang="hr">MO SPORT</title></programme>
-<programme start="20211017190000 +0000" stop="20211017193000 +0000" channel="TVGalaksija32.rs"><title lang="hr">KULTURNI INTERVJU</title></programme>
-<programme start="20211017193000 +0000" stop="20211017203000 +0000" channel="TVGalaksija32.rs"><title lang="hr">NESTO NOVO</title></programme>
+<programme start="20211017180000 +0000" stop="20211017190000 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV MEDIKUS</title></programme>
+<programme start="20211017190000 +0000" stop="20211017203000 +0000" channel="TVGalaksija32.rs"><title lang="hr">ARHIVA TV GALAKSIJA</title></programme>
 <programme start="20211017203000 +0000" stop="20211017211500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 3</title></programme>
 <programme start="20211017211500 +0000" stop="20211017231500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Program Srbija na dlanu 1</title></programme>
-<programme start="20211016041000 +0000" stop="20211016062000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Naseljeno ostrvoObitaemyy ostrov (2009)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img199700-tv4615800.jpg"/></programme>
-<programme start="20211016062000 +0000" stop="20211016081000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">vneKLASSNOE čtenie: Obitaemij ostrov: ShvatkaThe Inhabited Island 2. The Battle (2009)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img199745-tv6428628.jpg"/></programme>
-<programme start="20211016081000 +0000" stop="20211016101000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">SputnjikSputnik (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img315101-tv9830230.jpg"/></programme>
-<programme start="20211016101000 +0000" stop="20211016115500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">NevestaThe Bride (2017)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img230819-tv5932023.jpg"/></programme>
-<programme start="20211016115500 +0000" stop="20211016133500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Побочный эффектSide Effect (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img339438-tv10690092.jpg"/></programme>
-<programme start="20211016133500 +0000" stop="20211016151500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">The Soul ConductorProvodnik (2018)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340286-tv8029105.jpg"/></programme>
-<programme start="20211016151500 +0000" stop="20211016172000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">SelfiSelfie (2017)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img233793-tv6730410.jpg"/></programme>
-<programme start="20211016172000 +0000" stop="20211016191000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Один вдохOne Breath (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img312854-tv9807225.jpg"/></programme>
-<programme start="20211016191000 +0000" stop="20211016211000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">На остриеOn the Edge (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img354203-tv11340203.jpg"/></programme>
-<programme start="20211016211000 +0000" stop="20211016232500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Белый снегWhite Snow (2021)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img345852-tv11030876.jpg"/></programme>
-<programme start="20211016232500 +0000" stop="20211017005500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Indigo</title><category lang="hr">ruski film</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img354179-tv2922271.jpg"/></programme>
-<programme start="20211017005500 +0000" stop="20211017024000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Майор Гром: Чумной ДокторMajor Grom: Plague Doctor (2021)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img354172-tv11340200.jpg"/></programme>
-<programme start="20211017024000 +0000" stop="20211017034000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Million in a Wedding BasketMillion in a Wedding Basket (1985)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img228402-tv7228255.jpg"/></programme>
-<programme start="20211017034000 +0000" stop="20211017045500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Uznik zamka If. Abbat Faria 1, ep. 1</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img238128-tv7568473.jpg"/></programme>
+<programme start="20211018061500 +0000" stop="20211018064500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018064500 +0000" stop="20211018071500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
+<programme start="20211018071500 +0000" stop="20211018074500 +0000" channel="TVGalaksija32.rs"><title lang="hr">BELI LUK I PAPRICICA</title></programme>
+<programme start="20211018074500 +0000" stop="20211018080000 +0000" channel="TVGalaksija32.rs"><title lang="hr">MERIDIJANIMA</title></programme>
+<programme start="20211018080000 +0000" stop="20211018081500 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
+<programme start="20211018081500 +0000" stop="20211018091500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
+<programme start="20211018091500 +0000" stop="20211018094500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018094500 +0000" stop="20211018100000 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
+<programme start="20211018100000 +0000" stop="20211018104500 +0000" channel="TVGalaksija32.rs"><title lang="hr">AUTOSPRINT</title></programme>
+<programme start="20211018104500 +0000" stop="20211018113000 +0000" channel="TVGalaksija32.rs"><title lang="hr">Dokumentarac</title></programme>
+<programme start="20211018113000 +0000" stop="20211018120500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018120500 +0000" stop="20211018133000 +0000" channel="TVGalaksija32.rs"><title lang="hr">SRBIJA I SVET</title></programme>
+<programme start="20211018133000 +0000" stop="20211018135500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 1</title></programme>
+<programme start="20211018135500 +0000" stop="20211018141500 +0000" channel="TVGalaksija32.rs"><title lang="hr">АNKETA, SVETACNIK</title></programme>
+<programme start="20211018141500 +0000" stop="20211018144500 +0000" channel="TVGalaksija32.rs"><title lang="hr">SERIJA</title></programme>
+<programme start="20211018144500 +0000" stop="20211018151500 +0000" channel="TVGalaksija32.rs"><title lang="hr">BELI LUK I PAPRICICA</title></programme>
+<programme start="20211018151500 +0000" stop="20211018154500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Oglasi</title></programme>
+<programme start="20211018154500 +0000" stop="20211018165500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV MEDIKUS-r.</title></programme>
+<programme start="20211018165500 +0000" stop="20211018173500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 2</title></programme>
+<programme start="20211018173500 +0000" stop="20211018180000 +0000" channel="TVGalaksija32.rs"><title lang="hr">MERIDIJANIMA</title></programme>
+<programme start="20211018180000 +0000" stop="20211018190000 +0000" channel="TVGalaksija32.rs"><title lang="hr">MO SPORT</title></programme>
+<programme start="20211018190000 +0000" stop="20211018193000 +0000" channel="TVGalaksija32.rs"><title lang="hr">KULTURNI INTERVJU</title></programme>
+<programme start="20211018193000 +0000" stop="20211018203000 +0000" channel="TVGalaksija32.rs"><title lang="hr">NESTO NOVO</title></programme>
+<programme start="20211018203000 +0000" stop="20211018211500 +0000" channel="TVGalaksija32.rs"><title lang="hr">TV INFORMATOR 3</title></programme>
+<programme start="20211018211500 +0000" stop="20211018231500 +0000" channel="TVGalaksija32.rs"><title lang="hr">Program Srbija na dlanu 1</title></programme>
 <programme start="20211017045500 +0000" stop="20211017060500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Uznik zamka If. Graf Monte-Kristo 1, ep. 2</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img238131-tv7568481.jpg"/></programme>
 <programme start="20211017060500 +0000" stop="20211017075500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Uznik zamka If. Az vozdam 1, ep. 3</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img238139-tv7568486.jpg"/></programme>
 <programme start="20211017075500 +0000" stop="20211017101500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Белый снегWhite Snow (2021)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img345852-tv11030876.jpg"/></programme>
@@ -348,4 +348,18 @@
 <programme start="20211017222500 +0000" stop="20211017235000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">БывшаяEx (2021)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img392184-tv11820274.jpg"/></programme>
 <programme start="20211017235000 +0000" stop="20211018012000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">ЦойTsoy (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342441-tv10493811.jpg"/></programme>
 <programme start="20211018012000 +0000" stop="20211018043000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">PetakPyatnitsa (2016)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img308443-tv5932108.jpg"/></programme>
+<programme start="20211018043000 +0000" stop="20211018062000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">ХандраRussian Spleen (2019)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img394416-tv11847209.jpg"/></programme>
+<programme start="20211018062000 +0000" stop="20211018080500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">ЦойTsoy (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342441-tv10493811.jpg"/></programme>
+<programme start="20211018080500 +0000" stop="20211018094500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Indigo</title><category lang="hr">ruski film</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img354179-tv2922271.jpg"/></programme>
+<programme start="20211018094500 +0000" stop="20211018111500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">PomračenjeZatmenie (2016)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342847-img342846-Pomracenje.jpg_0-55_1118x508.jpg"/></programme>
+<programme start="20211018111500 +0000" stop="20211018125500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">PetakPyatnitsa (2016)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img308443-tv5932108.jpg"/></programme>
+<programme start="20211018125500 +0000" stop="20211018142000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Vso o mužčinahAll About Man (2016)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img184457-tv6121266.jpg"/></programme>
+<programme start="20211018142000 +0000" stop="20211018153500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Tri bogatirja na dalnih beregahThree Heroes. On Distant Shores (2012)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img173681-tv5932019.jpg"/></programme>
+<programme start="20211018153500 +0000" stop="20211018170000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Tri bogatirja: Hod konomThree Heroes. Knight&apos;s Move (2014)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img173704-tv5932024.jpg"/></programme>
+<programme start="20211018170000 +0000" stop="20211018184500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Счастье в конвертеLetters of Happiness (2019)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img360018-tv11495495.jpg"/></programme>
+<programme start="20211018184500 +0000" stop="20211018204000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Crna munjaChyornaya Molniya (2009)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img335839-tv6121316.jpg"/></programme>
+<programme start="20211018204000 +0000" stop="20211018223500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Kanikuli strogogo režimaHigh Security Vacation (2009)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img174166-tv5932132.jpg"/></programme>
+<programme start="20211018223500 +0000" stop="20211019001000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">NevestaThe Bride (2017)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img230819-tv5932023.jpg"/></programme>
+<programme start="20211019001000 +0000" stop="20211019024500 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Побочный эффектSide Effect (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img339438-tv10690092.jpg"/></programme>
+<programme start="20211019024500 +0000" stop="20211019042000 +0000" channel="TV1000RusskoeKino.se"><title lang="hr">Мажор. ФильмSilver Spoon. The Movie (2021)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img381876-tv11705153.jpg"/></programme>
 </tv>

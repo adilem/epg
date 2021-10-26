@@ -12,22 +12,6 @@
 <channel id="TVN24.pl"><display-name>TVN 24</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TVN24_PL_logo.png"/></channel>
 <channel id="TVPPolonia.pl"><display-name>TVP Polonia</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TVP_Polonia_logo.png"/></channel>
 <channel id="UlkeTV.tr"><display-name>Ülke TV</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/Ulke_TV_TR_logo.png"/></channel>
-<programme start="20211025065000 +0000" stop="20211025100000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20211025100000 +0000" stop="20211025105000 +0000" channel="Ant1Europe.gr"><title lang="hr">ANT1 NEWS - 13:00</title></programme>
-<programme start="20211025105000 +0000" stop="20211025113500 +0000" channel="Ant1Europe.gr"><title lang="hr">ΗΛΙΟΣ</title></programme>
-<programme start="20211025113500 +0000" stop="20211025131500 +0000" channel="Ant1Europe.gr"><title lang="hr">ΜΠΡΟΥΣΚΟ 31/C-32/C</title></programme>
-<programme start="20211025131500 +0000" stop="20211025140000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΜΗΝ ΨΑΡΩΝΕΙΣ</title></programme>
-<programme start="20211025140000 +0000" stop="20211025145000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΡΟΥΚ ΖΟΥΚ</title></programme>
-<programme start="20211025145000 +0000" stop="20211025154500 +0000" channel="Ant1Europe.gr"><title lang="hr">5 X 5</title></programme>
-<programme start="20211025154500 +0000" stop="20211025170000 +0000" channel="Ant1Europe.gr"><title lang="hr">ANT1 NEWS</title></programme>
-<programme start="20211025170000 +0000" stop="20211025180000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΗΛΙΟΣ</title></programme>
-<programme start="20211025180000 +0000" stop="20211025190000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ GOC 28</title></programme>
-<programme start="20211025190000 +0000" stop="20211025203000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ</title></programme>
-<programme start="20211025203000 +0000" stop="20211025224000 +0000" channel="Ant1Europe.gr"><title lang="hr">THE 2NIGHT SHOW</title></programme>
-<programme start="20211025224000 +0000" stop="20211025233500 +0000" channel="Ant1Europe.gr"><title lang="hr">ΡΟΥΚ ΖΟΥΚ</title></programme>
-<programme start="20211025233500 +0000" stop="20211026003000 +0000" channel="Ant1Europe.gr"><title lang="hr">5 X 5</title></programme>
-<programme start="20211026003000 +0000" stop="20211026030000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΤΟ ΠΡΩΙΝΟ</title></programme>
-<programme start="20211026030000 +0000" stop="20211026065000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
 <programme start="20211026065000 +0000" stop="20211026100000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΤΟ ΠΡΩΙΝΟ</title></programme>
 <programme start="20211026100000 +0000" stop="20211026105000 +0000" channel="Ant1Europe.gr"><title lang="hr">ANT1 NEWS - 13:00</title></programme>
 <programme start="20211026105000 +0000" stop="20211026113500 +0000" channel="Ant1Europe.gr"><title lang="hr">ΗΛΙΟΣ</title></programme>
@@ -44,14 +28,22 @@
 <programme start="20211026233500 +0000" stop="20211027003000 +0000" channel="Ant1Europe.gr"><title lang="hr">5 X 5</title></programme>
 <programme start="20211027003000 +0000" stop="20211027030000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΤΟ ΠΡΩΙΝΟ</title></programme>
 <programme start="20211027030000 +0000" stop="20211027065000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
-<programme start="20211025060000 +0000" stop="20211025075000 +0000" channel="CNNTurk.us"><title lang="hr">Güne Merhaba</title></programme>
-<programme start="20211025075000 +0000" stop="20211025090000 +0000" channel="CNNTurk.us"><title lang="hr">Hava Durumu</title></programme>
-<programme start="20211025090000 +0000" stop="20211025110000 +0000" channel="CNNTurk.us"><title lang="hr">Gündem</title></programme>
-<programme start="20211025110000 +0000" stop="20211025130000 +0000" channel="CNNTurk.us"><title lang="hr">Bugün</title></programme>
-<programme start="20211025130000 +0000" stop="20211025150000 +0000" channel="CNNTurk.us"><title lang="hr">Günlük</title></programme>
-<programme start="20211025150000 +0000" stop="20211025170000 +0000" channel="CNNTurk.us"><title lang="hr">Ana Haber</title></programme>
-<programme start="20211026020000 +0000" stop="20211026030000 +0000" channel="CNNTurk.us"><title lang="hr">Gece Haberleri</title></programme>
-<programme start="20211026030000 +0000" stop="20211026060000 +0000" channel="CNNTurk.us"><title lang="hr">A&apos;dan Z&apos;ye</title></programme>
+<programme start="20211027065000 +0000" stop="20211027100000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20211027100000 +0000" stop="20211027105000 +0000" channel="Ant1Europe.gr"><title lang="hr">ANT1 NEWS - 13:00</title></programme>
+<programme start="20211027105000 +0000" stop="20211027113500 +0000" channel="Ant1Europe.gr"><title lang="hr">ΗΛΙΟΣ</title></programme>
+<programme start="20211027113500 +0000" stop="20211027131500 +0000" channel="Ant1Europe.gr"><title lang="hr">ΜΠΡΟΥΣΚΟ 35/C-36/C</title></programme>
+<programme start="20211027131500 +0000" stop="20211027140000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΜΗΝ ΨΑΡΩΝΕΙΣ</title></programme>
+<programme start="20211027140000 +0000" stop="20211027145000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΡΟΥΚ ΖΟΥΚ</title></programme>
+<programme start="20211027145000 +0000" stop="20211027154500 +0000" channel="Ant1Europe.gr"><title lang="hr">5 X 5</title></programme>
+<programme start="20211027154500 +0000" stop="20211027170000 +0000" channel="Ant1Europe.gr"><title lang="hr">ANT1 NEWS</title></programme>
+<programme start="20211027170000 +0000" stop="20211027180000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΗΛΙΟΣ</title></programme>
+<programme start="20211027180000 +0000" stop="20211027190000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΨΥΧΑΓΩΓΙΚΟ ΠΡΟΓΡΑΜΜΑ GOC 30</title></programme>
+<programme start="20211027190000 +0000" stop="20211027203000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΑΓΡΙΕΣ ΜΕΛΙΣΣΕΣ</title></programme>
+<programme start="20211027203000 +0000" stop="20211027224000 +0000" channel="Ant1Europe.gr"><title lang="hr">THE 2NIGHT SHOW</title></programme>
+<programme start="20211027224000 +0000" stop="20211027233500 +0000" channel="Ant1Europe.gr"><title lang="hr">ΡΟΥΚ ΖΟΥΚ</title></programme>
+<programme start="20211027233500 +0000" stop="20211028003000 +0000" channel="Ant1Europe.gr"><title lang="hr">5 X 5</title></programme>
+<programme start="20211028003000 +0000" stop="20211028030000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΤΟ ΠΡΩΙΝΟ</title></programme>
+<programme start="20211028030000 +0000" stop="20211028065000 +0000" channel="Ant1Europe.gr"><title lang="hr">ΚΑΛΗΜΕΡΑ ΕΛΛΑΔΑ</title></programme>
 <programme start="20211026060000 +0000" stop="20211026075000 +0000" channel="CNNTurk.us"><title lang="hr">Güne Merhaba</title></programme>
 <programme start="20211026075000 +0000" stop="20211026090000 +0000" channel="CNNTurk.us"><title lang="hr">Hava Durumu</title></programme>
 <programme start="20211026090000 +0000" stop="20211026110000 +0000" channel="CNNTurk.us"><title lang="hr">Gündem</title></programme>
@@ -60,79 +52,36 @@
 <programme start="20211026150000 +0000" stop="20211026170000 +0000" channel="CNNTurk.us"><title lang="hr">Ana Haber</title></programme>
 <programme start="20211027020000 +0000" stop="20211027030000 +0000" channel="CNNTurk.us"><title lang="hr">Gece Haberleri</title></programme>
 <programme start="20211027030000 +0000" stop="20211027060000 +0000" channel="CNNTurk.us"><title lang="hr">A&apos;dan Z&apos;ye</title></programme>
-<programme start="20211025040600 +0000" stop="20211025060000 +0000" channel="EuroD.tr"><title lang="hr">Poyraz Karayel 29.Bölüm</title></programme>
-<programme start="20211025060000 +0000" stop="20211025080200 +0000" channel="EuroD.tr"><title lang="hr">Neler Oluyor Hayatta &quot;Canlı&quot;</title></programme>
-<programme start="20211025080200 +0000" stop="20211025092100 +0000" channel="EuroD.tr"><title lang="hr">Kırık Hayatlar 38.Bölüm</title></programme>
-<programme start="20211025092100 +0000" stop="20211025124900 +0000" channel="EuroD.tr"><title lang="hr">Gelinim Mutfakta &quot;Yeni Bölüm&quot;</title></programme>
-<programme start="20211025124900 +0000" stop="20211025153000 +0000" channel="EuroD.tr"><title lang="hr">Ece Üner ile Susma</title></programme>
-<programme start="20211025153000 +0000" stop="20211025171500 +0000" channel="EuroD.tr"><title lang="hr">Kanal D Ana Haber Bülteni</title></programme>
-<programme start="20211025171500 +0000" stop="20211025175400 +0000" channel="EuroD.tr"><title lang="hr">Çok Güzel Hareketler 2</title></programme>
-<programme start="20211025175400 +0000" stop="20211025204300 +0000" channel="EuroD.tr"><title lang="hr">ÇokGüzelHareketler 2 &quot;YeniBölüm&quot;</title></programme>
-<programme start="20211025204300 +0000" stop="20211025225500 +0000" channel="EuroD.tr"><title lang="hr">Aşkın 5 Hali</title></programme>
-<programme start="20211025225500 +0000" stop="20211026010100 +0000" channel="EuroD.tr"><title lang="hr">Gelinim Mutfakta</title></programme>
-<programme start="20211026010100 +0000" stop="20211026014900 +0000" channel="EuroD.tr"><title lang="hr">Arda İle Omuz Omuza</title></programme>
-<programme start="20211026014900 +0000" stop="20211026034100 +0000" channel="EuroD.tr"><title lang="hr">Ece Üner ile Susma</title></programme>
-<programme start="20211026034100 +0000" stop="20211026060000 +0000" channel="EuroD.tr"><title lang="hr">Poyraz Karayel 30.Bölüm</title></programme>
+<programme start="20211027060000 +0000" stop="20211027075000 +0000" channel="CNNTurk.us"><title lang="hr">Güne Merhaba</title></programme>
+<programme start="20211027075000 +0000" stop="20211027090000 +0000" channel="CNNTurk.us"><title lang="hr">Hava Durumu</title></programme>
+<programme start="20211027090000 +0000" stop="20211027110000 +0000" channel="CNNTurk.us"><title lang="hr">Gündem</title></programme>
+<programme start="20211027110000 +0000" stop="20211027130000 +0000" channel="CNNTurk.us"><title lang="hr">Bugün</title></programme>
+<programme start="20211027130000 +0000" stop="20211027150000 +0000" channel="CNNTurk.us"><title lang="hr">Günlük</title></programme>
+<programme start="20211027150000 +0000" stop="20211027170000 +0000" channel="CNNTurk.us"><title lang="hr">Ana Haber</title></programme>
+<programme start="20211028020000 +0000" stop="20211028030000 +0000" channel="CNNTurk.us"><title lang="hr">Gece Haberleri</title></programme>
+<programme start="20211028030000 +0000" stop="20211028060000 +0000" channel="CNNTurk.us"><title lang="hr">A&apos;dan Z&apos;ye</title></programme>
 <programme start="20211026060000 +0000" stop="20211026080200 +0000" channel="EuroD.tr"><title lang="hr">Neler Oluyor Hayatta &quot;Canlı&quot;</title></programme>
-<programme start="20211026080200 +0000" stop="20211026091700 +0000" channel="EuroD.tr"><title lang="hr">Kırık Hayatlar 39.Bölüm</title></programme>
+<programme start="20211026080200 +0000" stop="20211026091700 +0000" channel="EuroD.tr"><title lang="hr">EVİM ŞAHANE</title></programme>
 <programme start="20211026091700 +0000" stop="20211026124400 +0000" channel="EuroD.tr"><title lang="hr">Gelinim Mutfakta &quot;Yeni Bölüm&quot;</title></programme>
 <programme start="20211026124400 +0000" stop="20211026153000 +0000" channel="EuroD.tr"><title lang="hr">Ece Üner ile Susma</title></programme>
 <programme start="20211026153000 +0000" stop="20211026171500 +0000" channel="EuroD.tr"><title lang="hr">Kanal D Ana Haber Bülteni</title></programme>
 <programme start="20211026171500 +0000" stop="20211026195800 +0000" channel="EuroD.tr"><title lang="hr">Bebek Geliyorum Demez</title></programme>
-<programme start="20211026195800 +0000" stop="20211026231700 +0000" channel="EuroD.tr"><title lang="hr">Yargı 5.Bölüm</title></programme>
+<programme start="20211026195800 +0000" stop="20211026231700 +0000" channel="EuroD.tr"><title lang="hr">Yargı 6.Bölüm</title></programme>
 <programme start="20211026231700 +0000" stop="20211027011900 +0000" channel="EuroD.tr"><title lang="hr">Gelinim Mutfakta</title></programme>
 <programme start="20211027011900 +0000" stop="20211027031300 +0000" channel="EuroD.tr"><title lang="hr">Ece Üner ile Susma</title></programme>
-<programme start="20211027031300 +0000" stop="20211027060000 +0000" channel="EuroD.tr"><title lang="hr">Poyraz Karayel 31.Bölüm</title></programme>
-<programme start="20211025043500 +0000" stop="20211025053000 +0000" channel="ProSiebenFun.de"><title lang="hr">talk talk talk</title></programme>
-<programme start="20211025053000 +0000" stop="20211025055500 +0000" channel="ProSiebenFun.de"><title lang="hr">Switch reloaded</title></programme>
-<programme start="20211025055500 +0000" stop="20211025062000 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
-<programme start="20211025062000 +0000" stop="20211025064500 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
-<programme start="20211025064500 +0000" stop="20211025071000 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
-<programme start="20211025071000 +0000" stop="20211025073000 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
-<programme start="20211025073000 +0000" stop="20211025075500 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
-<programme start="20211025075500 +0000" stop="20211025084000 +0000" channel="ProSiebenFun.de"><title lang="hr">Salem</title></programme>
-<programme start="20211025084000 +0000" stop="20211025090500 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
-<programme start="20211025090500 +0000" stop="20211025092500 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
-<programme start="20211025092500 +0000" stop="20211025095000 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
-<programme start="20211025095000 +0000" stop="20211025101000 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
-<programme start="20211025101000 +0000" stop="20211025103500 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
-<programme start="20211025103500 +0000" stop="20211025110000 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
-<programme start="20211025110000 +0000" stop="20211025112000 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
-<programme start="20211025112000 +0000" stop="20211025114500 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
-<programme start="20211025114500 +0000" stop="20211025121000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025121000 +0000" stop="20211025123000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025123000 +0000" stop="20211025125500 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025125500 +0000" stop="20211025132000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025132000 +0000" stop="20211025134000 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025134000 +0000" stop="20211025140500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025140500 +0000" stop="20211025142500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025142500 +0000" stop="20211025145000 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025145000 +0000" stop="20211025151000 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
-<programme start="20211025151000 +0000" stop="20211025153500 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
-<programme start="20211025153500 +0000" stop="20211025160000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025160000 +0000" stop="20211025162000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025162000 +0000" stop="20211025164500 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
-<programme start="20211025164500 +0000" stop="20211025170500 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
-<programme start="20211025170500 +0000" stop="20211025173000 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
-<programme start="20211025173000 +0000" stop="20211025175000 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
-<programme start="20211025175000 +0000" stop="20211025181500 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
-<programme start="20211025181500 +0000" stop="20211025183500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025183500 +0000" stop="20211025190000 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025190000 +0000" stop="20211025192500 +0000" channel="ProSiebenFun.de"><title lang="hr">BoJack Horseman</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img270124-tv5560142.jpg"/></programme>
-<programme start="20211025192500 +0000" stop="20211025195500 +0000" channel="ProSiebenFun.de"><title lang="hr">BoJack Horseman</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img270124-tv5560142.jpg"/></programme>
-<programme start="20211025195500 +0000" stop="20211025201500 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025201500 +0000" stop="20211025204000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025204000 +0000" stop="20211025210000 +0000" channel="ProSiebenFun.de"><title lang="hr">Archer</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img305627-tv7574818.jpg"/></programme>
-<programme start="20211025210000 +0000" stop="20211025212500 +0000" channel="ProSiebenFun.de"><title lang="hr">Archer</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img305627-tv7574818.jpg"/></programme>
-<programme start="20211025212500 +0000" stop="20211025214500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025214500 +0000" stop="20211025221000 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
-<programme start="20211025221000 +0000" stop="20211025223500 +0000" channel="ProSiebenFun.de"><title lang="hr">BoJack Horseman</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img270124-tv5560142.jpg"/></programme>
-<programme start="20211025223500 +0000" stop="20211025230000 +0000" channel="ProSiebenFun.de"><title lang="hr">BoJack Horseman</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img270124-tv5560142.jpg"/></programme>
-<programme start="20211025230000 +0000" stop="20211025232500 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025232500 +0000" stop="20211025234500 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
-<programme start="20211025234500 +0000" stop="20211026000500 +0000" channel="ProSiebenFun.de"><title lang="hr">Archer</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img305627-tv7574818.jpg"/></programme>
-<programme start="20211026000500 +0000" stop="20211026002500 +0000" channel="ProSiebenFun.de"><title lang="hr">Archer</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img305627-tv7574818.jpg"/></programme>
-<programme start="20211026002500 +0000" stop="20211026044000 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
+<programme start="20211027031300 +0000" stop="20211027060000 +0000" channel="EuroD.tr"><title lang="hr">Poyraz Karayel 38.Bölüm</title></programme>
+<programme start="20211027060000 +0000" stop="20211027080200 +0000" channel="EuroD.tr"><title lang="hr">Neler Oluyor Hayatta &quot;Canlı&quot;</title></programme>
+<programme start="20211027080200 +0000" stop="20211027091800 +0000" channel="EuroD.tr"><title lang="hr">EVİM ŞAHANE</title></programme>
+<programme start="20211027091800 +0000" stop="20211027124800 +0000" channel="EuroD.tr"><title lang="hr">Gelinim Mutfakta &quot;Yeni Bölüm&quot;</title></programme>
+<programme start="20211027124800 +0000" stop="20211027153000 +0000" channel="EuroD.tr"><title lang="hr">Ece Üner ile Susma</title></programme>
+<programme start="20211027153000 +0000" stop="20211027171500 +0000" channel="EuroD.tr"><title lang="hr">Kanal D Ana Haber Bülteni</title></programme>
+<programme start="20211027171500 +0000" stop="20211027180900 +0000" channel="EuroD.tr"><title lang="hr">Sadakatsiz 35.Bölüm</title></programme>
+<programme start="20211027180900 +0000" stop="20211027204900 +0000" channel="EuroD.tr"><title lang="hr">Sadakatsiz 36.Bölüm</title></programme>
+<programme start="20211027204900 +0000" stop="20211027221700 +0000" channel="EuroD.tr"><title lang="hr">Bir Garip Emanuel</title></programme>
+<programme start="20211027221700 +0000" stop="20211027233600 +0000" channel="EuroD.tr"><title lang="hr">Bir Garip Emanuel</title></programme>
+<programme start="20211027233600 +0000" stop="20211028014300 +0000" channel="EuroD.tr"><title lang="hr">Gelinim Mutfakta</title></programme>
+<programme start="20211028014300 +0000" stop="20211028033100 +0000" channel="EuroD.tr"><title lang="hr">Ece Üner ile Susma</title></programme>
+<programme start="20211028033100 +0000" stop="20211028060000 +0000" channel="EuroD.tr"><title lang="hr">Poyraz Karayel 39.Bölüm</title></programme>
 <programme start="20211026044000 +0000" stop="20211026053000 +0000" channel="ProSiebenFun.de"><title lang="hr">talk talk talk</title></programme>
 <programme start="20211026053000 +0000" stop="20211026055500 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
 <programme start="20211026055500 +0000" stop="20211026062000 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
@@ -180,31 +129,57 @@
 <programme start="20211027023500 +0000" stop="20211027025500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
 <programme start="20211027025500 +0000" stop="20211027031500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
 <programme start="20211027031500 +0000" stop="20211027034000 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
-<programme start="20211027034000 +0000" stop="20211027041500 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
-<programme start="20211025040000 +0000" stop="20211025050000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">THOM by Thomas Rath</title></programme>
-<programme start="20211025050000 +0000" stop="20211025060000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">SBC: mehr als nur Hautpflege</title></programme>
-<programme start="20211025060000 +0000" stop="20211025070000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">EMU Lammfellschuhe aus Australien</title></programme>
-<programme start="20211025070000 +0000" stop="20211025080000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">FASHION LOVE</title></programme>
-<programme start="20211025080000 +0000" stop="20211025090000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">THOM by Thomas Rath</title></programme>
-<programme start="20211025090000 +0000" stop="20211025100000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Anni for Friends</title></programme>
-<programme start="20211025100000 +0000" stop="20211025110000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">SBC: mehr als nur Hautpflege</title></programme>
-<programme start="20211025110000 +0000" stop="20211025120000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">PERFECT FORMULA Natürlich schöne Nägel</title></programme>
-<programme start="20211025120000 +0000" stop="20211025130000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">EMU Lammfellschuhe aus Australien</title></programme>
-<programme start="20211025130000 +0000" stop="20211025140000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">THOM by Thomas Rath</title></programme>
-<programme start="20211025140000 +0000" stop="20211025150000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">SBC: mehr als nur Hautpflege</title></programme>
-<programme start="20211025150000 +0000" stop="20211025160000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Herbstmode</title></programme>
-<programme start="20211025160000 +0000" stop="20211025170000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">FASHION LOVE</title></programme>
-<programme start="20211025170000 +0000" stop="20211025180000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">EMU Lammfellschuhe aus Australien</title></programme>
-<programme start="20211025180000 +0000" stop="20211025190000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">THOM by Thomas Rath</title></programme>
-<programme start="20211025190000 +0000" stop="20211025200000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Anni for Friends</title></programme>
-<programme start="20211025200000 +0000" stop="20211025210000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">EMU Lammfellschuhe aus Australien</title></programme>
-<programme start="20211025210000 +0000" stop="20211025220000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">SBC: mehr als nur Hautpflege</title></programme>
-<programme start="20211025220000 +0000" stop="20211025230000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Herbstmode</title></programme>
-<programme start="20211025230000 +0000" stop="20211026000000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">POLARSTERN Homewear</title></programme>
-<programme start="20211026000000 +0000" stop="20211026010000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">PERFECT FORMULA Natürlich schöne Nägel</title></programme>
-<programme start="20211026010000 +0000" stop="20211026020000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">STRANDFEIN Designermode präsentiert von Uta Raasch</title></programme>
-<programme start="20211026020000 +0000" stop="20211026030000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Perfect Beauty</title></programme>
-<programme start="20211026030000 +0000" stop="20211026040000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">POLARSTERN Homewear</title></programme>
+<programme start="20211027034000 +0000" stop="20211027041000 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
+<programme start="20211027041000 +0000" stop="20211027050500 +0000" channel="ProSiebenFun.de"><title lang="hr">talk talk talk</title></programme>
+<programme start="20211027050500 +0000" stop="20211027053000 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
+<programme start="20211027053000 +0000" stop="20211027055500 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
+<programme start="20211027055500 +0000" stop="20211027062000 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
+<programme start="20211027062000 +0000" stop="20211027065000 +0000" channel="ProSiebenFun.de"><title lang="hr">bullyparade</title></programme>
+<programme start="20211027065000 +0000" stop="20211027071500 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
+<programme start="20211027071500 +0000" stop="20211027073500 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
+<programme start="20211027073500 +0000" stop="20211027080000 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
+<programme start="20211027080000 +0000" stop="20211027084000 +0000" channel="ProSiebenFun.de"><title lang="hr">Salem</title></programme>
+<programme start="20211027084000 +0000" stop="20211027090500 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
+<programme start="20211027090500 +0000" stop="20211027093000 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
+<programme start="20211027093000 +0000" stop="20211027095000 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
+<programme start="20211027095000 +0000" stop="20211027101500 +0000" channel="ProSiebenFun.de"><title lang="hr">Speechless</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126304-tv5152967.jpg"/></programme>
+<programme start="20211027101500 +0000" stop="20211027103500 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
+<programme start="20211027103500 +0000" stop="20211027110000 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
+<programme start="20211027110000 +0000" stop="20211027112500 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
+<programme start="20211027112500 +0000" stop="20211027114500 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
+<programme start="20211027114500 +0000" stop="20211027121000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
+<programme start="20211027121000 +0000" stop="20211027123000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
+<programme start="20211027123000 +0000" stop="20211027125500 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
+<programme start="20211027125500 +0000" stop="20211027131500 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
+<programme start="20211027131500 +0000" stop="20211027134000 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
+<programme start="20211027134000 +0000" stop="20211027140500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
+<programme start="20211027140500 +0000" stop="20211027142500 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
+<programme start="20211027142500 +0000" stop="20211027145000 +0000" channel="ProSiebenFun.de"><title lang="hr">Bob&apos;s Burgers</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img266711-tv4678388.jpg"/></programme>
+<programme start="20211027145000 +0000" stop="20211027151000 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
+<programme start="20211027151000 +0000" stop="20211027153500 +0000" channel="ProSiebenFun.de"><title lang="hr">American Dad</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img351278-tv5118051.jpg"/></programme>
+<programme start="20211027153500 +0000" stop="20211027160000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
+<programme start="20211027160000 +0000" stop="20211027162000 +0000" channel="ProSiebenFun.de"><title lang="hr">Family Guy</title></programme>
+<programme start="20211027162000 +0000" stop="20211027164500 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
+<programme start="20211027164500 +0000" stop="20211027170500 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
+<programme start="20211027170500 +0000" stop="20211027173000 +0000" channel="ProSiebenFun.de"><title lang="hr">Scrubs - Die Anfänger</title></programme>
+<programme start="20211027173000 +0000" stop="20211027175000 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
+<programme start="20211027175000 +0000" stop="20211027181500 +0000" channel="ProSiebenFun.de"><title lang="hr">Last Man Standing</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/wide_2080894_2058121014.jpg"/></programme>
+<programme start="20211027181500 +0000" stop="20211027183500 +0000" channel="ProSiebenFun.de"><title lang="hr">No Activity</title></programme>
+<programme start="20211027183500 +0000" stop="20211027190000 +0000" channel="ProSiebenFun.de"><title lang="hr">No Activity</title></programme>
+<programme start="20211027190000 +0000" stop="20211027193500 +0000" channel="ProSiebenFun.de"><title lang="hr">Wayne</title></programme>
+<programme start="20211027193500 +0000" stop="20211027201000 +0000" channel="ProSiebenFun.de"><title lang="hr">Wayne</title></programme>
+<programme start="20211027201000 +0000" stop="20211027210000 +0000" channel="ProSiebenFun.de"><title lang="hr">Reden am Limit</title></programme>
+<programme start="20211027210000 +0000" stop="20211027212500 +0000" channel="ProSiebenFun.de"><title lang="hr">Rel</title></programme>
+<programme start="20211027212500 +0000" stop="20211027214500 +0000" channel="ProSiebenFun.de"><title lang="hr">Rel</title></programme>
+<programme start="20211027214500 +0000" stop="20211027222500 +0000" channel="ProSiebenFun.de"><title lang="hr">The Late Late Show with James Corden</title></programme>
+<programme start="20211027222500 +0000" stop="20211027231000 +0000" channel="ProSiebenFun.de"><title lang="hr">Saturday Night Live - Classics</title></programme>
+<programme start="20211027231000 +0000" stop="20211027233000 +0000" channel="ProSiebenFun.de"><title lang="hr">No Activity</title></programme>
+<programme start="20211027233000 +0000" stop="20211027235500 +0000" channel="ProSiebenFun.de"><title lang="hr">No Activity</title></programme>
+<programme start="20211027235500 +0000" stop="20211028002500 +0000" channel="ProSiebenFun.de"><title lang="hr">Wayne</title></programme>
+<programme start="20211028002500 +0000" stop="20211028010000 +0000" channel="ProSiebenFun.de"><title lang="hr">Wayne</title></programme>
+<programme start="20211028010000 +0000" stop="20211028014500 +0000" channel="ProSiebenFun.de"><title lang="hr">Reden am Limit</title></programme>
+<programme start="20211028014500 +0000" stop="20211028020500 +0000" channel="ProSiebenFun.de"><title lang="hr">Rel</title></programme>
+<programme start="20211028020500 +0000" stop="20211028041000 +0000" channel="ProSiebenFun.de"><title lang="hr">Rel</title></programme>
 <programme start="20211026040000 +0000" stop="20211026050000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">PERFECT FORMULA Natürlich schöne Nägel</title></programme>
 <programme start="20211026050000 +0000" stop="20211026060000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Herbstmode</title></programme>
 <programme start="20211026060000 +0000" stop="20211026070000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Anni for Friends</title></programme>
@@ -229,30 +204,30 @@
 <programme start="20211027010000 +0000" stop="20211027020000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">VITAFORM Schuhkollektion</title></programme>
 <programme start="20211027020000 +0000" stop="20211027030000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">STRANDFEIN Designermode präsentiert von Uta Raasch</title></programme>
 <programme start="20211027030000 +0000" stop="20211027040000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Winter-Update: Hosen</title></programme>
-<programme start="20211025040000 +0000" stop="20211025050000 +0000" channel="QVCStyleUK.us"><title lang="hr">JM Home by Julien Macdonald</title></programme>
-<programme start="20211025050000 +0000" stop="20211025060000 +0000" channel="QVCStyleUK.us"><title lang="hr">Style Your Wardrobe</title><category lang="hr">Updating different ways to wear the clothing in your wardrobe.</category></programme>
-<programme start="20211025060000 +0000" stop="20211025070000 +0000" channel="QVCStyleUK.us"><title lang="hr">Kim and Co.</title></programme>
-<programme start="20211025070000 +0000" stop="20211025080000 +0000" channel="QVCStyleUK.us"><title lang="hr">Sleepwear</title><category lang="hr">Featuring super-comfortable nightwear.</category></programme>
-<programme start="20211025080000 +0000" stop="20211025090000 +0000" channel="QVCStyleUK.us"><title lang="hr">Moda In Pelle</title></programme>
-<programme start="20211025090000 +0000" stop="20211025100000 +0000" channel="QVCStyleUK.us"><title lang="hr">Cozee Home</title></programme>
-<programme start="20211025100000 +0000" stop="20211025110000 +0000" channel="QVCStyleUK.us"><title lang="hr">Muk Luks</title></programme>
-<programme start="20211025110000 +0000" stop="20211025120000 +0000" channel="QVCStyleUK.us"><title lang="hr">Kelly Hoppen Home Design</title></programme>
-<programme start="20211025120000 +0000" stop="20211025130000 +0000" channel="QVCStyleUK.us"><title lang="hr">JM by Julien Macdonald Fashion</title></programme>
-<programme start="20211025130000 +0000" stop="20211025140000 +0000" channel="QVCStyleUK.us"><title lang="hr">New Season Fashion</title></programme>
-<programme start="20211025140000 +0000" stop="20211025150000 +0000" channel="QVCStyleUK.us"><title lang="hr">Skechers Footwear</title></programme>
-<programme start="20211025150000 +0000" stop="20211025160000 +0000" channel="QVCStyleUK.us"><title lang="hr">Frank Usher Fashion Jewellery</title></programme>
-<programme start="20211025160000 +0000" stop="20211025170000 +0000" channel="QVCStyleUK.us"><title lang="hr">QVC Selection</title></programme>
-<programme start="20211025170000 +0000" stop="20211025180000 +0000" channel="QVCStyleUK.us"><title lang="hr">Slipper Shop</title></programme>
-<programme start="20211025180000 +0000" stop="20211025190000 +0000" channel="QVCStyleUK.us"><title lang="hr">Bundleberry by Amanda Holden</title></programme>
-<programme start="20211025190000 +0000" stop="20211025200000 +0000" channel="QVCStyleUK.us"><title lang="hr">Skechers Footwear</title></programme>
-<programme start="20211025200000 +0000" stop="20211025210000 +0000" channel="QVCStyleUK.us"><title lang="hr">Frank Usher Fashion Jewellery</title></programme>
-<programme start="20211025210000 +0000" stop="20211025220000 +0000" channel="QVCStyleUK.us"><title lang="hr">Lola Rose Jewellery Designs</title></programme>
-<programme start="20211025220000 +0000" stop="20211025230000 +0000" channel="QVCStyleUK.us"><title lang="hr">Slipper Shop</title></programme>
-<programme start="20211025230000 +0000" stop="20211026000000 +0000" channel="QVCStyleUK.us"><title lang="hr">Best of QVC Style</title></programme>
-<programme start="20211026000000 +0000" stop="20211026010000 +0000" channel="QVCStyleUK.us"><title lang="hr">New Season Fashion</title></programme>
-<programme start="20211026010000 +0000" stop="20211026020000 +0000" channel="QVCStyleUK.us"><title lang="hr">JM Fashion by Julien Macdonald</title></programme>
-<programme start="20211026020000 +0000" stop="20211026030000 +0000" channel="QVCStyleUK.us"><title lang="hr">Moda In Pelle</title></programme>
-<programme start="20211026030000 +0000" stop="20211026040000 +0000" channel="QVCStyleUK.us"><title lang="hr">Accessories by Kipling</title></programme>
+<programme start="20211027040000 +0000" stop="20211027050000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Get the Designer Look!</title></programme>
+<programme start="20211027050000 +0000" stop="20211027060000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Perfect Beauty</title></programme>
+<programme start="20211027060000 +0000" stop="20211027070000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">VITAFORM Schuhkollektion</title></programme>
+<programme start="20211027070000 +0000" stop="20211027080000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">FASHION LOVE</title></programme>
+<programme start="20211027080000 +0000" stop="20211027090000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Get the Designer Look!</title></programme>
+<programme start="20211027090000 +0000" stop="20211027100000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">STRANDFEIN Designermode präsentiert von Uta Raasch</title></programme>
+<programme start="20211027100000 +0000" stop="20211027110000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Perfect Beauty</title></programme>
+<programme start="20211027110000 +0000" stop="20211027120000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">VITAFORM Schuhkollektion</title></programme>
+<programme start="20211027120000 +0000" stop="20211027130000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Winter-Update: Hosen</title></programme>
+<programme start="20211027130000 +0000" stop="20211027140000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Get the Designer Look!</title></programme>
+<programme start="20211027140000 +0000" stop="20211027150000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">STRANDFEIN Designermode präsentiert von Uta Raasch</title></programme>
+<programme start="20211027150000 +0000" stop="20211027160000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">VITAFORM Schuhkollektion</title></programme>
+<programme start="20211027160000 +0000" stop="20211027170000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">FASHION LOVE</title></programme>
+<programme start="20211027170000 +0000" stop="20211027180000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">DINE &apos;N&apos; DANCE - Fashion mit karibischem Flair</title></programme>
+<programme start="20211027180000 +0000" stop="20211027190000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Winter-Update: Hosen</title></programme>
+<programme start="20211027190000 +0000" stop="20211027200000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Get the Designer Look!</title></programme>
+<programme start="20211027200000 +0000" stop="20211027210000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">STRANDFEIN Designermode präsentiert von Uta Raasch</title></programme>
+<programme start="20211027210000 +0000" stop="20211027220000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">VITAFORM Schuhkollektion</title></programme>
+<programme start="20211027220000 +0000" stop="20211027230000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">DINE &apos;N&apos; DANCE - Fashion mit karibischem Flair</title></programme>
+<programme start="20211027230000 +0000" stop="20211028000000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">ELIZABETH GRANT Anti-Aging-Kosmetik</title></programme>
+<programme start="20211028000000 +0000" stop="20211028010000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Men&apos;s Style</title></programme>
+<programme start="20211028010000 +0000" stop="20211028020000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">VIA MILANO styled by Astrid Rudolph</title></programme>
+<programme start="20211028020000 +0000" stop="20211028030000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">DINE &apos;N&apos; DANCE - Fashion mit karibischem Flair</title></programme>
+<programme start="20211028030000 +0000" stop="20211028040000 +0000" channel="QVCStyleDeutschland.us"><title lang="hr">Men&apos;s Style</title></programme>
 <programme start="20211026040000 +0000" stop="20211026050000 +0000" channel="QVCStyleUK.us"><title lang="hr">The Christmas Grotto</title></programme>
 <programme start="20211026050000 +0000" stop="20211026060000 +0000" channel="QVCStyleUK.us"><title lang="hr">New Season Fashion</title></programme>
 <programme start="20211026060000 +0000" stop="20211026070000 +0000" channel="QVCStyleUK.us"><title lang="hr">JM Fashion by Julien Macdonald</title></programme>
@@ -264,8 +239,8 @@
 <programme start="20211026120000 +0000" stop="20211026130000 +0000" channel="QVCStyleUK.us"><title lang="hr">Accessories Gift Hall</title></programme>
 <programme start="20211026130000 +0000" stop="20211026140000 +0000" channel="QVCStyleUK.us"><title lang="hr">Slipper Shop</title></programme>
 <programme start="20211026140000 +0000" stop="20211026150000 +0000" channel="QVCStyleUK.us"><title lang="hr">Helene Berman London</title></programme>
-<programme start="20211026150000 +0000" stop="20211026160000 +0000" channel="QVCStyleUK.us"><title lang="hr">Best of QVC Style</title></programme>
-<programme start="20211026160000 +0000" stop="20211026170000 +0000" channel="QVCStyleUK.us"><title lang="hr">Best of QVC Style</title></programme>
+<programme start="20211026150000 +0000" stop="20211026160000 +0000" channel="QVCStyleUK.us"><title lang="hr">Wynne Layers Fashion Collection</title></programme>
+<programme start="20211026160000 +0000" stop="20211026170000 +0000" channel="QVCStyleUK.us"><title lang="hr">Wynne Layers Fashion Collection</title></programme>
 <programme start="20211026170000 +0000" stop="20211026180000 +0000" channel="QVCStyleUK.us"><title lang="hr">QVC Selection</title></programme>
 <programme start="20211026180000 +0000" stop="20211026190000 +0000" channel="QVCStyleUK.us"><title lang="hr">Inspirational Christmas</title></programme>
 <programme start="20211026190000 +0000" stop="20211026200000 +0000" channel="QVCStyleUK.us"><title lang="hr">Helene Berman London</title></programme>
@@ -277,53 +252,35 @@
 <programme start="20211027010000 +0000" stop="20211027020000 +0000" channel="QVCStyleUK.us"><title lang="hr">Frank Usher Fashion Jewellery</title></programme>
 <programme start="20211027020000 +0000" stop="20211027030000 +0000" channel="QVCStyleUK.us"><title lang="hr">Lola Rose Jewellery Designs</title></programme>
 <programme start="20211027030000 +0000" stop="20211027040000 +0000" channel="QVCStyleUK.us"><title lang="hr">Slipper Shop</title></programme>
-<programme start="20211025042000 +0000" stop="20211025045000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Die Fallers, ep. 788</title><category lang="hr">Die Logik hinkt</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img403565-tv11979871.jpg"/></programme>
-<programme start="20211025045000 +0000" stop="20211025052000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Björn Freitag kocht grenzenlos köstlich</title><category lang="hr">Grenzgerichte - Der Westen trifft Niedersachsen und Rheinland-Pfalz</category></programme>
-<programme start="20211025052000 +0000" stop="20211025061000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Rote Rosen, ep. 3435</title><category lang="hr">Zukunft in Bremen</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img397842-img397836-5_F3422_Rote_Rosen_0-127_2953x1342.jpg"/></programme>
-<programme start="20211025061000 +0000" stop="20211025070000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Sturm der Liebe, ep. 3702</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img368022-tv5486533.jpg"/></programme>
-<programme start="20211025070000 +0000" stop="20211025073000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Nordmagazin</title></programme>
-<programme start="20211025073000 +0000" stop="20211025080000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hamburg Journal</title><category lang="hr">Moderation: Ulf Ansorge</category></programme>
-<programme start="20211025080000 +0000" stop="20211025083000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Schleswig-Holstein Magazin</title><category lang="hr">Moderation: Marie-Luise Bram und Gerrit Derkowski</category></programme>
-<programme start="20211025083000 +0000" stop="20211025090000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen mit sportblitz</title><category lang="hr">Moderation: Felix Krömer</category></programme>
-<programme start="20211025090000 +0000" stop="20211025093500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hallo Niedersachsen</title></programme>
-<programme start="20211025093500 +0000" stop="20211025100000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Einfach genial!</title></programme>
-<programme start="20211025100000 +0000" stop="20211025102500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Xenius: Challenge</title><category lang="hr">Warum wir gerne an unsere Grenzen gehen</category></programme>
-<programme start="20211025102500 +0000" stop="20211025111000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">In aller Freundschaft, ep. 686</title><category lang="hr">Ohne Netz und doppelten Boden</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img395710-tv5338369.jpg"/></programme>
-<programme start="20211025111000 +0000" stop="20211025120000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">In aller Freundschaft, ep. 16</title><category lang="hr">Auf dem Sprung</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img395710-tv5338369.jpg"/></programme>
-<programme start="20211025120000 +0000" stop="20211025121500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
-<programme start="20211025121500 +0000" stop="20211025130000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Gefragt - Gejagt</title><category lang="hr">Moderation: Alexander Bommes</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img403975-tv11980232.jpg"/></programme>
-<programme start="20211025130000 +0000" stop="20211025140000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">die nordstory</title><category lang="hr">Von der Ostsee in die Südsee - Der Urgroßonkel vom anderen Ende der Welt</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402144-img402142-5467316_0-55_1024x465.jpg"/></programme>
-<programme start="20211025140000 +0000" stop="20211025141000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
-<programme start="20211025141000 +0000" stop="20211025150000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Mein Nachmittag</title><category lang="hr">Moderation: Ilka Petersen</category></programme>
-<programme start="20211025150000 +0000" stop="20211025151000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
-<programme start="20211025151000 +0000" stop="20211025160000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Leopard, Seebär &amp; Co., ep. 54</title><category lang="hr">Geburtstagstorte für Kandy</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408920-tv11997368.jpg"/></programme>
-<programme start="20211025160000 +0000" stop="20211025160600 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen um 6</title></programme>
-<programme start="20211025160600 +0000" stop="20211025161300 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | sportblitz</title></programme>
-<programme start="20211025161300 +0000" stop="20211025161500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | wetter</title></programme>
-<programme start="20211025161500 +0000" stop="20211025164500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Die Nordreportage: Großes Herz und starke Arme</title><category lang="hr">Der Hafen hilft</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402337-tv11957602.jpg"/></programme>
-<programme start="20211025164500 +0000" stop="20211025173000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">DAS!</title><category lang="hr">Gast: Florian Schroeder, Kabarettist</category></programme>
-<programme start="20211025173000 +0000" stop="20211025175800 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | regionalmagazin</title><category lang="hr">Moderation: Lena Oldach</category></programme>
-<programme start="20211025175800 +0000" stop="20211025180000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | wetter</title></programme>
-<programme start="20211025180000 +0000" stop="20211025181500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Tagesschau</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img405171-img405169-1_Tagesschau_0-220_2480x1127.jpg"/></programme>
-<programme start="20211025181500 +0000" stop="20211025190000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Markt</title><category lang="hr">Moderation: Jo Hiller</category></programme>
-<programme start="20211025190000 +0000" stop="20211025194500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Die Ernährungs-Docs</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402302-img402301-5447878_0-81_1920x873.jpg"/></programme>
-<programme start="20211025194500 +0000" stop="20211025200000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
-<programme start="20211025200000 +0000" stop="20211025204500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">45 Min - Wie sicher fahren Senioren? 1, ep. 45</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402328-tv11957607.jpg"/></programme>
-<programme start="20211025204500 +0000" stop="20211025211500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Kulturjournal</title><category lang="hr">Moderation: Julia Westlake</category></programme>
-<programme start="20211025211500 +0000" stop="20211025230500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Weißer, weißer Tag</title><category lang="hr">Spielfilm Island 2019</category></programme>
-<programme start="20211025230500 +0000" stop="20211026003500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">HalloHallo</title><category lang="hr">Spielfilm Schweden 2014 (HallåHallå)</category></programme>
-<programme start="20211026003500 +0000" stop="20211026004500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Mein Norden</title></programme>
-<programme start="20211026004500 +0000" stop="20211026011500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hallo Niedersachsen</title></programme>
-<programme start="20211026011500 +0000" stop="20211026014500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Nordmagazin</title></programme>
-<programme start="20211026014500 +0000" stop="20211026021500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Schleswig-Holstein Magazin</title><category lang="hr">Moderation: Harriet Heise und Christopher Scheffelmeier</category></programme>
-<programme start="20211026021500 +0000" stop="20211026024500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hamburg Journal</title><category lang="hr">Moderation: Julia-Niharika Sen</category></programme>
-<programme start="20211026024500 +0000" stop="20211026031500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | regionalmagazin</title><category lang="hr">Moderation: Lena Oldach</category></programme>
-<programme start="20211026031500 +0000" stop="20211026040000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">DAS!</title><category lang="hr">Gast: Florian Schroeder, Kabarettist</category></programme>
+<programme start="20211027040000 +0000" stop="20211027050000 +0000" channel="QVCStyleUK.us"><title lang="hr">Cozee Home</title></programme>
+<programme start="20211027050000 +0000" stop="20211027060000 +0000" channel="QVCStyleUK.us"><title lang="hr">Skechers Footwear</title></programme>
+<programme start="20211027060000 +0000" stop="20211027070000 +0000" channel="QVCStyleUK.us"><title lang="hr">Frank Usher Fashion Jewellery</title></programme>
+<programme start="20211027070000 +0000" stop="20211027080000 +0000" channel="QVCStyleUK.us"><title lang="hr">Lola Rose Jewellery Designs</title></programme>
+<programme start="20211027080000 +0000" stop="20211027090000 +0000" channel="QVCStyleUK.us"><title lang="hr">Slipper Shop</title></programme>
+<programme start="20211027090000 +0000" stop="20211027100000 +0000" channel="QVCStyleUK.us"><title lang="hr">Kim and Co.</title></programme>
+<programme start="20211027100000 +0000" stop="20211027110000 +0000" channel="QVCStyleUK.us"><title lang="hr">Bundleberry by Amanda Holden</title></programme>
+<programme start="20211027110000 +0000" stop="20211027120000 +0000" channel="QVCStyleUK.us"><title lang="hr">Helene Berman London</title></programme>
+<programme start="20211027120000 +0000" stop="20211027130000 +0000" channel="QVCStyleUK.us"><title lang="hr">Skechers Footwear</title></programme>
+<programme start="20211027130000 +0000" stop="20211027140000 +0000" channel="QVCStyleUK.us"><title lang="hr">Diamonique Tova Collection</title></programme>
+<programme start="20211027140000 +0000" stop="20211027150000 +0000" channel="QVCStyleUK.us"><title lang="hr">Skechers Footwear</title></programme>
+<programme start="20211027150000 +0000" stop="20211027160000 +0000" channel="QVCStyleUK.us"><title lang="hr">Badgley Mischka Studio</title><category lang="hr">Badgley Mischka Studio.</category></programme>
+<programme start="20211027160000 +0000" stop="20211027170000 +0000" channel="QVCStyleUK.us"><title lang="hr">Best of QVC Style</title></programme>
+<programme start="20211027170000 +0000" stop="20211027180000 +0000" channel="QVCStyleUK.us"><title lang="hr">Best of QVC Style</title></programme>
+<programme start="20211027180000 +0000" stop="20211027190000 +0000" channel="QVCStyleUK.us"><title lang="hr">Best of QVC Style</title></programme>
+<programme start="20211027190000 +0000" stop="20211027200000 +0000" channel="QVCStyleUK.us"><title lang="hr">Skechers Footwear</title></programme>
+<programme start="20211027200000 +0000" stop="20211027210000 +0000" channel="QVCStyleUK.us"><title lang="hr">Wynne Layers Fashion Collection</title></programme>
+<programme start="20211027210000 +0000" stop="20211027220000 +0000" channel="QVCStyleUK.us"><title lang="hr">Wynne Layers Fashion Collection</title></programme>
+<programme start="20211027220000 +0000" stop="20211027230000 +0000" channel="QVCStyleUK.us"><title lang="hr">Style Your Wardrobe</title><category lang="hr">Updating different ways to wear the clothing in your wardrobe.</category></programme>
+<programme start="20211027230000 +0000" stop="20211028000000 +0000" channel="QVCStyleUK.us"><title lang="hr">The Christmas Grotto</title></programme>
+<programme start="20211028000000 +0000" stop="20211028010000 +0000" channel="QVCStyleUK.us"><title lang="hr">Helene Berman London</title></programme>
+<programme start="20211028010000 +0000" stop="20211028020000 +0000" channel="QVCStyleUK.us"><title lang="hr">JM Home by Julien Macdonald</title></programme>
+<programme start="20211028020000 +0000" stop="20211028030000 +0000" channel="QVCStyleUK.us"><title lang="hr">Nina Leonard Fashion Designs</title></programme>
+<programme start="20211028030000 +0000" stop="20211028040000 +0000" channel="QVCStyleUK.us"><title lang="hr">Luxury Jewellery</title><category lang="hr">Teleshopping.</category></programme>
 <programme start="20211026040000 +0000" stop="20211026042000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Sesamstraße</title></programme>
 <programme start="20211026042000 +0000" stop="20211026043500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">mareTV kompakt</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126913-tv0.jpg"/></programme>
 <programme start="20211026043500 +0000" stop="20211026052000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Markt</title><category lang="hr">Moderation: Jo Hiller</category></programme>
 <programme start="20211026052000 +0000" stop="20211026061000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Rote Rosen, ep. 3436</title><category lang="hr">Deutschland 2021</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img397842-img397836-5_F3422_Rote_Rosen_0-127_2953x1342.jpg"/></programme>
-<programme start="20211026061000 +0000" stop="20211026070000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Sturm der Liebe, ep. 3703</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img368022-tv5486533.jpg"/></programme>
+<programme start="20211026061000 +0000" stop="20211026070000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Sturm der Liebe, ep. 3703</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img410241-tv5486533.jpg"/></programme>
 <programme start="20211026070000 +0000" stop="20211026073000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Nordmagazin</title></programme>
 <programme start="20211026073000 +0000" stop="20211026080000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hamburg Journal</title><category lang="hr">Moderation: Julia-Niharika Sen</category></programme>
 <programme start="20211026080000 +0000" stop="20211026083000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Schleswig-Holstein Magazin</title><category lang="hr">Moderation: Harriet Heise und Christopher Scheffelmeier</category></programme>
@@ -351,37 +308,64 @@
 <programme start="20211026181500 +0000" stop="20211026191500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Visite</title><category lang="hr">Das Gesundheitsmagazin</category></programme>
 <programme start="20211026191500 +0000" stop="20211026194500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Panorama 3</title></programme>
 <programme start="20211026194500 +0000" stop="20211026200000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
-<programme start="20211026200000 +0000" stop="20211026213000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Polizeiruf 110: Jutta oder die Kinder von Damutz</title><category lang="hr">Fernsehfilm Deutschland 1995</category></programme>
+<programme start="20211026200000 +0000" stop="20211026213000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Polizeiruf 110 24, ep. 12</title><category lang="hr">Jutta oder die Kinder von Damutz</category></programme>
 <programme start="20211026213000 +0000" stop="20211026220000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Weltbilder</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408907-tv11997369.jpg"/></programme>
-<programme start="20211026220000 +0000" stop="20211026233000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Fly Rocket fly</title><category lang="hr">Mit Macheten zu den Sternen</category></programme>
-<programme start="20211026233000 +0000" stop="20211027010000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Polizeiruf 110</title><category lang="hr">Jutta oder die Kinder von Damutz</category></programme>
+<programme start="20211026220000 +0000" stop="20211026233000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Fly Rocket Fly - Die Raketenträume des Lutz KayserFly Rocket Fly (2018)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img410273-tv8941941.jpg"/></programme>
+<programme start="20211026233000 +0000" stop="20211027010000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Polizeiruf 110 24, ep. 12</title><category lang="hr">Jutta oder die Kinder von Damutz</category></programme>
 <programme start="20211027010000 +0000" stop="20211027011500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Mein Norden</title></programme>
 <programme start="20211027011500 +0000" stop="20211027014500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Nordmagazin</title></programme>
 <programme start="20211027014500 +0000" stop="20211027021500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Schleswig-Holstein Magazin</title><category lang="hr">Moderation: Harriet Heise und Christopher Scheffelmeier</category></programme>
 <programme start="20211027021500 +0000" stop="20211027024500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hamburg Journal</title><category lang="hr">Moderation: Julia-Niharika Sen</category></programme>
 <programme start="20211027024500 +0000" stop="20211027031500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | regionalmagazin</title></programme>
 <programme start="20211027031500 +0000" stop="20211027040000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">DAS!</title><category lang="hr">Gäste: Frank Elstner, Moderator, und Prof. Jens Volkmann, Neurologe, Direktor der Neurologischen Universitätsklinik in Würzburg</category></programme>
-<programme start="20211025040000 +0000" stop="20211025050000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
-<programme start="20211025050000 +0000" stop="20211025070000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart</title></programme>
-<programme start="20211025070000 +0000" stop="20211025080000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
-<programme start="20211025080000 +0000" stop="20211025100000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart Crusade Classics</title><category lang="hr">Music and preaching filmed around the world.</category></programme>
-<programme start="20211025100000 +0000" stop="20211025110000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
-<programme start="20211025110000 +0000" stop="20211025113000 +0000" channel="SBNInternational.us"><title lang="hr">Study in the Word</title><category lang="hr">Bible teaching hosted by Jimmy Swaggart.</category></programme>
-<programme start="20211025113000 +0000" stop="20211025120000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
-<programme start="20211025120000 +0000" stop="20211025130000 +0000" channel="SBNInternational.us"><title lang="hr">The Message of the Cross</title></programme>
-<programme start="20211025130000 +0000" stop="20211025133000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
-<programme start="20211025133000 +0000" stop="20211025140000 +0000" channel="SBNInternational.us"><title lang="hr">Insight</title></programme>
-<programme start="20211025140000 +0000" stop="20211025160000 +0000" channel="SBNInternational.us"><title lang="hr">Frances and Friends</title></programme>
-<programme start="20211025160000 +0000" stop="20211025163000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
-<programme start="20211025163000 +0000" stop="20211025170000 +0000" channel="SBNInternational.us"><title lang="hr">Study in the Word</title><category lang="hr">Bible teaching hosted by Jimmy Swaggart.</category></programme>
-<programme start="20211025170000 +0000" stop="20211025190000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart</title></programme>
-<programme start="20211025190000 +0000" stop="20211025200000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
-<programme start="20211025200000 +0000" stop="20211025220000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart Crusade Classics</title><category lang="hr">Music and preaching filmed around the world.</category></programme>
-<programme start="20211025220000 +0000" stop="20211025223000 +0000" channel="SBNInternational.us"><title lang="hr">Insight</title></programme>
-<programme start="20211025223000 +0000" stop="20211025230000 +0000" channel="SBNInternational.us"><title lang="hr">Study in the Word</title><category lang="hr">Bible teaching hosted by Jimmy Swaggart.</category></programme>
-<programme start="20211025230000 +0000" stop="20211026010000 +0000" channel="SBNInternational.us"><title lang="hr">Frances and Friends</title></programme>
-<programme start="20211026010000 +0000" stop="20211026020000 +0000" channel="SBNInternational.us"><title lang="hr">The Message of the Cross</title></programme>
-<programme start="20211026020000 +0000" stop="20211026040000 +0000" channel="SBNInternational.us"><title lang="hr">Donnie Swaggart</title></programme>
+<programme start="20211027040000 +0000" stop="20211027042000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Sesamstraße</title></programme>
+<programme start="20211027042000 +0000" stop="20211027043500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">mareTV kompakt</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img126913-tv0.jpg"/></programme>
+<programme start="20211027043500 +0000" stop="20211027052000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Die Ernährungs-Docs</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402302-img402301-5447878_0-81_1920x873.jpg"/></programme>
+<programme start="20211027052000 +0000" stop="20211027061000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Rote Rosen, ep. 3437</title><category lang="hr">Tagebücher</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img397842-img397836-5_F3422_Rote_Rosen_0-127_2953x1342.jpg"/></programme>
+<programme start="20211027061000 +0000" stop="20211027070000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Sturm der Liebe, ep. 3704</title><category lang="hr">Deutschland 2021</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img410241-tv5486533.jpg"/></programme>
+<programme start="20211027070000 +0000" stop="20211027073000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Nordmagazin</title></programme>
+<programme start="20211027073000 +0000" stop="20211027080000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hamburg Journal</title><category lang="hr">Moderation: Julia-Niharika Sen</category></programme>
+<programme start="20211027080000 +0000" stop="20211027083000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Schleswig-Holstein Magazin</title><category lang="hr">Moderation: Harriet Heise und Christopher Scheffelmeier</category></programme>
+<programme start="20211027083000 +0000" stop="20211027090000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | regionalmagazin</title></programme>
+<programme start="20211027090000 +0000" stop="20211027093000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hallo Niedersachsen</title></programme>
+<programme start="20211027093000 +0000" stop="20211027100000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Die Nordreportage: Großes Herz und starke Arme</title><category lang="hr">Der Hafen hilft</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402337-tv11957602.jpg"/></programme>
+<programme start="20211027100000 +0000" stop="20211027102500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Brisant</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img405223-img405216-286348_0-49_960x436.jpg"/></programme>
+<programme start="20211027102500 +0000" stop="20211027111000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">In aller Freundschaft, ep. 688</title><category lang="hr">Zu einem hohen Preis</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img395710-tv5338369.jpg"/></programme>
+<programme start="20211027111000 +0000" stop="20211027120000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">In aller Freundschaft - Die jungen Ärzte, ep. 86</title><category lang="hr">Erwartungen</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img395749-tv5338370.jpg"/></programme>
+<programme start="20211027120000 +0000" stop="20211027121500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
+<programme start="20211027121500 +0000" stop="20211027130000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Gefragt - Gejagt</title><category lang="hr">Moderation: Alexander Bommes</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img403975-tv11980232.jpg"/></programme>
+<programme start="20211027130000 +0000" stop="20211027140000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">die nordstory - Mit Mut, Mörtel und ohne Millionen</title><category lang="hr">Happy End im Herrenhaus</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402144-img402142-5467316_0-55_1024x465.jpg"/></programme>
+<programme start="20211027140000 +0000" stop="20211027141000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
+<programme start="20211027141000 +0000" stop="20211027150000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Mein Nachmittag</title><category lang="hr">Moderation: Ilka Petersen</category></programme>
+<programme start="20211027150000 +0000" stop="20211027151000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
+<programme start="20211027151000 +0000" stop="20211027160000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Leopard, Seebär &amp; Co., ep. 56</title><category lang="hr">Ein Zebra zieht aus</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408920-tv11997368.jpg"/></programme>
+<programme start="20211027160000 +0000" stop="20211027160600 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen um 6</title></programme>
+<programme start="20211027160600 +0000" stop="20211027161300 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | sportblitz</title></programme>
+<programme start="20211027161300 +0000" stop="20211027161500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | wetter</title></programme>
+<programme start="20211027161500 +0000" stop="20211027164500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Die Nordreportage: Verbotene Inseln im Wattenmeer</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402337-tv11957602.jpg"/></programme>
+<programme start="20211027164500 +0000" stop="20211027173000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">DAS!</title><category lang="hr">Gast: Prof. Bill S. Hansson, Neuroethologe</category></programme>
+<programme start="20211027173000 +0000" stop="20211027175800 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | regionalmagazin</title></programme>
+<programme start="20211027175800 +0000" stop="20211027180000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | wetter</title></programme>
+<programme start="20211027180000 +0000" stop="20211027181500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Tagesschau</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img405171-img405169-1_Tagesschau_0-220_2480x1127.jpg"/></programme>
+<programme start="20211027181500 +0000" stop="20211027190000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Expeditionen ins Tierreich</title><category lang="hr">Die Oker - Wildnis zwischen Harz und Braunschweig</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402350-img402348-3_EiT_Wildes_Kuba_0-116_2953x1342.jpg"/></programme>
+<programme start="20211027190000 +0000" stop="20211027194500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Unsere Geschichte</title><category lang="hr">Meine Kinderverschickung</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img402131-img402130-1_UG_Als_der_Zucker_in_den_Norden_kam_0-0_2953x1342.jpg"/></programme>
+<programme start="20211027194500 +0000" stop="20211027200000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">NDR Info</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img408296-2_NDR_Info_Thomas_Kausch.jpg"/></programme>
+<programme start="20211027200000 +0000" stop="20211027204500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">extra 3</title><category lang="hr">Satiresendung</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img406134-img406132-1_Christian_Ehring_2014_0-0_2480x1127.jpg"/></programme>
+<programme start="20211027204500 +0000" stop="20211027212500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Kranitz - Bei Trennung Geld zurück, ep. 2</title><category lang="hr">Jörn &amp; Mareike - Flöten für Kröten</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img409020-tv11997398.jpg"/></programme>
+<programme start="20211027212500 +0000" stop="20211027213000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Kranitz erklärt: Von der Gurke zur Kröte</title></programme>
+<programme start="20211027213000 +0000" stop="20211027220000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Magnus - Trolljäger</title><category lang="hr">Ein Fall für die Idioten</category></programme>
+<programme start="20211027220000 +0000" stop="20211027223000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Magnus - Trolljäger</title><category lang="hr">Der doppelte Geir</category></programme>
+<programme start="20211027223000 +0000" stop="20211027230000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Magnus - Trolljäger</title><category lang="hr">Von Gnomen und Trollen</category></programme>
+<programme start="20211027230000 +0000" stop="20211027233000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Magnus - Trolljäger</title><category lang="hr">Kindergeburtstag</category></programme>
+<programme start="20211027233000 +0000" stop="20211028000500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Magnus - Trolljäger</title><category lang="hr">Der Wächter des Portals</category></programme>
+<programme start="20211028000500 +0000" stop="20211028003500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Magnus - Trolljäger</title><category lang="hr">Wiederbelebung</category></programme>
+<programme start="20211028003500 +0000" stop="20211028004500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Mein Norden</title></programme>
+<programme start="20211028004500 +0000" stop="20211028011500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hallo Niedersachsen</title></programme>
+<programme start="20211028011500 +0000" stop="20211028014500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Nordmagazin</title></programme>
+<programme start="20211028014500 +0000" stop="20211028021500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Schleswig-Holstein Magazin</title><category lang="hr">Moderation: Harriet Heise und Christopher Scheffelmeier</category></programme>
+<programme start="20211028021500 +0000" stop="20211028024500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">Hamburg Journal</title><category lang="hr">Moderation: Julia-Niharika Sen</category></programme>
+<programme start="20211028024500 +0000" stop="20211028031500 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">buten un binnen | regionalmagazin</title></programme>
+<programme start="20211028031500 +0000" stop="20211028040000 +0000" channel="RadioBremenFernsehen.de"><title lang="hr">DAS!</title><category lang="hr">Gast: Prof. Bill S. Hansson, Neuroethologe</category></programme>
 <programme start="20211026040000 +0000" stop="20211026050000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
 <programme start="20211026050000 +0000" stop="20211026060000 +0000" channel="SBNInternational.us"><title lang="hr">Family Worship Center - Associate Pastors</title><category lang="hr">The church service of Jimmy Swaggart Ministries.</category></programme>
 <programme start="20211026060000 +0000" stop="20211026080000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
@@ -403,22 +387,30 @@
 <programme start="20211026230000 +0000" stop="20211027010000 +0000" channel="SBNInternational.us"><title lang="hr">Frances and Friends</title></programme>
 <programme start="20211027010000 +0000" stop="20211027020000 +0000" channel="SBNInternational.us"><title lang="hr">The Message of the Cross</title></programme>
 <programme start="20211027020000 +0000" stop="20211027040000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart</title></programme>
-<programme start="20211025053000 +0000" stop="20211025074000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Immer wenn du bei mir bist 2Ice 2 (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img337122-tv8864670.jpg"/></programme>
-<programme start="20211025074000 +0000" stop="20211025092000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Lenin im OktoberLenin in October (1937)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img240567-tv7682435.jpg"/></programme>
-<programme start="20211025092000 +0000" stop="20211025105000 +0000" channel="TV1000WorldKino.se"><title lang="hr">30 Dates30 Dates (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img174102-tv5932116.jpg"/></programme>
-<programme start="20211025105000 +0000" stop="20211025122500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Ein AtemzugOne Breath (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img312854-tv9807225.jpg"/></programme>
-<programme start="20211025122500 +0000" stop="20211025140500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Die Schöne in FahrtThe Babe! (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img337128-tv10690094.jpg"/></programme>
-<programme start="20211025140500 +0000" stop="20211025153000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Krieg der GeschlechterGender War (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img184599-tv6121311.jpg"/></programme>
-<programme start="20211025153000 +0000" stop="20211025170000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Die Schwierigkeiten des ÜberlebensDifficulties of Survival (2019)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img306076-tv9567426.jpg"/></programme>
-<programme start="20211025170000 +0000" stop="20211025184500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Dragon - Love Is a Scary TaleOn - drakon (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img173599-tv5932003.jpg"/></programme>
-<programme start="20211025184500 +0000" stop="20211025201000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Der Mann von unserem FriedhofGuy From Our Graveyard (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img240548-tv7682289.jpg"/></programme>
-<programme start="20211025201000 +0000" stop="20211025210000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Operation Satan 1, ep. 1</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img290464-tv9142645.jpg"/></programme>
-<programme start="20211025210000 +0000" stop="20211025222500 +0000" channel="TV1000WorldKino.se"><title lang="hr">KokokoKokoko (2012)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img179833-tv6043131.jpg"/></programme>
-<programme start="20211025222500 +0000" stop="20211025234500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Break LooseBreak Loose (2013)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img214722-tv6861193.jpg"/></programme>
-<programme start="20211025234500 +0000" stop="20211026011000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Weine nicht, Mama!Mama, Don&apos;t Cry (1997)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img331000-tv9807338.jpg"/></programme>
-<programme start="20211026011000 +0000" stop="20211026022000 +0000" channel="TV1000WorldKino.se"><title lang="hr">ÜbersetzerInterpreter (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img174008-tv5932094.jpg"/></programme>
-<programme start="20211026022000 +0000" stop="20211026035500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Ein AtemzugOne Breath (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img312854-tv9807225.jpg"/></programme>
-<programme start="20211026035500 +0000" stop="20211026040000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Die Schöne in FahrtThe Babe! (2020)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img337128-tv10690094.jpg"/></programme>
+<programme start="20211027040000 +0000" stop="20211027050000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211027050000 +0000" stop="20211027070000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart</title></programme>
+<programme start="20211027070000 +0000" stop="20211027080000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211027080000 +0000" stop="20211027100000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart Crusade Classics</title><category lang="hr">Music and preaching filmed around the world.</category></programme>
+<programme start="20211027100000 +0000" stop="20211027110000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211027110000 +0000" stop="20211027113000 +0000" channel="SBNInternational.us"><title lang="hr">Study in the Word</title><category lang="hr">Bible teaching hosted by Jimmy Swaggart.</category></programme>
+<programme start="20211027113000 +0000" stop="20211027120000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211027120000 +0000" stop="20211027130000 +0000" channel="SBNInternational.us"><title lang="hr">The Message of the Cross</title></programme>
+<programme start="20211027130000 +0000" stop="20211027133000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211027133000 +0000" stop="20211027140000 +0000" channel="SBNInternational.us"><title lang="hr">Insight</title></programme>
+<programme start="20211027140000 +0000" stop="20211027160000 +0000" channel="SBNInternational.us"><title lang="hr">Frances and Friends</title></programme>
+<programme start="20211027160000 +0000" stop="20211027163000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211027163000 +0000" stop="20211027170000 +0000" channel="SBNInternational.us"><title lang="hr">Study in the Word</title><category lang="hr">Bible teaching hosted by Jimmy Swaggart.</category></programme>
+<programme start="20211027170000 +0000" stop="20211027190000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart</title></programme>
+<programme start="20211027190000 +0000" stop="20211027193000 +0000" channel="SBNInternational.us"><title lang="hr">The Story Behind the Song</title><category lang="hr">The Stories That Inspired the authors of the Great Gospel hymns.</category></programme>
+<programme start="20211027193000 +0000" stop="20211027200000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211027200000 +0000" stop="20211027220000 +0000" channel="SBNInternational.us"><title lang="hr">Jimmy Swaggart Crusade Classics</title><category lang="hr">Music and preaching filmed around the world.</category></programme>
+<programme start="20211027220000 +0000" stop="20211027223000 +0000" channel="SBNInternational.us"><title lang="hr">Insight</title></programme>
+<programme start="20211027223000 +0000" stop="20211027230000 +0000" channel="SBNInternational.us"><title lang="hr">Study in the Word</title><category lang="hr">Bible teaching hosted by Jimmy Swaggart.</category></programme>
+<programme start="20211027230000 +0000" stop="20211028000000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211028000000 +0000" stop="20211028013000 +0000" channel="SBNInternational.us"><title lang="hr">Family Worship Center Wednesday Night Service</title></programme>
+<programme start="20211028013000 +0000" stop="20211028020000 +0000" channel="SBNInternational.us"><title lang="hr">FWC Music</title></programme>
+<programme start="20211028020000 +0000" stop="20211028030000 +0000" channel="SBNInternational.us"><title lang="hr">The Message of the Cross</title></programme>
+<programme start="20211028030000 +0000" stop="20211028050000 +0000" channel="SBNInternational.us"><title lang="hr">Frances and Friends</title></programme>
 <programme start="20211026040000 +0000" stop="20211026053500 +0000" channel="TV1000WorldKino.se"><title lang="hr">ChottabytschKhottabych (2006)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img183344-tv5932092.jpg"/></programme>
 <programme start="20211026053500 +0000" stop="20211026070500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Krieg der GeschlechterGender War (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img184599-tv6121311.jpg"/></programme>
 <programme start="20211026070500 +0000" stop="20211026083000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Die Schwierigkeiten des ÜberlebensDifficulties of Survival (2019)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img306076-tv9567426.jpg"/></programme>
@@ -434,32 +426,20 @@
 <programme start="20211026234000 +0000" stop="20211027013500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Bumer 2Bummer 2 (2006)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img179686-tv6043089.jpg"/></programme>
 <programme start="20211027013500 +0000" stop="20211027025000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Drei Recken: PferdesprungThree Heroes. Knight&apos;s Move (2014)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img173704-tv5932024.jpg"/></programme>
 <programme start="20211027025000 +0000" stop="20211027055500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Eine Million im HochzeitskorbMillion in a Wedding Basket (1985)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img228402-tv7228255.jpg"/></programme>
-<programme start="20211025040000 +0000" stop="20211025050000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
-<programme start="20211025050000 +0000" stop="20211025060000 +0000" channel="TVN.pl"><title lang="hr">Kuchenne rewolucje</title></programme>
-<programme start="20211025060000 +0000" stop="20211025093500 +0000" channel="TVN.pl"><title lang="hr">Dzien dobry TVN</title></programme>
-<programme start="20211025093500 +0000" stop="20211025094500 +0000" channel="TVN.pl"><title lang="hr">Pajęczyna - Premiera Playera</title></programme>
-<programme start="20211025094500 +0000" stop="20211025105000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
-<programme start="20211025105000 +0000" stop="20211025115500 +0000" channel="TVN.pl"><title lang="hr">Tajemnice miłości</title></programme>
-<programme start="20211025115500 +0000" stop="20211025125500 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
-<programme start="20211025125500 +0000" stop="20211025140000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
-<programme start="20211025140000 +0000" stop="20211025150000 +0000" channel="TVN.pl"><title lang="hr">Kuchenne rewolucje</title></programme>
-<programme start="20211025150000 +0000" stop="20211025160000 +0000" channel="TVN.pl"><title lang="hr">Tajemnice miłości</title></programme>
-<programme start="20211025160000 +0000" stop="20211025170000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
-<programme start="20211025170000 +0000" stop="20211025173500 +0000" channel="TVN.pl"><title lang="hr">Fakty</title></programme>
-<programme start="20211025173500 +0000" stop="20211025174500 +0000" channel="TVN.pl"><title lang="hr">Sport</title></programme>
-<programme start="20211025174500 +0000" stop="20211025175500 +0000" channel="TVN.pl"><title lang="hr">Pogoda</title></programme>
-<programme start="20211025175500 +0000" stop="20211025181000 +0000" channel="TVN.pl"><title lang="hr">Uwaga</title></programme>
-<programme start="20211025181000 +0000" stop="20211025181500 +0000" channel="TVN.pl"><title lang="hr">Doradca smaku</title></programme>
-<programme start="20211025181500 +0000" stop="20211025185500 +0000" channel="TVN.pl"><title lang="hr">Na Wspólnej</title></programme>
-<programme start="20211025185500 +0000" stop="20211025193000 +0000" channel="TVN.pl"><title lang="hr">Milionerzy</title></programme>
-<programme start="20211025193000 +0000" stop="20211025203000 +0000" channel="TVN.pl"><title lang="hr">Totalne remonty Szelągowskiej</title></programme>
-<programme start="20211025203000 +0000" stop="20211025213500 +0000" channel="TVN.pl"><title lang="hr">Nieobecni</title></programme>
-<programme start="20211025213500 +0000" stop="20211026000500 +0000" channel="TVN.pl"><title lang="hr">Jurassic World 3DJurassic World (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img361034-tv3331814.jpg"/></programme>
-<programme start="20211026000500 +0000" stop="20211026004000 +0000" channel="TVN.pl"><title lang="hr">Co za tydzień</title></programme>
-<programme start="20211026004000 +0000" stop="20211026013500 +0000" channel="TVN.pl"><title lang="hr">Uprowadzona</title></programme>
-<programme start="20211026013500 +0000" stop="20211026015500 +0000" channel="TVN.pl"><title lang="hr">Uwaga</title></programme>
-<programme start="20211026015500 +0000" stop="20211026034000 +0000" channel="TVN.pl"><title lang="hr">NOC Magii (TVN)</title></programme>
-<programme start="20211026034000 +0000" stop="20211026040000 +0000" channel="TVN.pl"><title lang="hr">Uwaga</title></programme>
+<programme start="20211027055500 +0000" stop="20211027073000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Viel Erfolg, Gentlemen!Dzhentlmeny, udachi! (2012)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img173645-tv5932012.jpg"/></programme>
+<programme start="20211027073000 +0000" stop="20211027093000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Gott segne die FrauBlagoslovite zhenshchinu (2003)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img392109-tv6043191.jpg"/></programme>
+<programme start="20211027093000 +0000" stop="20211027110000 +0000" channel="TV1000WorldKino.se"><title lang="hr">ChottabytschKhottabych (2006)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img183344-tv5932092.jpg"/></programme>
+<programme start="20211027110000 +0000" stop="20211027123500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Dark World 2 - EquilibriumTemnyy mir: Ravnovesie (2013)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340369-tv6043189.jpg"/></programme>
+<programme start="20211027123500 +0000" stop="20211027134000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Dobrynia, der kühne ReckeDobrinya and the Dragon (2006)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img173607-tv5932006.jpg"/></programme>
+<programme start="20211027134000 +0000" stop="20211027151500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Donbass - GrenzlandDonbass. Borderland (2018)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img345894-tv11030904.jpg"/></programme>
+<programme start="20211027151500 +0000" stop="20211027170000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Fünf BräutePyat nevest (2011)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img300542-tv3399570.jpg"/></programme>
+<programme start="20211027170000 +0000" stop="20211027185000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Ironie des Schicksals. Die FortsetzungIrony of Fate 2 (2007)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img173867-tv5932058.jpg"/></programme>
+<programme start="20211027185000 +0000" stop="20211027203000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Dark World - Das Tal der HexenköniginTemnyy mir (2010)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340365-tv6043161.jpg"/></programme>
+<programme start="20211027203000 +0000" stop="20211027221500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Liebe mit AkzentLove With Accent (2012)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img184505-tv6121277.jpg"/></programme>
+<programme start="20211027221500 +0000" stop="20211027232000 +0000" channel="TV1000WorldKino.se"><title lang="hr">ÜbersetzerInterpreter (2015)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img174008-tv5932094.jpg"/></programme>
+<programme start="20211027232000 +0000" stop="20211028013500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Die neunte Kompanie9 rota (2005)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img151006-tv1739798.jpg"/></programme>
+<programme start="20211028013500 +0000" stop="20211028031500 +0000" channel="TV1000WorldKino.se"><title lang="hr">Indigo</title><category lang="hr">ruski film</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img354179-tv2922271.jpg"/></programme>
+<programme start="20211028031500 +0000" stop="20211028042000 +0000" channel="TV1000WorldKino.se"><title lang="hr">Dark World 2 - EquilibriumTemnyy mir: Ravnovesie (2013)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340369-tv6043189.jpg"/></programme>
 <programme start="20211026040000 +0000" stop="20211026050000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
 <programme start="20211026050000 +0000" stop="20211026060000 +0000" channel="TVN.pl"><title lang="hr">Kuchenne rewolucje</title></programme>
 <programme start="20211026060000 +0000" stop="20211026093500 +0000" channel="TVN.pl"><title lang="hr">Dzien dobry TVN</title></programme>
@@ -488,37 +468,32 @@
 <programme start="20211027012500 +0000" stop="20211027024500 +0000" channel="TVN.pl"><title lang="hr">NOC Magii (TVN)</title></programme>
 <programme start="20211027024500 +0000" stop="20211027034000 +0000" channel="TVN.pl"><title lang="hr">Kto was tak urządził</title></programme>
 <programme start="20211027034000 +0000" stop="20211027040000 +0000" channel="TVN.pl"><title lang="hr">Uwaga</title></programme>
-<programme start="20211025040000 +0000" stop="20211025043000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
-<programme start="20211025043000 +0000" stop="20211025050000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
-<programme start="20211025050000 +0000" stop="20211025053000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
-<programme start="20211025053000 +0000" stop="20211025060000 +0000" channel="TVN24.pl"><title lang="hr">Rozmowa Piaseckiego</title></programme>
-<programme start="20211025060000 +0000" stop="20211025063000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
-<programme start="20211025063000 +0000" stop="20211025070000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
-<programme start="20211025070000 +0000" stop="20211025073000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
-<programme start="20211025073000 +0000" stop="20211025080000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda, biznes</title></programme>
-<programme start="20211025080000 +0000" stop="20211025130000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
-<programme start="20211025130000 +0000" stop="20211025140000 +0000" channel="TVN24.pl"><title lang="hr">15 na żywo</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025140000 +0000" stop="20211025160000 +0000" channel="TVN24.pl"><title lang="hr">Fakty po południu</title></programme>
-<programme start="20211025160000 +0000" stop="20211025171000 +0000" channel="TVN24.pl"><title lang="hr">Tak jest</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025171000 +0000" stop="20211025173000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny</title></programme>
-<programme start="20211025173000 +0000" stop="20211025180000 +0000" channel="TVN24.pl"><title lang="hr">Fakty po Faktach</title></programme>
-<programme start="20211025180000 +0000" stop="20211025183000 +0000" channel="TVN24.pl"><title lang="hr">Kropka nad i</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025183000 +0000" stop="20211025190000 +0000" channel="TVN24.pl"><title lang="hr">Czarno na białym</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025190000 +0000" stop="20211025200000 +0000" channel="TVN24.pl"><title lang="hr">Polska i świat</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025200000 +0000" stop="20211025210000 +0000" channel="TVN24.pl"><title lang="hr">Szkło kontaktowe</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025210000 +0000" stop="20211025214000 +0000" channel="TVN24.pl"><title lang="hr">Dzień po dniu</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025214000 +0000" stop="20211025220000 +0000" channel="TVN24.pl"><title lang="hr">Bilans dnia</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025220000 +0000" stop="20211025224000 +0000" channel="TVN24.pl"><title lang="hr">Fakty po Faktach</title></programme>
-<programme start="20211025224000 +0000" stop="20211025230500 +0000" channel="TVN24.pl"><title lang="hr">Kropka nad i</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025230500 +0000" stop="20211026000000 +0000" channel="TVN24.pl"><title lang="hr">Tak jest</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211026000000 +0000" stop="20211026002000 +0000" channel="TVN24.pl"><title lang="hr">Nowa Maja w ogrodzie</title></programme>
-<programme start="20211026002000 +0000" stop="20211026003500 +0000" channel="TVN24.pl"><title lang="hr">Akademia ogrodnika</title></programme>
-<programme start="20211026003500 +0000" stop="20211026010500 +0000" channel="TVN24.pl"><title lang="hr">Czarno na białym</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211026010500 +0000" stop="20211026021500 +0000" channel="TVN24.pl"><title lang="hr">Szkło kontaktowe</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211026021500 +0000" stop="20211026030000 +0000" channel="TVN24.pl"><title lang="hr">Polska i świat</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211026030000 +0000" stop="20211026032500 +0000" channel="TVN24.pl"><title lang="hr">Nowa Maja w ogrodzie</title></programme>
-<programme start="20211026032500 +0000" stop="20211026035500 +0000" channel="TVN24.pl"><title lang="hr">Fakty po Faktach</title></programme>
-<programme start="20211026035500 +0000" stop="20211026040000 +0000" channel="TVN24.pl"><title lang="hr">Powitanie poranka</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027040000 +0000" stop="20211027050000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
+<programme start="20211027050000 +0000" stop="20211027060000 +0000" channel="TVN.pl"><title lang="hr">Kuchenne rewolucje</title></programme>
+<programme start="20211027060000 +0000" stop="20211027093500 +0000" channel="TVN.pl"><title lang="hr">Dzien dobry TVN</title></programme>
+<programme start="20211027093500 +0000" stop="20211027094500 +0000" channel="TVN.pl"><title lang="hr">Doradca smaku</title></programme>
+<programme start="20211027094500 +0000" stop="20211027105000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
+<programme start="20211027105000 +0000" stop="20211027115500 +0000" channel="TVN.pl"><title lang="hr">Tajemnice miłości</title></programme>
+<programme start="20211027115500 +0000" stop="20211027125500 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
+<programme start="20211027125500 +0000" stop="20211027140000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
+<programme start="20211027140000 +0000" stop="20211027150000 +0000" channel="TVN.pl"><title lang="hr">Kuchenne rewolucje</title></programme>
+<programme start="20211027150000 +0000" stop="20211027160000 +0000" channel="TVN.pl"><title lang="hr">Tajemnice miłości</title></programme>
+<programme start="20211027160000 +0000" stop="20211027170000 +0000" channel="TVN.pl"><title lang="hr">Ukryta prawda</title></programme>
+<programme start="20211027170000 +0000" stop="20211027173500 +0000" channel="TVN.pl"><title lang="hr">Fakty</title></programme>
+<programme start="20211027173500 +0000" stop="20211027174500 +0000" channel="TVN.pl"><title lang="hr">Sport</title></programme>
+<programme start="20211027174500 +0000" stop="20211027175500 +0000" channel="TVN.pl"><title lang="hr">Pogoda</title></programme>
+<programme start="20211027175500 +0000" stop="20211027181000 +0000" channel="TVN.pl"><title lang="hr">Uwaga</title></programme>
+<programme start="20211027181000 +0000" stop="20211027181500 +0000" channel="TVN.pl"><title lang="hr">Doradca smaku</title></programme>
+<programme start="20211027181500 +0000" stop="20211027185500 +0000" channel="TVN.pl"><title lang="hr">Na Wspólnej</title></programme>
+<programme start="20211027185500 +0000" stop="20211027193000 +0000" channel="TVN.pl"><title lang="hr">Milionerzy</title></programme>
+<programme start="20211027193000 +0000" stop="20211027210000 +0000" channel="TVN.pl"><title lang="hr">Top Model</title></programme>
+<programme start="20211027210000 +0000" stop="20211027235500 +0000" channel="TVN.pl"><title lang="hr">Lejdis</title></programme>
+<programme start="20211027235500 +0000" stop="20211028003000 +0000" channel="TVN.pl"><title lang="hr">Superwizjer</title></programme>
+<programme start="20211028003000 +0000" stop="20211028005000 +0000" channel="TVN.pl"><title lang="hr">Uwaga</title></programme>
+<programme start="20211028005000 +0000" stop="20211028021000 +0000" channel="TVN.pl"><title lang="hr">NOC Magii (TVN)</title></programme>
+<programme start="20211028021000 +0000" stop="20211028024000 +0000" channel="TVN.pl"><title lang="hr">Kto was tak urządził</title></programme>
+<programme start="20211028024000 +0000" stop="20211028034000 +0000" channel="TVN.pl"><title lang="hr">Kto was tak urządził</title></programme>
+<programme start="20211028034000 +0000" stop="20211028040000 +0000" channel="TVN.pl"><title lang="hr">Uwaga</title></programme>
 <programme start="20211026040000 +0000" stop="20211026043000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
 <programme start="20211026043000 +0000" stop="20211026050000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
 <programme start="20211026050000 +0000" stop="20211026053000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
@@ -550,54 +525,38 @@
 <programme start="20211027030000 +0000" stop="20211027032500 +0000" channel="TVN24.pl"><title lang="hr">Nowa Maja w ogrodzie</title></programme>
 <programme start="20211027032500 +0000" stop="20211027035500 +0000" channel="TVN24.pl"><title lang="hr">Fakty po Faktach</title></programme>
 <programme start="20211027035500 +0000" stop="20211027040000 +0000" channel="TVN24.pl"><title lang="hr">Powitanie poranka</title><category lang="hr">magazyn informacyjny</category></programme>
-<programme start="20211025040000 +0000" stop="20211025043000 +0000" channel="TVPPolonia.pl"><title lang="hr">Zakończenie dnia</title></programme>
-<programme start="20211025043000 +0000" stop="20211025045000 +0000" channel="TVPPolonia.pl"><title lang="hr">Gościnny Kościół</title></programme>
-<programme start="20211025045000 +0000" stop="20211025050000 +0000" channel="TVPPolonia.pl"><title lang="hr">ROK 1981. Kalendarium, ep. 39</title></programme>
-<programme start="20211025050000 +0000" stop="20211025053000 +0000" channel="TVPPolonia.pl"><title lang="hr">W kotle historii</title><category lang="hr">odc. Nie tylko Samosierra. Cesarskie menu</category></programme>
-<programme start="20211025053000 +0000" stop="20211025055500 +0000" channel="TVPPolonia.pl"><title lang="hr">Pytanie na śniadanie</title></programme>
-<programme start="20211025055500 +0000" stop="20211025084000 +0000" channel="TVPPolonia.pl"><title lang="hr">Pytanie na śniadanie</title></programme>
-<programme start="20211025084000 +0000" stop="20211025084500 +0000" channel="TVPPolonia.pl"><title lang="hr">Panorama</title></programme>
-<programme start="20211025084500 +0000" stop="20211025091500 +0000" channel="TVPPolonia.pl"><title lang="hr">Pytanie na śniadanie</title></programme>
-<programme start="20211025091500 +0000" stop="20211025093000 +0000" channel="TVPPolonia.pl"><title lang="hr">Co na obiad</title><category lang="hr">pierogi lubelskie</category></programme>
-<programme start="20211025093000 +0000" stop="20211025100000 +0000" channel="TVPPolonia.pl"><title lang="hr">Barwy szczescia 1, ep. 2436</title></programme>
-<programme start="20211025100000 +0000" stop="20211025101500 +0000" channel="TVPPolonia.pl"><title lang="hr">Wiadomości</title></programme>
-<programme start="20211025101500 +0000" stop="20211025103500 +0000" channel="TVPPolonia.pl"><title lang="hr">Wschód</title><category lang="hr">Chocimska wiktoria</category></programme>
-<programme start="20211025103500 +0000" stop="20211025112500 +0000" channel="TVPPolonia.pl"><title lang="hr">Stulecie Winnych 3, ep. 7</title></programme>
-<programme start="20211025112500 +0000" stop="20211025122000 +0000" channel="TVPPolonia.pl"><title lang="hr">Blondynka 9, ep. 7</title></programme>
-<programme start="20211025122000 +0000" stop="20211025132000 +0000" channel="TVPPolonia.pl"><title lang="hr">Kulturalni PL</title><category lang="hr">(583)</category></programme>
-<programme start="20211025132000 +0000" stop="20211025135000 +0000" channel="TVPPolonia.pl"><title lang="hr">Okrasa łamie przepisy</title><category lang="hr">Kolorowe oliwy smakowe</category></programme>
-<programme start="20211025135000 +0000" stop="20211025140500 +0000" channel="TVPPolonia.pl"><title lang="hr">Ugotuj nam bajkę</title><category lang="hr">ŚPIĄCA KRÓLEWNA</category></programme>
-<programme start="20211025140500 +0000" stop="20211025141500 +0000" channel="TVPPolonia.pl"><title lang="hr">Figu Migu, ep. 19</title><category lang="hr">Myju myju</category></programme>
-<programme start="20211025141500 +0000" stop="20211025143000 +0000" channel="TVPPolonia.pl"><title lang="hr">Wieczór z Wiadomirkiem, ep. 8</title><category lang="hr">Kot w butach</category></programme>
-<programme start="20211025143000 +0000" stop="20211025150000 +0000" channel="TVPPolonia.pl"><title lang="hr">Rodzinka.pl 9, ep. 194</title></programme>
-<programme start="20211025150000 +0000" stop="20211025152000 +0000" channel="TVPPolonia.pl"><title lang="hr">Teleexpress</title></programme>
-<programme start="20211025152000 +0000" stop="20211025155000 +0000" channel="TVPPolonia.pl"><title lang="hr">Słownik polsko@polski</title><category lang="hr">talk - show prof. Jana Miodka</category></programme>
-<programme start="20211025155000 +0000" stop="20211025162000 +0000" channel="TVPPolonia.pl"><title lang="hr">Gra słów. Krzyżówka, ep. 451</title></programme>
-<programme start="20211025162000 +0000" stop="20211025165500 +0000" channel="TVPPolonia.pl"><title lang="hr">Barwy szczescia 1, ep. 2436</title></programme>
-<programme start="20211025165500 +0000" stop="20211025172000 +0000" channel="TVPPolonia.pl"><title lang="hr">Przystanek Emigracja</title><category lang="hr">Emigracja ekonomiczna do Ameryki w XIX/XX wieku</category></programme>
-<programme start="20211025172000 +0000" stop="20211025173000 +0000" channel="TVPPolonia.pl"><title lang="hr">Polacy Światu</title><category lang="hr">Marian Smoluchowski</category></programme>
-<programme start="20211025173000 +0000" stop="20211025180500 +0000" channel="TVPPolonia.pl"><title lang="hr">Wiadomości</title></programme>
-<programme start="20211025180500 +0000" stop="20211025181000 +0000" channel="TVPPolonia.pl"><title lang="hr">SPORT</title></programme>
-<programme start="20211025181000 +0000" stop="20211025182000 +0000" channel="TVPPolonia.pl"><title lang="hr">Pogoda</title></programme>
-<programme start="20211025182000 +0000" stop="20211025191000 +0000" channel="TVPPolonia.pl"><title lang="hr">Leibeigene, ep. 15</title></programme>
-<programme start="20211025191000 +0000" stop="20211025200500 +0000" channel="TVPPolonia.pl"><title lang="hr">Leibeigene, ep. 16</title></programme>
-<programme start="20211025200500 +0000" stop="20211025203500 +0000" channel="TVPPolonia.pl"><title lang="hr">Polonia 24</title></programme>
-<programme start="20211025203500 +0000" stop="20211025213000 +0000" channel="TVPPolonia.pl"><title lang="hr">Ocaleni</title></programme>
-<programme start="20211025213000 +0000" stop="20211025220000 +0000" channel="TVPPolonia.pl"><title lang="hr">Rodzinka.pl 9, ep. 194</title></programme>
-<programme start="20211025220000 +0000" stop="20211025222000 +0000" channel="TVPPolonia.pl"><title lang="hr">Focus on Poland</title><category lang="hr">(710)</category></programme>
-<programme start="20211025222000 +0000" stop="20211025225000 +0000" channel="TVPPolonia.pl"><title lang="hr">Gra słów. Krzyżówka, ep. 451</title></programme>
-<programme start="20211025225000 +0000" stop="20211025232000 +0000" channel="TVPPolonia.pl"><title lang="hr">Polonia jest kobietą, ep. 20</title></programme>
-<programme start="20211025232000 +0000" stop="20211025233000 +0000" channel="TVPPolonia.pl"><title lang="hr">Polacy Światu</title><category lang="hr">Marian Smoluchowski</category></programme>
-<programme start="20211025233000 +0000" stop="20211026000000 +0000" channel="TVPPolonia.pl"><title lang="hr">Wiadomości</title></programme>
-<programme start="20211026000000 +0000" stop="20211026000500 +0000" channel="TVPPolonia.pl"><title lang="hr">SPORT</title></programme>
-<programme start="20211026000500 +0000" stop="20211026001000 +0000" channel="TVPPolonia.pl"><title lang="hr">Pogoda</title></programme>
-<programme start="20211026001000 +0000" stop="20211026004000 +0000" channel="TVPPolonia.pl"><title lang="hr">Polonia 24</title></programme>
-<programme start="20211026004000 +0000" stop="20211026024000 +0000" channel="TVPPolonia.pl"><title lang="hr">WenecjaWenecja (2010)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img321977-tv7196233.jpg"/></programme>
-<programme start="20211026024000 +0000" stop="20211026031000 +0000" channel="TVPPolonia.pl"><title lang="hr">Barwy szczescia 1, ep. 2436</title></programme>
-<programme start="20211026031000 +0000" stop="20211026033500 +0000" channel="TVPPolonia.pl"><title lang="hr">Okrasa łamie przepisy</title><category lang="hr">Kolorowe oliwy smakowe</category></programme>
-<programme start="20211026033500 +0000" stop="20211026034500 +0000" channel="TVPPolonia.pl"><title lang="hr">Ja to mam szczęście 1, ep. 11</title></programme>
-<programme start="20211026034500 +0000" stop="20211026040000 +0000" channel="TVPPolonia.pl"><title lang="hr">Focus on Poland</title><category lang="hr">(710)</category></programme>
-<programme start="20211026040000 +0000" stop="20211026043000 +0000" channel="TVPPolonia.pl"><title lang="hr">Zakończenie dnia</title></programme>
+<programme start="20211027040000 +0000" stop="20211027043000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
+<programme start="20211027043000 +0000" stop="20211027050000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
+<programme start="20211027050000 +0000" stop="20211027053000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
+<programme start="20211027053000 +0000" stop="20211027060000 +0000" channel="TVN24.pl"><title lang="hr">Rozmowa Piaseckiego</title></programme>
+<programme start="20211027060000 +0000" stop="20211027063000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
+<programme start="20211027063000 +0000" stop="20211027070000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
+<programme start="20211027070000 +0000" stop="20211027073000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
+<programme start="20211027073000 +0000" stop="20211027080000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda, biznes</title></programme>
+<programme start="20211027080000 +0000" stop="20211027130000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny, pogoda</title></programme>
+<programme start="20211027130000 +0000" stop="20211027140000 +0000" channel="TVN24.pl"><title lang="hr">15 na żywo</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027140000 +0000" stop="20211027160000 +0000" channel="TVN24.pl"><title lang="hr">Fakty po południu</title></programme>
+<programme start="20211027160000 +0000" stop="20211027171000 +0000" channel="TVN24.pl"><title lang="hr">Tak jest</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027171000 +0000" stop="20211027173000 +0000" channel="TVN24.pl"><title lang="hr">Serwis informacyjny</title></programme>
+<programme start="20211027173000 +0000" stop="20211027180000 +0000" channel="TVN24.pl"><title lang="hr">Fakty po Faktach</title></programme>
+<programme start="20211027180000 +0000" stop="20211027183000 +0000" channel="TVN24.pl"><title lang="hr">Kropka nad i</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027183000 +0000" stop="20211027190000 +0000" channel="TVN24.pl"><title lang="hr">Czarno na białym</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027190000 +0000" stop="20211027200000 +0000" channel="TVN24.pl"><title lang="hr">Polska i świat</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027200000 +0000" stop="20211027210000 +0000" channel="TVN24.pl"><title lang="hr">Szkło kontaktowe</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027210000 +0000" stop="20211027214000 +0000" channel="TVN24.pl"><title lang="hr">Dzień po dniu</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027214000 +0000" stop="20211027220000 +0000" channel="TVN24.pl"><title lang="hr">Bilans dnia</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027220000 +0000" stop="20211027224000 +0000" channel="TVN24.pl"><title lang="hr">Fakty po Faktach</title></programme>
+<programme start="20211027224000 +0000" stop="20211027230500 +0000" channel="TVN24.pl"><title lang="hr">Kropka nad i</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211027230500 +0000" stop="20211028000000 +0000" channel="TVN24.pl"><title lang="hr">Tak jest</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211028000000 +0000" stop="20211028002000 +0000" channel="TVN24.pl"><title lang="hr">Nowa Maja w ogrodzie</title></programme>
+<programme start="20211028002000 +0000" stop="20211028003500 +0000" channel="TVN24.pl"><title lang="hr">Akademia ogrodnika</title></programme>
+<programme start="20211028003500 +0000" stop="20211028010500 +0000" channel="TVN24.pl"><title lang="hr">Czarno na białym</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211028010500 +0000" stop="20211028021500 +0000" channel="TVN24.pl"><title lang="hr">Szkło kontaktowe</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211028021500 +0000" stop="20211028030000 +0000" channel="TVN24.pl"><title lang="hr">Polska i świat</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211028030000 +0000" stop="20211028032500 +0000" channel="TVN24.pl"><title lang="hr">Nowa Maja w ogrodzie</title></programme>
+<programme start="20211028032500 +0000" stop="20211028035500 +0000" channel="TVN24.pl"><title lang="hr">Fakty po Faktach</title></programme>
+<programme start="20211028035500 +0000" stop="20211028040000 +0000" channel="TVN24.pl"><title lang="hr">Powitanie poranka</title><category lang="hr">magazyn informacyjny</category></programme>
+<programme start="20211026040000 +0000" stop="20211026043000 +0000" channel="TVPPolonia.pl"><title lang="hr">Polonia 24</title></programme>
 <programme start="20211026043000 +0000" stop="20211026050000 +0000" channel="TVPPolonia.pl"><title lang="hr">Anna Dymna - spotkajmy się</title><category lang="hr">Anna Wardęska</category></programme>
 <programme start="20211026050000 +0000" stop="20211026053000 +0000" channel="TVPPolonia.pl"><title lang="hr">Okrasa łamie przepisy</title><category lang="hr">Kolorowe oliwy smakowe</category></programme>
 <programme start="20211026053000 +0000" stop="20211026055500 +0000" channel="TVPPolonia.pl"><title lang="hr">Pytanie na śniadanie</title></programme>
@@ -643,13 +602,49 @@
 <programme start="20211027022000 +0000" stop="20211027025500 +0000" channel="TVPPolonia.pl"><title lang="hr">Barwy szczescia 1, ep. 2437</title></programme>
 <programme start="20211027025500 +0000" stop="20211027034500 +0000" channel="TVPPolonia.pl"><title lang="hr">Polacy w Albanii</title></programme>
 <programme start="20211027034500 +0000" stop="20211027040000 +0000" channel="TVPPolonia.pl"><title lang="hr">Focus on Poland</title><category lang="hr">(711)</category></programme>
-<programme start="20211025070000 +0000" stop="20211025091500 +0000" channel="UlkeTV.tr"><title lang="hr">Ülkede Bugün</title></programme>
-<programme start="20211025091500 +0000" stop="20211025100000 +0000" channel="UlkeTV.tr"><title lang="hr">Önce Sağlık</title></programme>
-<programme start="20211025100000 +0000" stop="20211025120000 +0000" channel="UlkeTV.tr"><title lang="hr">Öğle Ajansı</title></programme>
-<programme start="20211025120000 +0000" stop="20211025130000 +0000" channel="UlkeTV.tr"><title lang="hr">Spor &amp; Spor</title></programme>
-<programme start="20211025130000 +0000" stop="20211025150000 +0000" channel="UlkeTV.tr"><title lang="hr">Akşama Doğru</title></programme>
-<programme start="20211025150000 +0000" stop="20211025160000 +0000" channel="UlkeTV.tr"><title lang="hr">Belgesel</title></programme>
-<programme start="20211025160000 +0000" stop="20211025170000 +0000" channel="UlkeTV.tr"><title lang="hr">Ülke Ana Haber</title></programme>
-<programme start="20211025170000 +0000" stop="20211025190000 +0000" channel="UlkeTV.tr"><title lang="hr">Haber Servisi</title></programme>
-<programme start="20211025190000 +0000" stop="20211025220000 +0000" channel="UlkeTV.tr"><title lang="hr">Güncel Konular</title></programme>
+<programme start="20211027040000 +0000" stop="20211027043000 +0000" channel="TVPPolonia.pl"><title lang="hr">Zakończenie dnia</title></programme>
+<programme start="20211027043000 +0000" stop="20211027050000 +0000" channel="TVPPolonia.pl"><title lang="hr">The Crown of the Kings, ep. 341</title></programme>
+<programme start="20211027050000 +0000" stop="20211027053000 +0000" channel="TVPPolonia.pl"><title lang="hr">Qulszoł - kulinarne potyczki</title></programme>
+<programme start="20211027053000 +0000" stop="20211027055500 +0000" channel="TVPPolonia.pl"><title lang="hr">Pytanie na śniadanie</title></programme>
+<programme start="20211027055500 +0000" stop="20211027084000 +0000" channel="TVPPolonia.pl"><title lang="hr">Pytanie na śniadanie</title></programme>
+<programme start="20211027084000 +0000" stop="20211027085000 +0000" channel="TVPPolonia.pl"><title lang="hr">Panorama</title></programme>
+<programme start="20211027085000 +0000" stop="20211027092000 +0000" channel="TVPPolonia.pl"><title lang="hr">Pytanie na śniadanie</title></programme>
+<programme start="20211027092000 +0000" stop="20211027093000 +0000" channel="TVPPolonia.pl"><title lang="hr">Co na obiad</title><category lang="hr">schab</category></programme>
+<programme start="20211027093000 +0000" stop="20211027100000 +0000" channel="TVPPolonia.pl"><title lang="hr">Barwy szczescia 1, ep. 2438</title></programme>
+<programme start="20211027100000 +0000" stop="20211027101500 +0000" channel="TVPPolonia.pl"><title lang="hr">Wiadomości</title></programme>
+<programme start="20211027101500 +0000" stop="20211027103500 +0000" channel="TVPPolonia.pl"><title lang="hr">Nad Niemnem - Magazyn Polaków na Białorusi 1, ep. 408</title></programme>
+<programme start="20211027103500 +0000" stop="20211027113000 +0000" channel="TVPPolonia.pl"><title lang="hr">Ojciec Mateusz 4, ep. 8</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img332253-tv10089100.jpg"/></programme>
+<programme start="20211027113000 +0000" stop="20211027122500 +0000" channel="TVPPolonia.pl"><title lang="hr">Ojciec Mateusz 4, ep. 9</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img332253-tv10089100.jpg"/></programme>
+<programme start="20211027122500 +0000" stop="20211027132000 +0000" channel="TVPPolonia.pl"><title lang="hr">Polacy w Albanii</title></programme>
+<programme start="20211027132000 +0000" stop="20211027135000 +0000" channel="TVPPolonia.pl"><title lang="hr">Kuchnia dwudziestolecia</title><category lang="hr">odc. Kuchnia trzech zaborów. Zabór austriacki</category></programme>
+<programme start="20211027135000 +0000" stop="20211027140000 +0000" channel="TVPPolonia.pl"><title lang="hr">Agatka i Breloczek, ep. 21</title><category lang="hr">Animowanki</category></programme>
+<programme start="20211027140000 +0000" stop="20211027141000 +0000" channel="TVPPolonia.pl"><title lang="hr">Mami Fatale, seria 2, ep. 20</title><category lang="hr">Mami nie ma w domu</category></programme>
+<programme start="20211027141000 +0000" stop="20211027143000 +0000" channel="TVPPolonia.pl"><title lang="hr">Nela Mała Reporterka, ep. 94</title><category lang="hr">Poznajemy ptaki z Wyspy Kangura</category></programme>
+<programme start="20211027143000 +0000" stop="20211027150000 +0000" channel="TVPPolonia.pl"><title lang="hr">Rodzinka.pl 10, ep. 196</title></programme>
+<programme start="20211027150000 +0000" stop="20211027152000 +0000" channel="TVPPolonia.pl"><title lang="hr">Teleexpress</title></programme>
+<programme start="20211027152000 +0000" stop="20211027155000 +0000" channel="TVPPolonia.pl"><title lang="hr">Kawałek Polski na Haiti</title></programme>
+<programme start="20211027155000 +0000" stop="20211027162000 +0000" channel="TVPPolonia.pl"><title lang="hr">Gra słów. Krzyżówka, ep. 453</title></programme>
+<programme start="20211027162000 +0000" stop="20211027165000 +0000" channel="TVPPolonia.pl"><title lang="hr">Barwy szczescia 1, ep. 2438</title></programme>
+<programme start="20211027165000 +0000" stop="20211027171000 +0000" channel="TVPPolonia.pl"><title lang="hr">Kierunek Zachód, ep. 136</title></programme>
+<programme start="20211027171000 +0000" stop="20211027173000 +0000" channel="TVPPolonia.pl"><title lang="hr">Magazyn z Wysp, ep. 163</title></programme>
+<programme start="20211027173000 +0000" stop="20211027180500 +0000" channel="TVPPolonia.pl"><title lang="hr">Wiadomości</title></programme>
+<programme start="20211027180500 +0000" stop="20211027181000 +0000" channel="TVPPolonia.pl"><title lang="hr">SPORT</title></programme>
+<programme start="20211027181000 +0000" stop="20211027182000 +0000" channel="TVPPolonia.pl"><title lang="hr">Pogoda</title></programme>
+<programme start="20211027182000 +0000" stop="20211027191000 +0000" channel="TVPPolonia.pl"><title lang="hr">Ranczo 7, ep. 6</title></programme>
+<programme start="20211027191000 +0000" stop="20211027200500 +0000" channel="TVPPolonia.pl"><title lang="hr">Ranczo 7, ep. 7</title></programme>
+<programme start="20211027200500 +0000" stop="20211027203500 +0000" channel="TVPPolonia.pl"><title lang="hr">Polonia 24</title></programme>
+<programme start="20211027203500 +0000" stop="20211027213000 +0000" channel="TVPPolonia.pl"><title lang="hr">Magazyn Ekspresu Reporterów</title></programme>
+<programme start="20211027213000 +0000" stop="20211027220000 +0000" channel="TVPPolonia.pl"><title lang="hr">Rodzinka.pl 10, ep. 196</title></programme>
+<programme start="20211027220000 +0000" stop="20211027222000 +0000" channel="TVPPolonia.pl"><title lang="hr">Focus on Poland</title><category lang="hr">(712)</category></programme>
+<programme start="20211027222000 +0000" stop="20211027225000 +0000" channel="TVPPolonia.pl"><title lang="hr">Gra słów. Krzyżówka, ep. 453</title></programme>
+<programme start="20211027225000 +0000" stop="20211027231000 +0000" channel="TVPPolonia.pl"><title lang="hr">Kierunek Zachód, ep. 136</title></programme>
+<programme start="20211027231000 +0000" stop="20211027233000 +0000" channel="TVPPolonia.pl"><title lang="hr">Magazyn z Wysp, ep. 163</title></programme>
+<programme start="20211027233000 +0000" stop="20211028000000 +0000" channel="TVPPolonia.pl"><title lang="hr">Wiadomości</title></programme>
+<programme start="20211028000000 +0000" stop="20211028000500 +0000" channel="TVPPolonia.pl"><title lang="hr">SPORT</title></programme>
+<programme start="20211028000500 +0000" stop="20211028001000 +0000" channel="TVPPolonia.pl"><title lang="hr">Pogoda</title></programme>
+<programme start="20211028001000 +0000" stop="20211028004000 +0000" channel="TVPPolonia.pl"><title lang="hr">Polonia 24</title></programme>
+<programme start="20211028004000 +0000" stop="20211028024000 +0000" channel="TVPPolonia.pl"><title lang="hr">Bez litości</title><category lang="hr">film sensacyjny</category></programme>
+<programme start="20211028024000 +0000" stop="20211028031000 +0000" channel="TVPPolonia.pl"><title lang="hr">Barwy szczescia 1, ep. 2438</title></programme>
+<programme start="20211028031000 +0000" stop="20211028034500 +0000" channel="TVPPolonia.pl"><title lang="hr">Kawałek Polski na Haiti</title></programme>
+<programme start="20211028034500 +0000" stop="20211028040000 +0000" channel="TVPPolonia.pl"><title lang="hr">Focus on Poland</title><category lang="hr">(712)</category></programme>
 </tv>

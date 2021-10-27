@@ -2,15 +2,6 @@
 <channel id="OireachtasTV.ie"><display-name>Oireachtas TV</display-name><icon src="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/TV%2520Guide%2520Widget%2520Logos/EU%2520LOGOS/Oireachtas-TV.png"/></channel>
 <channel id="RTENews.ie"><display-name>RTÉ News</display-name><icon src="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/32037/rtenewsnowchannel.png"/></channel>
 <channel id="TG4.ie"><display-name>TG 4</display-name><icon src="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/26502/tg4channel.png"/></channel>
-<programme start="20211026001500 +0000" stop="20211026051500 +0000" channel="OireachtasTV.ie"><title lang="en">European Parliament Debates</title></programme>
-<programme start="20211026051500 +0000" stop="20211026072000 +0000" channel="OireachtasTV.ie"><title lang="en">Seanad Special Committee on Brexit</title></programme>
-<programme start="20211026072000 +0000" stop="20211026083000 +0000" channel="OireachtasTV.ie"><title lang="en">Select Committee on Enterprise, Trade and Employment</title></programme>
-<programme start="20211026083000 +0000" stop="20211026111500 +0000" channel="OireachtasTV.ie"><title lang="en">Select Committee on Housing, Local Government and Heritage</title></programme>
-<programme start="20211026111500 +0000" stop="20211026133000 +0000" channel="OireachtasTV.ie"><title lang="en">Joint Committee on Children, Equality, Disability, Integration and Youth</title></programme>
-<programme start="20211026133000 +0000" stop="20211026160500 +0000" channel="OireachtasTV.ie"><title lang="en">Joint Committee on Education, Further and Higher Education, Research, Innovation and Science</title></programme>
-<programme start="20211026160500 +0000" stop="20211026182000 +0000" channel="OireachtasTV.ie"><title lang="en">Joint Committee on Agriculture, Food and the Marine</title></programme>
-<programme start="20211026182000 +0000" stop="20211026210000 +0000" channel="OireachtasTV.ie"><title lang="en">Joint Committee on Transport and Communications</title></programme>
-<programme start="20211026210000 +0000" stop="20211026220000 +0000" channel="OireachtasTV.ie"><title lang="en">Joint Committee on Social Protection, Community and Rural Development and the Islands</title></programme>
 <programme start="20211026233000 +0000" stop="20211027023000 +0000" channel="OireachtasTV.ie"><title lang="en">European Parliament Debates</title></programme>
 <programme start="20211027023000 +0000" stop="20211027043000 +0000" channel="OireachtasTV.ie"><title lang="en">European Parliament Debates</title></programme>
 <programme start="20211027043000 +0000" stop="20211027053000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas TV Pre-Budget Debate</title></programme>
@@ -22,31 +13,21 @@
 <programme start="20211027183000 +0000" stop="20211027211500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
 <programme start="20211027211500 +0000" stop="20211027220000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
 <programme start="20211027220000 +0000" stop="20211027230000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
-<programme start="20211026060000 +0000" stop="20211026080000 +0000" channel="RTENews.ie"><title lang="en">Live: Morning Ireland</title></programme>
-<programme start="20211026080000 +0000" stop="20211026090000 +0000" channel="RTENews.ie"><title lang="en">Euronews</title></programme>
-<programme start="20211026090000 +0000" stop="20211026093000 +0000" channel="RTENews.ie"><title lang="en">Today with Claire Byrne</title></programme>
-<programme start="20211026093000 +0000" stop="20211026100000 +0000" channel="RTENews.ie"><title lang="en">Mass</title></programme>
-<programme start="20211026100000 +0000" stop="20211026110000 +0000" channel="RTENews.ie"><title lang="en">Today with Claire Byrne</title></programme>
-<programme start="20211026110000 +0000" stop="20211026120000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026120000 +0000" stop="20211026123000 +0000" channel="RTENews.ie"><title lang="en">RTÉ News: One O&apos;Clock</title></programme>
-<programme start="20211026123000 +0000" stop="20211026130000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026130000 +0000" stop="20211026140000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026140000 +0000" stop="20211026150000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026150000 +0000" stop="20211026151000 +0000" channel="RTENews.ie"><title lang="en">Live News Headlines</title></programme>
-<programme start="20211026151000 +0000" stop="20211026160000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026160000 +0000" stop="20211026161000 +0000" channel="RTENews.ie"><title lang="en">Live: Nuacht</title></programme>
-<programme start="20211026161000 +0000" stop="20211026164000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026164000 +0000" stop="20211026165000 +0000" channel="RTENews.ie"><title lang="en">Nuacht</title></programme>
-<programme start="20211026165000 +0000" stop="20211026170100 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026170100 +0000" stop="20211026180000 +0000" channel="RTENews.ie"><title lang="en">RTÉ News: Six One</title></programme>
-<programme start="20211026180000 +0000" stop="20211026190000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026190000 +0000" stop="20211026192500 +0000" channel="RTENews.ie"><title lang="en">Nuacht TG4</title></programme>
-<programme start="20211026192500 +0000" stop="20211026200000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
-<programme start="20211026200000 +0000" stop="20211026203500 +0000" channel="RTENews.ie"><title lang="en">RTÉ News: Nine O&apos;Clock</title></programme>
-<programme start="20211026203500 +0000" stop="20211026211000 +0000" channel="RTENews.ie"><title lang="en">Prime Time</title></programme>
-<programme start="20211026211000 +0000" stop="20211026220000 +0000" channel="RTENews.ie"><title lang="en">The Late Debate</title></programme>
-<programme start="20211026220000 +0000" stop="20211026222500 +0000" channel="RTENews.ie"><title lang="en">7 Lá</title></programme>
-<programme start="20211026222500 +0000" stop="20211026232500 +0000" channel="RTENews.ie"><title lang="en">Prime Time</title></programme>
+<programme start="20211028010000 +0000" stop="20211028022000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028022000 +0000" stop="20211028050500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028050500 +0000" stop="20211028080000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028080000 +0000" stop="20211028093000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028093000 +0000" stop="20211028110000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028110000 +0000" stop="20211028113500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028113500 +0000" stop="20211028120500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028120500 +0000" stop="20211028124500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028124500 +0000" stop="20211028132500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028132500 +0000" stop="20211028163500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028163500 +0000" stop="20211028172500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028172500 +0000" stop="20211028190500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028190500 +0000" stop="20211028194500 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028194500 +0000" stop="20211028220000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
+<programme start="20211028220000 +0000" stop="20211028230000 +0000" channel="OireachtasTV.ie"><title lang="en">Oireachtas Replay</title></programme>
 <programme start="20211026230000 +0000" stop="20211027060000 +0000" channel="RTENews.ie"><title lang="en">Euronews</title></programme>
 <programme start="20211027060000 +0000" stop="20211027080000 +0000" channel="RTENews.ie"><title lang="en">Live: Morning Ireland</title></programme>
 <programme start="20211027080000 +0000" stop="20211027090000 +0000" channel="RTENews.ie"><title lang="en">Euronews</title></programme>
@@ -73,69 +54,31 @@
 <programme start="20211027210000 +0000" stop="20211027220000 +0000" channel="RTENews.ie"><title lang="en">The Late Debate</title></programme>
 <programme start="20211027220000 +0000" stop="20211027222500 +0000" channel="RTENews.ie"><title lang="en">Nuacht TG4</title></programme>
 <programme start="20211027222500 +0000" stop="20211027232500 +0000" channel="RTENews.ie"><title lang="en">Euronews</title></programme>
-<programme start="20211025231500 +0000" stop="20211025234700 +0000" channel="TG4.ie"><title lang="en">Hup!</title></programme>
-<programme start="20211025234700 +0000" stop="20211025235000 +0000" channel="TG4.ie"><title lang="en">An Aimsir Láithreach</title></programme>
-<programme start="20211025235000 +0000" stop="20211026010000 +0000" channel="TG4.ie"><title lang="en">The Killing</title></programme>
-<programme start="20211026010000 +0000" stop="20211026015500 +0000" channel="TG4.ie"><title lang="en">The Weakest Link</title></programme>
-<programme start="20211026015500 +0000" stop="20211026043000 +0000" channel="TG4.ie"><title lang="en">France 24</title></programme>
-<programme start="20211026043000 +0000" stop="20211026060000 +0000" channel="TG4.ie"><title lang="en">France 24</title></programme>
-<programme start="20211026060000 +0000" stop="20211026060200 +0000" channel="TG4.ie"><title lang="en">Cúla 4</title></programme>
-<programme start="20211026060200 +0000" stop="20211026061300 +0000" channel="TG4.ie"><title lang="en">Alvinnn!!! and the Chipmunks</title></programme>
-<programme start="20211026061300 +0000" stop="20211026062400 +0000" channel="TG4.ie"><title lang="en">Toon Marty</title></programme>
-<programme start="20211026062400 +0000" stop="20211026063000 +0000" channel="TG4.ie"><title lang="en">Pat an Madra</title></programme>
-<programme start="20211026063000 +0000" stop="20211026063200 +0000" channel="TG4.ie"><title lang="en">Cúla 4 na nÓg</title></programme>
-<programme start="20211026063200 +0000" stop="20211026064500 +0000" channel="TG4.ie"><title lang="en">Earth to Luna!</title></programme>
-<programme start="20211026064500 +0000" stop="20211026065300 +0000" channel="TG4.ie"><title lang="en">Lá Le Mamó nó Daideo</title></programme>
-<programme start="20211026065300 +0000" stop="20211026070000 +0000" channel="TG4.ie"><title lang="en">Masha and the Bear</title></programme>
-<programme start="20211026070000 +0000" stop="20211026071200 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
-<programme start="20211026071200 +0000" stop="20211026072600 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
-<programme start="20211026072600 +0000" stop="20211026074000 +0000" channel="TG4.ie"><title lang="en">Helen&apos;s Little School</title></programme>
-<programme start="20211026074000 +0000" stop="20211026074800 +0000" channel="TG4.ie"><title lang="en">Daisy &amp; Ollie</title></programme>
-<programme start="20211026074800 +0000" stop="20211026080000 +0000" channel="TG4.ie"><title lang="en">PJ Masks</title></programme>
-<programme start="20211026080000 +0000" stop="20211026082700 +0000" channel="TG4.ie"><title lang="en">Curious George</title></programme>
-<programme start="20211026082700 +0000" stop="20211026083300 +0000" channel="TG4.ie"><title lang="en">Mo Chlann Fhiáin</title></programme>
-<programme start="20211026083300 +0000" stop="20211026084500 +0000" channel="TG4.ie"><title lang="en">The Polos</title></programme>
-<programme start="20211026084500 +0000" stop="20211026085000 +0000" channel="TG4.ie"><title lang="en">Blocuimhreacha</title></programme>
-<programme start="20211026085000 +0000" stop="20211026090000 +0000" channel="TG4.ie"><title lang="en">Ár Scéal</title></programme>
-<programme start="20211026090000 +0000" stop="20211026093000 +0000" channel="TG4.ie"><title lang="en">Is Eolaí Mé</title></programme>
-<programme start="20211026093000 +0000" stop="20211026093300 +0000" channel="TG4.ie"><title lang="en">Tú Féin ar an Scáileán</title></programme>
-<programme start="20211026093300 +0000" stop="20211026094000 +0000" channel="TG4.ie"><title lang="en">Cruthaím</title></programme>
-<programme start="20211026094000 +0000" stop="20211026101000 +0000" channel="TG4.ie"><title lang="en">Animal 999</title></programme>
-<programme start="20211026101000 +0000" stop="20211026104000 +0000" channel="TG4.ie"><title lang="en">The Wonder Years</title></programme>
-<programme start="20211026104000 +0000" stop="20211026111000 +0000" channel="TG4.ie"><title lang="en">The Golden Girls</title></programme>
-<programme start="20211026111000 +0000" stop="20211026114000 +0000" channel="TG4.ie"><title lang="en">River Cottage Australia</title></programme>
-<programme start="20211026114000 +0000" stop="20211026121000 +0000" channel="TG4.ie"><title lang="en">Garraí Glas</title></programme>
-<programme start="20211026121000 +0000" stop="20211026130500 +0000" channel="TG4.ie"><title lang="en">Dr Quinn, Medicine Woman</title></programme>
-<programme start="20211026130500 +0000" stop="20211026140000 +0000" channel="TG4.ie"><title lang="en">The Weakest Link</title></programme>
-<programme start="20211026140000 +0000" stop="20211026140200 +0000" channel="TG4.ie"><title lang="en">Cúla 4 na nÓg</title></programme>
-<programme start="20211026140200 +0000" stop="20211026141400 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
-<programme start="20211026141400 +0000" stop="20211026142600 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
-<programme start="20211026142600 +0000" stop="20211026143700 +0000" channel="TG4.ie"><title lang="en">The Polos</title></programme>
-<programme start="20211026143700 +0000" stop="20211026144800 +0000" channel="TG4.ie"><title lang="en">PJ Masks</title></programme>
-<programme start="20211026144800 +0000" stop="20211026150000 +0000" channel="TG4.ie"><title lang="en">Is Mise</title></programme>
-<programme start="20211026150000 +0000" stop="20211026150200 +0000" channel="TG4.ie"><title lang="en">Cúla 4</title></programme>
-<programme start="20211026150200 +0000" stop="20211026150800 +0000" channel="TG4.ie"><title lang="en">Mo Chlann Fhiáin</title></programme>
-<programme start="20211026150800 +0000" stop="20211026152200 +0000" channel="TG4.ie"><title lang="en">That&apos;s Joey</title></programme>
-<programme start="20211026152200 +0000" stop="20211026153000 +0000" channel="TG4.ie"><title lang="en">Pat an Madra</title></programme>
-<programme start="20211026153000 +0000" stop="20211026154200 +0000" channel="TG4.ie"><title lang="en">Adventure Time</title></programme>
-<programme start="20211026154200 +0000" stop="20211026155500 +0000" channel="TG4.ie"><title lang="en">SpongeBob Squarepants</title></programme>
-<programme start="20211026155500 +0000" stop="20211026161000 +0000" channel="TG4.ie"><title lang="en">Mo Shaol Do Shaol</title></programme>
-<programme start="20211026161000 +0000" stop="20211026162700 +0000" channel="TG4.ie"><title lang="en">Mo Shaol Do Shaol</title></programme>
-<programme start="20211026162700 +0000" stop="20211026163000 +0000" channel="TG4.ie"><title lang="en">An Aimsir Láithreach</title></programme>
-<programme start="20211026163000 +0000" stop="20211026170000 +0000" channel="TG4.ie"><title lang="en">Ceol na Talún</title></programme>
-<programme start="20211026170000 +0000" stop="20211026173000 +0000" channel="TG4.ie"><title lang="en">The Golden Girls</title></programme>
-<programme start="20211026173000 +0000" stop="20211026175700 +0000" channel="TG4.ie"><title lang="en">The Wonder Years</title></programme>
-<programme start="20211026175700 +0000" stop="20211026180000 +0000" channel="TG4.ie"><title lang="en">An Aimsir Láithreach</title></programme>
-<programme start="20211026180000 +0000" stop="20211026183000 +0000" channel="TG4.ie"><title lang="en">Nuacht TG4</title></programme>
-<programme start="20211026183000 +0000" stop="20211026190000 +0000" channel="TG4.ie"><title lang="en">An Lá a Rugadh Mé</title></programme>
-<programme start="20211026190000 +0000" stop="20211026193000 +0000" channel="TG4.ie"><title lang="en">7 Lá</title></programme>
-<programme start="20211026193000 +0000" stop="20211026200000 +0000" channel="TG4.ie"><title lang="en">Ros na Rún</title></programme>
-<programme start="20211026200000 +0000" stop="20211026203000 +0000" channel="TG4.ie"><title lang="en">Siar Sna 60idí</title></programme>
-<programme start="20211026203000 +0000" stop="20211026213000 +0000" channel="TG4.ie"><title lang="en">Opry le Daniel</title></programme>
-<programme start="20211026213000 +0000" stop="20211026222500 +0000" channel="TG4.ie"><title lang="en">Why Women Kill</title></programme>
-<programme start="20211026222500 +0000" stop="20211026225500 +0000" channel="TG4.ie"><title lang="en">Ros na Rún</title></programme>
-<programme start="20211026225500 +0000" stop="20211026225800 +0000" channel="TG4.ie"><title lang="en">An Aimsir Láithreach</title></programme>
-<programme start="20211026225800 +0000" stop="20211026235800 +0000" channel="TG4.ie"><title lang="en">Orange Is the New Black</title></programme>
+<programme start="20211028060000 +0000" stop="20211028080000 +0000" channel="RTENews.ie"><title lang="en">Live: Morning Ireland</title></programme>
+<programme start="20211028080000 +0000" stop="20211028090000 +0000" channel="RTENews.ie"><title lang="en">Euronews</title></programme>
+<programme start="20211028090000 +0000" stop="20211028093000 +0000" channel="RTENews.ie"><title lang="en">Today with Claire Byrne</title></programme>
+<programme start="20211028093000 +0000" stop="20211028100000 +0000" channel="RTENews.ie"><title lang="en">Mass</title></programme>
+<programme start="20211028100000 +0000" stop="20211028110000 +0000" channel="RTENews.ie"><title lang="en">Today with Claire Byrne</title></programme>
+<programme start="20211028110000 +0000" stop="20211028120000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028120000 +0000" stop="20211028123000 +0000" channel="RTENews.ie"><title lang="en">RTÉ News: One O&apos;Clock</title></programme>
+<programme start="20211028123000 +0000" stop="20211028130000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028130000 +0000" stop="20211028140000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028140000 +0000" stop="20211028150000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028150000 +0000" stop="20211028151000 +0000" channel="RTENews.ie"><title lang="en">Live News Headlines</title></programme>
+<programme start="20211028151000 +0000" stop="20211028160000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028160000 +0000" stop="20211028161000 +0000" channel="RTENews.ie"><title lang="en">Live: Nuacht</title></programme>
+<programme start="20211028161000 +0000" stop="20211028164000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028164000 +0000" stop="20211028165000 +0000" channel="RTENews.ie"><title lang="en">Nuacht</title></programme>
+<programme start="20211028165000 +0000" stop="20211028170100 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028170100 +0000" stop="20211028180000 +0000" channel="RTENews.ie"><title lang="en">RTÉ News: Six One</title></programme>
+<programme start="20211028180000 +0000" stop="20211028190000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028190000 +0000" stop="20211028192500 +0000" channel="RTENews.ie"><title lang="en">Nuacht</title></programme>
+<programme start="20211028192500 +0000" stop="20211028200000 +0000" channel="RTENews.ie"><title lang="en">Latest News and Weather</title></programme>
+<programme start="20211028200000 +0000" stop="20211028203500 +0000" channel="RTENews.ie"><title lang="en">RTÉ News: Nine O&apos;Clock</title></programme>
+<programme start="20211028203500 +0000" stop="20211028211000 +0000" channel="RTENews.ie"><title lang="en">Prime Time</title></programme>
+<programme start="20211028211000 +0000" stop="20211028220000 +0000" channel="RTENews.ie"><title lang="en">The Late Debate</title></programme>
+<programme start="20211028220000 +0000" stop="20211028223500 +0000" channel="RTENews.ie"><title lang="en">Prime Time</title></programme>
+<programme start="20211028223500 +0000" stop="20211028233500 +0000" channel="RTENews.ie"><title lang="en">Nuacht TG4</title></programme>
 <programme start="20211027000000 +0000" stop="20211027010500 +0000" channel="TG4.ie"><title lang="en">Fíorscéal</title></programme>
 <programme start="20211027010500 +0000" stop="20211027043000 +0000" channel="TG4.ie"><title lang="en">France 24</title></programme>
 <programme start="20211027043000 +0000" stop="20211027060000 +0000" channel="TG4.ie"><title lang="en">France 24</title></programme>
@@ -193,4 +136,61 @@
 <programme start="20211027203000 +0000" stop="20211027213500 +0000" channel="TG4.ie"><title lang="en">Bloody Sunday 1920</title></programme>
 <programme start="20211027213500 +0000" stop="20211027223500 +0000" channel="TG4.ie"><title lang="en">Stateless</title></programme>
 <programme start="20211027223500 +0000" stop="20211027233500 +0000" channel="TG4.ie"><title lang="en">Survivor: Island Of the Idols</title></programme>
+<programme start="20211027232700 +0000" stop="20211027233000 +0000" channel="TG4.ie"><title lang="en">An Aimsir Láithreach</title></programme>
+<programme start="20211027233000 +0000" stop="20211028002500 +0000" channel="TG4.ie"><title lang="en">The Weakest Link</title></programme>
+<programme start="20211028002500 +0000" stop="20211028043000 +0000" channel="TG4.ie"><title lang="en">France 24</title></programme>
+<programme start="20211028043000 +0000" stop="20211028060000 +0000" channel="TG4.ie"><title lang="en">France 24</title></programme>
+<programme start="20211028060000 +0000" stop="20211028060200 +0000" channel="TG4.ie"><title lang="en">Cúla 4</title></programme>
+<programme start="20211028060200 +0000" stop="20211028061300 +0000" channel="TG4.ie"><title lang="en">Alvinnn!!! and the Chipmunks</title></programme>
+<programme start="20211028061300 +0000" stop="20211028062400 +0000" channel="TG4.ie"><title lang="en">Toon Marty</title></programme>
+<programme start="20211028062400 +0000" stop="20211028063000 +0000" channel="TG4.ie"><title lang="en">Pat an Madra</title></programme>
+<programme start="20211028063000 +0000" stop="20211028063200 +0000" channel="TG4.ie"><title lang="en">Cúla 4 na nÓg</title></programme>
+<programme start="20211028063200 +0000" stop="20211028064500 +0000" channel="TG4.ie"><title lang="en">Earth to Luna!</title></programme>
+<programme start="20211028064500 +0000" stop="20211028065300 +0000" channel="TG4.ie"><title lang="en">Lá Le Mamó nó Daideo</title></programme>
+<programme start="20211028065300 +0000" stop="20211028070000 +0000" channel="TG4.ie"><title lang="en">Masha and the Bear</title></programme>
+<programme start="20211028070000 +0000" stop="20211028071200 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
+<programme start="20211028071200 +0000" stop="20211028072600 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
+<programme start="20211028072600 +0000" stop="20211028074000 +0000" channel="TG4.ie"><title lang="en">Helen&apos;s Little School</title></programme>
+<programme start="20211028074000 +0000" stop="20211028074800 +0000" channel="TG4.ie"><title lang="en">Daisy &amp; Ollie</title></programme>
+<programme start="20211028074800 +0000" stop="20211028080000 +0000" channel="TG4.ie"><title lang="en">PJ Masks</title></programme>
+<programme start="20211028080000 +0000" stop="20211028082700 +0000" channel="TG4.ie"><title lang="en">Curious George</title></programme>
+<programme start="20211028082700 +0000" stop="20211028083300 +0000" channel="TG4.ie"><title lang="en">Mo Chlann Fhiáin</title></programme>
+<programme start="20211028083300 +0000" stop="20211028084500 +0000" channel="TG4.ie"><title lang="en">The Polos</title></programme>
+<programme start="20211028084500 +0000" stop="20211028085000 +0000" channel="TG4.ie"><title lang="en">Blocuimhreacha</title></programme>
+<programme start="20211028085000 +0000" stop="20211028090000 +0000" channel="TG4.ie"><title lang="en">Ár Scéal</title></programme>
+<programme start="20211028090000 +0000" stop="20211028093000 +0000" channel="TG4.ie"><title lang="en">Is Eolaí Mé</title></programme>
+<programme start="20211028093000 +0000" stop="20211028093300 +0000" channel="TG4.ie"><title lang="en">Cruthaím</title></programme>
+<programme start="20211028093300 +0000" stop="20211028094000 +0000" channel="TG4.ie"><title lang="en">Cruthaím</title></programme>
+<programme start="20211028094000 +0000" stop="20211028101000 +0000" channel="TG4.ie"><title lang="en">Animal 999</title></programme>
+<programme start="20211028101000 +0000" stop="20211028104000 +0000" channel="TG4.ie"><title lang="en">The Wonder Years</title></programme>
+<programme start="20211028104000 +0000" stop="20211028111000 +0000" channel="TG4.ie"><title lang="en">The Golden Girls</title></programme>
+<programme start="20211028111000 +0000" stop="20211028114000 +0000" channel="TG4.ie"><title lang="en">River Cottage Australia</title></programme>
+<programme start="20211028114000 +0000" stop="20211028121000 +0000" channel="TG4.ie"><title lang="en">Garraí Glas</title></programme>
+<programme start="20211028121000 +0000" stop="20211028130500 +0000" channel="TG4.ie"><title lang="en">Dr Quinn, Medicine Woman</title></programme>
+<programme start="20211028130500 +0000" stop="20211028140000 +0000" channel="TG4.ie"><title lang="en">The Weakest Link</title></programme>
+<programme start="20211028140000 +0000" stop="20211028140200 +0000" channel="TG4.ie"><title lang="en">Cúla 4 na nÓg</title></programme>
+<programme start="20211028140200 +0000" stop="20211028141400 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
+<programme start="20211028141400 +0000" stop="20211028142600 +0000" channel="TG4.ie"><title lang="en">Clifford the Big Red Dog</title></programme>
+<programme start="20211028142600 +0000" stop="20211028143700 +0000" channel="TG4.ie"><title lang="en">The Polos</title></programme>
+<programme start="20211028143700 +0000" stop="20211028144800 +0000" channel="TG4.ie"><title lang="en">PJ Masks</title></programme>
+<programme start="20211028144800 +0000" stop="20211028150000 +0000" channel="TG4.ie"><title lang="en">Is Mise</title></programme>
+<programme start="20211028150000 +0000" stop="20211028150200 +0000" channel="TG4.ie"><title lang="en">Cúla 4</title></programme>
+<programme start="20211028150200 +0000" stop="20211028150800 +0000" channel="TG4.ie"><title lang="en">Mo Chlann Fhiáin</title></programme>
+<programme start="20211028150800 +0000" stop="20211028152200 +0000" channel="TG4.ie"><title lang="en">That&apos;s Joey</title></programme>
+<programme start="20211028152200 +0000" stop="20211028153000 +0000" channel="TG4.ie"><title lang="en">Taffy</title></programme>
+<programme start="20211028153000 +0000" stop="20211028154200 +0000" channel="TG4.ie"><title lang="en">Clarence</title></programme>
+<programme start="20211028154200 +0000" stop="20211028155500 +0000" channel="TG4.ie"><title lang="en">SpongeBob Squarepants</title></programme>
+<programme start="20211028155500 +0000" stop="20211028162700 +0000" channel="TG4.ie"><title lang="en">Na hInnealtóirí</title></programme>
+<programme start="20211028162700 +0000" stop="20211028163000 +0000" channel="TG4.ie"><title lang="en">An Aimsir Láithreach</title></programme>
+<programme start="20211028163000 +0000" stop="20211028170000 +0000" channel="TG4.ie"><title lang="en">Éadaí SOS</title></programme>
+<programme start="20211028170000 +0000" stop="20211028173000 +0000" channel="TG4.ie"><title lang="en">The Golden Girls</title></programme>
+<programme start="20211028173000 +0000" stop="20211028175700 +0000" channel="TG4.ie"><title lang="en">The Wonder Years</title></programme>
+<programme start="20211028175700 +0000" stop="20211028180000 +0000" channel="TG4.ie"><title lang="en">An Aimsir Láithreach</title></programme>
+<programme start="20211028180000 +0000" stop="20211028183000 +0000" channel="TG4.ie"><title lang="en">Nuacht TG4</title></programme>
+<programme start="20211028183000 +0000" stop="20211028190000 +0000" channel="TG4.ie"><title lang="en">Seal le Dáithí</title></programme>
+<programme start="20211028190000 +0000" stop="20211028193000 +0000" channel="TG4.ie"><title lang="en">Ceol na Talún</title></programme>
+<programme start="20211028193000 +0000" stop="20211028200000 +0000" channel="TG4.ie"><title lang="en">Ros na Rún</title></programme>
+<programme start="20211028200000 +0000" stop="20211028203000 +0000" channel="TG4.ie"><title lang="en">Moving West</title></programme>
+<programme start="20211028203000 +0000" stop="20211028220000 +0000" channel="TG4.ie"><title lang="en">Ceolchoirm an Oireachtais</title></programme>
+<programme start="20211028220000 +0000" stop="20211028230000 +0000" channel="TG4.ie"><title lang="en">Fíorscéal</title></programme>
 </tv>

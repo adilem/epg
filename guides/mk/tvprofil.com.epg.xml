@@ -5,20 +5,6 @@
 <channel id="PlanetaTV.bg"><display-name>Planeta TV</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/planetaTV_BG_logo.png"/></channel>
 <channel id="RTV21Sat.rs"><display-name>RTV 21 Sat</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/rtv21-logo.png"/></channel>
 <channel id="TVSonce.mk"><display-name>TV Sonce</display-name><icon src="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/RTV_sunce_rs_logo.png"/></channel>
-<programme start="20211026050000 +0000" stop="20211026070000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Kahvaltı Haberleri</title></programme>
-<programme start="20211026070000 +0000" stop="20211026100000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Müge Anlı İle Tatlı Sert-Canlı</title></programme>
-<programme start="20211026100000 +0000" stop="20211026110000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Gün Ortası</title></programme>
-<programme start="20211026110000 +0000" stop="20211026132000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Zahide Yetiş İle Mutfak Bahane</title></programme>
-<programme start="20211026132000 +0000" stop="20211026160000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Esra Erol&apos;da</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img330079-img330077-8176072_0-0_959x436.jpg"/></programme>
-<programme start="20211026160000 +0000" stop="20211026165000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Atv Ana Haber</title></programme>
-<programme start="20211026165000 +0000" stop="20211026170000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Avrupa Haber</title></programme>
-<programme start="20211026170000 +0000" stop="20211026205000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Eşkıya Dünyaya Hükümdar Olmaz</title></programme>
-<programme start="20211026205000 +0000" stop="20211026221000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Londra Aktüel</title><category lang="hr">Yeni Bölüm</category></programme>
-<programme start="20211026221000 +0000" stop="20211027003000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Kardeşlerim</title></programme>
-<programme start="20211027003000 +0000" stop="20211027004000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Avrupa Haber</title></programme>
-<programme start="20211027004000 +0000" stop="20211027013000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Atv Ana Haber</title></programme>
-<programme start="20211027013000 +0000" stop="20211027030000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Zahide Yetiş İle Mutfak Bahane</title></programme>
-<programme start="20211027030000 +0000" stop="20211027050000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Maraşlı</title></programme>
 <programme start="20211027050000 +0000" stop="20211027070000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Kahvaltı Haberleri</title></programme>
 <programme start="20211027070000 +0000" stop="20211027100000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Müge Anlı İle Tatlı Sert-Canlı</title></programme>
 <programme start="20211027100000 +0000" stop="20211027110000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Gün Ortası</title></programme>
@@ -33,48 +19,20 @@
 <programme start="20211028004000 +0000" stop="20211028013000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Atv Ana Haber</title></programme>
 <programme start="20211028013000 +0000" stop="20211028030000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Zahide Yetiş İle Mutfak Bahane</title></programme>
 <programme start="20211028030000 +0000" stop="20211028050000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Maraşlı</title></programme>
-<programme start="20211026041700 +0000" stop="20211026050000 +0000" channel="MRT2Sat.mk"><title lang="hr">Девојкитe Гилмор</title><category lang="hr">сериски филм</category></programme>
-<programme start="20211026050000 +0000" stop="20211026051700 +0000" channel="MRT2Sat.mk"><title lang="hr">ПОЧ</title><category lang="hr">НАСЛОВ ВИД</category></programme>
-<programme start="20211026051700 +0000" stop="20211026070200 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
-<programme start="20211026070200 +0000" stop="20211026071500 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
-<programme start="20211026071500 +0000" stop="20211026073200 +0000" channel="MRT2Sat.mk"><title lang="hr">Топ вести-Top lajme</title><category lang="hr">информативна</category></programme>
-<programme start="20211026073200 +0000" stop="20211026075800 +0000" channel="MRT2Sat.mk"><title lang="hr">Гормит</title><category lang="hr">анимирана серија за деца</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img259045-tv0.jpg"/></programme>
-<programme start="20211026075800 +0000" stop="20211026082000 +0000" channel="MRT2Sat.mk"><title lang="hr">Енциклопедија за деца-Enciklopedia për fëmijë</title><category lang="hr">детска</category></programme>
-<programme start="20211026082000 +0000" stop="20211026083000 +0000" channel="MRT2Sat.mk"><title lang="hr">Правилно или погрешно-E drejtë apo e gabuar</title><category lang="hr">детска</category></programme>
-<programme start="20211026083000 +0000" stop="20211026084700 +0000" channel="MRT2Sat.mk"><title lang="hr">Топ вести-Top lajme</title><category lang="hr">информативна</category></programme>
-<programme start="20211026084700 +0000" stop="20211026085800 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
-<programme start="20211026085800 +0000" stop="20211026100000 +0000" channel="MRT2Sat.mk"><title lang="hr">Про вита-Pro vita</title><category lang="hr">здравство</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318387-unnamed.jpg"/></programme>
-<programme start="20211026100000 +0000" stop="20211026102200 +0000" channel="MRT2Sat.mk"><title lang="hr">Вести-Lajme</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318492-img314413-tv9828168.jpg"/></programme>
-<programme start="20211026102200 +0000" stop="20211026105400 +0000" channel="MRT2Sat.mk"><title lang="hr">Спортски преглед-Pasqyra sportive</title><category lang="hr">спортска</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318421-sport.jpg"/></programme>
-<programme start="20211026105400 +0000" stop="20211026115400 +0000" channel="MRT2Sat.mk"><title lang="hr">Топ 5 личности-Top 5 personazhe</title><category lang="hr">забавна</category></programme>
-<programme start="20211026115400 +0000" stop="20211026120000 +0000" channel="MRT2Sat.mk"><title lang="hr">Интермецо</title><category lang="hr">интермецо</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img341302-infer.png.jpg"/></programme>
-<programme start="20211026120000 +0000" stop="20211026140000 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
-<programme start="20211026140000 +0000" stop="20211026142700 +0000" channel="MRT2Sat.mk"><title lang="hr">Вести-Lajme</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318492-img314413-tv9828168.jpg"/></programme>
-<programme start="20211026142700 +0000" stop="20211026145300 +0000" channel="MRT2Sat.mk"><title lang="hr">Гормит</title><category lang="hr">анимирана серија за деца</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img259045-tv0.jpg"/></programme>
-<programme start="20211026145300 +0000" stop="20211026151900 +0000" channel="MRT2Sat.mk"><title lang="hr">Енциклопедија за деца-Enciklopedia për fëmijë</title><category lang="hr">детска</category></programme>
-<programme start="20211026151900 +0000" stop="20211026152900 +0000" channel="MRT2Sat.mk"><title lang="hr">Правилно или погрешно-E drejtë apo e gabuar</title><category lang="hr">детска</category></programme>
-<programme start="20211026152900 +0000" stop="20211026155600 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
-<programme start="20211026155600 +0000" stop="20211026163000 +0000" channel="MRT2Sat.mk"><title lang="hr">О колку убаво-O sa mirë</title><category lang="hr">играна серија</category></programme>
-<programme start="20211026163000 +0000" stop="20211026170500 +0000" channel="MRT2Sat.mk"><title lang="hr">Дневник 1-Ditari 1</title><category lang="hr">информативна</category></programme>
-<programme start="20211026170500 +0000" stop="20211026170900 +0000" channel="MRT2Sat.mk"><title lang="hr">Метео</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318406-meteo1.jpg"/></programme>
-<programme start="20211026170900 +0000" stop="20211026174000 +0000" channel="MRT2Sat.mk"><title lang="hr">Народна музика</title><category lang="hr">народна</category></programme>
-<programme start="20211026174000 +0000" stop="20211026181000 +0000" channel="MRT2Sat.mk"><title lang="hr">Европа во фокус</title><category lang="hr">актуелна</category></programme>
-<programme start="20211026181000 +0000" stop="20211026183000 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
-<programme start="20211026183000 +0000" stop="20211026200000 +0000" channel="MRT2Sat.mk"><title lang="hr">Аргумент-Argument</title><category lang="hr">дебатна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318491-argument.jpg"/></programme>
-<programme start="20211026200000 +0000" stop="20211026203000 +0000" channel="MRT2Sat.mk"><title lang="hr">Дневник 2-Ditari 2</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318419-tv10037354.jpg"/></programme>
-<programme start="20211026203000 +0000" stop="20211026203500 +0000" channel="MRT2Sat.mk"><title lang="hr">Метео</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318406-meteo1.jpg"/></programme>
-<programme start="20211026203500 +0000" stop="20211026211900 +0000" channel="MRT2Sat.mk"><title lang="hr">Девојкитe Гилмор</title><category lang="hr">сериски филм</category></programme>
-<programme start="20211026211900 +0000" stop="20211026215200 +0000" channel="MRT2Sat.mk"><title lang="hr">О колку убаво-O sa mirë</title><category lang="hr">играна серија</category></programme>
-<programme start="20211026215200 +0000" stop="20211026220000 +0000" channel="MRT2Sat.mk"><title lang="hr">Мотиви-Motiv</title><category lang="hr">образовна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318608-tv10037426.jpg"/></programme>
-<programme start="20211026220000 +0000" stop="20211026220500 +0000" channel="MRT2Sat.mk"><title lang="hr">Флеш вести-Flesh lajme</title><category lang="hr">информативна</category></programme>
-<programme start="20211026220500 +0000" stop="20211026224600 +0000" channel="MRT2Sat.mk"><title lang="hr">Мотиви-Motiv</title><category lang="hr">образовна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318608-tv10037426.jpg"/></programme>
-<programme start="20211026224600 +0000" stop="20211026233400 +0000" channel="MRT2Sat.mk"><title lang="hr">Концерт</title><category lang="hr">класична</category></programme>
-<programme start="20211026233400 +0000" stop="20211027010600 +0000" channel="MRT2Sat.mk"><title lang="hr">Аргумент-Argument</title><category lang="hr">дебатна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318491-argument.jpg"/></programme>
-<programme start="20211027010600 +0000" stop="20211027013600 +0000" channel="MRT2Sat.mk"><title lang="hr">Дневник 2-Ditari 2</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318419-tv10037354.jpg"/></programme>
-<programme start="20211027013600 +0000" stop="20211027014000 +0000" channel="MRT2Sat.mk"><title lang="hr">Метео</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318406-meteo1.jpg"/></programme>
-<programme start="20211027014000 +0000" stop="20211027033200 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
-<programme start="20211027033200 +0000" stop="20211027034400 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
-<programme start="20211027034400 +0000" stop="20211027041700 +0000" channel="MRT2Sat.mk"><title lang="hr">О колку убаво-O sa mirë</title><category lang="hr">играна серија</category></programme>
+<programme start="20211028050000 +0000" stop="20211028070000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Kahvaltı Haberleri</title></programme>
+<programme start="20211028070000 +0000" stop="20211028100000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Müge Anlı İle Tatlı Sert-Canlı</title></programme>
+<programme start="20211028100000 +0000" stop="20211028110000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Gün Ortası</title></programme>
+<programme start="20211028110000 +0000" stop="20211028132000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Zahide Yetiş İle Mutfak Bahane</title></programme>
+<programme start="20211028132000 +0000" stop="20211028160000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Esra Erol&apos;da</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img330079-img330077-8176072_0-0_959x436.jpg"/></programme>
+<programme start="20211028160000 +0000" stop="20211028165000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Atv Ana Haber</title></programme>
+<programme start="20211028165000 +0000" stop="20211028170000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Avrupa Haber</title></programme>
+<programme start="20211028170000 +0000" stop="20211028212000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Bir Zamanlar Çukurova</title><category lang="hr">Yeni Bölüm</category></programme>
+<programme start="20211028212000 +0000" stop="20211028224000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Nihat Hatipoğlu İle Dosta Doğru</title></programme>
+<programme start="20211028224000 +0000" stop="20211028234000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Gülşah Lange İle Mutfak Sohbetleri</title></programme>
+<programme start="20211028234000 +0000" stop="20211028235000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Avrupa Haber</title></programme>
+<programme start="20211028235000 +0000" stop="20211029004000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Atv Ana Haber</title></programme>
+<programme start="20211029004000 +0000" stop="20211029021000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Zahide Yetiş İle Mutfak Bahane</title></programme>
+<programme start="20211029021000 +0000" stop="20211029040000 +0000" channel="ATVAvrupa.tr"><title lang="hr">Maraşlı</title></programme>
 <programme start="20211027041700 +0000" stop="20211027050000 +0000" channel="MRT2Sat.mk"><title lang="hr">Девојкитe Гилмор</title><category lang="hr">сериски филм</category></programme>
 <programme start="20211027050000 +0000" stop="20211027051700 +0000" channel="MRT2Sat.mk"><title lang="hr">ПОЧ</title><category lang="hr">НАСЛОВ ВИД</category></programme>
 <programme start="20211027051700 +0000" stop="20211027070100 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
@@ -117,69 +75,49 @@
 <programme start="20211028012600 +0000" stop="20211028031800 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
 <programme start="20211028031800 +0000" stop="20211028034300 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
 <programme start="20211028034300 +0000" stop="20211028041500 +0000" channel="MRT2Sat.mk"><title lang="hr">О колку убаво-O sa mirë</title><category lang="hr">играна серија</category></programme>
-<programme start="20211026040000 +0000" stop="20211026041000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
-<programme start="20211026041000 +0000" stop="20211026044000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Звездите на България&quot; - любими песни</title></programme>
-<programme start="20211026044000 +0000" stop="20211026050000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
-<programme start="20211026050000 +0000" stop="20211026051000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026051000 +0000" stop="20211026054000 +0000" channel="PlanetaTV.bg"><title lang="hr">“По ноти” - избрани песни</title></programme>
-<programme start="20211026054000 +0000" stop="20211026060000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026060000 +0000" stop="20211026061000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
-<programme start="20211026061000 +0000" stop="20211026064000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
-<programme start="20211026064000 +0000" stop="20211026070000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
-<programme start="20211026070000 +0000" stop="20211026074000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Звездни празници” - горещи хитове</title></programme>
-<programme start="20211026074000 +0000" stop="20211026080000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Хит” - нон-стоп хитове</title></programme>
-<programme start="20211026080000 +0000" stop="20211026081000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026081000 +0000" stop="20211026084000 +0000" channel="PlanetaTV.bg"><title lang="hr">“От А до Я” - рецитал с хитове</title></programme>
-<programme start="20211026084000 +0000" stop="20211026090000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026090000 +0000" stop="20211026091000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
-<programme start="20211026091000 +0000" stop="20211026094000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;От извора&quot; - българска народна музика</title></programme>
-<programme start="20211026094000 +0000" stop="20211026100000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
-<programme start="20211026100000 +0000" stop="20211026101000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
-<programme start="20211026101000 +0000" stop="20211026104000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
-<programme start="20211026104000 +0000" stop="20211026110000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026110000 +0000" stop="20211026111000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026111000 +0000" stop="20211026114000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Ретро” - вечни хитове</title></programme>
-<programme start="20211026114000 +0000" stop="20211026120000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026120000 +0000" stop="20211026124000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Звездни празници” - горещи хитове</title></programme>
-<programme start="20211026124000 +0000" stop="20211026130000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
-<programme start="20211026130000 +0000" stop="20211026131000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
-<programme start="20211026131000 +0000" stop="20211026134000 +0000" channel="PlanetaTV.bg"><title lang="hr">“По ноти” - избрани песни</title></programme>
-<programme start="20211026134000 +0000" stop="20211026140000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026140000 +0000" stop="20211026141000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026141000 +0000" stop="20211026144000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
-<programme start="20211026144000 +0000" stop="20211026150000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026150000 +0000" stop="20211026154000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Топ 5 PlanetaOfficial” - музикална класация</title></programme>
-<programme start="20211026154000 +0000" stop="20211026160000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
-<programme start="20211026160000 +0000" stop="20211026161000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026161000 +0000" stop="20211026170000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026170000 +0000" stop="20211026171000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026171000 +0000" stop="20211026180000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
-<programme start="20211026180000 +0000" stop="20211026181000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026181000 +0000" stop="20211026190000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
-<programme start="20211026190000 +0000" stop="20211026191000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
-<programme start="20211026191000 +0000" stop="20211026200000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
-<programme start="20211026200000 +0000" stop="20211026201000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026201000 +0000" stop="20211026210000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
-<programme start="20211026210000 +0000" stop="20211026211000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
-<programme start="20211026211000 +0000" stop="20211026220000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Хит” - нон-стоп хитове</title></programme>
-<programme start="20211026220000 +0000" stop="20211026221000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
-<programme start="20211026221000 +0000" stop="20211026224000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Звездите на България&quot; - любими песни</title></programme>
-<programme start="20211026224000 +0000" stop="20211026230000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026230000 +0000" stop="20211026231000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
-<programme start="20211026231000 +0000" stop="20211026234000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
-<programme start="20211026234000 +0000" stop="20211027000000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211027000000 +0000" stop="20211027001000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
-<programme start="20211027001000 +0000" stop="20211027004000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Класика в жанра” - вечни хитове</title></programme>
-<programme start="20211027004000 +0000" stop="20211027010000 +0000" channel="PlanetaTV.bg"><title lang="hr">“От А до Я” - рецитал с хитове</title></programme>
-<programme start="20211027010000 +0000" stop="20211027011000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
-<programme start="20211027011000 +0000" stop="20211027014000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;От извора&quot; - българска народна музика</title></programme>
-<programme start="20211027014000 +0000" stop="20211027020000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Хит” - нон-стоп хитове</title></programme>
-<programme start="20211027020000 +0000" stop="20211027021000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
-<programme start="20211027021000 +0000" stop="20211027024000 +0000" channel="PlanetaTV.bg"><title lang="hr">“По ноти” - избрани песни</title></programme>
-<programme start="20211027024000 +0000" stop="20211027030000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
-<programme start="20211027030000 +0000" stop="20211027031000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
-<programme start="20211027031000 +0000" stop="20211027034000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златните хитове на Пайнер” - вечни хитове</title></programme>
-<programme start="20211027034000 +0000" stop="20211027040000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028041500 +0000" stop="20211028050000 +0000" channel="MRT2Sat.mk"><title lang="hr">Девојкитe Гилмор</title><category lang="hr">сериски филм</category></programme>
+<programme start="20211028050000 +0000" stop="20211028051700 +0000" channel="MRT2Sat.mk"><title lang="hr">ПОЧ</title><category lang="hr">НАСЛОВ ВИД</category></programme>
+<programme start="20211028051700 +0000" stop="20211028065900 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
+<programme start="20211028065900 +0000" stop="20211028071500 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
+<programme start="20211028071500 +0000" stop="20211028073200 +0000" channel="MRT2Sat.mk"><title lang="hr">Топ вести-Top lajme</title><category lang="hr">информативна</category></programme>
+<programme start="20211028073200 +0000" stop="20211028075800 +0000" channel="MRT2Sat.mk"><title lang="hr">Гормит</title><category lang="hr">анимирана серија за деца</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img259045-tv0.jpg"/></programme>
+<programme start="20211028075800 +0000" stop="20211028083000 +0000" channel="MRT2Sat.mk"><title lang="hr">Дојди во нашата приказна-Eja në përrallën tonë</title><category lang="hr">детска</category></programme>
+<programme start="20211028083000 +0000" stop="20211028084700 +0000" channel="MRT2Sat.mk"><title lang="hr">Топ вести-Top lajme</title><category lang="hr">информативна</category></programme>
+<programme start="20211028084700 +0000" stop="20211028090800 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
+<programme start="20211028090800 +0000" stop="20211028093900 +0000" channel="MRT2Sat.mk"><title lang="hr">Факти-Fakte</title><category lang="hr">образовна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img338019-tv10701131.jpg"/></programme>
+<programme start="20211028093900 +0000" stop="20211028100000 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">народна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
+<programme start="20211028100000 +0000" stop="20211028102200 +0000" channel="MRT2Sat.mk"><title lang="hr">Вести-Lajme</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318492-img314413-tv9828168.jpg"/></programme>
+<programme start="20211028102200 +0000" stop="20211028110900 +0000" channel="MRT2Sat.mk"><title lang="hr">Чирак-Çirak</title><category lang="hr">образовна</category></programme>
+<programme start="20211028110900 +0000" stop="20211028114700 +0000" channel="MRT2Sat.mk"><title lang="hr">Документарна</title><category lang="hr">документарна</category></programme>
+<programme start="20211028114700 +0000" stop="20211028120000 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">народна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
+<programme start="20211028120000 +0000" stop="20211028140000 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
+<programme start="20211028140000 +0000" stop="20211028142800 +0000" channel="MRT2Sat.mk"><title lang="hr">Вести-Lajme</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318492-img314413-tv9828168.jpg"/></programme>
+<programme start="20211028142800 +0000" stop="20211028145400 +0000" channel="MRT2Sat.mk"><title lang="hr">Гормит</title><category lang="hr">анимирана серија за деца</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img259045-tv0.jpg"/></programme>
+<programme start="20211028145400 +0000" stop="20211028152500 +0000" channel="MRT2Sat.mk"><title lang="hr">Дојди во нашата приказна-Eja në përrallën tonë</title><category lang="hr">детска</category></programme>
+<programme start="20211028152500 +0000" stop="20211028155600 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
+<programme start="20211028155600 +0000" stop="20211028163000 +0000" channel="MRT2Sat.mk"><title lang="hr">О колку убаво-O sa mirë</title><category lang="hr">играна серија</category></programme>
+<programme start="20211028163000 +0000" stop="20211028170500 +0000" channel="MRT2Sat.mk"><title lang="hr">Дневник 1-Ditari 1</title><category lang="hr">информативна</category></programme>
+<programme start="20211028170500 +0000" stop="20211028170900 +0000" channel="MRT2Sat.mk"><title lang="hr">Метео</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318406-meteo1.jpg"/></programme>
+<programme start="20211028170900 +0000" stop="20211028173100 +0000" channel="MRT2Sat.mk"><title lang="hr">Упатствата на пророкот-Udhëzimet e profetit</title><category lang="hr">културна</category></programme>
+<programme start="20211028173100 +0000" stop="20211028182200 +0000" channel="MRT2Sat.mk"><title lang="hr">Компанија-Kompania</title><category lang="hr">играна серија</category></programme>
+<programme start="20211028182200 +0000" stop="20211028183000 +0000" channel="MRT2Sat.mk"><title lang="hr">Интермецо</title><category lang="hr">интермецо</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img341302-infer.png.jpg"/></programme>
+<programme start="20211028183000 +0000" stop="20211028191700 +0000" channel="MRT2Sat.mk"><title lang="hr">Бизнис плус-Biznis plus</title><category lang="hr">економски магазин</category></programme>
+<programme start="20211028191700 +0000" stop="20211028194700 +0000" channel="MRT2Sat.mk"><title lang="hr">Документарна</title><category lang="hr">документарна</category></programme>
+<programme start="20211028194700 +0000" stop="20211028200000 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
+<programme start="20211028200000 +0000" stop="20211028203000 +0000" channel="MRT2Sat.mk"><title lang="hr">Дневник 2-Ditari 2</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318419-tv10037354.jpg"/></programme>
+<programme start="20211028203000 +0000" stop="20211028203300 +0000" channel="MRT2Sat.mk"><title lang="hr">Метео</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318406-meteo1.jpg"/></programme>
+<programme start="20211028203300 +0000" stop="20211028211500 +0000" channel="MRT2Sat.mk"><title lang="hr">Девојкитe Гилмор</title><category lang="hr">сериски филм</category></programme>
+<programme start="20211028211500 +0000" stop="20211028214700 +0000" channel="MRT2Sat.mk"><title lang="hr">О колку убаво-O sa mirë</title><category lang="hr">играна серија</category></programme>
+<programme start="20211028214700 +0000" stop="20211028220000 +0000" channel="MRT2Sat.mk"><title lang="hr">Жената на астронаутотThe Astronaut&apos;s Wife (1999)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img292192-tv1447.jpg"/></programme>
+<programme start="20211028220000 +0000" stop="20211028220500 +0000" channel="MRT2Sat.mk"><title lang="hr">Флеш вести-Flesh lajme</title><category lang="hr">информативна</category></programme>
+<programme start="20211028220500 +0000" stop="20211028233900 +0000" channel="MRT2Sat.mk"><title lang="hr">Жената на астронаутотThe Astronaut&apos;s Wife (1999)</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img292192-tv1447.jpg"/></programme>
+<programme start="20211028233900 +0000" stop="20211029002600 +0000" channel="MRT2Sat.mk"><title lang="hr">Бизнис плус-Biznis plus</title><category lang="hr">економски магазин</category></programme>
+<programme start="20211029002600 +0000" stop="20211029005600 +0000" channel="MRT2Sat.mk"><title lang="hr">Документарна</title><category lang="hr">документарна</category></programme>
+<programme start="20211029005600 +0000" stop="20211029012600 +0000" channel="MRT2Sat.mk"><title lang="hr">Дневник 2-Ditari 2</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318419-tv10037354.jpg"/></programme>
+<programme start="20211029012600 +0000" stop="20211029013000 +0000" channel="MRT2Sat.mk"><title lang="hr">Метео</title><category lang="hr">информативна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318406-meteo1.jpg"/></programme>
+<programme start="20211029013000 +0000" stop="20211029032200 +0000" channel="MRT2Sat.mk"><title lang="hr">Ритамот на денот-Ritmi i ditës</title><category lang="hr">информативен магазин</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318393-tv10037304.jpg"/></programme>
+<programme start="20211029032200 +0000" stop="20211029034400 +0000" channel="MRT2Sat.mk"><title lang="hr">Музички спотови</title><category lang="hr">забавна</category><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img318589-spot.jpg"/></programme>
+<programme start="20211029034400 +0000" stop="20211029041700 +0000" channel="MRT2Sat.mk"><title lang="hr">О колку убаво-O sa mirë</title><category lang="hr">играна серија</category></programme>
 <programme start="20211027040000 +0000" stop="20211027041000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
 <programme start="20211027041000 +0000" stop="20211027044000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Звездите на България&quot; - любими песни</title></programme>
 <programme start="20211027044000 +0000" stop="20211027050000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
@@ -243,46 +181,69 @@
 <programme start="20211028030000 +0000" stop="20211028031000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
 <programme start="20211028031000 +0000" stop="20211028034000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Ретро” - вечни хитове</title></programme>
 <programme start="20211028034000 +0000" stop="20211028040000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
-<programme start="20211026040000 +0000" stop="20211026043000 +0000" channel="RTV21Sat.rs"><title lang="hr">21 Minuta</title></programme>
-<programme start="20211026043000 +0000" stop="20211026044500 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE PER FEMIJE</title></programme>
-<programme start="20211026044500 +0000" stop="20211026050000 +0000" channel="RTV21Sat.rs"><title lang="hr">Телесхоп</title></programme>
-<programme start="20211026050000 +0000" stop="20211026050500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026050500 +0000" stop="20211026060000 +0000" channel="RTV21Sat.rs"><title lang="hr">Mos ma lesho doren</title></programme>
-<programme start="20211026060000 +0000" stop="20211026060500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026060500 +0000" stop="20211026070000 +0000" channel="RTV21Sat.rs"><title lang="hr">PER DITE TE MBARE</title></programme>
-<programme start="20211026070000 +0000" stop="20211026070500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026070500 +0000" stop="20211026080000 +0000" channel="RTV21Sat.rs"><title lang="hr">PER DITE TE MBARE</title></programme>
-<programme start="20211026080000 +0000" stop="20211026080500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026080500 +0000" stop="20211026083000 +0000" channel="RTV21Sat.rs"><title lang="hr">PER DITE TE MBARE</title></programme>
-<programme start="20211026083000 +0000" stop="20211026090000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE ARGETUESE</title></programme>
-<programme start="20211026090000 +0000" stop="20211026090500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026090500 +0000" stop="20211026100000 +0000" channel="RTV21Sat.rs"><title lang="hr">START UP</title></programme>
-<programme start="20211026100000 +0000" stop="20211026100500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026100500 +0000" stop="20211026103000 +0000" channel="RTV21Sat.rs"><title lang="hr">Edhe unë jam Kosovë</title></programme>
-<programme start="20211026103000 +0000" stop="20211026104500 +0000" channel="RTV21Sat.rs"><title lang="hr">Телесхоп</title></programme>
-<programme start="20211026104500 +0000" stop="20211026110000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE ARGETUESE</title></programme>
-<programme start="20211026110000 +0000" stop="20211026110500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026110500 +0000" stop="20211026120000 +0000" channel="RTV21Sat.rs"><title lang="hr">Mos ma lesho doren</title></programme>
-<programme start="20211026120000 +0000" stop="20211026121000 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026121000 +0000" stop="20211026131500 +0000" channel="RTV21Sat.rs"><title lang="hr">KENGA E JETES</title></programme>
-<programme start="20211026131500 +0000" stop="20211026133000 +0000" channel="RTV21Sat.rs"><title lang="hr">Телесхоп</title></programme>
-<programme start="20211026133000 +0000" stop="20211026150000 +0000" channel="RTV21Sat.rs"><title lang="hr">BON BON</title></programme>
-<programme start="20211026150000 +0000" stop="20211026153000 +0000" channel="RTV21Sat.rs"><title lang="hr">ВОА</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342644-tv7099636.jpg"/></programme>
-<programme start="20211026153000 +0000" stop="20211026164500 +0000" channel="RTV21Sat.rs"><title lang="hr">21 LIVE NEWS</title></programme>
-<programme start="20211026164500 +0000" stop="20211026170000 +0000" channel="RTV21Sat.rs"><title lang="hr">Muzikë</title></programme>
-<programme start="20211026170000 +0000" stop="20211026183000 +0000" channel="RTV21Sat.rs"><title lang="hr">KENGA E JETES</title></programme>
-<programme start="20211026183000 +0000" stop="20211026200000 +0000" channel="RTV21Sat.rs"><title lang="hr">CLICK</title></programme>
-<programme start="20211026200000 +0000" stop="20211026203000 +0000" channel="RTV21Sat.rs"><title lang="hr">21 MINUTA</title></programme>
-<programme start="20211026203000 +0000" stop="20211026210000 +0000" channel="RTV21Sat.rs"><title lang="hr">Mos ma lesho doren</title></programme>
-<programme start="20211026210000 +0000" stop="20211026230000 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026230000 +0000" stop="20211026230500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026230500 +0000" stop="20211027000000 +0000" channel="RTV21Sat.rs"><title lang="hr">KENGA E JETES</title></programme>
-<programme start="20211027000000 +0000" stop="20211027003500 +0000" channel="RTV21Sat.rs"><title lang="hr">21 MINUTA</title></programme>
-<programme start="20211027003500 +0000" stop="20211027010000 +0000" channel="RTV21Sat.rs"><title lang="hr">Muzikë</title></programme>
-<programme start="20211027010000 +0000" stop="20211027023000 +0000" channel="RTV21Sat.rs"><title lang="hr">BON BON</title></programme>
-<programme start="20211027023000 +0000" stop="20211027030000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE ARGETUESE</title></programme>
-<programme start="20211027030000 +0000" stop="20211027033000 +0000" channel="RTV21Sat.rs"><title lang="hr">ВОА</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342644-tv7099636.jpg"/></programme>
-<programme start="20211027033000 +0000" stop="20211027040000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE POPULLORE</title></programme>
+<programme start="20211028040000 +0000" stop="20211028041000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
+<programme start="20211028041000 +0000" stop="20211028044000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Звездите на България&quot; - любими песни</title></programme>
+<programme start="20211028044000 +0000" stop="20211028050000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
+<programme start="20211028050000 +0000" stop="20211028051000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028051000 +0000" stop="20211028054000 +0000" channel="PlanetaTV.bg"><title lang="hr">“По ноти” - избрани песни</title></programme>
+<programme start="20211028054000 +0000" stop="20211028060000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028060000 +0000" stop="20211028061000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
+<programme start="20211028061000 +0000" stop="20211028064000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
+<programme start="20211028064000 +0000" stop="20211028070000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
+<programme start="20211028070000 +0000" stop="20211028074000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Звездни празници” - горещи хитове</title></programme>
+<programme start="20211028074000 +0000" stop="20211028080000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Хит” - нон-стоп хитове</title></programme>
+<programme start="20211028080000 +0000" stop="20211028081000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028081000 +0000" stop="20211028084000 +0000" channel="PlanetaTV.bg"><title lang="hr">“От А до Я” - рецитал с хитове</title></programme>
+<programme start="20211028084000 +0000" stop="20211028090000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028090000 +0000" stop="20211028091000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
+<programme start="20211028091000 +0000" stop="20211028094000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;От извора&quot; - българска народна музика</title></programme>
+<programme start="20211028094000 +0000" stop="20211028100000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
+<programme start="20211028100000 +0000" stop="20211028101000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
+<programme start="20211028101000 +0000" stop="20211028104000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
+<programme start="20211028104000 +0000" stop="20211028110000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028110000 +0000" stop="20211028111000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028111000 +0000" stop="20211028114000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златните хитове на Пайнер” - вечни хитове</title></programme>
+<programme start="20211028114000 +0000" stop="20211028120000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028120000 +0000" stop="20211028124000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Топ 5 PlanetaOfficial” - музикална класация</title></programme>
+<programme start="20211028124000 +0000" stop="20211028130000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
+<programme start="20211028130000 +0000" stop="20211028131000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
+<programme start="20211028131000 +0000" stop="20211028134000 +0000" channel="PlanetaTV.bg"><title lang="hr">“По ноти” - избрани песни</title></programme>
+<programme start="20211028134000 +0000" stop="20211028140000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028140000 +0000" stop="20211028141000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028141000 +0000" stop="20211028144000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
+<programme start="20211028144000 +0000" stop="20211028150000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028150000 +0000" stop="20211028154000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Звездни празници” - горещи хитове</title></programme>
+<programme start="20211028154000 +0000" stop="20211028160000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
+<programme start="20211028160000 +0000" stop="20211028161000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028161000 +0000" stop="20211028170000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028170000 +0000" stop="20211028171000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028171000 +0000" stop="20211028180000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
+<programme start="20211028180000 +0000" stop="20211028181000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028181000 +0000" stop="20211028190000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
+<programme start="20211028190000 +0000" stop="20211028191000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
+<programme start="20211028191000 +0000" stop="20211028200000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
+<programme start="20211028200000 +0000" stop="20211028201000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028201000 +0000" stop="20211028210000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Фен Клуб” - нон-стоп хитове</title></programme>
+<programme start="20211028210000 +0000" stop="20211028211000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
+<programme start="20211028211000 +0000" stop="20211028220000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Хит” - нон-стоп хитове</title></programme>
+<programme start="20211028220000 +0000" stop="20211028221000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Хот&quot; - новите хитове</title></programme>
+<programme start="20211028221000 +0000" stop="20211028224000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Звездите на България&quot; - любими песни</title></programme>
+<programme start="20211028224000 +0000" stop="20211028230000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211028230000 +0000" stop="20211028231000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Картини от света” - музикална импресия</title></programme>
+<programme start="20211028231000 +0000" stop="20211028234000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Live” - музикална програма</title></programme>
+<programme start="20211028234000 +0000" stop="20211029000000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
+<programme start="20211029000000 +0000" stop="20211029001000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
+<programme start="20211029001000 +0000" stop="20211029004000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Ретро” - вечни хитове</title></programme>
+<programme start="20211029004000 +0000" stop="20211029010000 +0000" channel="PlanetaTV.bg"><title lang="hr">“От А до Я” - рецитал с хитове</title></programme>
+<programme start="20211029010000 +0000" stop="20211029011000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
+<programme start="20211029011000 +0000" stop="20211029014000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;От извора&quot; - българска народна музика</title></programme>
+<programme start="20211029014000 +0000" stop="20211029020000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Планета Хит” - нон-стоп хитове</title></programme>
+<programme start="20211029020000 +0000" stop="20211029021000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Златен хит” - най-доброто</title></programme>
+<programme start="20211029021000 +0000" stop="20211029024000 +0000" channel="PlanetaTV.bg"><title lang="hr">“По ноти” - избрани песни</title></programme>
+<programme start="20211029024000 +0000" stop="20211029030000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Плейлист” - музикална програма</title></programme>
+<programme start="20211029030000 +0000" stop="20211029031000 +0000" channel="PlanetaTV.bg"><title lang="hr">&quot;Картини от България&quot; - музикална импресия</title></programme>
+<programme start="20211029031000 +0000" stop="20211029034000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Класика в жанра” - вечни хитове</title></programme>
+<programme start="20211029034000 +0000" stop="20211029040000 +0000" channel="PlanetaTV.bg"><title lang="hr">“Show Time” - музикална програма</title></programme>
 <programme start="20211027040000 +0000" stop="20211027043000 +0000" channel="RTV21Sat.rs"><title lang="hr">21 Minuta</title></programme>
 <programme start="20211027043000 +0000" stop="20211027044500 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE PER FEMIJE</title></programme>
 <programme start="20211027044500 +0000" stop="20211027050000 +0000" channel="RTV21Sat.rs"><title lang="hr">Телесхоп</title></programme>
@@ -315,30 +276,46 @@
 <programme start="20211027200000 +0000" stop="20211027203000 +0000" channel="RTV21Sat.rs"><title lang="hr">21 MINUTA</title></programme>
 <programme start="20211027203000 +0000" stop="20211027210000 +0000" channel="RTV21Sat.rs"><title lang="hr">Mos ma lesho doren</title></programme>
 <programme start="20211027210000 +0000" stop="20211027230000 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
-<programme start="20211026050000 +0000" stop="20211026070000 +0000" channel="TVSonce.mk"><title lang="hr">Јади бурек</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340004-fss.png.jpg"/></programme>
-<programme start="20211026070000 +0000" stop="20211026090000 +0000" channel="TVSonce.mk"><title lang="hr">Распеана Македонија</title></programme>
-<programme start="20211026090000 +0000" stop="20211026100000 +0000" channel="TVSonce.mk"><title lang="hr">Арена</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340059-mmf.png.jpg"/></programme>
-<programme start="20211026100000 +0000" stop="20211026110000 +0000" channel="TVSonce.mk"><title lang="hr">Ваш термин</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340021-ghr.png.jpg"/></programme>
-<programme start="20211026110000 +0000" stop="20211026111000 +0000" channel="TVSonce.mk"><title lang="hr">Културен мозаик</title></programme>
-<programme start="20211026111000 +0000" stop="20211026112500 +0000" channel="TVSonce.mk"><title lang="hr">Детска програма</title></programme>
-<programme start="20211026112500 +0000" stop="20211026114000 +0000" channel="TVSonce.mk"><title lang="hr">Репортажа</title></programme>
-<programme start="20211026114000 +0000" stop="20211026120000 +0000" channel="TVSonce.mk"><title lang="hr">Документарен серијал</title></programme>
-<programme start="20211026120000 +0000" stop="20211026121500 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
-<programme start="20211026121500 +0000" stop="20211026131500 +0000" channel="TVSonce.mk"><title lang="hr">Билкарница</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340071-tv10780777.jpg"/></programme>
-<programme start="20211026131500 +0000" stop="20211026150000 +0000" channel="TVSonce.mk"><title lang="hr">Имат немат- забавно музичка емисија</title></programme>
-<programme start="20211026150000 +0000" stop="20211026160000 +0000" channel="TVSonce.mk"><title lang="hr">Документарна програма</title></programme>
-<programme start="20211026160000 +0000" stop="20211026163000 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
-<programme start="20211026163000 +0000" stop="20211026173000 +0000" channel="TVSonce.mk"><title lang="hr">Ин клуб</title></programme>
-<programme start="20211026173000 +0000" stop="20211026180000 +0000" channel="TVSonce.mk"><title lang="hr">Документарна програма</title></programme>
-<programme start="20211026180000 +0000" stop="20211026200000 +0000" channel="TVSonce.mk"><title lang="hr">Јади бурек</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340004-fss.png.jpg"/></programme>
-<programme start="20211026200000 +0000" stop="20211026202000 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
-<programme start="20211026202000 +0000" stop="20211026210000 +0000" channel="TVSonce.mk"><title lang="hr">Документарен серијал</title></programme>
-<programme start="20211026210000 +0000" stop="20211026220000 +0000" channel="TVSonce.mk"><title lang="hr">Документарна програма</title></programme>
-<programme start="20211026220000 +0000" stop="20211026230000 +0000" channel="TVSonce.mk"><title lang="hr">Астровизија</title></programme>
-<programme start="20211026230000 +0000" stop="20211027010000 +0000" channel="TVSonce.mk"><title lang="hr">Јади бурек</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340004-fss.png.jpg"/></programme>
-<programme start="20211027010000 +0000" stop="20211027012000 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
-<programme start="20211027012000 +0000" stop="20211027032000 +0000" channel="TVSonce.mk"><title lang="hr">Распеана Македонија</title></programme>
-<programme start="20211027032000 +0000" stop="20211027041000 +0000" channel="TVSonce.mk"><title lang="hr">Ваш термин</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340021-ghr.png.jpg"/></programme>
+<programme start="20211027230000 +0000" stop="20211027230500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211027230500 +0000" stop="20211028000000 +0000" channel="RTV21Sat.rs"><title lang="hr">KENGA E JETES</title></programme>
+<programme start="20211028000000 +0000" stop="20211028004000 +0000" channel="RTV21Sat.rs"><title lang="hr">21 Minuta</title></programme>
+<programme start="20211028004000 +0000" stop="20211028010000 +0000" channel="RTV21Sat.rs"><title lang="hr">Muzikë</title></programme>
+<programme start="20211028010000 +0000" stop="20211028023000 +0000" channel="RTV21Sat.rs"><title lang="hr">BON BON</title></programme>
+<programme start="20211028023000 +0000" stop="20211028030000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE ARGETUESE</title></programme>
+<programme start="20211028030000 +0000" stop="20211028033000 +0000" channel="RTV21Sat.rs"><title lang="hr">ВОА</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342644-tv7099636.jpg"/></programme>
+<programme start="20211028033000 +0000" stop="20211028040000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE POPULLORE</title></programme>
+<programme start="20211028040000 +0000" stop="20211028043000 +0000" channel="RTV21Sat.rs"><title lang="hr">21 Minuta</title></programme>
+<programme start="20211028043000 +0000" stop="20211028044500 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE PER FEMIJE</title></programme>
+<programme start="20211028044500 +0000" stop="20211028050000 +0000" channel="RTV21Sat.rs"><title lang="hr">Телесхоп</title></programme>
+<programme start="20211028050000 +0000" stop="20211028050500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028050500 +0000" stop="20211028060000 +0000" channel="RTV21Sat.rs"><title lang="hr">Mos ma lesho doren</title></programme>
+<programme start="20211028060000 +0000" stop="20211028060500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028060500 +0000" stop="20211028070000 +0000" channel="RTV21Sat.rs"><title lang="hr">PER DITE TE MBARE</title></programme>
+<programme start="20211028070000 +0000" stop="20211028070500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028070500 +0000" stop="20211028080000 +0000" channel="RTV21Sat.rs"><title lang="hr">PER DITE TE MBARE</title></programme>
+<programme start="20211028080000 +0000" stop="20211028080500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028080500 +0000" stop="20211028083000 +0000" channel="RTV21Sat.rs"><title lang="hr">PER DITE TE MBARE</title></programme>
+<programme start="20211028083000 +0000" stop="20211028090000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE ARGETUESE</title></programme>
+<programme start="20211028090000 +0000" stop="20211028090500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028090500 +0000" stop="20211028100000 +0000" channel="RTV21Sat.rs"><title lang="hr">CLICK</title></programme>
+<programme start="20211028100000 +0000" stop="20211028100500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028100500 +0000" stop="20211028103000 +0000" channel="RTV21Sat.rs"><title lang="hr">CLICK</title></programme>
+<programme start="20211028103000 +0000" stop="20211028104500 +0000" channel="RTV21Sat.rs"><title lang="hr">Телесхоп</title></programme>
+<programme start="20211028104500 +0000" stop="20211028110000 +0000" channel="RTV21Sat.rs"><title lang="hr">MUZIKE ARGETUESE</title></programme>
+<programme start="20211028110000 +0000" stop="20211028110500 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028110500 +0000" stop="20211028120000 +0000" channel="RTV21Sat.rs"><title lang="hr">Mos ma lesho doren</title></programme>
+<programme start="20211028120000 +0000" stop="20211028121000 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
+<programme start="20211028121000 +0000" stop="20211028131500 +0000" channel="RTV21Sat.rs"><title lang="hr">KENGA E JETES</title></programme>
+<programme start="20211028131500 +0000" stop="20211028133000 +0000" channel="RTV21Sat.rs"><title lang="hr">Телесхоп</title></programme>
+<programme start="20211028133000 +0000" stop="20211028150000 +0000" channel="RTV21Sat.rs"><title lang="hr">BON BON</title></programme>
+<programme start="20211028150000 +0000" stop="20211028153000 +0000" channel="RTV21Sat.rs"><title lang="hr">ВОА</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img342644-tv7099636.jpg"/></programme>
+<programme start="20211028153000 +0000" stop="20211028164500 +0000" channel="RTV21Sat.rs"><title lang="hr">21 LIVE NEWS</title></programme>
+<programme start="20211028164500 +0000" stop="20211028170000 +0000" channel="RTV21Sat.rs"><title lang="hr">Muzikë</title></programme>
+<programme start="20211028170000 +0000" stop="20211028183000 +0000" channel="RTV21Sat.rs"><title lang="hr">KENGA E JETES</title></programme>
+<programme start="20211028183000 +0000" stop="20211028200000 +0000" channel="RTV21Sat.rs"><title lang="hr">CLICK</title></programme>
+<programme start="20211028200000 +0000" stop="20211028203000 +0000" channel="RTV21Sat.rs"><title lang="hr">21 MINUTA</title></programme>
+<programme start="20211028203000 +0000" stop="20211028210000 +0000" channel="RTV21Sat.rs"><title lang="hr">Mos ma lesho doren</title></programme>
+<programme start="20211028210000 +0000" stop="20211028230000 +0000" channel="RTV21Sat.rs"><title lang="hr">FLASH</title></programme>
 <programme start="20211027041000 +0000" stop="20211027050000 +0000" channel="TVSonce.mk"><title lang="hr">Аурора репортажи</title></programme>
 <programme start="20211027050000 +0000" stop="20211027070000 +0000" channel="TVSonce.mk"><title lang="hr">Јади бурек</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340004-fss.png.jpg"/></programme>
 <programme start="20211027070000 +0000" stop="20211027090000 +0000" channel="TVSonce.mk"><title lang="hr">Распеана Македонија</title></programme>
@@ -362,4 +339,27 @@
 <programme start="20211028013000 +0000" stop="20211028023000 +0000" channel="TVSonce.mk"><title lang="hr">Ин клуб</title></programme>
 <programme start="20211028023000 +0000" stop="20211028030000 +0000" channel="TVSonce.mk"><title lang="hr">Документарен серијал</title></programme>
 <programme start="20211028030000 +0000" stop="20211028040000 +0000" channel="TVSonce.mk"><title lang="hr">Документарна програма</title></programme>
+<programme start="20211028040000 +0000" stop="20211028050000 +0000" channel="TVSonce.mk"><title lang="hr">Документарн програма</title></programme>
+<programme start="20211028050000 +0000" stop="20211028070000 +0000" channel="TVSonce.mk"><title lang="hr">Јади бурек</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340004-fss.png.jpg"/></programme>
+<programme start="20211028070000 +0000" stop="20211028090000 +0000" channel="TVSonce.mk"><title lang="hr">Распеана Македонија</title></programme>
+<programme start="20211028090000 +0000" stop="20211028100500 +0000" channel="TVSonce.mk"><title lang="hr">Детска програма</title></programme>
+<programme start="20211028100500 +0000" stop="20211028110000 +0000" channel="TVSonce.mk"><title lang="hr">Ваш термин</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340021-ghr.png.jpg"/></programme>
+<programme start="20211028110000 +0000" stop="20211028113000 +0000" channel="TVSonce.mk"><title lang="hr">Од своја страна</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340035-sfdsd.png.jpg"/></programme>
+<programme start="20211028113000 +0000" stop="20211028120000 +0000" channel="TVSonce.mk"><title lang="hr">Документарна програма</title></programme>
+<programme start="20211028120000 +0000" stop="20211028121000 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
+<programme start="20211028121000 +0000" stop="20211028141000 +0000" channel="TVSonce.mk"><title lang="hr">Будење со Јулија</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340040-fdfre.png.jpg"/></programme>
+<programme start="20211028141000 +0000" stop="20211028150000 +0000" channel="TVSonce.mk"><title lang="hr">Ловечко око</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340199-fjgk.png.jpg"/></programme>
+<programme start="20211028150000 +0000" stop="20211028160000 +0000" channel="TVSonce.mk"><title lang="hr">Ин клуб</title></programme>
+<programme start="20211028160000 +0000" stop="20211028163000 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
+<programme start="20211028163000 +0000" stop="20211028173000 +0000" channel="TVSonce.mk"><title lang="hr">Арена- спортска емисија</title></programme>
+<programme start="20211028173000 +0000" stop="20211028180000 +0000" channel="TVSonce.mk"><title lang="hr">Документарен серијал</title></programme>
+<programme start="20211028180000 +0000" stop="20211028200000 +0000" channel="TVSonce.mk"><title lang="hr">Јади бурек</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340004-fss.png.jpg"/></programme>
+<programme start="20211028200000 +0000" stop="20211028202000 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
+<programme start="20211028202000 +0000" stop="20211028210500 +0000" channel="TVSonce.mk"><title lang="hr">Имат немат- забавно музичка емисија</title></programme>
+<programme start="20211028210500 +0000" stop="20211028220000 +0000" channel="TVSonce.mk"><title lang="hr">Музичка програма</title></programme>
+<programme start="20211028220000 +0000" stop="20211028230000 +0000" channel="TVSonce.mk"><title lang="hr">Документрна програма</title></programme>
+<programme start="20211028230000 +0000" stop="20211029010000 +0000" channel="TVSonce.mk"><title lang="hr">Јади бурек</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340004-fss.png.jpg"/></programme>
+<programme start="20211029010000 +0000" stop="20211029012000 +0000" channel="TVSonce.mk"><title lang="hr">ВЕСТИ</title><icon src="https://cdn-0.tvprofil.com/cdn/1280x480/0/img/covers/img340034-dewd.png.jpg"/></programme>
+<programme start="20211029012000 +0000" stop="20211029032000 +0000" channel="TVSonce.mk"><title lang="hr">Распеана Македонија</title></programme>
+<programme start="20211029032000 +0000" stop="20211029050000 +0000" channel="TVSonce.mk"><title lang="hr">Документарен серијал</title></programme>
 </tv>

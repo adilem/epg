@@ -21,11 +21,11 @@
 <channel id="VTV.by"><display-name>VTV</display-name><icon src="https://resizer.mail.ru/p/7497d2bb-e0af-5d23-98fe-9bd01a4c3356/dpr:200/AAACQXXO0xga021iC5z5pwRHy5jc7QP6gTN-vBR97Pzs_dNNX93-dkel93nJtcFWfMpONhwVouWz0jVzi1ZtENmAD7E.png"/></channel>
 <channel id="YaSNAeTV.by"><display-name>YaSNAe TV</display-name><icon src="https://resizer.mail.ru/p/6c038001-2036-5648-8c5b-b43cffa3ceda/dpr:200/AAACaTu8AyLNqo7IcF8cdR5NXWm355CpuyvPT63KjU0W0u3Ez5cwxt2X4kPAxepSARSAc6a7y0_hSk7JW2mDwYYbtw8.png"/></channel>
 <programme start="20211031040000 +0000" stop="20211031050000 +0000" channel="BelsatTV.pl"><title lang="by">Студыя Белсат</title><category lang="by">Развлекательное</category></programme>
-<programme start="20211031050000 +0000" stop="20211031051000 +0000" channel="BelsatTV.pl"><title lang="by">Мамі Фаталь</title></programme>
-<programme start="20211031051000 +0000" stop="20211031052000 +0000" channel="BelsatTV.pl"><title lang="by">Пеўнік Спеўнік</title></programme>
-<programme start="20211031052000 +0000" stop="20211031053000 +0000" channel="BelsatTV.pl"><title lang="by">Прыгоды ката Філімона</title></programme>
-<programme start="20211031053000 +0000" stop="20211031054500 +0000" channel="BelsatTV.pl"><title lang="by">Приключения и походы</title></programme>
-<programme start="20211031054500 +0000" stop="20211031063000 +0000" channel="BelsatTV.pl"><title lang="by">Лавец ураганаў</title></programme>
+<programme start="20211031050000 +0000" stop="20211031051000 +0000" channel="BelsatTV.pl"><title lang="by">Мамі Фаталь</title><category lang="by"></category></programme>
+<programme start="20211031051000 +0000" stop="20211031052000 +0000" channel="BelsatTV.pl"><title lang="by">Пеўнік Спеўнік</title><category lang="by"></category></programme>
+<programme start="20211031052000 +0000" stop="20211031053000 +0000" channel="BelsatTV.pl"><title lang="by">Прыгоды ката Філімона</title><category lang="by"></category></programme>
+<programme start="20211031053000 +0000" stop="20211031054500 +0000" channel="BelsatTV.pl"><title lang="by">Приключения и походы</title><category lang="by"></category></programme>
+<programme start="20211031054500 +0000" stop="20211031063000 +0000" channel="BelsatTV.pl"><title lang="by">Лавец ураганаў</title><category lang="by"></category></programme>
 <programme start="20211031063000 +0000" stop="20211031070500 +0000" channel="BelsatTV.pl"><title lang="by">ПроСвет</title><category lang="by">ТВ-шоу</category></programme>
 <programme start="20211031070500 +0000" stop="20211031073000 +0000" channel="BelsatTV.pl"><title lang="by">Шчыра кажучы</title><category lang="by">Позновательное</category></programme>
 <programme start="20211031073000 +0000" stop="20211031081000 +0000" channel="BelsatTV.pl"><title lang="by">Без акрэдытацыі</title><category lang="by">Развлекательное</category></programme>
@@ -34,7 +34,7 @@
 <programme start="20211031085000 +0000" stop="20211031090000 +0000" channel="BelsatTV.pl"><title lang="by">Лукавыя навіны</title><category lang="by">Новости</category></programme>
 <programme start="20211031090000 +0000" stop="20211031095500 +0000" channel="BelsatTV.pl"><title lang="by">Лета ракетаў</title><category lang="by">Сериал</category></programme>
 <programme start="20211031095500 +0000" stop="20211031102000 +0000" channel="BelsatTV.pl"><title lang="by">Хай так</title><category lang="by">Досуг,Хобби</category></programme>
-<programme start="20211031102000 +0000" stop="20211031104500 +0000" channel="BelsatTV.pl"><title lang="by">Сенсацыі XX стагоддзя</title></programme>
+<programme start="20211031102000 +0000" stop="20211031104500 +0000" channel="BelsatTV.pl"><title lang="by">Сенсацыі XX стагоддзя</title><category lang="by"></category></programme>
 <programme start="20211031104500 +0000" stop="20211031110500 +0000" channel="BelsatTV.pl"><title lang="by">Вечаровы шпіль</title><category lang="by">ТВ-шоу</category></programme>
 <programme start="20211031110500 +0000" stop="20211031112000 +0000" channel="BelsatTV.pl"><title lang="by">Шыльды</title><category lang="by">Позновательное</category></programme>
 <programme start="20211031112000 +0000" stop="20211031115000 +0000" channel="BelsatTV.pl"><title lang="by">Я не буду гэта есці</title><category lang="by">Ток-шоу</category></programme>
@@ -44,20 +44,20 @@
 <programme start="20211031155000 +0000" stop="20211031163500 +0000" channel="BelsatTV.pl"><title lang="by">Куба - кухня рэвалюцыі</title><category lang="by">Документальное</category></programme>
 <programme start="20211031163500 +0000" stop="20211031172000 +0000" channel="BelsatTV.pl"><title lang="by">Интермариум</title><category lang="by">Развлекательное</category></programme>
 <programme start="20211031172000 +0000" stop="20211031174000 +0000" channel="BelsatTV.pl"><title lang="by">Мова нанова</title><category lang="by">Позновательное</category></programme>
-<programme start="20211031174000 +0000" stop="20211031180000 +0000" channel="BelsatTV.pl"><title lang="by">Жэстачайшы мульт</title></programme>
+<programme start="20211031174000 +0000" stop="20211031180000 +0000" channel="BelsatTV.pl"><title lang="by">Жэстачайшы мульт</title><category lang="by"></category></programme>
 <programme start="20211031180000 +0000" stop="20211031193000 +0000" channel="BelsatTV.pl"><title lang="by">Студыя Белсат</title><category lang="by">Развлекательное</category></programme>
 <programme start="20211031193000 +0000" stop="20211031210500 +0000" channel="BelsatTV.pl"><title lang="by">Джульетта</title><category lang="by">Фильм</category></programme>
 <programme start="20211031210500 +0000" stop="20211031220000 +0000" channel="BelsatTV.pl"><title lang="by">Экстрадыцыя</title><category lang="by">Сериал</category></programme>
 <programme start="20211031220000 +0000" stop="20211031222000 +0000" channel="BelsatTV.pl"><title lang="by">Вечаровы шпіль</title><category lang="by">ТВ-шоу</category></programme>
 <programme start="20211031222000 +0000" stop="20211031235000 +0000" channel="BelsatTV.pl"><title lang="by">Студыя Белсат</title><category lang="by">Развлекательное</category></programme>
-<programme start="20211031235000 +0000" stop="20211101005000 +0000" channel="BelsatTV.pl"><title lang="by">Перапынак ў вяшчанні</title></programme>
+<programme start="20211031235000 +0000" stop="20211101005000 +0000" channel="BelsatTV.pl"><title lang="by">Перапынак ў вяшчанні</title><category lang="by"></category></programme>
 <programme start="20211101040000 +0000" stop="20211101053000 +0000" channel="BelsatTV.pl"><title lang="by">Студыя Белсат</title><category lang="by">Развлекательное</category></programme>
 <programme start="20211101053000 +0000" stop="20211101061000 +0000" channel="BelsatTV.pl"><title lang="by">Без акрэдытацыі</title><category lang="by">Развлекательное</category></programme>
 <programme start="20211101061000 +0000" stop="20211101063500 +0000" channel="BelsatTV.pl"><title lang="by">Давайце разбірацца</title><category lang="by">Развлекательное</category></programme>
 <programme start="20211101063500 +0000" stop="20211101065000 +0000" channel="BelsatTV.pl"><title lang="by">Мова нанова</title><category lang="by">Позновательное</category></programme>
 <programme start="20211101065000 +0000" stop="20211101071000 +0000" channel="BelsatTV.pl"><title lang="by">Вечаровы шпіль</title><category lang="by">ТВ-шоу</category></programme>
 <programme start="20211101071000 +0000" stop="20211101072500 +0000" channel="BelsatTV.pl"><title lang="by">Маю права</title><category lang="by">Развлекательное</category></programme>
-<programme start="20211101072500 +0000" stop="20211101074500 +0000" channel="BelsatTV.pl"><title lang="by">Жэстачайшы мульт</title></programme>
+<programme start="20211101072500 +0000" stop="20211101074500 +0000" channel="BelsatTV.pl"><title lang="by">Жэстачайшы мульт</title><category lang="by"></category></programme>
 <programme start="20211101074500 +0000" stop="20211101081000 +0000" channel="BelsatTV.pl"><title lang="by">Беларускі свет</title><category lang="by">Новости</category></programme>
 <programme start="20211101081000 +0000" stop="20211101100000 +0000" channel="BelsatTV.pl"><title lang="by">Вайна</title><category lang="by">Фильм</category></programme>
 <programme start="20211101100000 +0000" stop="20211101103500 +0000" channel="BelsatTV.pl"><title lang="by">ПроСвет</title><category lang="by">ТВ-шоу</category></programme>
@@ -71,7 +71,7 @@
 <programme start="20211101140000 +0000" stop="20211101140500 +0000" channel="BelsatTV.pl"><title lang="by">Навіны</title><category lang="by">Новости</category></programme>
 <programme start="20211101140500 +0000" stop="20211101150000 +0000" channel="BelsatTV.pl"><title lang="by">Лета ракетаў</title><category lang="by">Сериал</category></programme>
 <programme start="20211101150000 +0000" stop="20211101151500 +0000" channel="BelsatTV.pl"><title lang="by">Навіны</title><category lang="by">Новости</category></programme>
-<programme start="20211101151500 +0000" stop="20211101161000 +0000" channel="BelsatTV.pl"><title lang="by">Сакрэты добрага здароўя</title></programme>
+<programme start="20211101151500 +0000" stop="20211101161000 +0000" channel="BelsatTV.pl"><title lang="by">Сакрэты добрага здароўя</title><category lang="by"></category></programme>
 <programme start="20211101161000 +0000" stop="20211101163000 +0000" channel="BelsatTV.pl"><title lang="by">Загадкі беларускай гісторыі</title><category lang="by">Позновательное</category></programme>
 <programme start="20211101163000 +0000" stop="20211101170000 +0000" channel="BelsatTV.pl"><title lang="by">Вось так</title><category lang="by">Новости</category></programme>
 <programme start="20211101170000 +0000" stop="20211101180000 +0000" channel="BelsatTV.pl"><title lang="by">Студыя Белсат</title><category lang="by">Развлекательное</category></programme>
@@ -82,15 +82,15 @@
 <programme start="20211101215000 +0000" stop="20211101220500 +0000" channel="BelsatTV.pl"><title lang="by">Размова дня</title><category lang="by">Новости</category></programme>
 <programme start="20211101220500 +0000" stop="20211101222000 +0000" channel="BelsatTV.pl"><title lang="by">Загадкі беларускай гісторыі</title><category lang="by">Позновательное</category></programme>
 <programme start="20211101222000 +0000" stop="20211101224500 +0000" channel="BelsatTV.pl"><title lang="by">Хай так</title><category lang="by">Досуг,Хобби</category></programme>
-<programme start="20211101224500 +0000" stop="20211101234500 +0000" channel="BelsatTV.pl"><title lang="by">Перапынак ў вяшчанні</title></programme>
+<programme start="20211101224500 +0000" stop="20211101234500 +0000" channel="BelsatTV.pl"><title lang="by">Перапынак ў вяшчанні</title><category lang="by"></category></programme>
 <programme start="20211031030500 +0000" stop="20211031040000 +0000" channel="8kanal.by"><title lang="ru">Ой, ма-моч-ки!</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031040000 +0000" stop="20211031060000 +0000" channel="8kanal.by"><title lang="ru">Удачное утро</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031060000 +0000" stop="20211031080000 +0000" channel="8kanal.by"><title lang="ru">Лучшие покупки</title></programme>
-<programme start="20211031080000 +0000" stop="20211031100000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title></programme>
+<programme start="20211031060000 +0000" stop="20211031080000 +0000" channel="8kanal.by"><title lang="ru">Лучшие покупки</title><category lang="ru"></category></programme>
+<programme start="20211031080000 +0000" stop="20211031100000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title><category lang="ru"></category></programme>
 <programme start="20211031100000 +0000" stop="20211031110000 +0000" channel="8kanal.by"><title lang="ru">Восьмое чувство</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211031110000 +0000" stop="20211031150000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title></programme>
+<programme start="20211031110000 +0000" stop="20211031150000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title><category lang="ru"></category></programme>
 <programme start="20211031150000 +0000" stop="20211031160000 +0000" channel="8kanal.by"><title lang="ru">Восьмое чувство</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211031160000 +0000" stop="20211031180000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title></programme>
+<programme start="20211031160000 +0000" stop="20211031180000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title><category lang="ru"></category></programme>
 <programme start="20211031180000 +0000" stop="20211031191500 +0000" channel="8kanal.by"><title lang="ru">Восьмое чувство</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031191500 +0000" stop="20211031201000 +0000" channel="8kanal.by"><title lang="ru">Отель секретов</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031201000 +0000" stop="20211031210500 +0000" channel="8kanal.by"><title lang="ru">Охотник за головами</title><category lang="ru">Сериал</category></programme>
@@ -98,12 +98,12 @@
 <programme start="20211031220000 +0000" stop="20211031230000 +0000" channel="8kanal.by"><title lang="ru">Интерактивный канал</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211101030500 +0000" stop="20211101040000 +0000" channel="8kanal.by"><title lang="ru">Ой, ма-моч-ки!</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101040000 +0000" stop="20211101060000 +0000" channel="8kanal.by"><title lang="ru">Удачное утро</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211101060000 +0000" stop="20211101080000 +0000" channel="8kanal.by"><title lang="ru">Лучшие покупки</title></programme>
-<programme start="20211101080000 +0000" stop="20211101100000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title></programme>
+<programme start="20211101060000 +0000" stop="20211101080000 +0000" channel="8kanal.by"><title lang="ru">Лучшие покупки</title><category lang="ru"></category></programme>
+<programme start="20211101080000 +0000" stop="20211101100000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title><category lang="ru"></category></programme>
 <programme start="20211101100000 +0000" stop="20211101110000 +0000" channel="8kanal.by"><title lang="ru">Восьмое чувство</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211101110000 +0000" stop="20211101150000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title></programme>
+<programme start="20211101110000 +0000" stop="20211101150000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title><category lang="ru"></category></programme>
 <programme start="20211101150000 +0000" stop="20211101160000 +0000" channel="8kanal.by"><title lang="ru">Восьмое чувство</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211101160000 +0000" stop="20211101180000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title></programme>
+<programme start="20211101160000 +0000" stop="20211101180000 +0000" channel="8kanal.by"><title lang="ru">Удачный день</title><category lang="ru"></category></programme>
 <programme start="20211101180000 +0000" stop="20211101191000 +0000" channel="8kanal.by"><title lang="ru">Восьмое чувство</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101191000 +0000" stop="20211101201000 +0000" channel="8kanal.by"><title lang="ru">Отель секретов</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101201000 +0000" stop="20211101210500 +0000" channel="8kanal.by"><title lang="ru">Охотник за головами</title><category lang="ru">Сериал</category></programme>
@@ -134,7 +134,7 @@
 <programme start="20211031163000 +0000" stop="20211031174500 +0000" channel="Belarus1.by"><title lang="ru">Главный эфир</title><category lang="ru">Новости</category></programme>
 <programme start="20211031174500 +0000" stop="20211031204500 +0000" channel="Belarus1.by"><title lang="ru">X-Factor</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211031204500 +0000" stop="20211031225000 +0000" channel="Belarus1.by"><title lang="ru">Садовое кольцо</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031225000 +0000" stop="20211031235000 +0000" channel="Belarus1.by"><title lang="ru">Перерыв в вещании</title></programme>
+<programme start="20211031225000 +0000" stop="20211031235000 +0000" channel="Belarus1.by"><title lang="ru">Перерыв в вещании</title><category lang="ru"></category></programme>
 <programme start="20211101030000 +0000" stop="20211101040000 +0000" channel="Belarus1.by"><title lang="ru">Доброе утро, Беларусь!</title><category lang="ru">Развлекательное</category></programme>
 <programme start="20211101040000 +0000" stop="20211101040500 +0000" channel="Belarus1.by"><title lang="ru">Новости</title><category lang="ru">Новости</category></programme>
 <programme start="20211101040500 +0000" stop="20211101041000 +0000" channel="Belarus1.by"><title lang="ru">Новости экономики</title><category lang="ru">Новости</category></programme>
@@ -175,7 +175,7 @@
 <programme start="20211031050000 +0000" stop="20211031050500 +0000" channel="Belarus2.by"><title lang="ru">Телебарометр</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031050500 +0000" stop="20211031065500 +0000" channel="Belarus2.by"><title lang="ru">Клон</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031065500 +0000" stop="20211031075000 +0000" channel="Belarus2.by"><title lang="ru">Три первых свидания</title><category lang="ru">Ток-шоу</category></programme>
-<programme start="20211031075000 +0000" stop="20211031083000 +0000" channel="Belarus2.by"><title lang="ru">Стич!</title></programme>
+<programme start="20211031075000 +0000" stop="20211031083000 +0000" channel="Belarus2.by"><title lang="ru">Стич!</title><category lang="ru"></category></programme>
 <programme start="20211031083000 +0000" stop="20211031101000 +0000" channel="Belarus2.by"><title lang="ru">Доктор Дулиттл-4</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031101000 +0000" stop="20211031120000 +0000" channel="Belarus2.by"><title lang="ru">Папа попал</title><category lang="ru">Ток-шоу</category></programme>
 <programme start="20211031120000 +0000" stop="20211031130000 +0000" channel="Belarus2.by"><title lang="ru">Башня</title><category lang="ru">Игровое</category></programme>
@@ -186,13 +186,13 @@
 <programme start="20211031181000 +0000" stop="20211031182000 +0000" channel="Belarus2.by"><title lang="ru">Спортлото 5 из 36</title><category lang="ru">Игровое</category></programme>
 <programme start="20211031182000 +0000" stop="20211031192500 +0000" channel="Belarus2.by"><title lang="ru">Орел и Решка. Девчата</title><category lang="ru">Ток-шоу</category></programme>
 <programme start="20211031192500 +0000" stop="20211031210000 +0000" channel="Belarus2.by"><title lang="ru">Строго на запад</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031210000 +0000" stop="20211031220000 +0000" channel="Belarus2.by"><title lang="ru">Перерыв в вещании</title></programme>
+<programme start="20211031210000 +0000" stop="20211031220000 +0000" channel="Belarus2.by"><title lang="ru">Перерыв в вещании</title><category lang="ru"></category></programme>
 <programme start="20211031020000 +0000" stop="20211031024000 +0000" channel="Belarus24.by"><title lang="ru">Панорама</title><category lang="ru">Новости</category></programme>
 <programme start="20211031024000 +0000" stop="20211031031000 +0000" channel="Belarus24.by"><title lang="ru">Иснасць</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211031031000 +0000" stop="20211031034000 +0000" channel="Belarus24.by"><title lang="ru">Святыни Беларуси</title></programme>
+<programme start="20211031031000 +0000" stop="20211031034000 +0000" channel="Belarus24.by"><title lang="ru">Святыни Беларуси</title><category lang="ru"></category></programme>
 <programme start="20211031034000 +0000" stop="20211031041500 +0000" channel="Belarus24.by"><title lang="ru">Наукомания</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031041500 +0000" stop="20211031050000 +0000" channel="Belarus24.by"><title lang="ru">Доброе утро, Беларусь!</title><category lang="ru">Развлекательное</category></programme>
-<programme start="20211031050000 +0000" stop="20211031060000 +0000" channel="Belarus24.by"><title lang="ru">Концерт</title></programme>
+<programme start="20211031050000 +0000" stop="20211031060000 +0000" channel="Belarus24.by"><title lang="ru">Концерт</title><category lang="ru"></category></programme>
 <programme start="20211031060000 +0000" stop="20211031061000 +0000" channel="Belarus24.by"><title lang="ru">Новости</title><category lang="ru">Новости</category></programme>
 <programme start="20211031061000 +0000" stop="20211031072500 +0000" channel="Belarus24.by"><title lang="ru">Сын полка</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031072500 +0000" stop="20211031080000 +0000" channel="Belarus24.by"><title lang="ru">Белорусская кухня</title><category lang="ru">Досуг,Хобби</category></programme>
@@ -218,14 +218,14 @@
 <programme start="20211031181500 +0000" stop="20211031184500 +0000" channel="Belarus24.by"><title lang="ru">Полешуки</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031184500 +0000" stop="20211031194000 +0000" channel="Belarus24.by"><title lang="ru">Все возрасты любви</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031194000 +0000" stop="20211031201000 +0000" channel="Belarus24.by"><title lang="ru">Маршрут построен</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031201000 +0000" stop="20211031211000 +0000" channel="Belarus24.by"><title lang="ru">Концерт</title></programme>
+<programme start="20211031201000 +0000" stop="20211031211000 +0000" channel="Belarus24.by"><title lang="ru">Концерт</title><category lang="ru"></category></programme>
 <programme start="20211031211000 +0000" stop="20211031214500 +0000" channel="Belarus24.by"><title lang="ru">Белорусы</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031214500 +0000" stop="20211031221500 +0000" channel="Belarus24.by"><title lang="ru">Наукомания</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031221500 +0000" stop="20211031231500 +0000" channel="Belarus24.by"><title lang="ru">Тайны Беларуси</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211031231500 +0000" stop="20211031233500 +0000" channel="Belarus24.by"><title lang="ru">Будущее сегодня</title></programme>
+<programme start="20211031231500 +0000" stop="20211031233500 +0000" channel="Belarus24.by"><title lang="ru">Будущее сегодня</title><category lang="ru"></category></programme>
 <programme start="20211031233500 +0000" stop="20211031234000 +0000" channel="Belarus24.by"><title lang="ru">Формы жизни. Лесные истории от Бышневых</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031234000 +0000" stop="20211101000000 +0000" channel="Belarus24.by"><title lang="ru">АРТиШОК</title><category lang="ru">Новости</category></programme>
-<programme start="20211101000000 +0000" stop="20211101003000 +0000" channel="Belarus24.by"><title lang="ru">Святыни Беларуси</title></programme>
+<programme start="20211101000000 +0000" stop="20211101003000 +0000" channel="Belarus24.by"><title lang="ru">Святыни Беларуси</title><category lang="ru"></category></programme>
 <programme start="20211101003000 +0000" stop="20211101011500 +0000" channel="Belarus24.by"><title lang="ru">Три первых свидания</title><category lang="ru">Ток-шоу</category></programme>
 <programme start="20211101011500 +0000" stop="20211101015000 +0000" channel="Belarus24.by"><title lang="ru">Телебарометр</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101015000 +0000" stop="20211101025000 +0000" channel="Belarus24.by"><title lang="ru">Клуб редакторов</title><category lang="ru">Развлекательное</category></programme>
@@ -250,9 +250,9 @@
 <programme start="20211101091000 +0000" stop="20211101094500 +0000" channel="Belarus24.by"><title lang="ru">Дача</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211101094500 +0000" stop="20211101100000 +0000" channel="Belarus24.by"><title lang="ru">Вот это спорт!</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211101100000 +0000" stop="20211101103500 +0000" channel="Belarus24.by"><title lang="ru">Белорусы</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211101103500 +0000" stop="20211101110500 +0000" channel="Belarus24.by"><title lang="ru">Записки на полях</title></programme>
+<programme start="20211101103500 +0000" stop="20211101110500 +0000" channel="Belarus24.by"><title lang="ru">Записки на полях</title><category lang="ru"></category></programme>
 <programme start="20211101110500 +0000" stop="20211101114000 +0000" channel="Belarus24.by"><title lang="ru">Один день</title><category lang="ru">Развлекательное</category></programme>
-<programme start="20211101114000 +0000" stop="20211101120000 +0000" channel="Belarus24.by"><title lang="ru">Будущее сегодня</title></programme>
+<programme start="20211101114000 +0000" stop="20211101120000 +0000" channel="Belarus24.by"><title lang="ru">Будущее сегодня</title><category lang="ru"></category></programme>
 <programme start="20211101120000 +0000" stop="20211101121000 +0000" channel="Belarus24.by"><title lang="ru">Новости</title><category lang="ru">Новости</category></programme>
 <programme start="20211101121000 +0000" stop="20211101122000 +0000" channel="Belarus24.by"><title lang="ru">Новости региона</title><category lang="ru">Новости</category></programme>
 <programme start="20211101122000 +0000" stop="20211101131000 +0000" channel="Belarus24.by"><title lang="ru">На неделю</title><category lang="ru">Досуг,Хобби</category></programme>
@@ -281,31 +281,31 @@
 <programme start="20211102000000 +0000" stop="20211102001000 +0000" channel="Belarus24.by"><title lang="ru">Спорт-микс</title><category lang="ru">Новости</category></programme>
 <programme start="20211102001000 +0000" stop="20211102004500 +0000" channel="Belarus24.by"><title lang="ru">В людях</title><category lang="ru">Развлекательное</category></programme>
 <programme start="20211102004500 +0000" stop="20211102011500 +0000" channel="Belarus24.by"><title lang="ru">&quot;Редакция&quot; с Б.Герстеном</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211102011500 +0000" stop="20211102015000 +0000" channel="Belarus24.by"><title lang="ru">Записки на полях</title></programme>
+<programme start="20211102011500 +0000" stop="20211102015000 +0000" channel="Belarus24.by"><title lang="ru">Записки на полях</title><category lang="ru"></category></programme>
 <programme start="20211102015000 +0000" stop="20211102025000 +0000" channel="Belarus24.by"><title lang="ru">Панорама</title><category lang="ru">Новости</category></programme>
-<programme start="20211031043500 +0000" stop="20211031050000 +0000" channel="Belarus3.by"><title lang="ru">Святынi Беларусi</title></programme>
+<programme start="20211031043500 +0000" stop="20211031050000 +0000" channel="Belarus3.by"><title lang="ru">Святынi Беларусi</title><category lang="ru"></category></programme>
 <programme start="20211031050000 +0000" stop="20211031052000 +0000" channel="Belarus3.by"><title lang="ru">Навіны культуры</title><category lang="ru">Новости</category></programme>
 <programme start="20211031052000 +0000" stop="20211031070000 +0000" channel="Belarus3.by"><title lang="ru">Вялікая сям&apos;я</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031070000 +0000" stop="20211031073000 +0000" channel="Belarus3.by"><title lang="ru">Наперад ў мінулае</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031073000 +0000" stop="20211031075500 +0000" channel="Belarus3.by"><title lang="ru">Беларуская кухня</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031075500 +0000" stop="20211031085000 +0000" channel="Belarus3.by"><title lang="ru">Нацыянальны хіт-парад</title></programme>
+<programme start="20211031075500 +0000" stop="20211031085000 +0000" channel="Belarus3.by"><title lang="ru">Нацыянальны хіт-парад</title><category lang="ru"></category></programme>
 <programme start="20211031085000 +0000" stop="20211031093000 +0000" channel="Belarus3.by"><title lang="ru">Сваімі словамі</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211031093000 +0000" stop="20211031110500 +0000" channel="Belarus3.by"><title lang="ru">Прыходзьце заўтра</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031110500 +0000" stop="20211031113000 +0000" channel="Belarus3.by"><title lang="ru">Навіны культуры</title><category lang="ru">Новости</category></programme>
 <programme start="20211031113000 +0000" stop="20211031131500 +0000" channel="Belarus3.by"><title lang="ru">Цырымонія ўзнагароджання пераможцаў VI Рэспубліканскага конкурсу тэатральнага мастацтва &quot;Нацыянальная тэатральная прэмія&quot;</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031131500 +0000" stop="20211031143500 +0000" channel="Belarus3.by"><title lang="ru">Прывітанне з фронту</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031143500 +0000" stop="20211031152500 +0000" channel="Belarus3.by"><title lang="ru">Кадры жыцця</title></programme>
+<programme start="20211031143500 +0000" stop="20211031152500 +0000" channel="Belarus3.by"><title lang="ru">Кадры жыцця</title><category lang="ru"></category></programme>
 <programme start="20211031152500 +0000" stop="20211031171000 +0000" channel="Belarus3.by"><title lang="ru">Вялікая сям&apos;я</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031171000 +0000" stop="20211031174000 +0000" channel="Belarus3.by"><title lang="ru">Кафедра</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031174000 +0000" stop="20211031180500 +0000" channel="Belarus3.by"><title lang="ru">Калыханка</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031180500 +0000" stop="20211031211100 +0000" channel="Belarus3.by"><title lang="ru">Маскоўскі крымінальны вышук</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031211100 +0000" stop="20211031221100 +0000" channel="Belarus3.by"><title lang="ru">Перапынак у вяшчанні</title></programme>
+<programme start="20211031211100 +0000" stop="20211031221100 +0000" channel="Belarus3.by"><title lang="ru">Перапынак у вяшчанні</title><category lang="ru"></category></programme>
 <programme start="20211031050000 +0000" stop="20211031053000 +0000" channel="Belarus4.by"><title lang="ru">Крупным планом</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031053000 +0000" stop="20211031081500 +0000" channel="Belarus4.by"><title lang="ru">Травма</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031081500 +0000" stop="20211031084500 +0000" channel="Belarus4.by"><title lang="ru">Мультфильмы</title></programme>
+<programme start="20211031081500 +0000" stop="20211031084500 +0000" channel="Belarus4.by"><title lang="ru">Мультфильмы</title><category lang="ru"></category></programme>
 <programme start="20211031084500 +0000" stop="20211031091000 +0000" channel="Belarus4.by"><title lang="ru">Эрудит</title><category lang="ru">Игровое</category></programme>
-<programme start="20211031091000 +0000" stop="20211031095500 +0000" channel="Belarus4.by"><title lang="ru">Классный час</title></programme>
-<programme start="20211031095500 +0000" stop="20211031112000 +0000" channel="Belarus4.by"><title lang="ru">Монстр в Париже</title></programme>
+<programme start="20211031091000 +0000" stop="20211031095500 +0000" channel="Belarus4.by"><title lang="ru">Классный час</title><category lang="ru"></category></programme>
+<programme start="20211031095500 +0000" stop="20211031112000 +0000" channel="Belarus4.by"><title lang="ru">Монстр в Париже</title><category lang="ru"></category></programme>
 <programme start="20211031112000 +0000" stop="20211031130000 +0000" channel="Belarus4.by"><title lang="ru">Любовь в квадрате</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031130000 +0000" stop="20211031133000 +0000" channel="Belarus4.by"><title lang="ru">Новости недели</title><category lang="ru">Новости</category></programme>
 <programme start="20211031133000 +0000" stop="20211031151500 +0000" channel="Belarus4.by"><title lang="ru">Новая Земля</title><category lang="ru">Фильм</category></programme>
@@ -317,14 +317,14 @@
 <programme start="20211031205500 +0000" stop="20211031215500 +0000" channel="Belarus4.by"><title lang="ru">Новости недели</title><category lang="ru">Новости</category></programme>
 <programme start="20211101040000 +0000" stop="20211101043000 +0000" channel="Belarus4.by"><title lang="ru">Новости недели</title><category lang="ru">Новости</category></programme>
 <programme start="20211101043000 +0000" stop="20211101044500 +0000" channel="Belarus4.by"><title lang="ru">Большая стройка</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211101044500 +0000" stop="20211101061000 +0000" channel="Belarus4.by"><title lang="ru">Монстр в Париже</title></programme>
-<programme start="20211101061000 +0000" stop="20211101062500 +0000" channel="Belarus4.by"><title lang="ru">Мультфильм</title></programme>
+<programme start="20211101044500 +0000" stop="20211101061000 +0000" channel="Belarus4.by"><title lang="ru">Монстр в Париже</title><category lang="ru"></category></programme>
+<programme start="20211101061000 +0000" stop="20211101062500 +0000" channel="Belarus4.by"><title lang="ru">Мультфильм</title><category lang="ru"></category></programme>
 <programme start="20211101062500 +0000" stop="20211101082000 +0000" channel="Belarus4.by"><title lang="ru">На трезвую голову</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101082000 +0000" stop="20211101100500 +0000" channel="Belarus4.by"><title lang="ru">Новая Земля</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101100500 +0000" stop="20211101113500 +0000" channel="Belarus4.by"><title lang="ru">Любит не любит</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101113500 +0000" stop="20211101130000 +0000" channel="Belarus4.by"><title lang="ru">Медовый месяц Камиллы</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101130000 +0000" stop="20211101131500 +0000" channel="Belarus4.by"><title lang="ru">Новости</title><category lang="ru">Новости</category></programme>
-<programme start="20211101131500 +0000" stop="20211101140000 +0000" channel="Belarus4.by"><title lang="ru">Классный час</title></programme>
+<programme start="20211101131500 +0000" stop="20211101140000 +0000" channel="Belarus4.by"><title lang="ru">Классный час</title><category lang="ru"></category></programme>
 <programme start="20211101140000 +0000" stop="20211101141000 +0000" channel="Belarus4.by"><title lang="ru">Новости</title><category lang="ru">Новости</category></programme>
 <programme start="20211101141000 +0000" stop="20211101150000 +0000" channel="Belarus4.by"><title lang="ru">Уличные танцы-3: Все звезды</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101150000 +0000" stop="20211101151000 +0000" channel="Belarus4.by"><title lang="ru">Новости</title><category lang="ru">Новости</category></programme>
@@ -336,30 +336,30 @@
 <programme start="20211101172500 +0000" stop="20211101190500 +0000" channel="Belarus4.by"><title lang="ru">В доме</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101190500 +0000" stop="20211101203500 +0000" channel="Belarus4.by"><title lang="ru">Этот неловкий момент</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101203500 +0000" stop="20211101213500 +0000" channel="Belarus4.by"><title lang="ru">Новости</title><category lang="ru">Новости</category></programme>
-<programme start="20211031023000 +0000" stop="20211031043000 +0000" channel="Belarus5.by"><title lang="ru">Фигурное катание. Гран-при. Ванкувер. Женщины. Произвольная программа. Прямая трансляция</title></programme>
-<programme start="20211031043000 +0000" stop="20211031053500 +0000" channel="Belarus5.by"><title lang="ru">Пляжный футбол. Клубный чемпионат мира. Москва. Финал. Локомотив (Россия) - Брага (Португалия)</title></programme>
+<programme start="20211031023000 +0000" stop="20211031043000 +0000" channel="Belarus5.by"><title lang="ru">Фигурное катание. Гран-при. Ванкувер. Женщины. Произвольная программа. Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031043000 +0000" stop="20211031053500 +0000" channel="Belarus5.by"><title lang="ru">Пляжный футбол. Клубный чемпионат мира. Москва. Финал. Локомотив (Россия) - Брага (Португалия)</title><category lang="ru"></category></programme>
 <programme start="20211031053500 +0000" stop="20211031060500 +0000" channel="Belarus5.by"><title lang="ru">Завтрак чемпиона</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031060500 +0000" stop="20211031063500 +0000" channel="Belarus5.by"><title lang="ru">Овертайм</title><category lang="ru">Новости</category></programme>
-<programme start="20211031063500 +0000" stop="20211031081500 +0000" channel="Belarus5.by"><title lang="ru">Фигурное катание. Гран-при. Ванкувер. Танцы на льду. Произвольный танец</title></programme>
-<programme start="20211031081500 +0000" stop="20211031114500 +0000" channel="Belarus5.by"><title lang="ru">Художественная гимнастика. Чемпионат мира. Финалы. Прямая трансляция</title></programme>
-<programme start="20211031114500 +0000" stop="20211031140000 +0000" channel="Belarus5.by"><title lang="ru">Хоккей. Чемпионат Беларуси. Динамо (Молодечно) - Металлург (Жлобин). Прямая трансляция</title></programme>
-<programme start="20211031140000 +0000" stop="20211031162000 +0000" channel="Belarus5.by"><title lang="ru">Хоккей. КХЛ. &quot;Динамо&quot; (Минск)-&quot;Салават Юлаев&quot; (Уфа). Прямая трансляция</title></programme>
-<programme start="20211031162000 +0000" stop="20211031182500 +0000" channel="Belarus5.by"><title lang="ru">Футбол. Чемпионат Англии. 10-й тур. Астон Вилла - Вест Хэм. В перерыве Спорт-центр. Прямая трансляция</title></programme>
-<programme start="20211031182500 +0000" stop="20211031202000 +0000" channel="Belarus5.by"><title lang="ru">Баскетбол. Единая лига ВТБ. Зелена Гура (Польша) - Цмокi-Мiнск (Беларусь)</title></programme>
+<programme start="20211031063500 +0000" stop="20211031081500 +0000" channel="Belarus5.by"><title lang="ru">Фигурное катание. Гран-при. Ванкувер. Танцы на льду. Произвольный танец</title><category lang="ru"></category></programme>
+<programme start="20211031081500 +0000" stop="20211031114500 +0000" channel="Belarus5.by"><title lang="ru">Художественная гимнастика. Чемпионат мира. Финалы. Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031114500 +0000" stop="20211031140000 +0000" channel="Belarus5.by"><title lang="ru">Хоккей. Чемпионат Беларуси. Динамо (Молодечно) - Металлург (Жлобин). Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031140000 +0000" stop="20211031162000 +0000" channel="Belarus5.by"><title lang="ru">Хоккей. КХЛ. &quot;Динамо&quot; (Минск)-&quot;Салават Юлаев&quot; (Уфа). Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031162000 +0000" stop="20211031182500 +0000" channel="Belarus5.by"><title lang="ru">Футбол. Чемпионат Англии. 10-й тур. Астон Вилла - Вест Хэм. В перерыве Спорт-центр. Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031182500 +0000" stop="20211031202000 +0000" channel="Belarus5.by"><title lang="ru">Баскетбол. Единая лига ВТБ. Зелена Гура (Польша) - Цмокi-Мiнск (Беларусь)</title><category lang="ru"></category></programme>
 <programme start="20211031202000 +0000" stop="20211031205500 +0000" channel="Belarus5.by"><title lang="ru">Футбол</title><category lang="ru">Новости</category></programme>
-<programme start="20211031205500 +0000" stop="20211031225900 +0000" channel="Belarus5.by"><title lang="ru">Фигурное катание. Гран-при. Ванкувер. Гала-шоу. Прямая трансляция</title></programme>
-<programme start="20211031225900 +0000" stop="20211031235900 +0000" channel="Belarus5.by"><title lang="ru">Перерыв в вещании</title></programme>
-<programme start="20211101040000 +0000" stop="20211101054500 +0000" channel="Belarus5.by"><title lang="ru">Теннис. WТА. Клуж-Напока. Финал</title></programme>
-<programme start="20211101054500 +0000" stop="20211101073000 +0000" channel="Belarus5.by"><title lang="ru">Теннис. WТА. Курмайер. Финал</title></programme>
-<programme start="20211101073000 +0000" stop="20211101093000 +0000" channel="Belarus5.by"><title lang="ru">Конькобежный спорт. Чемпионат Беларуси</title></programme>
-<programme start="20211101093000 +0000" stop="20211101154000 +0000" channel="Belarus5.by"><title lang="ru">Теннис. Кубок Федерации. Финальный раунд. Бельгия - Беларусь. Прямая трансляция</title></programme>
+<programme start="20211031205500 +0000" stop="20211031225900 +0000" channel="Belarus5.by"><title lang="ru">Фигурное катание. Гран-при. Ванкувер. Гала-шоу. Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031225900 +0000" stop="20211031235900 +0000" channel="Belarus5.by"><title lang="ru">Перерыв в вещании</title><category lang="ru"></category></programme>
+<programme start="20211101040000 +0000" stop="20211101054500 +0000" channel="Belarus5.by"><title lang="ru">Теннис. WТА. Клуж-Напока. Финал</title><category lang="ru"></category></programme>
+<programme start="20211101054500 +0000" stop="20211101073000 +0000" channel="Belarus5.by"><title lang="ru">Теннис. WТА. Курмайер. Финал</title><category lang="ru"></category></programme>
+<programme start="20211101073000 +0000" stop="20211101093000 +0000" channel="Belarus5.by"><title lang="ru">Конькобежный спорт. Чемпионат Беларуси</title><category lang="ru"></category></programme>
+<programme start="20211101093000 +0000" stop="20211101154000 +0000" channel="Belarus5.by"><title lang="ru">Теннис. Кубок Федерации. Финальный раунд. Бельгия - Беларусь. Прямая трансляция</title><category lang="ru"></category></programme>
 <programme start="20211101154000 +0000" stop="20211101155000 +0000" channel="Belarus5.by"><title lang="ru">Спорт-центр</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211101155000 +0000" stop="20211101174500 +0000" channel="Belarus5.by"><title lang="ru">Конькобежный спорт. Чемпионат Беларуси</title></programme>
+<programme start="20211101155000 +0000" stop="20211101174500 +0000" channel="Belarus5.by"><title lang="ru">Конькобежный спорт. Чемпионат Беларуси</title><category lang="ru"></category></programme>
 <programme start="20211101174500 +0000" stop="20211101175500 +0000" channel="Belarus5.by"><title lang="ru">Спорт-центр</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101175500 +0000" stop="20211101185000 +0000" channel="Belarus5.by"><title lang="ru">Футбол. Чемпионат Англии. 10-й тур. Обзор</title><category lang="ru">Новости</category></programme>
-<programme start="20211101185000 +0000" stop="20211101195500 +0000" channel="Belarus5.by"><title lang="ru">Теннис. Кубок Федерации. Финальный раунд. Бельгия - Беларусь</title></programme>
-<programme start="20211101195500 +0000" stop="20211101225400 +0000" channel="Belarus5.by"><title lang="ru">Футбол. Чемпионат Англии. 10-й тур. Вулверхэмптон - Эвертон. В перерыве Спорт-центр. Прямая трансляция</title></programme>
-<programme start="20211101225400 +0000" stop="20211101235400 +0000" channel="Belarus5.by"><title lang="ru">Перерыв в вещании</title></programme>
+<programme start="20211101185000 +0000" stop="20211101195500 +0000" channel="Belarus5.by"><title lang="ru">Теннис. Кубок Федерации. Финальный раунд. Бельгия - Беларусь</title><category lang="ru"></category></programme>
+<programme start="20211101195500 +0000" stop="20211101225400 +0000" channel="Belarus5.by"><title lang="ru">Футбол. Чемпионат Англии. 10-й тур. Вулверхэмптон - Эвертон. В перерыве Спорт-центр. Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211101225400 +0000" stop="20211101235400 +0000" channel="Belarus5.by"><title lang="ru">Перерыв в вещании</title><category lang="ru"></category></programme>
 <programme start="20211031022500 +0000" stop="20211031023000 +0000" channel="BelBiznesChenel.by"><title lang="ru">Главные новости</title><category lang="ru">Новости</category></programme>
 <programme start="20211031023000 +0000" stop="20211031025000 +0000" channel="BelBiznesChenel.by"><title lang="ru">ЧЭЗ</title><category lang="ru">Новости</category></programme>
 <programme start="20211031025000 +0000" stop="20211031025500 +0000" channel="BelBiznesChenel.by"><title lang="ru">Главные новости</title><category lang="ru">Новости</category></programme>
@@ -483,7 +483,7 @@
 <programme start="20211102012000 +0000" stop="20211102012500 +0000" channel="BelBiznesChenel.by"><title lang="ru">Главные новости</title><category lang="ru">Новости</category></programme>
 <programme start="20211102012500 +0000" stop="20211102022500 +0000" channel="BelBiznesChenel.by"><title lang="ru">ЧЭЗ</title><category lang="ru">Новости</category></programme>
 <programme start="20211031020000 +0000" stop="20211031030000 +0000" channel="BelMUZTV.by"><title lang="ru">Еда, я люблю тебя</title><category lang="ru">Ток-шоу</category></programme>
-<programme start="20211031030000 +0000" stop="20211031090000 +0000" channel="BelMUZTV.by"><title lang="ru">Своя волна</title></programme>
+<programme start="20211031030000 +0000" stop="20211031090000 +0000" channel="BelMUZTV.by"><title lang="ru">Своя волна</title><category lang="ru"></category></programme>
 <programme start="20211031090000 +0000" stop="20211031100000 +0000" channel="BelMUZTV.by"><title lang="ru">ДНК-шоу</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211031100000 +0000" stop="20211031110000 +0000" channel="BelMUZTV.by"><title lang="ru">Гастротур</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031110000 +0000" stop="20211031121000 +0000" channel="BelMUZTV.by"><title lang="ru">Кондитер</title><category lang="ru">Ток-шоу</category></programme>
@@ -493,9 +493,9 @@
 <programme start="20211031175000 +0000" stop="20211031200000 +0000" channel="BelMUZTV.by"><title lang="ru">На ножах</title><category lang="ru">Ток-шоу</category></programme>
 <programme start="20211031200000 +0000" stop="20211031203000 +0000" channel="BelMUZTV.by"><title lang="ru">Караоке в большом городе</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031203000 +0000" stop="20211031210000 +0000" channel="BelMUZTV.by"><title lang="ru">Плей-лист</title><category lang="ru">ТВ-шоу</category></programme>
-<programme start="20211031210000 +0000" stop="20211031220000 +0000" channel="BelMUZTV.by"><title lang="ru">Неспиннер</title></programme>
+<programme start="20211031210000 +0000" stop="20211031220000 +0000" channel="BelMUZTV.by"><title lang="ru">Неспиннер</title><category lang="ru"></category></programme>
 <programme start="20211101020000 +0000" stop="20211101030000 +0000" channel="BelMUZTV.by"><title lang="ru">Еда, я люблю тебя</title><category lang="ru">Ток-шоу</category></programme>
-<programme start="20211101030000 +0000" stop="20211101090000 +0000" channel="BelMUZTV.by"><title lang="ru">Своя волна</title></programme>
+<programme start="20211101030000 +0000" stop="20211101090000 +0000" channel="BelMUZTV.by"><title lang="ru">Своя волна</title><category lang="ru"></category></programme>
 <programme start="20211101090000 +0000" stop="20211101100000 +0000" channel="BelMUZTV.by"><title lang="ru">Мир наизнанку. Китай</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101100000 +0000" stop="20211101111000 +0000" channel="BelMUZTV.by"><title lang="ru">Кондитер</title><category lang="ru">Ток-шоу</category></programme>
 <programme start="20211101111000 +0000" stop="20211101121000 +0000" channel="BelMUZTV.by"><title lang="ru">Универ</title><category lang="ru">Сериал</category></programme>
@@ -505,9 +505,9 @@
 <programme start="20211101170000 +0000" stop="20211101180000 +0000" channel="BelMUZTV.by"><title lang="ru">Битва сватов</title><category lang="ru">Ток-шоу</category></programme>
 <programme start="20211101180000 +0000" stop="20211101200000 +0000" channel="BelMUZTV.by"><title lang="ru">Пацанки</title><category lang="ru">Ток-шоу</category></programme>
 <programme start="20211101200000 +0000" stop="20211101211500 +0000" channel="BelMUZTV.by"><title lang="ru">Вундеркинды</title><category lang="ru">Ток-шоу</category></programme>
-<programme start="20211101211500 +0000" stop="20211101221500 +0000" channel="BelMUZTV.by"><title lang="ru">Неспиннер</title></programme>
+<programme start="20211101211500 +0000" stop="20211101221500 +0000" channel="BelMUZTV.by"><title lang="ru">Неспиннер</title><category lang="ru"></category></programme>
 <programme start="20211031022000 +0000" stop="20211031030000 +0000" channel="BelRos.ru"><title lang="ru">Братская кухня</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031030000 +0000" stop="20211031045500 +0000" channel="BelRos.ru"><title lang="ru">Приключения Ам Няма</title></programme>
+<programme start="20211031030000 +0000" stop="20211031045500 +0000" channel="BelRos.ru"><title lang="ru">Приключения Ам Няма</title><category lang="ru"></category></programme>
 <programme start="20211031045500 +0000" stop="20211031060000 +0000" channel="BelRos.ru"><title lang="ru">После ярмарки</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031060000 +0000" stop="20211031071500 +0000" channel="BelRos.ru"><title lang="ru">Полет в страну чудовищ</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031071500 +0000" stop="20211031073000 +0000" channel="BelRos.ru"><title lang="ru">Ru/By</title><category lang="ru">Новости</category></programme>
@@ -534,7 +534,7 @@
 <programme start="20211101014000 +0000" stop="20211101024000 +0000" channel="BelRos.ru"><title lang="ru">Карта Родины</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101022000 +0000" stop="20211101030000 +0000" channel="BelRos.ru"><title lang="ru">Братская кухня</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211101030000 +0000" stop="20211101031500 +0000" channel="BelRos.ru"><title lang="ru">Союзинформ</title><category lang="ru">Новости</category></programme>
-<programme start="20211101031500 +0000" stop="20211101040000 +0000" channel="BelRos.ru"><title lang="ru">Приключения Ам Няма</title></programme>
+<programme start="20211101031500 +0000" stop="20211101040000 +0000" channel="BelRos.ru"><title lang="ru">Приключения Ам Няма</title><category lang="ru"></category></programme>
 <programme start="20211101040000 +0000" stop="20211101043000 +0000" channel="BelRos.ru"><title lang="ru">Карта Родины</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101043000 +0000" stop="20211101044500 +0000" channel="BelRos.ru"><title lang="ru">Ru/By</title><category lang="ru">Новости</category></programme>
 <programme start="20211101044500 +0000" stop="20211101053000 +0000" channel="BelRos.ru"><title lang="ru">Братская кухня</title><category lang="ru">Досуг,Хобби</category></programme>
@@ -550,7 +550,7 @@
 <programme start="20211101110000 +0000" stop="20211101113000 +0000" channel="BelRos.ru"><title lang="ru">Москва-Минск</title><category lang="ru">Новости</category></programme>
 <programme start="20211101113000 +0000" stop="20211101120000 +0000" channel="BelRos.ru"><title lang="ru">Наши люди</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101120000 +0000" stop="20211101121500 +0000" channel="BelRos.ru"><title lang="ru">Союзинформ</title><category lang="ru">Новости</category></programme>
-<programme start="20211101121500 +0000" stop="20211101130000 +0000" channel="BelRos.ru"><title lang="ru">Приключения Ам Няма</title></programme>
+<programme start="20211101121500 +0000" stop="20211101130000 +0000" channel="BelRos.ru"><title lang="ru">Приключения Ам Няма</title><category lang="ru"></category></programme>
 <programme start="20211101130000 +0000" stop="20211101134500 +0000" channel="BelRos.ru"><title lang="ru">След саламандры</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101134500 +0000" stop="20211101150000 +0000" channel="BelRos.ru"><title lang="ru">След саламандры</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101150000 +0000" stop="20211101151000 +0000" channel="BelRos.ru"><title lang="ru">Союзинформ</title><category lang="ru">Новости</category></programme>
@@ -571,61 +571,61 @@
 <programme start="20211102001500 +0000" stop="20211102013000 +0000" channel="BelRos.ru"><title lang="ru">Тесты для настоящих мужчин</title><category lang="ru">Фильм</category></programme>
 <programme start="20211102013000 +0000" stop="20211102023000 +0000" channel="BelRos.ru"><title lang="ru">Москва-Минск</title><category lang="ru">Новости</category></programme>
 <programme start="20211031020000 +0000" stop="20211031030000 +0000" channel="NasheTV.by"><title lang="ru">Для тех, кто не спит</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031030000 +0000" stop="20211031033000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
-<programme start="20211031033000 +0000" stop="20211031041500 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
-<programme start="20211031041500 +0000" stop="20211031044000 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title></programme>
-<programme start="20211031044000 +0000" stop="20211031050500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211031030000 +0000" stop="20211031033000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
+<programme start="20211031033000 +0000" stop="20211031041500 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
+<programme start="20211031041500 +0000" stop="20211031044000 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title><category lang="ru"></category></programme>
+<programme start="20211031044000 +0000" stop="20211031050500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211031050500 +0000" stop="20211031060000 +0000" channel="NasheTV.by"><title lang="ru">Тальянка</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031060000 +0000" stop="20211031070500 +0000" channel="NasheTV.by"><title lang="ru">Майя</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031070500 +0000" stop="20211031084500 +0000" channel="NasheTV.by"><title lang="ru">Волшебный дракон</title></programme>
-<programme start="20211031084500 +0000" stop="20211031090000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
-<programme start="20211031090000 +0000" stop="20211031091000 +0000" channel="NasheTV.by"><title lang="ru">Сказочный патруль</title></programme>
-<programme start="20211031091000 +0000" stop="20211031093500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211031070500 +0000" stop="20211031084500 +0000" channel="NasheTV.by"><title lang="ru">Волшебный дракон</title><category lang="ru"></category></programme>
+<programme start="20211031084500 +0000" stop="20211031090000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
+<programme start="20211031090000 +0000" stop="20211031091000 +0000" channel="NasheTV.by"><title lang="ru">Сказочный патруль</title><category lang="ru"></category></programme>
+<programme start="20211031091000 +0000" stop="20211031093500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211031093500 +0000" stop="20211031120000 +0000" channel="NasheTV.by"><title lang="ru">Эмма</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031120000 +0000" stop="20211031122500 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title></programme>
+<programme start="20211031120000 +0000" stop="20211031122500 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title><category lang="ru"></category></programme>
 <programme start="20211031122500 +0000" stop="20211031132000 +0000" channel="NasheTV.by"><title lang="ru">Тальянка</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031132000 +0000" stop="20211031135000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
-<programme start="20211031135000 +0000" stop="20211031150000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
-<programme start="20211031150000 +0000" stop="20211031155000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
-<programme start="20211031155000 +0000" stop="20211031161500 +0000" channel="NasheTV.by"><title lang="ru">Музыкальная открытка</title></programme>
+<programme start="20211031132000 +0000" stop="20211031135000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
+<programme start="20211031135000 +0000" stop="20211031150000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
+<programme start="20211031150000 +0000" stop="20211031155000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
+<programme start="20211031155000 +0000" stop="20211031161500 +0000" channel="NasheTV.by"><title lang="ru">Музыкальная открытка</title><category lang="ru"></category></programme>
 <programme start="20211031161500 +0000" stop="20211031163000 +0000" channel="NasheTV.by"><title lang="ru">Азбука здоровья</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211031163000 +0000" stop="20211031164000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
+<programme start="20211031163000 +0000" stop="20211031164000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
 <programme start="20211031164000 +0000" stop="20211031174500 +0000" channel="NasheTV.by"><title lang="ru">Мурка</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031174500 +0000" stop="20211031180000 +0000" channel="NasheTV.by"><title lang="ru">Баюшки</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031180000 +0000" stop="20211031182500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211031180000 +0000" stop="20211031182500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211031182500 +0000" stop="20211031203000 +0000" channel="NasheTV.by"><title lang="ru">Призрак в доспехах</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031203000 +0000" stop="20211031213000 +0000" channel="NasheTV.by"><title lang="ru">Научи меня жить</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031213000 +0000" stop="20211031222000 +0000" channel="NasheTV.by"><title lang="ru">Майя</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031222000 +0000" stop="20211031224500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211031222000 +0000" stop="20211031224500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211031224500 +0000" stop="20211101010000 +0000" channel="NasheTV.by"><title lang="ru">Дэдпул 2</title><category lang="ru">Фильм</category></programme>
-<programme start="20211101010000 +0000" stop="20211101020000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
+<programme start="20211101010000 +0000" stop="20211101020000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
 <programme start="20211101020000 +0000" stop="20211101030000 +0000" channel="NasheTV.by"><title lang="ru">Для тех, кто не спит</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211101030000 +0000" stop="20211101034500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101030000 +0000" stop="20211101034500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101034500 +0000" stop="20211101041500 +0000" channel="NasheTV.by"><title lang="ru">Азбука здоровья</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211101041500 +0000" stop="20211101044000 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title></programme>
-<programme start="20211101044000 +0000" stop="20211101050500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101041500 +0000" stop="20211101044000 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title><category lang="ru"></category></programme>
+<programme start="20211101044000 +0000" stop="20211101050500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101050500 +0000" stop="20211101060000 +0000" channel="NasheTV.by"><title lang="ru">Эврика</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101060000 +0000" stop="20211101070500 +0000" channel="NasheTV.by"><title lang="ru">Бывает и хуже</title><category lang="ru">Сериал</category></programme>
-<programme start="20211101070500 +0000" stop="20211101080000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
+<programme start="20211101070500 +0000" stop="20211101080000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
 <programme start="20211101080000 +0000" stop="20211101091000 +0000" channel="NasheTV.by"><title lang="ru">Сверхъестественное</title><category lang="ru">Сериал</category></programme>
-<programme start="20211101091000 +0000" stop="20211101093500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101091000 +0000" stop="20211101093500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101093500 +0000" stop="20211101115000 +0000" channel="NasheTV.by"><title lang="ru">Лев Яшин</title><category lang="ru">Фильм</category></programme>
-<programme start="20211101115000 +0000" stop="20211101121500 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title></programme>
+<programme start="20211101115000 +0000" stop="20211101121500 +0000" channel="NasheTV.by"><title lang="ru">Хранитель Лев</title><category lang="ru"></category></programme>
 <programme start="20211101121500 +0000" stop="20211101132000 +0000" channel="NasheTV.by"><title lang="ru">Эврика</title><category lang="ru">Сериал</category></programme>
-<programme start="20211101132000 +0000" stop="20211101134500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
-<programme start="20211101134500 +0000" stop="20211101150000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
-<programme start="20211101150000 +0000" stop="20211101153000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101132000 +0000" stop="20211101134500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
+<programme start="20211101134500 +0000" stop="20211101150000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
+<programme start="20211101150000 +0000" stop="20211101153000 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101153000 +0000" stop="20211101155000 +0000" channel="NasheTV.by"><title lang="ru">Адвокат советует</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211101155000 +0000" stop="20211101163500 +0000" channel="NasheTV.by"><title lang="ru">Музыкальная открытка</title></programme>
+<programme start="20211101155000 +0000" stop="20211101163500 +0000" channel="NasheTV.by"><title lang="ru">Музыкальная открытка</title><category lang="ru"></category></programme>
 <programme start="20211101163500 +0000" stop="20211101174500 +0000" channel="NasheTV.by"><title lang="ru">Сверхъестественное</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101174500 +0000" stop="20211101180000 +0000" channel="NasheTV.by"><title lang="ru">Баюшки</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211101180000 +0000" stop="20211101182500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101180000 +0000" stop="20211101182500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101182500 +0000" stop="20211101202000 +0000" channel="NasheTV.by"><title lang="ru">Джон Уик</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101202000 +0000" stop="20211101212000 +0000" channel="NasheTV.by"><title lang="ru">Научи меня жить</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101212000 +0000" stop="20211101222000 +0000" channel="NasheTV.by"><title lang="ru">Бывает и хуже</title><category lang="ru">Сериал</category></programme>
-<programme start="20211101222000 +0000" stop="20211101224500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101222000 +0000" stop="20211101224500 +0000" channel="NasheTV.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101224500 +0000" stop="20211102010000 +0000" channel="NasheTV.by"><title lang="ru">Блондинка в законе</title><category lang="ru">Фильм</category></programme>
-<programme start="20211102010000 +0000" stop="20211102020000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title></programme>
+<programme start="20211102010000 +0000" stop="20211102020000 +0000" channel="NasheTV.by"><title lang="ru">Музыка на Нашем</title><category lang="ru"></category></programme>
 <programme start="20211031030500 +0000" stop="20211031031000 +0000" channel="NTVBelarus.by"><title lang="ru">Астропрогноз</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031031000 +0000" stop="20211031034500 +0000" channel="NTVBelarus.by"><title lang="ru">Города Беларуси</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031034500 +0000" stop="20211031042500 +0000" channel="NTVBelarus.by"><title lang="ru">Белорусы</title><category lang="ru">Позновательное</category></programme>
@@ -643,16 +643,16 @@
 <programme start="20211031110500 +0000" stop="20211031120200 +0000" channel="NTVBelarus.by"><title lang="ru">Жизнь после жизни</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031120200 +0000" stop="20211031130000 +0000" channel="NTVBelarus.by"><title lang="ru">Жизнь после жизни</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031130000 +0000" stop="20211031132000 +0000" channel="NTVBelarus.by"><title lang="ru">Сегодня</title><category lang="ru">Новости</category></programme>
-<programme start="20211031132000 +0000" stop="20211031160000 +0000" channel="NTVBelarus.by"><title lang="ru">Следствие вели...</title></programme>
+<programme start="20211031132000 +0000" stop="20211031160000 +0000" channel="NTVBelarus.by"><title lang="ru">Следствие вели...</title><category lang="ru"></category></programme>
 <programme start="20211031160000 +0000" stop="20211031170500 +0000" channel="NTVBelarus.by"><title lang="ru">Итоги недели с Ирадой Зейналовой</title><category lang="ru">Развлекательное</category></programme>
 <programme start="20211031170500 +0000" stop="20211031191000 +0000" channel="NTVBelarus.by"><title lang="ru">Двенадцать часов</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031191000 +0000" stop="20211031201500 +0000" channel="NTVBelarus.by"><title lang="ru">Ты не поверишь!</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211031201500 +0000" stop="20211031212000 +0000" channel="NTVBelarus.by"><title lang="ru">Новые русские сенсации</title><category lang="ru">Развлекательное</category></programme>
-<programme start="20211031212000 +0000" stop="20211031222000 +0000" channel="NTVBelarus.by"><title lang="ru">Перерыв в вещании</title></programme>
+<programme start="20211031212000 +0000" stop="20211031222000 +0000" channel="NTVBelarus.by"><title lang="ru">Перерыв в вещании</title><category lang="ru"></category></programme>
 <programme start="20211101030000 +0000" stop="20211101031000 +0000" channel="NTVBelarus.by"><title lang="ru">Астропрогноз</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211101031000 +0000" stop="20211101040000 +0000" channel="NTVBelarus.by"><title lang="ru">Здоровье</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101040000 +0000" stop="20211101044000 +0000" channel="NTVBelarus.by"><title lang="ru">Маршрут построен</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211101044000 +0000" stop="20211101050000 +0000" channel="NTVBelarus.by"><title lang="ru">Будущее сегодня</title></programme>
+<programme start="20211101044000 +0000" stop="20211101050000 +0000" channel="NTVBelarus.by"><title lang="ru">Будущее сегодня</title><category lang="ru"></category></programme>
 <programme start="20211101050000 +0000" stop="20211101052000 +0000" channel="NTVBelarus.by"><title lang="ru">Сегодня</title><category lang="ru">Новости</category></programme>
 <programme start="20211101052000 +0000" stop="20211101063000 +0000" channel="NTVBelarus.by"><title lang="ru">Прокурорская проверка</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101063000 +0000" stop="20211101070000 +0000" channel="NTVBelarus.by"><title lang="ru">Жизнь после жизни</title><category lang="ru">Фильм</category></programme>
@@ -665,7 +665,7 @@
 <programme start="20211101130000 +0000" stop="20211101131500 +0000" channel="NTVBelarus.by"><title lang="ru">Сегодня</title><category lang="ru">Новости</category></programme>
 <programme start="20211101131500 +0000" stop="20211101132500 +0000" channel="NTVBelarus.by"><title lang="ru">Сегодня</title><category lang="ru">Новости</category></programme>
 <programme start="20211101132500 +0000" stop="20211101135000 +0000" channel="NTVBelarus.by"><title lang="ru">Истории спасения</title><category lang="ru">Позновательное</category></programme>
-<programme start="20211101135000 +0000" stop="20211101145000 +0000" channel="NTVBelarus.by"><title lang="ru">За гранью</title></programme>
+<programme start="20211101135000 +0000" stop="20211101145000 +0000" channel="NTVBelarus.by"><title lang="ru">За гранью</title><category lang="ru"></category></programme>
 <programme start="20211101145000 +0000" stop="20211101160000 +0000" channel="NTVBelarus.by"><title lang="ru">ДНК</title><category lang="ru">Развлекательное</category></programme>
 <programme start="20211101160000 +0000" stop="20211101164000 +0000" channel="NTVBelarus.by"><title lang="ru">Сегодня</title><category lang="ru">Новости</category></programme>
 <programme start="20211101164000 +0000" stop="20211101165500 +0000" channel="NTVBelarus.by"><title lang="ru">Сегодня</title><category lang="ru">Новости</category></programme>
@@ -692,7 +692,7 @@
 <programme start="20211031183500 +0000" stop="20211031195500 +0000" channel="ONT.by"><title lang="ru">Что? Где? Когда?</title><category lang="ru">Игровое</category></programme>
 <programme start="20211031195500 +0000" stop="20211031201500 +0000" channel="ONT.by"><title lang="ru">Спортклуб</title><category lang="ru">Новости</category></programme>
 <programme start="20211031201500 +0000" stop="20211031222000 +0000" channel="ONT.by"><title lang="ru">Убойная сила</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031222000 +0000" stop="20211031232000 +0000" channel="ONT.by"><title lang="ru">Окончание эфира</title></programme>
+<programme start="20211031222000 +0000" stop="20211031232000 +0000" channel="ONT.by"><title lang="ru">Окончание эфира</title><category lang="ru"></category></programme>
 <programme start="20211101030000 +0000" stop="20211101033000 +0000" channel="ONT.by"><title lang="ru">Наше утро</title><category lang="ru">Развлекательное</category></programme>
 <programme start="20211101033000 +0000" stop="20211101040000 +0000" channel="ONT.by"><title lang="ru">Наши новости</title><category lang="ru">Новости</category></programme>
 <programme start="20211101040000 +0000" stop="20211101041000 +0000" channel="ONT.by"><title lang="ru">Наши новости</title><category lang="ru">Новости</category></programme>
@@ -764,7 +764,7 @@
 <programme start="20211031181500 +0000" stop="20211031195000 +0000" channel="STV.by"><title lang="ru">Документальный проект</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031195000 +0000" stop="20211031210500 +0000" channel="STV.by"><title lang="ru">Засекреченные списки</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031210500 +0000" stop="20211031223500 +0000" channel="STV.by"><title lang="ru">Папенькин сынок</title><category lang="ru">Сериал</category></programme>
-<programme start="20211031223500 +0000" stop="20211031233500 +0000" channel="STV.by"><title lang="ru">Секретные территории</title></programme>
+<programme start="20211031223500 +0000" stop="20211031233500 +0000" channel="STV.by"><title lang="ru">Секретные территории</title><category lang="ru"></category></programme>
 <programme start="20211101030000 +0000" stop="20211101033000 +0000" channel="STV.by"><title lang="ru">Утро. Студия хорошего настроения</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211101033000 +0000" stop="20211101034000 +0000" channel="STV.by"><title lang="ru">24 часа</title><category lang="ru">Новости</category></programme>
 <programme start="20211101034000 +0000" stop="20211101043000 +0000" channel="STV.by"><title lang="ru">Утро. Студия хорошего настроения</title><category lang="ru">Досуг,Хобби</category></programme>
@@ -827,8 +827,8 @@
 <programme start="20211031045000 +0000" stop="20211031045200 +0000" channel="SvetloeTV.by"><title lang="ru">Имидж с Бьюти Ксю</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031045200 +0000" stop="20211031045400 +0000" channel="SvetloeTV.by"><title lang="ru">Имидж с Бьюти Ксю</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031045400 +0000" stop="20211031050000 +0000" channel="SvetloeTV.by"><title lang="ru">Имидж с Бьюти Ксю</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031050000 +0000" stop="20211031081000 +0000" channel="SvetloeTV.by"><title lang="ru">Нон-стоп</title></programme>
-<programme start="20211031081000 +0000" stop="20211031083400 +0000" channel="SvetloeTV.by"><title lang="ru">Сайман</title></programme>
+<programme start="20211031050000 +0000" stop="20211031081000 +0000" channel="SvetloeTV.by"><title lang="ru">Нон-стоп</title><category lang="ru"></category></programme>
+<programme start="20211031081000 +0000" stop="20211031083400 +0000" channel="SvetloeTV.by"><title lang="ru">Сайман</title><category lang="ru"></category></programme>
 <programme start="20211031083400 +0000" stop="20211031084400 +0000" channel="SvetloeTV.by"><title lang="ru">Вы станете миллионером, если найдете это животное</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031084400 +0000" stop="20211031090000 +0000" channel="SvetloeTV.by"><title lang="ru">Топ-5 классных английских фраз на каждый день</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031090000 +0000" stop="20211031090500 +0000" channel="SvetloeTV.by"><title lang="ru">Сделай сам</title><category lang="ru">Досуг,Хобби</category></programme>
@@ -855,7 +855,7 @@
 <programme start="20211031103200 +0000" stop="20211031103300 +0000" channel="SvetloeTV.by"><title lang="ru">А знаете ли вы, что?..</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031103300 +0000" stop="20211031104700 +0000" channel="SvetloeTV.by"><title lang="ru">Поделка</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031104700 +0000" stop="20211031110000 +0000" channel="SvetloeTV.by"><title lang="ru">Поделка</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031110000 +0000" stop="20211031141500 +0000" channel="SvetloeTV.by"><title lang="ru">Нон-стоп</title></programme>
+<programme start="20211031110000 +0000" stop="20211031141500 +0000" channel="SvetloeTV.by"><title lang="ru">Нон-стоп</title><category lang="ru"></category></programme>
 <programme start="20211031141500 +0000" stop="20211031143800 +0000" channel="SvetloeTV.by"><title lang="ru">Своим ходом</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031143800 +0000" stop="20211031144800 +0000" channel="SvetloeTV.by"><title lang="ru">Профессор Гуглов</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031144800 +0000" stop="20211031145400 +0000" channel="SvetloeTV.by"><title lang="ru">Изучаем английский</title><category lang="ru">Позновательное</category></programme>
@@ -906,8 +906,8 @@
 <programme start="20211031184800 +0000" stop="20211031185900 +0000" channel="SvetloeTV.by"><title lang="ru">Готовим</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031185900 +0000" stop="20211031192300 +0000" channel="SvetloeTV.by"><title lang="ru">На кухне у Мери</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031192300 +0000" stop="20211031193500 +0000" channel="SvetloeTV.by"><title lang="ru">На кухне у Мери</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031193500 +0000" stop="20211031201000 +0000" channel="SvetloeTV.by"><title lang="ru">Сайман</title></programme>
-<programme start="20211031201000 +0000" stop="20211031203400 +0000" channel="SvetloeTV.by"><title lang="ru">Сайман</title></programme>
+<programme start="20211031193500 +0000" stop="20211031201000 +0000" channel="SvetloeTV.by"><title lang="ru">Сайман</title><category lang="ru"></category></programme>
+<programme start="20211031201000 +0000" stop="20211031203400 +0000" channel="SvetloeTV.by"><title lang="ru">Сайман</title><category lang="ru"></category></programme>
 <programme start="20211031203400 +0000" stop="20211031204400 +0000" channel="SvetloeTV.by"><title lang="ru">Вы станете миллионером, если найдете это животное</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031204400 +0000" stop="20211031210000 +0000" channel="SvetloeTV.by"><title lang="ru">Топ-5 классных английских фраз на каждый день</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211031210000 +0000" stop="20211031210500 +0000" channel="SvetloeTV.by"><title lang="ru">Сделай сам</title><category lang="ru">Досуг,Хобби</category></programme>
@@ -1104,42 +1104,42 @@
 <programme start="20211031050000 +0000" stop="20211031050500 +0000" channel="Varyag.by"><title lang="ru">Вкусное утро</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031050500 +0000" stop="20211031064500 +0000" channel="Varyag.by"><title lang="ru">Русский рейд</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031064500 +0000" stop="20211031083000 +0000" channel="Varyag.by"><title lang="ru">Срочно выйду замуж</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031083000 +0000" stop="20211031083500 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211031083000 +0000" stop="20211031083500 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211031083500 +0000" stop="20211031100000 +0000" channel="Varyag.by"><title lang="ru">Домовой</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031100000 +0000" stop="20211031111500 +0000" channel="Varyag.by"><title lang="ru">Быстрее, чем кролики</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031111500 +0000" stop="20211031130500 +0000" channel="Varyag.by"><title lang="ru">Поцелуй бабочки</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031130500 +0000" stop="20211031134500 +0000" channel="Varyag.by"><title lang="ru">МуZZаряд</title></programme>
-<programme start="20211031134500 +0000" stop="20211031140000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211031130500 +0000" stop="20211031134500 +0000" channel="Varyag.by"><title lang="ru">МуZZаряд</title><category lang="ru"></category></programme>
+<programme start="20211031134500 +0000" stop="20211031140000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211031140000 +0000" stop="20211031154500 +0000" channel="Varyag.by"><title lang="ru">Виновнику торжества</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031154500 +0000" stop="20211031160000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211031154500 +0000" stop="20211031160000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211031160000 +0000" stop="20211031173000 +0000" channel="Varyag.by"><title lang="ru">Виновнику торжества</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031173000 +0000" stop="20211031173500 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
-<programme start="20211031173500 +0000" stop="20211031181000 +0000" channel="Varyag.by"><title lang="ru">МуZZаряд</title></programme>
+<programme start="20211031173000 +0000" stop="20211031173500 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
+<programme start="20211031173500 +0000" stop="20211031181000 +0000" channel="Varyag.by"><title lang="ru">МуZZаряд</title><category lang="ru"></category></programme>
 <programme start="20211031181000 +0000" stop="20211031194500 +0000" channel="Varyag.by"><title lang="ru">Няньки</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031194500 +0000" stop="20211031210000 +0000" channel="Varyag.by"><title lang="ru">Русские цари</title></programme>
-<programme start="20211031210000 +0000" stop="20211031220000 +0000" channel="Varyag.by"><title lang="ru">Окончание эфира</title></programme>
+<programme start="20211031194500 +0000" stop="20211031210000 +0000" channel="Varyag.by"><title lang="ru">Русские цари</title><category lang="ru"></category></programme>
+<programme start="20211031210000 +0000" stop="20211031220000 +0000" channel="Varyag.by"><title lang="ru">Окончание эфира</title><category lang="ru"></category></programme>
 <programme start="20211101050000 +0000" stop="20211101051000 +0000" channel="Varyag.by"><title lang="ru">События</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101051000 +0000" stop="20211101051500 +0000" channel="Varyag.by"><title lang="ru">Вкусное утро</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211101051500 +0000" stop="20211101064500 +0000" channel="Varyag.by"><title lang="ru">О чем говорят мужчины</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101064500 +0000" stop="20211101081500 +0000" channel="Varyag.by"><title lang="ru">О чем говорят мужчины</title><category lang="ru">Фильм</category></programme>
-<programme start="20211101081500 +0000" stop="20211101082000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101081500 +0000" stop="20211101082000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101082000 +0000" stop="20211101101000 +0000" channel="Varyag.by"><title lang="ru">Лев Яшин. Вратарь моей мечты</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101101000 +0000" stop="20211101115500 +0000" channel="Varyag.by"><title lang="ru">Срочно выйду замуж</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101115500 +0000" stop="20211101133500 +0000" channel="Varyag.by"><title lang="ru">Домовой</title><category lang="ru">Фильм</category></programme>
-<programme start="20211101133500 +0000" stop="20211101134000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101133500 +0000" stop="20211101134000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101134000 +0000" stop="20211101155500 +0000" channel="Varyag.by"><title lang="ru">9 рота</title><category lang="ru">Фильм</category></programme>
-<programme start="20211101155500 +0000" stop="20211101160000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
+<programme start="20211101155500 +0000" stop="20211101160000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
 <programme start="20211101160000 +0000" stop="20211101175000 +0000" channel="Varyag.by"><title lang="ru">Виновнику торжества</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211101175000 +0000" stop="20211101180000 +0000" channel="Varyag.by"><title lang="ru">Засынайка</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211101180000 +0000" stop="20211101181000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title></programme>
-<programme start="20211101181000 +0000" stop="20211101190000 +0000" channel="Varyag.by"><title lang="ru">Русские цари</title></programme>
+<programme start="20211101180000 +0000" stop="20211101181000 +0000" channel="Varyag.by"><title lang="ru">Телемаркет</title><category lang="ru"></category></programme>
+<programme start="20211101181000 +0000" stop="20211101190000 +0000" channel="Varyag.by"><title lang="ru">Русские цари</title><category lang="ru"></category></programme>
 <programme start="20211101190000 +0000" stop="20211101210000 +0000" channel="Varyag.by"><title lang="ru">Как я провел этим летом</title><category lang="ru">Фильм</category></programme>
-<programme start="20211101210000 +0000" stop="20211101220000 +0000" channel="Varyag.by"><title lang="ru">Окончание эфира</title></programme>
+<programme start="20211101210000 +0000" stop="20211101220000 +0000" channel="Varyag.by"><title lang="ru">Окончание эфира</title><category lang="ru"></category></programme>
 <programme start="20211031040000 +0000" stop="20211031050000 +0000" channel="Vitebsk.by"><title lang="ru">Утро с &quot;Радио-Витебск&quot;</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211031050000 +0000" stop="20211031060000 +0000" channel="Vitebsk.by"><title lang="ru">Звездные талеры</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031060000 +0000" stop="20211031063000 +0000" channel="Vitebsk.by"><title lang="ru">Тур в деревню</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031063000 +0000" stop="20211031080000 +0000" channel="Vitebsk.by"><title lang="ru">От винта</title></programme>
-<programme start="20211031080000 +0000" stop="20211031083000 +0000" channel="Vitebsk.by"><title lang="ru">День Варенья</title></programme>
+<programme start="20211031063000 +0000" stop="20211031080000 +0000" channel="Vitebsk.by"><title lang="ru">От винта</title><category lang="ru"></category></programme>
+<programme start="20211031080000 +0000" stop="20211031083000 +0000" channel="Vitebsk.by"><title lang="ru">День Варенья</title><category lang="ru"></category></programme>
 <programme start="20211031083000 +0000" stop="20211031090000 +0000" channel="Vitebsk.by"><title lang="ru">Удачи на даче</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031090000 +0000" stop="20211031091500 +0000" channel="Vitebsk.by"><title lang="ru">Тайна пиратских сокровищ</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031091500 +0000" stop="20211031093000 +0000" channel="Vitebsk.by"><title lang="ru">Тайна пиратских сокровищ</title><category lang="ru">Сериал</category></programme>
@@ -1147,16 +1147,16 @@
 <programme start="20211031100000 +0000" stop="20211031103000 +0000" channel="Vitebsk.by"><title lang="ru">Тайна Армана</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031103000 +0000" stop="20211031110000 +0000" channel="Vitebsk.by"><title lang="ru">Тайна Армана</title><category lang="ru">Сериал</category></programme>
 <programme start="20211031110000 +0000" stop="20211031120000 +0000" channel="Vitebsk.by"><title lang="ru">Стоптанные туфельки</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031120000 +0000" stop="20211031134000 +0000" channel="Vitebsk.by"><title lang="ru">От винта 2</title></programme>
+<programme start="20211031120000 +0000" stop="20211031134000 +0000" channel="Vitebsk.by"><title lang="ru">От винта 2</title><category lang="ru"></category></programme>
 <programme start="20211031134000 +0000" stop="20211031141000 +0000" channel="Vitebsk.by"><title lang="ru">Тур в деревню</title><category lang="ru">Досуг,Хобби</category></programme>
-<programme start="20211031141000 +0000" stop="20211031160000 +0000" channel="Vitebsk.by"><title lang="ru">Желаю вам</title></programme>
+<programme start="20211031141000 +0000" stop="20211031160000 +0000" channel="Vitebsk.by"><title lang="ru">Желаю вам</title><category lang="ru"></category></programme>
 <programme start="20211031160000 +0000" stop="20211031170000 +0000" channel="Vitebsk.by"><title lang="ru">7 дзен</title><category lang="ru">Новости</category></programme>
 <programme start="20211031170000 +0000" stop="20211031180000 +0000" channel="Vitebsk.by"><title lang="ru">Вечерний Витебск</title><category lang="ru">Развлекательное</category></programme>
 <programme start="20211031030500 +0000" stop="20211031050500 +0000" channel="VTV.by"><title lang="ru">Утро с юмором</title><category lang="ru">ТВ-шоу</category></programme>
-<programme start="20211031050500 +0000" stop="20211031060000 +0000" channel="VTV.by"><title lang="ru">Зал ожидания</title></programme>
-<programme start="20211031060000 +0000" stop="20211031062500 +0000" channel="VTV.by"><title lang="ru">Развлечеба</title></programme>
-<programme start="20211031062500 +0000" stop="20211031065000 +0000" channel="VTV.by"><title lang="ru">Три кота</title></programme>
-<programme start="20211031065000 +0000" stop="20211031072000 +0000" channel="VTV.by"><title lang="ru">Царевны</title></programme>
+<programme start="20211031050500 +0000" stop="20211031060000 +0000" channel="VTV.by"><title lang="ru">Зал ожидания</title><category lang="ru"></category></programme>
+<programme start="20211031060000 +0000" stop="20211031062500 +0000" channel="VTV.by"><title lang="ru">Развлечеба</title><category lang="ru"></category></programme>
+<programme start="20211031062500 +0000" stop="20211031065000 +0000" channel="VTV.by"><title lang="ru">Три кота</title><category lang="ru"></category></programme>
+<programme start="20211031065000 +0000" stop="20211031072000 +0000" channel="VTV.by"><title lang="ru">Царевны</title><category lang="ru"></category></programme>
 <programme start="20211031072000 +0000" stop="20211031082500 +0000" channel="VTV.by"><title lang="ru">Русские не смеются</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211031082500 +0000" stop="20211031090000 +0000" channel="VTV.by"><title lang="ru">Про100 кухня</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031090000 +0000" stop="20211031095500 +0000" channel="VTV.by"><title lang="ru">Галерея красоты</title><category lang="ru">Ток-шоу</category></programme>
@@ -1171,8 +1171,8 @@
 <programme start="20211031215500 +0000" stop="20211031225000 +0000" channel="VTV.by"><title lang="ru">Рогов в деле</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211031225000 +0000" stop="20211031232000 +0000" channel="VTV.by"><title lang="ru">Про100 кухня</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031232000 +0000" stop="20211101003000 +0000" channel="VTV.by"><title lang="ru">Папины дочки</title><category lang="ru">Сериал</category></programme>
-<programme start="20211101003000 +0000" stop="20211101013000 +0000" channel="VTV.by"><title lang="ru">Даешь молодежь!</title></programme>
-<programme start="20211101021000 +0000" stop="20211101030500 +0000" channel="VTV.by"><title lang="ru">6 кадров</title></programme>
+<programme start="20211101003000 +0000" stop="20211101013000 +0000" channel="VTV.by"><title lang="ru">Даешь молодежь!</title><category lang="ru"></category></programme>
+<programme start="20211101021000 +0000" stop="20211101030500 +0000" channel="VTV.by"><title lang="ru">6 кадров</title><category lang="ru"></category></programme>
 <programme start="20211101030500 +0000" stop="20211101040000 +0000" channel="VTV.by"><title lang="ru">Утро с юмором</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211101040000 +0000" stop="20211101060000 +0000" channel="VTV.by"><title lang="ru">Утро с юмором</title><category lang="ru">ТВ-шоу</category></programme>
 <programme start="20211101060000 +0000" stop="20211101080000 +0000" channel="VTV.by"><title lang="ru">Утро с юмором</title><category lang="ru">ТВ-шоу</category></programme>
@@ -1190,16 +1190,16 @@
 <programme start="20211101221000 +0000" stop="20211101231000 +0000" channel="VTV.by"><title lang="ru">Психологини</title><category lang="ru">Сериал</category></programme>
 <programme start="20211101231000 +0000" stop="20211102000500 +0000" channel="VTV.by"><title lang="ru">Анжелика</title><category lang="ru">Сериал</category></programme>
 <programme start="20211102000500 +0000" stop="20211102014000 +0000" channel="VTV.by"><title lang="ru">Молодежка</title><category lang="ru">Сериал</category></programme>
-<programme start="20211102014000 +0000" stop="20211102024000 +0000" channel="VTV.by"><title lang="ru">6 кадров</title></programme>
+<programme start="20211102014000 +0000" stop="20211102024000 +0000" channel="VTV.by"><title lang="ru">6 кадров</title><category lang="ru"></category></programme>
 <programme start="20211031022000 +0000" stop="20211031040000 +0000" channel="YaSNAeTV.by"><title lang="ru">Форт Росс: В поисках приключений</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031040000 +0000" stop="20211031052500 +0000" channel="YaSNAeTV.by"><title lang="ru">Три богатыря и Наследница престола</title></programme>
+<programme start="20211031040000 +0000" stop="20211031052500 +0000" channel="YaSNAeTV.by"><title lang="ru">Три богатыря и Наследница престола</title><category lang="ru"></category></programme>
 <programme start="20211031052500 +0000" stop="20211031071500 +0000" channel="YaSNAeTV.by"><title lang="ru">В августе 44-го...</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031071500 +0000" stop="20211031093500 +0000" channel="YaSNAeTV.by"><title lang="ru">Коридор бессмертия</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031093500 +0000" stop="20211031113000 +0000" channel="YaSNAeTV.by"><title lang="ru">28 панфиловцев</title><category lang="ru">Фильм</category></programme>
-<programme start="20211031113000 +0000" stop="20211031133000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Беларусбанк - Чемпионат Беларуси. Тур 16. &quot;Минск&quot; - &quot;Шахтер&quot; (Солигорск). Прямая трансляция</title></programme>
-<programme start="20211031133000 +0000" stop="20211031153000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Российская Премьер-Лига. Тур 13. &quot;Арсенал Тула&quot; - &quot;Сочи&quot;. Прямая трансляция</title></programme>
-<programme start="20211031153000 +0000" stop="20211031160000 +0000" channel="YaSNAeTV.by"><title lang="ru">Наследие</title></programme>
-<programme start="20211031160000 +0000" stop="20211031180000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Российская Премьер-Лига. Тур 13. &quot;Химки&quot; - &quot;Урал&quot;. Прямая трансляция</title></programme>
+<programme start="20211031113000 +0000" stop="20211031133000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Беларусбанк - Чемпионат Беларуси. Тур 16. &quot;Минск&quot; - &quot;Шахтер&quot; (Солигорск). Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031133000 +0000" stop="20211031153000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Российская Премьер-Лига. Тур 13. &quot;Арсенал Тула&quot; - &quot;Сочи&quot;. Прямая трансляция</title><category lang="ru"></category></programme>
+<programme start="20211031153000 +0000" stop="20211031160000 +0000" channel="YaSNAeTV.by"><title lang="ru">Наследие</title><category lang="ru"></category></programme>
+<programme start="20211031160000 +0000" stop="20211031180000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Российская Премьер-Лига. Тур 13. &quot;Химки&quot; - &quot;Урал&quot;. Прямая трансляция</title><category lang="ru"></category></programme>
 <programme start="20211031180000 +0000" stop="20211031183000 +0000" channel="YaSNAeTV.by"><title lang="ru">Вот это кино!</title><category lang="ru">Досуг,Хобби</category></programme>
 <programme start="20211031183000 +0000" stop="20211031200500 +0000" channel="YaSNAeTV.by"><title lang="ru">Напарник</title><category lang="ru">Фильм</category></programme>
 <programme start="20211031200500 +0000" stop="20211031214500 +0000" channel="YaSNAeTV.by"><title lang="ru">Околофутбола</title><category lang="ru">Фильм</category></programme>
@@ -1226,8 +1226,8 @@
 <programme start="20211101183000 +0000" stop="20211101190500 +0000" channel="YaSNAeTV.by"><title lang="ru">Ясно о хоккее</title><category lang="ru">Позновательное</category></programme>
 <programme start="20211101190500 +0000" stop="20211101204500 +0000" channel="YaSNAeTV.by"><title lang="ru">Бык</title><category lang="ru">Фильм</category></programme>
 <programme start="20211101204500 +0000" stop="20211101222000 +0000" channel="YaSNAeTV.by"><title lang="ru">После прочтения сжечь</title><category lang="ru">Фильм</category></programme>
-<programme start="20211101222000 +0000" stop="20211102000000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Российская Премьер-Лига. Тур 13-й. &quot;Спартак&quot; (Москва) - &quot;Ростов&quot;</title></programme>
-<programme start="20211102000000 +0000" stop="20211102002500 +0000" channel="YaSNAeTV.by"><title lang="ru">Наследие</title></programme>
+<programme start="20211101222000 +0000" stop="20211102000000 +0000" channel="YaSNAeTV.by"><title lang="ru">Футбол. Российская Премьер-Лига. Тур 13-й. &quot;Спартак&quot; (Москва) - &quot;Ростов&quot;</title><category lang="ru"></category></programme>
+<programme start="20211102000000 +0000" stop="20211102002500 +0000" channel="YaSNAeTV.by"><title lang="ru">Наследие</title><category lang="ru"></category></programme>
 <programme start="20211102002500 +0000" stop="20211102012000 +0000" channel="YaSNAeTV.by"><title lang="ru">Талаш</title><category lang="ru">Сериал</category></programme>
 <programme start="20211102012000 +0000" stop="20211102022000 +0000" channel="YaSNAeTV.by"><title lang="ru">Талаш</title><category lang="ru">Сериал</category></programme>
 </tv>

@@ -5,529 +5,508 @@
 <channel id="MavTV.us"><display-name>MavTV</display-name><icon src="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/TVG_Widget_352/Source/16174/MavTV_92x36.png"/></channel>
 <channel id="OutdoorChannel.us"><display-name>Outdoor Channel</display-name><icon src="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/29867/outdoorchanneltv.png"/></channel>
 <channel id="SkyNewsArabia.uk"><display-name>Sky News Arabia</display-name><icon src="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/41234/SkyNewsArabia_92x36.png"/></channel>
-<programme start="20211104000000 +0000" stop="20211104001500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104001500 +0000" stop="20211104010000 +0000" channel="BBCArabic.uk"><title lang="en">54 Days</title><category lang="en"></category></programme>
-<programme start="20211104010000 +0000" stop="20211104011500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104011500 +0000" stop="20211104020000 +0000" channel="BBCArabic.uk"><title lang="en">10 Best of Architectural Buildings</title><category lang="en"></category></programme>
-<programme start="20211104020000 +0000" stop="20211104021500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104021500 +0000" stop="20211104030000 +0000" channel="BBCArabic.uk"><title lang="en">Transworld Sport</title><category lang="en"></category></programme>
-<programme start="20211104030000 +0000" stop="20211104031500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104031500 +0000" stop="20211104033000 +0000" channel="BBCArabic.uk"><title lang="en">Dunyana</title><category lang="en"></category></programme>
-<programme start="20211104033000 +0000" stop="20211104040000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title><category lang="en"></category></programme>
-<programme start="20211104040000 +0000" stop="20211104041500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104041500 +0000" stop="20211104050000 +0000" channel="BBCArabic.uk"><title lang="en">The Algeria of Kamel Daoud</title><category lang="en"></category></programme>
-<programme start="20211104050000 +0000" stop="20211104053000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104053000 +0000" stop="20211104060000 +0000" channel="BBCArabic.uk"><title lang="en">Hardtalk</title><category lang="en"></category></programme>
-<programme start="20211104060000 +0000" stop="20211104063000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104063000 +0000" stop="20211104070000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title><category lang="en"></category></programme>
-<programme start="20211104070000 +0000" stop="20211104080000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104080000 +0000" stop="20211104081500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104081500 +0000" stop="20211104090000 +0000" channel="BBCArabic.uk"><title lang="en">Egypt Time</title><category lang="en"></category></programme>
-<programme start="20211104090000 +0000" stop="20211104093000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104093000 +0000" stop="20211104100000 +0000" channel="BBCArabic.uk"><title lang="en">A Musical Journey on the Silk Route</title><category lang="en"></category></programme>
-<programme start="20211104100000 +0000" stop="20211104101500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104101500 +0000" stop="20211104110000 +0000" channel="BBCArabic.uk"><title lang="en">Babies: Their Wonderful World</title><category lang="en"></category></programme>
-<programme start="20211104110000 +0000" stop="20211104120000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104120000 +0000" stop="20211104121500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104121500 +0000" stop="20211104123000 +0000" channel="BBCArabic.uk"><title lang="en">Dunyana</title><category lang="en"></category></programme>
-<programme start="20211104123000 +0000" stop="20211104130000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title><category lang="en"></category></programme>
-<programme start="20211104130000 +0000" stop="20211104140000 +0000" channel="BBCArabic.uk"><title lang="en">The World at One</title><category lang="en"></category></programme>
-<programme start="20211104140000 +0000" stop="20211104141500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104141500 +0000" stop="20211104150000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title><category lang="en"></category></programme>
-<programme start="20211104150000 +0000" stop="20211104153000 +0000" channel="BBCArabic.uk"><title lang="en">Trending</title><category lang="en"></category></programme>
-<programme start="20211104153000 +0000" stop="20211104160000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104160000 +0000" stop="20211104161500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104161500 +0000" stop="20211104170000 +0000" channel="BBCArabic.uk"><title lang="en">Transworld Sport</title><category lang="en"></category></programme>
-<programme start="20211104170000 +0000" stop="20211104173000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104173000 +0000" stop="20211104180000 +0000" channel="BBCArabic.uk"><title lang="en">Hardtalk</title><category lang="en"></category></programme>
-<programme start="20211104180000 +0000" stop="20211104190000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title><category lang="en"></category></programme>
-<programme start="20211104190000 +0000" stop="20211104191500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104191500 +0000" stop="20211104200000 +0000" channel="BBCArabic.uk"><title lang="en">Alternative Cinema</title><category lang="en"></category></programme>
-<programme start="20211104200000 +0000" stop="20211104210000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104210000 +0000" stop="20211104211500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104211500 +0000" stop="20211104220000 +0000" channel="BBCArabic.uk"><title lang="en">The Algeria of Kamel Daoud</title><category lang="en"></category></programme>
-<programme start="20211104220000 +0000" stop="20211104221500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211104221500 +0000" stop="20211104230000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title><category lang="en"></category></programme>
-<programme start="20211104230000 +0000" stop="20211105000000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title><category lang="en"></category></programme>
-<programme start="20211105000000 +0000" stop="20211105001500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105001500 +0000" stop="20211105003000 +0000" channel="BBCArabic.uk"><title lang="en">Dunyana</title><category lang="en"></category></programme>
-<programme start="20211105003000 +0000" stop="20211105010000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title><category lang="en"></category></programme>
-<programme start="20211105010000 +0000" stop="20211105011500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105011500 +0000" stop="20211105020000 +0000" channel="BBCArabic.uk"><title lang="en">Egypt Time</title><category lang="en"></category></programme>
-<programme start="20211105020000 +0000" stop="20211105021500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105021500 +0000" stop="20211105030000 +0000" channel="BBCArabic.uk"><title lang="en">Babies: Their Wonderful World</title><category lang="en"></category></programme>
-<programme start="20211105030000 +0000" stop="20211105031500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105031500 +0000" stop="20211105040000 +0000" channel="BBCArabic.uk"><title lang="en">The Algeria of Kamel Daoud</title><category lang="en"></category></programme>
-<programme start="20211105040000 +0000" stop="20211105041500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105041500 +0000" stop="20211105050000 +0000" channel="BBCArabic.uk"><title lang="en">Transworld Sport</title><category lang="en"></category></programme>
-<programme start="20211105050000 +0000" stop="20211105053000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title><category lang="en"></category></programme>
-<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="BBCArabic.uk"><title lang="en">A Musical Journey on the Silk Route</title><category lang="en"></category></programme>
-<programme start="20211105070000 +0000" stop="20211105080000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105080000 +0000" stop="20211105081500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105081500 +0000" stop="20211105083000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title><category lang="en"></category></programme>
-<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="BBCArabic.uk"><title lang="en">Hardtalk</title><category lang="en"></category></programme>
-<programme start="20211105090000 +0000" stop="20211105093000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105093000 +0000" stop="20211105100000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title><category lang="en"></category></programme>
-<programme start="20211105100000 +0000" stop="20211105101500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105101500 +0000" stop="20211105110000 +0000" channel="BBCArabic.uk"><title lang="en">Egypt Time</title><category lang="en"></category></programme>
-<programme start="20211105110000 +0000" stop="20211105120000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105120000 +0000" stop="20211105121500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105121500 +0000" stop="20211105130000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title><category lang="en"></category></programme>
-<programme start="20211105130000 +0000" stop="20211105140000 +0000" channel="BBCArabic.uk"><title lang="en">The World at One</title><category lang="en"></category></programme>
-<programme start="20211105140000 +0000" stop="20211105141500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105141500 +0000" stop="20211105150000 +0000" channel="BBCArabic.uk"><title lang="en">The Algeria of Kamel Daoud</title><category lang="en"></category></programme>
-<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="BBCArabic.uk"><title lang="en">Trending</title><category lang="en"></category></programme>
-<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105160000 +0000" stop="20211105161500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105161500 +0000" stop="20211105170000 +0000" channel="BBCArabic.uk"><title lang="en">Talking Point</title><category lang="en"></category></programme>
-<programme start="20211105170000 +0000" stop="20211105173000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105173000 +0000" stop="20211105180000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title><category lang="en"></category></programme>
-<programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title><category lang="en"></category></programme>
-<programme start="20211105190000 +0000" stop="20211105191500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105191500 +0000" stop="20211105193000 +0000" channel="BBCArabic.uk"><title lang="en">Great Decision</title><category lang="en"></category></programme>
-<programme start="20211105193000 +0000" stop="20211105200000 +0000" channel="BBCArabic.uk"><title lang="en">A Musical Journey on the Silk Route</title><category lang="en"></category></programme>
-<programme start="20211105200000 +0000" stop="20211105210000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105210000 +0000" stop="20211105211500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105211500 +0000" stop="20211105220000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title><category lang="en"></category></programme>
-<programme start="20211105220000 +0000" stop="20211105221500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title><category lang="en"></category></programme>
-<programme start="20211105221500 +0000" stop="20211105230000 +0000" channel="BBCArabic.uk"><title lang="en">Alternative Cinema</title><category lang="en"></category></programme>
-<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title><category lang="en"></category></programme>
-<programme start="20211104000000 +0000" stop="20211104000200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104000200 +0000" stop="20211104003000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211104003000 +0000" stop="20211104010000 +0000" channel="DWEnglish.de"><title lang="en">Conflict Zone: Confronting the Powerful</title><category lang="en"></category></programme>
-<programme start="20211104010000 +0000" stop="20211104011500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104011500 +0000" stop="20211104020000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211104020000 +0000" stop="20211104020200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104020200 +0000" stop="20211104023000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211104023000 +0000" stop="20211104030000 +0000" channel="DWEnglish.de"><title lang="en">Made in Germany</title><category lang="en"></category></programme>
-<programme start="20211104030000 +0000" stop="20211104031500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104031500 +0000" stop="20211104033000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104033000 +0000" stop="20211104040000 +0000" channel="DWEnglish.de"><title lang="en">Conflict Zone: Confronting the Powerful</title><category lang="en"></category></programme>
-<programme start="20211104040000 +0000" stop="20211104041500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104041500 +0000" stop="20211104050000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211104050000 +0000" stop="20211104050200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104050200 +0000" stop="20211104053000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211104053000 +0000" stop="20211104060000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title><category lang="en"></category></programme>
-<programme start="20211104060000 +0000" stop="20211104061500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104061500 +0000" stop="20211104063000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211104063000 +0000" stop="20211104070000 +0000" channel="DWEnglish.de"><title lang="en">Made in Germany</title><category lang="en"></category></programme>
-<programme start="20211104070000 +0000" stop="20211104073000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104073000 +0000" stop="20211104080000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title><category lang="en"></category></programme>
-<programme start="20211104080000 +0000" stop="20211104083000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104083000 +0000" stop="20211104090000 +0000" channel="DWEnglish.de"><title lang="en">Conflict Zone: Confronting the Powerful</title><category lang="en"></category></programme>
-<programme start="20211104090000 +0000" stop="20211104091500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104091500 +0000" stop="20211104100000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211104100000 +0000" stop="20211104103000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104103000 +0000" stop="20211104104500 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211104104500 +0000" stop="20211104110000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104110000 +0000" stop="20211104113000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104113000 +0000" stop="20211104120000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title><category lang="en"></category></programme>
-<programme start="20211104120000 +0000" stop="20211104123000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104123000 +0000" stop="20211104130000 +0000" channel="DWEnglish.de"><title lang="en">Conflict Zone: Confronting the Powerful</title><category lang="en"></category></programme>
-<programme start="20211104130000 +0000" stop="20211104133000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104133000 +0000" stop="20211104134500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104134500 +0000" stop="20211104140000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104140000 +0000" stop="20211104143000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104143000 +0000" stop="20211104144500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104144500 +0000" stop="20211104150000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104150000 +0000" stop="20211104153000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104153000 +0000" stop="20211104160000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title><category lang="en"></category></programme>
-<programme start="20211104160000 +0000" stop="20211104161500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104161500 +0000" stop="20211104163000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211104163000 +0000" stop="20211104164500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104164500 +0000" stop="20211104170000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104170000 +0000" stop="20211104171500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104171500 +0000" stop="20211104173000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211104173000 +0000" stop="20211104174500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104174500 +0000" stop="20211104180000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104180000 +0000" stop="20211104181500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104181500 +0000" stop="20211104190000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211104190000 +0000" stop="20211104193000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104193000 +0000" stop="20211104200000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title><category lang="en"></category></programme>
-<programme start="20211104200000 +0000" stop="20211104203000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104203000 +0000" stop="20211104210000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211104210000 +0000" stop="20211104211500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104211500 +0000" stop="20211104213000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211104213000 +0000" stop="20211104214500 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104214500 +0000" stop="20211104220000 +0000" channel="DWEnglish.de"><title lang="en">Sports Life</title><category lang="en"></category></programme>
-<programme start="20211104220000 +0000" stop="20211104220200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104220200 +0000" stop="20211104223000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211104223000 +0000" stop="20211104224500 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211104224500 +0000" stop="20211104230000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211104230000 +0000" stop="20211104231500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104231500 +0000" stop="20211104233000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211104233000 +0000" stop="20211105003000 +0000" channel="DWEnglish.de"><title lang="en">Conflict Zone: Confronting the Powerful</title><category lang="en"></category></programme>
-<programme start="20211105000000 +0000" stop="20211105000200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105000200 +0000" stop="20211105003000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211105003000 +0000" stop="20211105010000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title><category lang="en"></category></programme>
-<programme start="20211105010000 +0000" stop="20211105011500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105011500 +0000" stop="20211105020000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211105020000 +0000" stop="20211105020200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105020200 +0000" stop="20211105023000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211105023000 +0000" stop="20211105030000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title><category lang="en"></category></programme>
-<programme start="20211105030000 +0000" stop="20211105031500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105031500 +0000" stop="20211105033000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211105033000 +0000" stop="20211105040000 +0000" channel="DWEnglish.de"><title lang="en">Made in Germany</title><category lang="en"></category></programme>
-<programme start="20211105040000 +0000" stop="20211105041500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105041500 +0000" stop="20211105050000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211105050000 +0000" stop="20211105050200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105050200 +0000" stop="20211105053000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title><category lang="en"></category></programme>
-<programme start="20211105060000 +0000" stop="20211105061500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105061500 +0000" stop="20211105063000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title><category lang="en"></category></programme>
-<programme start="20211105070000 +0000" stop="20211105073000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105073000 +0000" stop="20211105080000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title><category lang="en"></category></programme>
-<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="DWEnglish.de"><title lang="en">Global 3000</title><category lang="en"></category></programme>
-<programme start="20211105090000 +0000" stop="20211105091500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105091500 +0000" stop="20211105100000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105103000 +0000" stop="20211105104500 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211105104500 +0000" stop="20211105110000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title><category lang="en"></category></programme>
-<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="DWEnglish.de"><title lang="en">In Good Shape</title><category lang="en"></category></programme>
-<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105133000 +0000" stop="20211105134500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105134500 +0000" stop="20211105140000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105143000 +0000" stop="20211105144500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105144500 +0000" stop="20211105150000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="DWEnglish.de"><title lang="en">Eco India</title><category lang="en"></category></programme>
-<programme start="20211105160000 +0000" stop="20211105161500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105161500 +0000" stop="20211105163000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211105163000 +0000" stop="20211105164500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105164500 +0000" stop="20211105170000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211105170000 +0000" stop="20211105171500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105171500 +0000" stop="20211105173000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211105173000 +0000" stop="20211105174500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105174500 +0000" stop="20211105180000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211105180000 +0000" stop="20211105181500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105181500 +0000" stop="20211105190000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title><category lang="en"></category></programme>
-<programme start="20211105190000 +0000" stop="20211105193000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105193000 +0000" stop="20211105200000 +0000" channel="DWEnglish.de"><title lang="en">Eco@Africa - The Environment Magazine</title><category lang="en"></category></programme>
-<programme start="20211105200000 +0000" stop="20211105203000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105203000 +0000" stop="20211105210000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211105210000 +0000" stop="20211105211500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105211500 +0000" stop="20211105213000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105220000 +0000" stop="20211105220200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105220200 +0000" stop="20211105223000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title><category lang="en"></category></programme>
-<programme start="20211105223000 +0000" stop="20211105224500 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211105224500 +0000" stop="20211105230000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title><category lang="en"></category></programme>
-<programme start="20211105230000 +0000" stop="20211105231500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211105231500 +0000" stop="20211105233000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title><category lang="en"></category></programme>
-<programme start="20211105233000 +0000" stop="20211106003000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title><category lang="en"></category></programme>
-<programme start="20211104000000 +0000" stop="20211104003000 +0000" channel="GodTVUK.uk"><title lang="en">The Open Door Experience</title><category lang="en"></category></programme>
-<programme start="20211104003000 +0000" stop="20211104010000 +0000" channel="GodTVUK.uk"><title lang="en">Dudley Rutherford</title><category lang="en"></category></programme>
-<programme start="20211104010000 +0000" stop="20211104013000 +0000" channel="GodTVUK.uk"><title lang="en">GOD TV Standing Together</title><category lang="en"></category></programme>
-<programme start="20211104013000 +0000" stop="20211104020000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211104020000 +0000" stop="20211104030000 +0000" channel="GodTVUK.uk"><title lang="en">The Prayer Room</title><category lang="en"></category></programme>
-<programme start="20211104030000 +0000" stop="20211104033000 +0000" channel="GodTVUK.uk"><title lang="en">David Jeremiah</title><category lang="en"></category></programme>
-<programme start="20211104033000 +0000" stop="20211104040000 +0000" channel="GodTVUK.uk"><title lang="en">Creflo Dollar</title><category lang="en"></category></programme>
-<programme start="20211104040000 +0000" stop="20211104043000 +0000" channel="GodTVUK.uk"><title lang="en">Believer&apos;s Walk of Faith</title><category lang="en"></category></programme>
-<programme start="20211104043000 +0000" stop="20211104050000 +0000" channel="GodTVUK.uk"><title lang="en">Gospel Truth - Andrew Wommack</title><category lang="en"></category></programme>
-<programme start="20211104050000 +0000" stop="20211104053000 +0000" channel="GodTVUK.uk"><title lang="en">Enjoying Everyday Life</title><category lang="en"></category></programme>
-<programme start="20211104053000 +0000" stop="20211104060000 +0000" channel="GodTVUK.uk"><title lang="en">Joseph Prince</title><category lang="en"></category></programme>
-<programme start="20211104060000 +0000" stop="20211104063000 +0000" channel="GodTVUK.uk"><title lang="en">Grace Grace With Nina and Michelle</title><category lang="en"></category></programme>
-<programme start="20211104063000 +0000" stop="20211104070000 +0000" channel="GodTVUK.uk"><title lang="en">Christ in Prophecy with David R. Reagan</title><category lang="en"></category></programme>
-<programme start="20211104070000 +0000" stop="20211104073000 +0000" channel="GodTVUK.uk"><title lang="en">Jewish Voice - Rabbi Bernis</title><category lang="en"></category></programme>
-<programme start="20211104073000 +0000" stop="20211104080000 +0000" channel="GodTVUK.uk"><title lang="en">Supernatural Life: Patricia King</title><category lang="en"></category></programme>
-<programme start="20211104080000 +0000" stop="20211104083000 +0000" channel="GodTVUK.uk"><title lang="en">Rick Renner</title><category lang="en"></category></programme>
-<programme start="20211104083000 +0000" stop="20211104090000 +0000" channel="GodTVUK.uk"><title lang="en">Know the Cause With Doug Kaufmann</title><category lang="en"></category></programme>
-<programme start="20211104090000 +0000" stop="20211104093000 +0000" channel="GodTVUK.uk"><title lang="en">Hour of Salvation</title><category lang="en"></category></programme>
-<programme start="20211104093000 +0000" stop="20211104093500 +0000" channel="GodTVUK.uk"><title lang="en">Prayer Time</title><category lang="en"></category></programme>
-<programme start="20211104093500 +0000" stop="20211104094000 +0000" channel="GodTVUK.uk"><title lang="en">Ask Me Anything</title><category lang="en"></category></programme>
-<programme start="20211104094000 +0000" stop="20211104094500 +0000" channel="GodTVUK.uk"><title lang="en">It&apos;s All Greek to Me</title><category lang="en"></category></programme>
-<programme start="20211104094500 +0000" stop="20211104095500 +0000" channel="GodTVUK.uk"><title lang="en">Icej - Encounter Israel</title><category lang="en"></category></programme>
-<programme start="20211104095500 +0000" stop="20211104100000 +0000" channel="GodTVUK.uk"><title lang="en">Family Time - Angus Buchan</title><category lang="en"></category></programme>
-<programme start="20211104100000 +0000" stop="20211104103000 +0000" channel="GodTVUK.uk"><title lang="en">Believer&apos;s Voice of Victory</title><category lang="en"></category></programme>
-<programme start="20211104103000 +0000" stop="20211104110000 +0000" channel="GodTVUK.uk"><title lang="en">Days of Glory</title><category lang="en"></category></programme>
-<programme start="20211104110000 +0000" stop="20211104113000 +0000" channel="GodTVUK.uk"><title lang="en">The Open Door Experience</title><category lang="en"></category></programme>
-<programme start="20211104113000 +0000" stop="20211104120000 +0000" channel="GodTVUK.uk"><title lang="en">God TV Worship</title><category lang="en"></category></programme>
-<programme start="20211104120000 +0000" stop="20211104123000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211104123000 +0000" stop="20211104130000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211104130000 +0000" stop="20211104133000 +0000" channel="GodTVUK.uk"><title lang="en">The Cry with Betty King</title><category lang="en"></category></programme>
-<programme start="20211104133000 +0000" stop="20211104140000 +0000" channel="GodTVUK.uk"><title lang="en">CBN Christian World News</title><category lang="en"></category></programme>
-<programme start="20211104140000 +0000" stop="20211104143000 +0000" channel="GodTVUK.uk"><title lang="en">Jewish Voice - Rabbi Bernis</title><category lang="en"></category></programme>
-<programme start="20211104143000 +0000" stop="20211104150000 +0000" channel="GodTVUK.uk"><title lang="en">Prophetic Word</title><category lang="en"></category></programme>
-<programme start="20211104150000 +0000" stop="20211104153000 +0000" channel="GodTVUK.uk"><title lang="en">Full Turn Church</title><category lang="en"></category></programme>
-<programme start="20211104153000 +0000" stop="20211104160000 +0000" channel="GodTVUK.uk"><title lang="en">Creflo Dollar</title><category lang="en"></category></programme>
-<programme start="20211104160000 +0000" stop="20211104163000 +0000" channel="GodTVUK.uk"><title lang="en">CfAN TV</title><category lang="en"></category></programme>
-<programme start="20211104163000 +0000" stop="20211104170000 +0000" channel="GodTVUK.uk"><title lang="en">Gospel Truth - Andrew Wommack</title><category lang="en"></category></programme>
-<programme start="20211104170000 +0000" stop="20211104173000 +0000" channel="GodTVUK.uk"><title lang="en">Enjoying Everyday Life</title><category lang="en"></category></programme>
-<programme start="20211104173000 +0000" stop="20211104180000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211104180000 +0000" stop="20211104183000 +0000" channel="GodTVUK.uk"><title lang="en">Israel: The Prophetic Connection</title><category lang="en"></category></programme>
-<programme start="20211104183000 +0000" stop="20211104190000 +0000" channel="GodTVUK.uk"><title lang="en">Courts Of Heaven</title><category lang="en"></category></programme>
-<programme start="20211104190000 +0000" stop="20211104193000 +0000" channel="GodTVUK.uk"><title lang="en">Equipping The Saints</title><category lang="en"></category></programme>
-<programme start="20211104193000 +0000" stop="20211104210000 +0000" channel="GodTVUK.uk"><title lang="en">Church of His Presence Conference</title><category lang="en"></category></programme>
-<programme start="20211104210000 +0000" stop="20211104213000 +0000" channel="GodTVUK.uk"><title lang="en">CBN Christian World News</title><category lang="en"></category></programme>
-<programme start="20211104213000 +0000" stop="20211104220000 +0000" channel="GodTVUK.uk"><title lang="en">Israel: The Prophetic Connection</title><category lang="en"></category></programme>
-<programme start="20211104220000 +0000" stop="20211104223000 +0000" channel="GodTVUK.uk"><title lang="en">Derek Prince</title><category lang="en"></category></programme>
-<programme start="20211104223000 +0000" stop="20211104230000 +0000" channel="GodTVUK.uk"><title lang="en">Prophetic Word</title><category lang="en"></category></programme>
-<programme start="20211104230000 +0000" stop="20211104233000 +0000" channel="GodTVUK.uk"><title lang="en">Courts Of Heaven</title><category lang="en"></category></programme>
-<programme start="20211104233000 +0000" stop="20211105003000 +0000" channel="GodTVUK.uk"><title lang="en">Equipping The Saints</title><category lang="en"></category></programme>
-<programme start="20211105000000 +0000" stop="20211105013000 +0000" channel="GodTVUK.uk"><title lang="en">Church of His Presence Conference</title><category lang="en"></category></programme>
-<programme start="20211105013000 +0000" stop="20211105020000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211105020000 +0000" stop="20211105030000 +0000" channel="GodTVUK.uk"><title lang="en">The Prayer Room</title><category lang="en"></category></programme>
-<programme start="20211105030000 +0000" stop="20211105033000 +0000" channel="GodTVUK.uk"><title lang="en">David Jeremiah</title><category lang="en"></category></programme>
-<programme start="20211105033000 +0000" stop="20211105040000 +0000" channel="GodTVUK.uk"><title lang="en">Creflo Dollar</title><category lang="en"></category></programme>
-<programme start="20211105040000 +0000" stop="20211105043000 +0000" channel="GodTVUK.uk"><title lang="en">Believer&apos;s Walk of Faith</title><category lang="en"></category></programme>
-<programme start="20211105043000 +0000" stop="20211105050000 +0000" channel="GodTVUK.uk"><title lang="en">Gospel Truth - Andrew Wommack</title><category lang="en"></category></programme>
-<programme start="20211105050000 +0000" stop="20211105053000 +0000" channel="GodTVUK.uk"><title lang="en">Enjoying Everyday Life</title><category lang="en"></category></programme>
-<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="GodTVUK.uk"><title lang="en">Joseph Prince</title><category lang="en"></category></programme>
-<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="GodTVUK.uk"><title lang="en">Desire of All Nations</title><category lang="en"></category></programme>
-<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="GodTVUK.uk"><title lang="en">Oxford Bible Church</title><category lang="en"></category></programme>
-<programme start="20211105070000 +0000" stop="20211105073000 +0000" channel="GodTVUK.uk"><title lang="en">Jewish Voice - Rabbi Bernis</title><category lang="en"></category></programme>
-<programme start="20211105073000 +0000" stop="20211105080000 +0000" channel="GodTVUK.uk"><title lang="en">Prophetic Word</title><category lang="en"></category></programme>
-<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="GodTVUK.uk"><title lang="en">Rick Renner</title><category lang="en"></category></programme>
-<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="GodTVUK.uk"><title lang="en">Know the Cause With Doug Kaufmann</title><category lang="en"></category></programme>
-<programme start="20211105090000 +0000" stop="20211105093000 +0000" channel="GodTVUK.uk"><title lang="en">Hour of Salvation</title><category lang="en"></category></programme>
-<programme start="20211105093000 +0000" stop="20211105093500 +0000" channel="GodTVUK.uk"><title lang="en">Prayer Time</title><category lang="en"></category></programme>
-<programme start="20211105093500 +0000" stop="20211105094000 +0000" channel="GodTVUK.uk"><title lang="en">Ask Me Anything</title><category lang="en"></category></programme>
-<programme start="20211105094000 +0000" stop="20211105094500 +0000" channel="GodTVUK.uk"><title lang="en">It&apos;s All Greek to Me</title><category lang="en"></category></programme>
-<programme start="20211105094500 +0000" stop="20211105095500 +0000" channel="GodTVUK.uk"><title lang="en">Icej - Encounter Israel</title><category lang="en"></category></programme>
-<programme start="20211105095500 +0000" stop="20211105100000 +0000" channel="GodTVUK.uk"><title lang="en">Family Time - Angus Buchan</title><category lang="en"></category></programme>
-<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="GodTVUK.uk"><title lang="en">Believer&apos;s Voice of Victory</title><category lang="en"></category></programme>
-<programme start="20211105103000 +0000" stop="20211105110000 +0000" channel="GodTVUK.uk"><title lang="en">700 Club Interactive</title><category lang="en"></category></programme>
-<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="GodTVUK.uk"><title lang="en">World Impact With Billy Wilson</title><category lang="en"></category></programme>
-<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="GodTVUK.uk"><title lang="en">David Hathaway</title><category lang="en"></category></programme>
-<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="GodTVUK.uk"><title lang="en">GOD TV Content</title><category lang="en"></category></programme>
-<programme start="20211105133000 +0000" stop="20211105140000 +0000" channel="GodTVUK.uk"><title lang="en">Amazing Facts With Doug Batchelor</title><category lang="en"></category></programme>
-<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="GodTVUK.uk"><title lang="en">Pastor Ramiro Pena</title><category lang="en"></category></programme>
-<programme start="20211105143000 +0000" stop="20211105150000 +0000" channel="GodTVUK.uk"><title lang="en">James River TV</title><category lang="en"></category></programme>
-<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="GodTVUK.uk"><title lang="en">Life On Fire</title><category lang="en"></category></programme>
-<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="GodTVUK.uk"><title lang="en">Creflo Dollar</title><category lang="en"></category></programme>
-<programme start="20211105160000 +0000" stop="20211105163000 +0000" channel="GodTVUK.uk"><title lang="en">CfAN TV</title><category lang="en"></category></programme>
-<programme start="20211105163000 +0000" stop="20211105170000 +0000" channel="GodTVUK.uk"><title lang="en">Gospel Truth - Andrew Wommack</title><category lang="en"></category></programme>
-<programme start="20211105170000 +0000" stop="20211105173000 +0000" channel="GodTVUK.uk"><title lang="en">Enjoying Everyday Life</title><category lang="en"></category></programme>
-<programme start="20211105173000 +0000" stop="20211105180000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211105180000 +0000" stop="20211105183000 +0000" channel="GodTVUK.uk"><title lang="en">Parent Compass</title><category lang="en"></category></programme>
-<programme start="20211105183000 +0000" stop="20211105190000 +0000" channel="GodTVUK.uk"><title lang="en">Candid Conversations - Joyce Meyer</title><category lang="en"></category></programme>
-<programme start="20211105190000 +0000" stop="20211105193500 +0000" channel="GodTVUK.uk"><title lang="en">10 Cities Conference</title><category lang="en"></category></programme>
-<programme start="20211105193500 +0000" stop="20211105203000 +0000" channel="GodTVUK.uk"><title lang="en">James River TV</title><category lang="en"></category></programme>
-<programme start="20211105203000 +0000" stop="20211105210000 +0000" channel="GodTVUK.uk"><title lang="en">God TV Worship</title><category lang="en"></category></programme>
-<programme start="20211105210000 +0000" stop="20211105213000 +0000" channel="GodTVUK.uk"><title lang="en">Jerusalem Dateline</title><category lang="en"></category></programme>
-<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title><category lang="en"></category></programme>
-<programme start="20211105220000 +0000" stop="20211105223000 +0000" channel="GodTVUK.uk"><title lang="en">Parent Compass</title><category lang="en"></category></programme>
-<programme start="20211105223000 +0000" stop="20211105230000 +0000" channel="GodTVUK.uk"><title lang="en">Candid Conversations - Joyce Meyer</title><category lang="en"></category></programme>
-<programme start="20211105230000 +0000" stop="20211105233500 +0000" channel="GodTVUK.uk"><title lang="en">10 Cities Conference</title><category lang="en"></category></programme>
-<programme start="20211105233500 +0000" stop="20211106003500 +0000" channel="GodTVUK.uk"><title lang="en">James River TV</title><category lang="en"></category></programme>
-<programme start="20211104000000 +0000" stop="20211104010000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Off-Road Racing Series</title><category lang="en"></category></programme>
-<programme start="20211104010000 +0000" stop="20211104020000 +0000" channel="MavTV.us"><title lang="en">Best in the Desert</title><category lang="en"></category></programme>
-<programme start="20211104020000 +0000" stop="20211104023000 +0000" channel="MavTV.us"><title lang="en">Racer TV</title><category lang="en"></category></programme>
-<programme start="20211104023000 +0000" stop="20211104030000 +0000" channel="MavTV.us"><title lang="en">Racer TV</title><category lang="en"></category></programme>
-<programme start="20211104030000 +0000" stop="20211104040000 +0000" channel="MavTV.us"><title lang="en">The Lifted Life</title><category lang="en"></category></programme>
-<programme start="20211104040000 +0000" stop="20211104050000 +0000" channel="MavTV.us"><title lang="en">British Touring Car Championship</title><category lang="en"></category></programme>
-<programme start="20211104050000 +0000" stop="20211104060000 +0000" channel="MavTV.us"><title lang="en">Auto Racing</title><category lang="en"></category></programme>
-<programme start="20211104060000 +0000" stop="20211104070000 +0000" channel="MavTV.us"><title lang="en">Drag Racing</title><category lang="en"></category></programme>
-<programme start="20211104070000 +0000" stop="20211104080000 +0000" channel="MavTV.us"><title lang="en">New Zealand Jetsprint Championship</title><category lang="en"></category></programme>
-<programme start="20211104080000 +0000" stop="20211104090000 +0000" channel="MavTV.us"><title lang="en">Auto Racing</title><category lang="en"></category></programme>
-<programme start="20211104090000 +0000" stop="20211104100000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Late Model Dirt Series</title><category lang="en"></category></programme>
-<programme start="20211104100000 +0000" stop="20211104110000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Late Model Dirt Series</title><category lang="en"></category></programme>
-<programme start="20211104110000 +0000" stop="20211104120000 +0000" channel="MavTV.us"><title lang="en">Auto Racing</title><category lang="en"></category></programme>
-<programme start="20211104120000 +0000" stop="20211104123000 +0000" channel="MavTV.us"><title lang="en">Stacey David&apos;s Gearz</title><category lang="en"></category></programme>
-<programme start="20211104123000 +0000" stop="20211104130000 +0000" channel="MavTV.us"><title lang="en">The 900 Series</title><category lang="en"></category></programme>
-<programme start="20211104130000 +0000" stop="20211104133000 +0000" channel="MavTV.us"><title lang="en">My Classic Car</title><category lang="en"></category></programme>
-<programme start="20211104133000 +0000" stop="20211104140000 +0000" channel="MavTV.us"><title lang="en">Sam&apos;s Garage</title><category lang="en"></category></programme>
-<programme start="20211104140000 +0000" stop="20211104143000 +0000" channel="MavTV.us"><title lang="en">Sam&apos;s Garage</title><category lang="en"></category></programme>
-<programme start="20211104143000 +0000" stop="20211104150000 +0000" channel="MavTV.us"><title lang="en">Wrench Wars</title><category lang="en"></category></programme>
-<programme start="20211104150000 +0000" stop="20211104153000 +0000" channel="MavTV.us"><title lang="en">Stacey David&apos;s Gearz</title><category lang="en"></category></programme>
-<programme start="20211104153000 +0000" stop="20211104160000 +0000" channel="MavTV.us"><title lang="en">Lokar Car Show</title><category lang="en"></category></programme>
-<programme start="20211104160000 +0000" stop="20211104163000 +0000" channel="MavTV.us"><title lang="en">Dirt Knights</title><category lang="en"></category></programme>
-<programme start="20211104163000 +0000" stop="20211104170000 +0000" channel="MavTV.us"><title lang="en">Dirt Knights</title><category lang="en"></category></programme>
-<programme start="20211104170000 +0000" stop="20211104180000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title><category lang="en"></category></programme>
-<programme start="20211104180000 +0000" stop="20211104190000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title><category lang="en"></category></programme>
-<programme start="20211104190000 +0000" stop="20211104200000 +0000" channel="MavTV.us"><title lang="en">SPEED SPORT</title><category lang="en"></category></programme>
-<programme start="20211104200000 +0000" stop="20211104210000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Late Model Dirt Series</title><category lang="en"></category></programme>
-<programme start="20211104210000 +0000" stop="20211104220000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Late Model Dirt Series</title><category lang="en"></category></programme>
-<programme start="20211104220000 +0000" stop="20211104230000 +0000" channel="MavTV.us"><title lang="en">Auto Racing</title><category lang="en"></category></programme>
-<programme start="20211104230000 +0000" stop="20211105000000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Late Model Dirt Series</title><category lang="en"></category></programme>
-<programme start="20211105000000 +0000" stop="20211105010000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Late Model Dirt Series</title><category lang="en"></category></programme>
-<programme start="20211105010000 +0000" stop="20211105020000 +0000" channel="MavTV.us"><title lang="en">Auto Racing</title><category lang="en"></category></programme>
-<programme start="20211105020000 +0000" stop="20211105030000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title><category lang="en"></category></programme>
-<programme start="20211105030000 +0000" stop="20211105040000 +0000" channel="MavTV.us"><title lang="en">SPEED SPORT</title><category lang="en"></category></programme>
-<programme start="20211105040000 +0000" stop="20211105050000 +0000" channel="MavTV.us"><title lang="en">Motocross</title><category lang="en"></category></programme>
-<programme start="20211105050000 +0000" stop="20211105060000 +0000" channel="MavTV.us"><title lang="en">Motocross</title><category lang="en"></category></programme>
-<programme start="20211105060000 +0000" stop="20211105070000 +0000" channel="MavTV.us"><title lang="en">Drag Racing</title><category lang="en"></category></programme>
-<programme start="20211105070000 +0000" stop="20211105080000 +0000" channel="MavTV.us"><title lang="en">Super Semi Truck Racing</title><category lang="en"></category></programme>
-<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="MavTV.us"><title lang="en">Trackside</title><category lang="en"></category></programme>
-<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="MavTV.us"><title lang="en">Trackside</title><category lang="en"></category></programme>
-<programme start="20211105090000 +0000" stop="20211105100000 +0000" channel="MavTV.us"><title lang="en">Search for the Ultimate Street Car</title><category lang="en"></category></programme>
-<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105103000 +0000" stop="20211105110000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="MavTV.us"><title lang="en">Stacey David&apos;s Gearz</title><category lang="en"></category></programme>
-<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="MavTV.us"><title lang="en">The 900 Series</title><category lang="en"></category></programme>
-<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="MavTV.us"><title lang="en">My Classic Car</title><category lang="en"></category></programme>
-<programme start="20211105133000 +0000" stop="20211105140000 +0000" channel="MavTV.us"><title lang="en">Sam&apos;s Garage</title><category lang="en"></category></programme>
-<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="MavTV.us"><title lang="en">Sam&apos;s Garage</title><category lang="en"></category></programme>
-<programme start="20211105143000 +0000" stop="20211105150000 +0000" channel="MavTV.us"><title lang="en">Wrench Wars</title><category lang="en"></category></programme>
-<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="MavTV.us"><title lang="en">Stacey David&apos;s Gearz</title><category lang="en"></category></programme>
-<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="MavTV.us"><title lang="en">Lokar Car Show</title><category lang="en"></category></programme>
-<programme start="20211105160000 +0000" stop="20211105163000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title><category lang="en"></category></programme>
-<programme start="20211105163000 +0000" stop="20211105170000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title><category lang="en"></category></programme>
-<programme start="20211105170000 +0000" stop="20211105180000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title><category lang="en"></category></programme>
-<programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="MavTV.us"><title lang="en">Motocross</title><category lang="en"></category></programme>
-<programme start="20211105190000 +0000" stop="20211105200000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title><category lang="en"></category></programme>
-<programme start="20211105200000 +0000" stop="20211105210000 +0000" channel="MavTV.us"><title lang="en">Search for the Ultimate Street Car</title><category lang="en"></category></programme>
-<programme start="20211105210000 +0000" stop="20211105213000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105220000 +0000" stop="20211105223000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105223000 +0000" stop="20211105230000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title><category lang="en"></category></programme>
-<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="MavTV.us"><title lang="en">Search for the Ultimate Street Car</title><category lang="en"></category></programme>
-<programme start="20211104000000 +0000" stop="20211104010000 +0000" channel="OutdoorChannel.us"><title lang="en">Shooting USA</title><category lang="en"></category></programme>
-<programme start="20211104010000 +0000" stop="20211104013000 +0000" channel="OutdoorChannel.us"><title lang="en">Backyard Ballistics</title><category lang="en"></category></programme>
-<programme start="20211104013000 +0000" stop="20211104020000 +0000" channel="OutdoorChannel.us"><title lang="en">American Airgunner Challenge</title><category lang="en"></category></programme>
-<programme start="20211104020000 +0000" stop="20211104023000 +0000" channel="OutdoorChannel.us"><title lang="en">Guns &amp; Ammo TV</title><category lang="en"></category></programme>
-<programme start="20211104023000 +0000" stop="20211104030000 +0000" channel="OutdoorChannel.us"><title lang="en">American Rifleman</title><category lang="en"></category></programme>
-<programme start="20211104030000 +0000" stop="20211104040000 +0000" channel="OutdoorChannel.us"><title lang="en">Shooting USA</title><category lang="en"></category></programme>
-<programme start="20211104040000 +0000" stop="20211104043000 +0000" channel="OutdoorChannel.us"><title lang="en">Backyard Ballistics</title><category lang="en"></category></programme>
-<programme start="20211104043000 +0000" stop="20211104050000 +0000" channel="OutdoorChannel.us"><title lang="en">American Airgunner Challenge</title><category lang="en"></category></programme>
-<programme start="20211104050000 +0000" stop="20211104053000 +0000" channel="OutdoorChannel.us"><title lang="en">Guns &amp; Ammo TV</title><category lang="en"></category></programme>
-<programme start="20211104053000 +0000" stop="20211104060000 +0000" channel="OutdoorChannel.us"><title lang="en">American Rifleman</title><category lang="en"></category></programme>
-<programme start="20211104060000 +0000" stop="20211104063000 +0000" channel="OutdoorChannel.us"><title lang="en">Roger Raglin Outdoors</title><category lang="en"></category></programme>
-<programme start="20211104063000 +0000" stop="20211104070000 +0000" channel="OutdoorChannel.us"><title lang="en">Raised Hunting</title><category lang="en"></category></programme>
-<programme start="20211104070000 +0000" stop="20211104073000 +0000" channel="OutdoorChannel.us"><title lang="en">North American Whitetail Television</title><category lang="en"></category></programme>
-<programme start="20211104073000 +0000" stop="20211104080000 +0000" channel="OutdoorChannel.us"><title lang="en">Drop Zone</title><category lang="en"></category></programme>
-<programme start="20211104080000 +0000" stop="20211104083000 +0000" channel="OutdoorChannel.us"><title lang="en">American Archer</title><category lang="en"></category></programme>
-<programme start="20211104083000 +0000" stop="20211104090000 +0000" channel="OutdoorChannel.us"><title lang="en">The Bucks of Tecomate</title><category lang="en"></category></programme>
-<programme start="20211104090000 +0000" stop="20211104093000 +0000" channel="OutdoorChannel.us"><title lang="en">Bowhunter TV</title><category lang="en"></category></programme>
-<programme start="20211104093000 +0000" stop="20211104100000 +0000" channel="OutdoorChannel.us"><title lang="en">The Lindsey Way</title><category lang="en"></category></programme>
-<programme start="20211104100000 +0000" stop="20211104103000 +0000" channel="OutdoorChannel.us"><title lang="en">Ted Nugent Spirit of the Wild</title><category lang="en"></category></programme>
-<programme start="20211104103000 +0000" stop="20211104110000 +0000" channel="OutdoorChannel.us"><title lang="en">Hunt Masters</title><category lang="en"></category></programme>
-<programme start="20211104110000 +0000" stop="20211104113000 +0000" channel="OutdoorChannel.us"><title lang="en">Game Keepers</title><category lang="en"></category></programme>
-<programme start="20211104113000 +0000" stop="20211104120000 +0000" channel="OutdoorChannel.us"><title lang="en">Critical Mass</title><category lang="en"></category></programme>
-<programme start="20211104120000 +0000" stop="20211104123000 +0000" channel="OutdoorChannel.us"><title lang="en">The Fowl Life With Chad Belding</title><category lang="en"></category></programme>
-<programme start="20211104123000 +0000" stop="20211104130000 +0000" channel="OutdoorChannel.us"><title lang="en">Live 2 Hunt With Cody &amp; Kelsy</title><category lang="en"></category></programme>
-<programme start="20211104130000 +0000" stop="20211104133000 +0000" channel="OutdoorChannel.us"><title lang="en">Realtree Outdoors</title><category lang="en"></category></programme>
-<programme start="20211104133000 +0000" stop="20211104140000 +0000" channel="OutdoorChannel.us"><title lang="en">The One</title><category lang="en"></category></programme>
-<programme start="20211104140000 +0000" stop="20211104143000 +0000" channel="OutdoorChannel.us"><title lang="en">Humanimal</title><category lang="en"></category></programme>
-<programme start="20211104143000 +0000" stop="20211104150000 +0000" channel="OutdoorChannel.us"><title lang="en">Jim Shockey&apos;s Shock Therapy</title><category lang="en"></category></programme>
-<programme start="20211104150000 +0000" stop="20211104160000 +0000" channel="OutdoorChannel.us"><title lang="en">Shooting USA</title><category lang="en"></category></programme>
-<programme start="20211104160000 +0000" stop="20211104163000 +0000" channel="OutdoorChannel.us"><title lang="en">Nick&apos;s Wild Ride</title><category lang="en"></category></programme>
-<programme start="20211104163000 +0000" stop="20211104170000 +0000" channel="OutdoorChannel.us"><title lang="en">Addicted to the Outdoors</title><category lang="en"></category></programme>
-<programme start="20211104170000 +0000" stop="20211104173000 +0000" channel="OutdoorChannel.us"><title lang="en">The Choice With Ralph &amp; Vicki</title><category lang="en"></category></programme>
-<programme start="20211104173000 +0000" stop="20211104180000 +0000" channel="OutdoorChannel.us"><title lang="en">Driven With Pat &amp; Nicole</title><category lang="en"></category></programme>
-<programme start="20211104180000 +0000" stop="20211104190000 +0000" channel="OutdoorChannel.us"><title lang="en">Wicked Tuna</title><category lang="en"></category></programme>
-<programme start="20211104190000 +0000" stop="20211104193000 +0000" channel="OutdoorChannel.us"><title lang="en">Bowlife</title><category lang="en"></category></programme>
-<programme start="20211104193000 +0000" stop="20211104200000 +0000" channel="OutdoorChannel.us"><title lang="en">Inside Outdoors TV</title><category lang="en"></category></programme>
-<programme start="20211104200000 +0000" stop="20211104203000 +0000" channel="OutdoorChannel.us"><title lang="en">Whitetail Freaks</title><category lang="en"></category></programme>
-<programme start="20211104203000 +0000" stop="20211104210000 +0000" channel="OutdoorChannel.us"><title lang="en">Headhunters TV</title><category lang="en"></category></programme>
-<programme start="20211104210000 +0000" stop="20211104213000 +0000" channel="OutdoorChannel.us"><title lang="en">Mcmillan</title><category lang="en"></category></programme>
-<programme start="20211104213000 +0000" stop="20211104220000 +0000" channel="OutdoorChannel.us"><title lang="en">Heartland Bowhunter</title><category lang="en"></category></programme>
-<programme start="20211104220000 +0000" stop="20211104223000 +0000" channel="OutdoorChannel.us"><title lang="en">Bow Madness</title><category lang="en"></category></programme>
-<programme start="20211104223000 +0000" stop="20211104230000 +0000" channel="OutdoorChannel.us"><title lang="en">The One</title><category lang="en"></category></programme>
-<programme start="20211104230000 +0000" stop="20211104233000 +0000" channel="OutdoorChannel.us"><title lang="en">Eastmans&apos; Hunting TV</title><category lang="en"></category></programme>
-<programme start="20211104233000 +0000" stop="20211105003000 +0000" channel="OutdoorChannel.us"><title lang="en">Legends of the Fall</title><category lang="en"></category></programme>
-<programme start="20211105000000 +0000" stop="20211105003000 +0000" channel="OutdoorChannel.us"><title lang="en">Beyond the Hunt</title><category lang="en"></category></programme>
-<programme start="20211105003000 +0000" stop="20211105010000 +0000" channel="OutdoorChannel.us"><title lang="en">Bone Collector</title><category lang="en"></category></programme>
-<programme start="20211105010000 +0000" stop="20211105013000 +0000" channel="OutdoorChannel.us"><title lang="en">Game Keepers</title><category lang="en"></category></programme>
-<programme start="20211105013000 +0000" stop="20211105020000 +0000" channel="OutdoorChannel.us"><title lang="en">Wild Boar Fever &quot;the Art of Boar&quot;</title><category lang="en"></category></programme>
-<programme start="20211105020000 +0000" stop="20211105023000 +0000" channel="OutdoorChannel.us"><title lang="en">Bowlife</title><category lang="en"></category></programme>
-<programme start="20211105023000 +0000" stop="20211105030000 +0000" channel="OutdoorChannel.us"><title lang="en">Inside Outdoors TV</title><category lang="en"></category></programme>
-<programme start="20211105030000 +0000" stop="20211105033000 +0000" channel="OutdoorChannel.us"><title lang="en">Whitetail Freaks</title><category lang="en"></category></programme>
-<programme start="20211105033000 +0000" stop="20211105040000 +0000" channel="OutdoorChannel.us"><title lang="en">Headhunters TV</title><category lang="en"></category></programme>
-<programme start="20211105040000 +0000" stop="20211105043000 +0000" channel="OutdoorChannel.us"><title lang="en">Mcmillan</title><category lang="en"></category></programme>
-<programme start="20211105043000 +0000" stop="20211105050000 +0000" channel="OutdoorChannel.us"><title lang="en">Heartland Bowhunter</title><category lang="en"></category></programme>
-<programme start="20211105050000 +0000" stop="20211105053000 +0000" channel="OutdoorChannel.us"><title lang="en">Bow Madness</title><category lang="en"></category></programme>
-<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="OutdoorChannel.us"><title lang="en">Wild Boar Fever &quot;the Art of Boar&quot;</title><category lang="en"></category></programme>
-<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="OutdoorChannel.us"><title lang="en">Buckmasters</title><category lang="en"></category></programme>
-<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="OutdoorChannel.us"><title lang="en">The Jackie Bushman Show</title><category lang="en"></category></programme>
-<programme start="20211105070000 +0000" stop="20211105073000 +0000" channel="OutdoorChannel.us"><title lang="en">Sporting Classics</title><category lang="en"></category></programme>
-<programme start="20211105073000 +0000" stop="20211105080000 +0000" channel="OutdoorChannel.us"><title lang="en">Dirt Trax Television</title><category lang="en"></category></programme>
-<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="OutdoorChannel.us"><title lang="en">Bill Dance Outdoors</title><category lang="en"></category></programme>
-<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="OutdoorChannel.us"><title lang="en">Reel in the Outdoors</title><category lang="en"></category></programme>
-<programme start="20211105090000 +0000" stop="20211105110000 +0000" channel="OutdoorChannel.us"><title lang="en">Major League Fishing</title><category lang="en"></category></programme>
-<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="OutdoorChannel.us"><title lang="en">MLF All Angles</title><category lang="en"></category></programme>
-<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="OutdoorChannel.us"><title lang="en">The Hunt for Monster Bass</title><category lang="en"></category></programme>
-<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="OutdoorChannel.us"><title lang="en">Drury&apos;s Thirteen</title><category lang="en"></category></programme>
-<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="OutdoorChannel.us"><title lang="en">Heartland Bowhunter</title><category lang="en"></category></programme>
-<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="OutdoorChannel.us"><title lang="en">Bone Collector</title><category lang="en"></category></programme>
-<programme start="20211105133000 +0000" stop="20211105140000 +0000" channel="OutdoorChannel.us"><title lang="en">Drop Zone</title><category lang="en"></category></programme>
-<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="OutdoorChannel.us"><title lang="en">Legends of the Fall</title><category lang="en"></category></programme>
-<programme start="20211105143000 +0000" stop="20211105150000 +0000" channel="OutdoorChannel.us"><title lang="en">Crush With Lee &amp; Tiffany</title><category lang="en"></category></programme>
-<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="OutdoorChannel.us"><title lang="en">Mcmillan</title><category lang="en"></category></programme>
-<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="OutdoorChannel.us"><title lang="en">Beyond the Hunt</title><category lang="en"></category></programme>
-<programme start="20211105160000 +0000" stop="20211105163000 +0000" channel="OutdoorChannel.us"><title lang="en">Whitetail Freaks</title><category lang="en"></category></programme>
-<programme start="20211105163000 +0000" stop="20211105170000 +0000" channel="OutdoorChannel.us"><title lang="en">Headhunters TV</title><category lang="en"></category></programme>
-<programme start="20211105170000 +0000" stop="20211105173000 +0000" channel="OutdoorChannel.us"><title lang="en">The Fowl Life With Chad Belding</title><category lang="en"></category></programme>
-<programme start="20211105173000 +0000" stop="20211105180000 +0000" channel="OutdoorChannel.us"><title lang="en">The Flush</title><category lang="en"></category></programme>
-<programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="OutdoorChannel.us"><title lang="en">Wicked Tuna</title><category lang="en"></category></programme>
-<programme start="20211105190000 +0000" stop="20211105200000 +0000" channel="OutdoorChannel.us"><title lang="en">Longmire</title><category lang="en"></category></programme>
-<programme start="20211105200000 +0000" stop="20211105210000 +0000" channel="OutdoorChannel.us"><title lang="en">Kid Rodeo</title><category lang="en"></category></programme>
-<programme start="20211105210000 +0000" stop="20211105230000 +0000" channel="OutdoorChannel.us"><title lang="en">Hell or High Water</title><category lang="en"></category></programme>
-<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="OutdoorChannel.us"><title lang="en">Hell or High Water</title><category lang="en"></category></programme>
-<programme start="20211104000000 +0000" stop="20211104010000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104010000 +0000" stop="20211104020000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title><category lang="en"></category></programme>
-<programme start="20211104020000 +0000" stop="20211104030000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104030000 +0000" stop="20211104040000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title><category lang="en"></category></programme>
-<programme start="20211104040000 +0000" stop="20211104050000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title><category lang="en"></category></programme>
-<programme start="20211104050000 +0000" stop="20211104060000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title><category lang="en"></category></programme>
-<programme start="20211104060000 +0000" stop="20211104063000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104063000 +0000" stop="20211104070000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Mn Washington</title><category lang="en"></category></programme>
-<programme start="20211104070000 +0000" stop="20211104080000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104080000 +0000" stop="20211104083000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104083000 +0000" stop="20211104090000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Minaassat</title><category lang="en"></category></programme>
-<programme start="20211104090000 +0000" stop="20211104100000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Radar</title><category lang="en"></category></programme>
-<programme start="20211104100000 +0000" stop="20211104103000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104103000 +0000" stop="20211104110000 +0000" channel="SkyNewsArabia.uk"><title lang="en">On Stream</title><category lang="en"></category></programme>
-<programme start="20211104110000 +0000" stop="20211104113000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104113000 +0000" stop="20211104120000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Investigative Story</title><category lang="en"></category></programme>
-<programme start="20211104120000 +0000" stop="20211104130000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104130000 +0000" stop="20211104140000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title><category lang="en"></category></programme>
-<programme start="20211104140000 +0000" stop="20211104150000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title><category lang="en"></category></programme>
-<programme start="20211104150000 +0000" stop="20211104160000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title><category lang="en"></category></programme>
-<programme start="20211104160000 +0000" stop="20211104170000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title><category lang="en"></category></programme>
-<programme start="20211104170000 +0000" stop="20211104180000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News / Maghreb</title><category lang="en"></category></programme>
-<programme start="20211104180000 +0000" stop="20211104183000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104183000 +0000" stop="20211104190000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104190000 +0000" stop="20211104193000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Investigative Story</title><category lang="en"></category></programme>
-<programme start="20211104193000 +0000" stop="20211104200000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104200000 +0000" stop="20211104210000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Minaassat</title><category lang="en"></category></programme>
-<programme start="20211104210000 +0000" stop="20211104213000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title><category lang="en"></category></programme>
-<programme start="20211104213000 +0000" stop="20211104220000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title><category lang="en"></category></programme>
-<programme start="20211104220000 +0000" stop="20211104230000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211104230000 +0000" stop="20211105000000 +0000" channel="SkyNewsArabia.uk"><title lang="en">On Stream</title><category lang="en"></category></programme>
-<programme start="20211105000000 +0000" stop="20211105010000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title><category lang="en"></category></programme>
-<programme start="20211105010000 +0000" stop="20211105020000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105020000 +0000" stop="20211105030000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Thursday Morning</title><category lang="en"></category></programme>
-<programme start="20211105030000 +0000" stop="20211105040000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Thursday Morning</title><category lang="en"></category></programme>
-<programme start="20211105040000 +0000" stop="20211105050000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105050000 +0000" stop="20211105060000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title><category lang="en"></category></programme>
-<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title><category lang="en"></category></programme>
-<programme start="20211105070000 +0000" stop="20211105080000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title><category lang="en"></category></programme>
-<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title><category lang="en"></category></programme>
-<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105090000 +0000" stop="20211105100000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Investigative Story</title><category lang="en"></category></programme>
-<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105103000 +0000" stop="20211105110000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Minaassat</title><category lang="en"></category></programme>
-<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Radar</title><category lang="en"></category></programme>
-<programme start="20211105120000 +0000" stop="20211105130000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105130000 +0000" stop="20211105140000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Fikr &amp; Faan</title><category lang="en"></category></programme>
-<programme start="20211105140000 +0000" stop="20211105150000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Hard Talk</title><category lang="en"></category></programme>
-<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105160000 +0000" stop="20211105170000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title><category lang="en"></category></programme>
-<programme start="20211105170000 +0000" stop="20211105180000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title><category lang="en"></category></programme>
-<programme start="20211105180000 +0000" stop="20211105183000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title><category lang="en"></category></programme>
-<programme start="20211105183000 +0000" stop="20211105190000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title><category lang="en"></category></programme>
-<programme start="20211105190000 +0000" stop="20211105193000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News / Maghreb</title><category lang="en"></category></programme>
-<programme start="20211105193000 +0000" stop="20211105200000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105200000 +0000" stop="20211105203000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105203000 +0000" stop="20211105210000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Hard Talk</title><category lang="en"></category></programme>
-<programme start="20211105210000 +0000" stop="20211105213000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title><category lang="en"></category></programme>
-<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Minaassat</title><category lang="en"></category></programme>
-<programme start="20211105220000 +0000" stop="20211105230000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title><category lang="en"></category></programme>
-<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title><category lang="en"></category></programme>
+<programme start="20211105000000 +0000" stop="20211105001500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105001500 +0000" stop="20211105003000 +0000" channel="BBCArabic.uk"><title lang="en">Dunyana</title></programme>
+<programme start="20211105003000 +0000" stop="20211105010000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title></programme>
+<programme start="20211105010000 +0000" stop="20211105011500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105011500 +0000" stop="20211105020000 +0000" channel="BBCArabic.uk"><title lang="en">Egypt Time</title></programme>
+<programme start="20211105020000 +0000" stop="20211105021500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105021500 +0000" stop="20211105030000 +0000" channel="BBCArabic.uk"><title lang="en">Babies: Their Wonderful World</title></programme>
+<programme start="20211105030000 +0000" stop="20211105031500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105031500 +0000" stop="20211105040000 +0000" channel="BBCArabic.uk"><title lang="en">The Algeria of Kamel Daoud</title></programme>
+<programme start="20211105040000 +0000" stop="20211105041500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105041500 +0000" stop="20211105050000 +0000" channel="BBCArabic.uk"><title lang="en">Transworld Sport</title></programme>
+<programme start="20211105050000 +0000" stop="20211105053000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title></programme>
+<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="BBCArabic.uk"><title lang="en">A Musical Journey on the Silk Route</title></programme>
+<programme start="20211105070000 +0000" stop="20211105080000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105080000 +0000" stop="20211105081500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105081500 +0000" stop="20211105083000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title></programme>
+<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="BBCArabic.uk"><title lang="en">Hardtalk</title></programme>
+<programme start="20211105090000 +0000" stop="20211105093000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105093000 +0000" stop="20211105100000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title></programme>
+<programme start="20211105100000 +0000" stop="20211105101500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105101500 +0000" stop="20211105110000 +0000" channel="BBCArabic.uk"><title lang="en">Egypt Time</title></programme>
+<programme start="20211105110000 +0000" stop="20211105120000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105120000 +0000" stop="20211105121500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105121500 +0000" stop="20211105130000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title></programme>
+<programme start="20211105130000 +0000" stop="20211105140000 +0000" channel="BBCArabic.uk"><title lang="en">The World at One</title></programme>
+<programme start="20211105140000 +0000" stop="20211105141500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105141500 +0000" stop="20211105150000 +0000" channel="BBCArabic.uk"><title lang="en">The Algeria of Kamel Daoud</title></programme>
+<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="BBCArabic.uk"><title lang="en">Trending</title></programme>
+<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105160000 +0000" stop="20211105161500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105161500 +0000" stop="20211105170000 +0000" channel="BBCArabic.uk"><title lang="en">Talking Point</title></programme>
+<programme start="20211105170000 +0000" stop="20211105173000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105173000 +0000" stop="20211105180000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title></programme>
+<programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title></programme>
+<programme start="20211105190000 +0000" stop="20211105191500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105191500 +0000" stop="20211105193000 +0000" channel="BBCArabic.uk"><title lang="en">Great Decision</title></programme>
+<programme start="20211105193000 +0000" stop="20211105200000 +0000" channel="BBCArabic.uk"><title lang="en">A Musical Journey on the Silk Route</title></programme>
+<programme start="20211105200000 +0000" stop="20211105210000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105210000 +0000" stop="20211105211500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105211500 +0000" stop="20211105220000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title></programme>
+<programme start="20211105220000 +0000" stop="20211105221500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211105221500 +0000" stop="20211105230000 +0000" channel="BBCArabic.uk"><title lang="en">Alternative Cinema</title></programme>
+<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title></programme>
+<programme start="20211106000000 +0000" stop="20211106001500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106001500 +0000" stop="20211106010000 +0000" channel="BBCArabic.uk"><title lang="en">The Algeria of Kamel Daoud</title></programme>
+<programme start="20211106010000 +0000" stop="20211106011500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106011500 +0000" stop="20211106020000 +0000" channel="BBCArabic.uk"><title lang="en">Talking Point</title></programme>
+<programme start="20211106020000 +0000" stop="20211106021500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106021500 +0000" stop="20211106023000 +0000" channel="BBCArabic.uk"><title lang="en">A Musical Journey on the Silk Route</title></programme>
+<programme start="20211106023000 +0000" stop="20211106030000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title></programme>
+<programme start="20211106030000 +0000" stop="20211106031500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106031500 +0000" stop="20211106040000 +0000" channel="BBCArabic.uk"><title lang="en">10 Best of Architectural Buildings</title></programme>
+<programme start="20211106040000 +0000" stop="20211106041500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106041500 +0000" stop="20211106050000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title></programme>
+<programme start="20211106050000 +0000" stop="20211106053000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106053000 +0000" stop="20211106060000 +0000" channel="BBCArabic.uk"><title lang="en">Trending</title></programme>
+<programme start="20211106060000 +0000" stop="20211106063000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106063000 +0000" stop="20211106070000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title></programme>
+<programme start="20211106070000 +0000" stop="20211106080000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106080000 +0000" stop="20211106081500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106081500 +0000" stop="20211106090000 +0000" channel="BBCArabic.uk"><title lang="en">Talking Point</title></programme>
+<programme start="20211106090000 +0000" stop="20211106093000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106093000 +0000" stop="20211106100000 +0000" channel="BBCArabic.uk"><title lang="en">Hardtalk</title></programme>
+<programme start="20211106100000 +0000" stop="20211106101500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106101500 +0000" stop="20211106110000 +0000" channel="BBCArabic.uk"><title lang="en">9/11: The Lost Tapes</title></programme>
+<programme start="20211106110000 +0000" stop="20211106120000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106120000 +0000" stop="20211106121500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106121500 +0000" stop="20211106130000 +0000" channel="BBCArabic.uk"><title lang="en">Transworld Sport</title></programme>
+<programme start="20211106130000 +0000" stop="20211106140000 +0000" channel="BBCArabic.uk"><title lang="en">The World at One</title></programme>
+<programme start="20211106140000 +0000" stop="20211106141500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106141500 +0000" stop="20211106143000 +0000" channel="BBCArabic.uk"><title lang="en">Great Decision</title></programme>
+<programme start="20211106143000 +0000" stop="20211106150000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title></programme>
+<programme start="20211106150000 +0000" stop="20211106153000 +0000" channel="BBCArabic.uk"><title lang="en">Trending</title></programme>
+<programme start="20211106153000 +0000" stop="20211106160000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106160000 +0000" stop="20211106161500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106161500 +0000" stop="20211106170000 +0000" channel="BBCArabic.uk"><title lang="en">The Brain</title></programme>
+<programme start="20211106170000 +0000" stop="20211106173000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106173000 +0000" stop="20211106180000 +0000" channel="BBCArabic.uk"><title lang="en">BBC Xtra</title></programme>
+<programme start="20211106180000 +0000" stop="20211106190000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title></programme>
+<programme start="20211106190000 +0000" stop="20211106191500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106191500 +0000" stop="20211106200000 +0000" channel="BBCArabic.uk"><title lang="en">The Objector</title></programme>
+<programme start="20211106200000 +0000" stop="20211106210000 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106210000 +0000" stop="20211106211500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106211500 +0000" stop="20211106213000 +0000" channel="BBCArabic.uk"><title lang="en">BBC Xtra</title></programme>
+<programme start="20211106213000 +0000" stop="20211106220000 +0000" channel="BBCArabic.uk"><title lang="en">A Musical Journey on the Silk Route</title></programme>
+<programme start="20211106220000 +0000" stop="20211106221500 +0000" channel="BBCArabic.uk"><title lang="en">BBC News</title></programme>
+<programme start="20211106221500 +0000" stop="20211106223000 +0000" channel="BBCArabic.uk"><title lang="en">Submerged Universe</title></programme>
+<programme start="20211106223000 +0000" stop="20211106230000 +0000" channel="BBCArabic.uk"><title lang="en">4 Tech</title></programme>
+<programme start="20211106230000 +0000" stop="20211107000000 +0000" channel="BBCArabic.uk"><title lang="en">Newsnight</title></programme>
+<programme start="20211105000000 +0000" stop="20211105000200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105000200 +0000" stop="20211105003000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title></programme>
+<programme start="20211105003000 +0000" stop="20211105010000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title></programme>
+<programme start="20211105010000 +0000" stop="20211105011500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105011500 +0000" stop="20211105020000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211105020000 +0000" stop="20211105020200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105020200 +0000" stop="20211105023000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title></programme>
+<programme start="20211105023000 +0000" stop="20211105030000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title></programme>
+<programme start="20211105030000 +0000" stop="20211105031500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105031500 +0000" stop="20211105033000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211105033000 +0000" stop="20211105040000 +0000" channel="DWEnglish.de"><title lang="en">Made in Germany</title></programme>
+<programme start="20211105040000 +0000" stop="20211105041500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105041500 +0000" stop="20211105050000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211105050000 +0000" stop="20211105050200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105050200 +0000" stop="20211105053000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title></programme>
+<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title></programme>
+<programme start="20211105060000 +0000" stop="20211105061500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105061500 +0000" stop="20211105063000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="DWEnglish.de"><title lang="en">Focus on Europe</title></programme>
+<programme start="20211105070000 +0000" stop="20211105073000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105073000 +0000" stop="20211105080000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title></programme>
+<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="DWEnglish.de"><title lang="en">Global 3000</title></programme>
+<programme start="20211105090000 +0000" stop="20211105091500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105091500 +0000" stop="20211105100000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105103000 +0000" stop="20211105104500 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211105104500 +0000" stop="20211105110000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title></programme>
+<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="DWEnglish.de"><title lang="en">In Good Shape</title></programme>
+<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105133000 +0000" stop="20211105134500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105134500 +0000" stop="20211105140000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105143000 +0000" stop="20211105144500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105144500 +0000" stop="20211105150000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="DWEnglish.de"><title lang="en">Eco India</title></programme>
+<programme start="20211105160000 +0000" stop="20211105161500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105161500 +0000" stop="20211105163000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211105163000 +0000" stop="20211105164500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105164500 +0000" stop="20211105170000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211105170000 +0000" stop="20211105171500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105171500 +0000" stop="20211105173000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211105173000 +0000" stop="20211105174500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105174500 +0000" stop="20211105180000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211105180000 +0000" stop="20211105181500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105181500 +0000" stop="20211105190000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211105190000 +0000" stop="20211105193000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105193000 +0000" stop="20211105200000 +0000" channel="DWEnglish.de"><title lang="en">Eco@Africa - The Environment Magazine</title></programme>
+<programme start="20211105200000 +0000" stop="20211105203000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105203000 +0000" stop="20211105210000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title></programme>
+<programme start="20211105210000 +0000" stop="20211105211500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105211500 +0000" stop="20211105213000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105220000 +0000" stop="20211105220200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105220200 +0000" stop="20211105223000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title></programme>
+<programme start="20211105223000 +0000" stop="20211105224500 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211105224500 +0000" stop="20211105230000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211105230000 +0000" stop="20211105231500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211105231500 +0000" stop="20211105233000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211105233000 +0000" stop="20211106003000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106000000 +0000" stop="20211106000200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106000200 +0000" stop="20211106003000 +0000" channel="DWEnglish.de"><title lang="en">The Day: News in Review</title></programme>
+<programme start="20211106003000 +0000" stop="20211106010000 +0000" channel="DWEnglish.de"><title lang="en">REV: The Global Auto and Mobility Show</title></programme>
+<programme start="20211106010000 +0000" stop="20211106011500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106011500 +0000" stop="20211106013000 +0000" channel="DWEnglish.de"><title lang="en">Business News</title></programme>
+<programme start="20211106013000 +0000" stop="20211106020000 +0000" channel="DWEnglish.de"><title lang="en">To The Point</title></programme>
+<programme start="20211106020000 +0000" stop="20211106020200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106020200 +0000" stop="20211106021500 +0000" channel="DWEnglish.de"><title lang="en">Shift: Living in the Digital Age</title></programme>
+<programme start="20211106021500 +0000" stop="20211106030000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211106030000 +0000" stop="20211106031500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106031500 +0000" stop="20211106033000 +0000" channel="DWEnglish.de"><title lang="en">Covid-19 Special</title></programme>
+<programme start="20211106033000 +0000" stop="20211106040000 +0000" channel="DWEnglish.de"><title lang="en">Tomorrow Today</title></programme>
+<programme start="20211106040000 +0000" stop="20211106041500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106041500 +0000" stop="20211106043000 +0000" channel="DWEnglish.de"><title lang="en">World Stories – The Week in Reports</title></programme>
+<programme start="20211106043000 +0000" stop="20211106050000 +0000" channel="DWEnglish.de"><title lang="en">Euromaxx</title></programme>
+<programme start="20211106050000 +0000" stop="20211106050200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106050200 +0000" stop="20211106053000 +0000" channel="DWEnglish.de"><title lang="en">Arts.21</title></programme>
+<programme start="20211106053000 +0000" stop="20211106060000 +0000" channel="DWEnglish.de"><title lang="en">The 77 Percent</title></programme>
+<programme start="20211106060000 +0000" stop="20211106061500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106061500 +0000" stop="20211106063000 +0000" channel="DWEnglish.de"><title lang="en">Shift: Living in the Digital Age</title></programme>
+<programme start="20211106063000 +0000" stop="20211106070000 +0000" channel="DWEnglish.de"><title lang="en">REV: The Global Auto and Mobility Show</title></programme>
+<programme start="20211106070000 +0000" stop="20211106071500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106071500 +0000" stop="20211106073000 +0000" channel="DWEnglish.de"><title lang="en">Sports Life</title></programme>
+<programme start="20211106073000 +0000" stop="20211106080000 +0000" channel="DWEnglish.de"><title lang="en">Check-in – The Travel Guide</title></programme>
+<programme start="20211106080000 +0000" stop="20211106081500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106081500 +0000" stop="20211106090000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211106090000 +0000" stop="20211106091500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106091500 +0000" stop="20211106093000 +0000" channel="DWEnglish.de"><title lang="en">Sports Life</title></programme>
+<programme start="20211106093000 +0000" stop="20211106100000 +0000" channel="DWEnglish.de"><title lang="en">In Good Shape</title></programme>
+<programme start="20211106100000 +0000" stop="20211106101500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106101500 +0000" stop="20211106103000 +0000" channel="DWEnglish.de"><title lang="en">Shift: Living in the Digital Age</title></programme>
+<programme start="20211106103000 +0000" stop="20211106110000 +0000" channel="DWEnglish.de"><title lang="en">Check-in – The Travel Guide</title></programme>
+<programme start="20211106110000 +0000" stop="20211106111500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106111500 +0000" stop="20211106113000 +0000" channel="DWEnglish.de"><title lang="en">Reporter - On Location</title></programme>
+<programme start="20211106113000 +0000" stop="20211106120000 +0000" channel="DWEnglish.de"><title lang="en">Arts.21</title></programme>
+<programme start="20211106120000 +0000" stop="20211106121500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106121500 +0000" stop="20211106130000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211106130000 +0000" stop="20211106131500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106131500 +0000" stop="20211106133000 +0000" channel="DWEnglish.de"><title lang="en">World Stories – The Week in Reports</title></programme>
+<programme start="20211106133000 +0000" stop="20211106140000 +0000" channel="DWEnglish.de"><title lang="en">Destination Culture</title></programme>
+<programme start="20211106140000 +0000" stop="20211106141500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106141500 +0000" stop="20211106143000 +0000" channel="DWEnglish.de"><title lang="en">Reporter - On Location</title></programme>
+<programme start="20211106143000 +0000" stop="20211106150000 +0000" channel="DWEnglish.de"><title lang="en">The 77 Percent</title></programme>
+<programme start="20211106150000 +0000" stop="20211106151500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106151500 +0000" stop="20211106160000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211106160000 +0000" stop="20211106161500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106161500 +0000" stop="20211106163000 +0000" channel="DWEnglish.de"><title lang="en">Sports Life</title></programme>
+<programme start="20211106163000 +0000" stop="20211106170000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106170000 +0000" stop="20211106171500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106171500 +0000" stop="20211106173000 +0000" channel="DWEnglish.de"><title lang="en">Shift: Living in the Digital Age</title></programme>
+<programme start="20211106173000 +0000" stop="20211106180000 +0000" channel="DWEnglish.de"><title lang="en">The 77 Percent</title></programme>
+<programme start="20211106180000 +0000" stop="20211106181500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106181500 +0000" stop="20211106183000 +0000" channel="DWEnglish.de"><title lang="en">Reporter - On Location</title></programme>
+<programme start="20211106183000 +0000" stop="20211106190000 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106190000 +0000" stop="20211106191500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106191500 +0000" stop="20211106200000 +0000" channel="DWEnglish.de"><title lang="en">Documentaries and Reports</title></programme>
+<programme start="20211106200000 +0000" stop="20211106201500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106201500 +0000" stop="20211106203000 +0000" channel="DWEnglish.de"><title lang="en">World Stories – The Week in Reports</title></programme>
+<programme start="20211106203000 +0000" stop="20211106210000 +0000" channel="DWEnglish.de"><title lang="en">Destination Culture</title></programme>
+<programme start="20211106210000 +0000" stop="20211106211500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106211500 +0000" stop="20211106213000 +0000" channel="DWEnglish.de"><title lang="en">Shift: Living in the Digital Age</title></programme>
+<programme start="20211106213000 +0000" stop="20211106220000 +0000" channel="DWEnglish.de"><title lang="en">Conflict Zone: Confronting the Powerful</title></programme>
+<programme start="20211106220000 +0000" stop="20211106220200 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106220200 +0000" stop="20211106223000 +0000" channel="DWEnglish.de"><title lang="en">Faith Matters</title></programme>
+<programme start="20211106223000 +0000" stop="20211106230000 +0000" channel="DWEnglish.de"><title lang="en">Eco@Africa - The Environment Magazine</title></programme>
+<programme start="20211106230000 +0000" stop="20211106231500 +0000" channel="DWEnglish.de"><title lang="en">DW News</title></programme>
+<programme start="20211106231500 +0000" stop="20211106233000 +0000" channel="DWEnglish.de"><title lang="en">Sports Life</title></programme>
+<programme start="20211106233000 +0000" stop="20211107003000 +0000" channel="DWEnglish.de"><title lang="en">Check-in – The Travel Guide</title></programme>
+<programme start="20211105000000 +0000" stop="20211105013000 +0000" channel="GodTVUK.uk"><title lang="en">Church of His Presence Conference</title></programme>
+<programme start="20211105013000 +0000" stop="20211105020000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title></programme>
+<programme start="20211105020000 +0000" stop="20211105030000 +0000" channel="GodTVUK.uk"><title lang="en">The Prayer Room</title></programme>
+<programme start="20211105030000 +0000" stop="20211105033000 +0000" channel="GodTVUK.uk"><title lang="en">David Jeremiah</title></programme>
+<programme start="20211105033000 +0000" stop="20211105040000 +0000" channel="GodTVUK.uk"><title lang="en">Creflo Dollar</title></programme>
+<programme start="20211105040000 +0000" stop="20211105043000 +0000" channel="GodTVUK.uk"><title lang="en">Believer&apos;s Walk of Faith</title></programme>
+<programme start="20211105043000 +0000" stop="20211105050000 +0000" channel="GodTVUK.uk"><title lang="en">Gospel Truth - Andrew Wommack</title></programme>
+<programme start="20211105050000 +0000" stop="20211105053000 +0000" channel="GodTVUK.uk"><title lang="en">Enjoying Everyday Life</title></programme>
+<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="GodTVUK.uk"><title lang="en">Joseph Prince</title></programme>
+<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="GodTVUK.uk"><title lang="en">Desire of All Nations</title></programme>
+<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="GodTVUK.uk"><title lang="en">Oxford Bible Church</title></programme>
+<programme start="20211105070000 +0000" stop="20211105073000 +0000" channel="GodTVUK.uk"><title lang="en">Jewish Voice - Rabbi Bernis</title></programme>
+<programme start="20211105073000 +0000" stop="20211105080000 +0000" channel="GodTVUK.uk"><title lang="en">Prophetic Word</title></programme>
+<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="GodTVUK.uk"><title lang="en">Rick Renner</title></programme>
+<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="GodTVUK.uk"><title lang="en">Know the Cause With Doug Kaufmann</title></programme>
+<programme start="20211105090000 +0000" stop="20211105093000 +0000" channel="GodTVUK.uk"><title lang="en">Hour of Salvation</title></programme>
+<programme start="20211105093000 +0000" stop="20211105093500 +0000" channel="GodTVUK.uk"><title lang="en">Prayer Time</title></programme>
+<programme start="20211105093500 +0000" stop="20211105094000 +0000" channel="GodTVUK.uk"><title lang="en">Ask Me Anything</title></programme>
+<programme start="20211105094000 +0000" stop="20211105094500 +0000" channel="GodTVUK.uk"><title lang="en">It&apos;s All Greek to Me</title></programme>
+<programme start="20211105094500 +0000" stop="20211105095500 +0000" channel="GodTVUK.uk"><title lang="en">Icej - Encounter Israel</title></programme>
+<programme start="20211105095500 +0000" stop="20211105100000 +0000" channel="GodTVUK.uk"><title lang="en">Family Time - Angus Buchan</title></programme>
+<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="GodTVUK.uk"><title lang="en">Believer&apos;s Voice of Victory</title></programme>
+<programme start="20211105103000 +0000" stop="20211105110000 +0000" channel="GodTVUK.uk"><title lang="en">700 Club Interactive</title></programme>
+<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="GodTVUK.uk"><title lang="en">World Impact With Billy Wilson</title></programme>
+<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="GodTVUK.uk"><title lang="en">David Hathaway</title></programme>
+<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title></programme>
+<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title></programme>
+<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="GodTVUK.uk"><title lang="en">GOD TV Content</title></programme>
+<programme start="20211105133000 +0000" stop="20211105140000 +0000" channel="GodTVUK.uk"><title lang="en">Amazing Facts With Doug Batchelor</title></programme>
+<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="GodTVUK.uk"><title lang="en">Pastor Ramiro Pena</title></programme>
+<programme start="20211105143000 +0000" stop="20211105150000 +0000" channel="GodTVUK.uk"><title lang="en">James River TV</title></programme>
+<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="GodTVUK.uk"><title lang="en">Life On Fire</title></programme>
+<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="GodTVUK.uk"><title lang="en">Creflo Dollar</title></programme>
+<programme start="20211105160000 +0000" stop="20211105163000 +0000" channel="GodTVUK.uk"><title lang="en">CfAN TV</title></programme>
+<programme start="20211105163000 +0000" stop="20211105170000 +0000" channel="GodTVUK.uk"><title lang="en">Gospel Truth - Andrew Wommack</title></programme>
+<programme start="20211105170000 +0000" stop="20211105173000 +0000" channel="GodTVUK.uk"><title lang="en">Enjoying Everyday Life</title></programme>
+<programme start="20211105173000 +0000" stop="20211105180000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title></programme>
+<programme start="20211105180000 +0000" stop="20211105183000 +0000" channel="GodTVUK.uk"><title lang="en">Parent Compass</title></programme>
+<programme start="20211105183000 +0000" stop="20211105190000 +0000" channel="GodTVUK.uk"><title lang="en">Candid Conversations - Joyce Meyer</title></programme>
+<programme start="20211105190000 +0000" stop="20211105193500 +0000" channel="GodTVUK.uk"><title lang="en">10 Cities Conference</title></programme>
+<programme start="20211105193500 +0000" stop="20211105203000 +0000" channel="GodTVUK.uk"><title lang="en">James River TV</title></programme>
+<programme start="20211105203000 +0000" stop="20211105210000 +0000" channel="GodTVUK.uk"><title lang="en">God TV Worship</title></programme>
+<programme start="20211105210000 +0000" stop="20211105213000 +0000" channel="GodTVUK.uk"><title lang="en">Jerusalem Dateline</title></programme>
+<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title></programme>
+<programme start="20211105220000 +0000" stop="20211105223000 +0000" channel="GodTVUK.uk"><title lang="en">Parent Compass</title></programme>
+<programme start="20211105223000 +0000" stop="20211105230000 +0000" channel="GodTVUK.uk"><title lang="en">Candid Conversations - Joyce Meyer</title></programme>
+<programme start="20211105230000 +0000" stop="20211105233500 +0000" channel="GodTVUK.uk"><title lang="en">10 Cities Conference</title></programme>
+<programme start="20211105233500 +0000" stop="20211106003500 +0000" channel="GodTVUK.uk"><title lang="en">James River TV</title></programme>
+<programme start="20211106003000 +0000" stop="20211106010000 +0000" channel="GodTVUK.uk"><title lang="en">God TV Worship</title></programme>
+<programme start="20211106010000 +0000" stop="20211106013000 +0000" channel="GodTVUK.uk"><title lang="en">Jerusalem Dateline</title></programme>
+<programme start="20211106013000 +0000" stop="20211106020000 +0000" channel="GodTVUK.uk"><title lang="en">Amazing Facts With Doug Batchelor</title></programme>
+<programme start="20211106020000 +0000" stop="20211106023000 +0000" channel="GodTVUK.uk"><title lang="en">John Hagee Ministries</title></programme>
+<programme start="20211106023000 +0000" stop="20211106033000 +0000" channel="GodTVUK.uk"><title lang="en">The Prayer Room</title></programme>
+<programme start="20211106033000 +0000" stop="20211106050000 +0000" channel="GodTVUK.uk"><title lang="en">Church of His Presence Conference</title></programme>
+<programme start="20211106050000 +0000" stop="20211106053000 +0000" channel="GodTVUK.uk"><title lang="en">Walking By Faith</title></programme>
+<programme start="20211106053000 +0000" stop="20211106060000 +0000" channel="GodTVUK.uk"><title lang="en">Amazing Facts With Doug Batchelor</title></programme>
+<programme start="20211106060000 +0000" stop="20211106063000 +0000" channel="GodTVUK.uk"><title lang="en">Message Trust - Eden The Walk</title></programme>
+<programme start="20211106063000 +0000" stop="20211106070000 +0000" channel="GodTVUK.uk"><title lang="en">Parent Compass</title></programme>
+<programme start="20211106070000 +0000" stop="20211106073000 +0000" channel="GodTVUK.uk"><title lang="en">The Cry with Betty King</title></programme>
+<programme start="20211106073000 +0000" stop="20211106080000 +0000" channel="GodTVUK.uk"><title lang="en">Courts Of Heaven</title></programme>
+<programme start="20211106080000 +0000" stop="20211106083000 +0000" channel="GodTVUK.uk"><title lang="en">The Jewish Jesus With Rabbi Kirt Schneider</title></programme>
+<programme start="20211106083000 +0000" stop="20211106093000 +0000" channel="GodTVUK.uk"><title lang="en">The Revival Train - Angus Buchan</title></programme>
+<programme start="20211106093000 +0000" stop="20211106100000 +0000" channel="GodTVUK.uk"><title lang="en">Candid Conversations - Joyce Meyer</title></programme>
+<programme start="20211106100000 +0000" stop="20211106103000 +0000" channel="GodTVUK.uk"><title lang="en">God School All Access</title></programme>
+<programme start="20211106103000 +0000" stop="20211106113000 +0000" channel="GodTVUK.uk"><title lang="en">ORU Chapel</title></programme>
+<programme start="20211106113000 +0000" stop="20211106120000 +0000" channel="GodTVUK.uk"><title lang="en">Desire of All Nations</title></programme>
+<programme start="20211106120000 +0000" stop="20211106123000 +0000" channel="GodTVUK.uk"><title lang="en">Israel: The Prophetic Connection</title></programme>
+<programme start="20211106123000 +0000" stop="20211106130000 +0000" channel="GodTVUK.uk"><title lang="en">Equipping The Saints</title></programme>
+<programme start="20211106130000 +0000" stop="20211106133000 +0000" channel="GodTVUK.uk"><title lang="en">Michael Youssef</title></programme>
+<programme start="20211106133000 +0000" stop="20211106140000 +0000" channel="GodTVUK.uk"><title lang="en">God&apos;s Path to Propserity</title></programme>
+<programme start="20211106140000 +0000" stop="20211106143000 +0000" channel="GodTVUK.uk"><title lang="en">Life On Fire</title></programme>
+<programme start="20211106143000 +0000" stop="20211106150000 +0000" channel="GodTVUK.uk"><title lang="en">Jewish Voice - Rabbi Bernis</title></programme>
+<programme start="20211106150000 +0000" stop="20211106153000 +0000" channel="GodTVUK.uk"><title lang="en">A Life You Love with Renee Evans</title></programme>
+<programme start="20211106153000 +0000" stop="20211106163000 +0000" channel="GodTVUK.uk"><title lang="en">John Kilpatrick</title></programme>
+<programme start="20211106163000 +0000" stop="20211106170000 +0000" channel="GodTVUK.uk"><title lang="en">GOD TV Content</title></programme>
+<programme start="20211106170000 +0000" stop="20211106190000 +0000" channel="GodTVUK.uk"><title lang="en">Heart of David - Presence</title></programme>
+<programme start="20211106190000 +0000" stop="20211106200000 +0000" channel="GodTVUK.uk"><title lang="en">Abba Sessions</title></programme>
+<programme start="20211106200000 +0000" stop="20211106203000 +0000" channel="GodTVUK.uk"><title lang="en">GOD TV Standing Together</title></programme>
+<programme start="20211106203000 +0000" stop="20211106210000 +0000" channel="GodTVUK.uk"><title lang="en">God School All Access</title></programme>
+<programme start="20211106210000 +0000" stop="20211106213000 +0000" channel="GodTVUK.uk"><title lang="en">A Life You Love with Renee Evans</title></programme>
+<programme start="20211106213000 +0000" stop="20211106230000 +0000" channel="GodTVUK.uk"><title lang="en">GOD TV Content</title></programme>
+<programme start="20211106230000 +0000" stop="20211107000000 +0000" channel="GodTVUK.uk"><title lang="en">Heart of David - Presence</title></programme>
+<programme start="20211105000000 +0000" stop="20211105010000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Late Model Dirt Series</title></programme>
+<programme start="20211105010000 +0000" stop="20211105020000 +0000" channel="MavTV.us"><title lang="en">Auto Racing</title></programme>
+<programme start="20211105020000 +0000" stop="20211105030000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title></programme>
+<programme start="20211105030000 +0000" stop="20211105040000 +0000" channel="MavTV.us"><title lang="en">SPEED SPORT</title></programme>
+<programme start="20211105040000 +0000" stop="20211105050000 +0000" channel="MavTV.us"><title lang="en">Motocross</title></programme>
+<programme start="20211105050000 +0000" stop="20211105060000 +0000" channel="MavTV.us"><title lang="en">Motocross</title></programme>
+<programme start="20211105060000 +0000" stop="20211105070000 +0000" channel="MavTV.us"><title lang="en">Drag Racing</title></programme>
+<programme start="20211105070000 +0000" stop="20211105080000 +0000" channel="MavTV.us"><title lang="en">Super Semi Truck Racing</title></programme>
+<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="MavTV.us"><title lang="en">Trackside</title></programme>
+<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="MavTV.us"><title lang="en">Trackside</title></programme>
+<programme start="20211105090000 +0000" stop="20211105100000 +0000" channel="MavTV.us"><title lang="en">Search for the Ultimate Street Car</title></programme>
+<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105103000 +0000" stop="20211105110000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="MavTV.us"><title lang="en">Stacey David&apos;s Gearz</title></programme>
+<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="MavTV.us"><title lang="en">The 900 Series</title></programme>
+<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="MavTV.us"><title lang="en">My Classic Car</title></programme>
+<programme start="20211105133000 +0000" stop="20211105140000 +0000" channel="MavTV.us"><title lang="en">Sam&apos;s Garage</title></programme>
+<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="MavTV.us"><title lang="en">Sam&apos;s Garage</title></programme>
+<programme start="20211105143000 +0000" stop="20211105150000 +0000" channel="MavTV.us"><title lang="en">Wrench Wars</title></programme>
+<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="MavTV.us"><title lang="en">Stacey David&apos;s Gearz</title></programme>
+<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="MavTV.us"><title lang="en">Lokar Car Show</title></programme>
+<programme start="20211105160000 +0000" stop="20211105163000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title></programme>
+<programme start="20211105163000 +0000" stop="20211105170000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title></programme>
+<programme start="20211105170000 +0000" stop="20211105180000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title></programme>
+<programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="MavTV.us"><title lang="en">Motocross</title></programme>
+<programme start="20211105190000 +0000" stop="20211105200000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title></programme>
+<programme start="20211105200000 +0000" stop="20211105210000 +0000" channel="MavTV.us"><title lang="en">Search for the Ultimate Street Car</title></programme>
+<programme start="20211105210000 +0000" stop="20211105213000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105220000 +0000" stop="20211105223000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105223000 +0000" stop="20211105230000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="MavTV.us"><title lang="en">Search for the Ultimate Street Car</title></programme>
+<programme start="20211106000000 +0000" stop="20211106003000 +0000" channel="MavTV.us"><title lang="en">NASCAR Pace Lap</title></programme>
+<programme start="20211106003000 +0000" stop="20211106023000 +0000" channel="MavTV.us"><title lang="en">NASCAR ARCA Menards Series East Racing</title></programme>
+<programme start="20211106023000 +0000" stop="20211106030000 +0000" channel="MavTV.us"><title lang="en">On the Edge</title></programme>
+<programme start="20211106030000 +0000" stop="20211106033000 +0000" channel="MavTV.us"><title lang="en">NASCAR Pace Lap</title></programme>
+<programme start="20211106033000 +0000" stop="20211106043000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title></programme>
+<programme start="20211106043000 +0000" stop="20211106050000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title></programme>
+<programme start="20211106050000 +0000" stop="20211106060000 +0000" channel="MavTV.us"><title lang="en">Ultimate Karting Championship</title></programme>
+<programme start="20211106060000 +0000" stop="20211106070000 +0000" channel="MavTV.us"><title lang="en">Drag Racing</title></programme>
+<programme start="20211106070000 +0000" stop="20211106073000 +0000" channel="MavTV.us"><title lang="en">The 900 Series</title></programme>
+<programme start="20211106073000 +0000" stop="20211106080000 +0000" channel="MavTV.us"><title lang="en">MotorWeek</title></programme>
+<programme start="20211106080000 +0000" stop="20211106083000 +0000" channel="MavTV.us"><title lang="en">MRN&apos;s Winged Nation</title></programme>
+<programme start="20211106083000 +0000" stop="20211106090000 +0000" channel="MavTV.us"><title lang="en">Racer TV</title></programme>
+<programme start="20211106090000 +0000" stop="20211106093000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title></programme>
+<programme start="20211106093000 +0000" stop="20211106100000 +0000" channel="MavTV.us"><title lang="en">FIA Karting</title></programme>
+<programme start="20211106100000 +0000" stop="20211106103000 +0000" channel="MavTV.us"><title lang="en">Racer TV</title></programme>
+<programme start="20211106103000 +0000" stop="20211106110000 +0000" channel="MavTV.us"><title lang="en">MRN&apos;s Winged Nation</title></programme>
+<programme start="20211106110000 +0000" stop="20211106120000 +0000" channel="MavTV.us"><title lang="en">Motocross</title></programme>
+<programme start="20211106120000 +0000" stop="20211106130000 +0000" channel="MavTV.us"><title lang="en">Motorcycle Racing</title></programme>
+<programme start="20211106130000 +0000" stop="20211106150000 +0000" channel="MavTV.us"><title lang="en">Pro Motocross Championship Series Highlights</title></programme>
+<programme start="20211106150000 +0000" stop="20211106170000 +0000" channel="MavTV.us"><title lang="en">Pro Motocross Championship Series Highlights</title></programme>
+<programme start="20211106170000 +0000" stop="20211106190000 +0000" channel="MavTV.us"><title lang="en">NASCAR ARCA Menards Series East Racing</title></programme>
+<programme start="20211106190000 +0000" stop="20211106193000 +0000" channel="MavTV.us"><title lang="en">The 900 Series</title></programme>
+<programme start="20211106193000 +0000" stop="20211106200000 +0000" channel="MavTV.us"><title lang="en">MotorWeek</title></programme>
+<programme start="20211106200000 +0000" stop="20211106210000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Speedway Saturday Night Racing</title></programme>
+<programme start="20211106210000 +0000" stop="20211106220000 +0000" channel="MavTV.us"><title lang="en">Lucas Oil Speedway Saturday Night Racing</title></programme>
+<programme start="20211106220000 +0000" stop="20211106230000 +0000" channel="MavTV.us"><title lang="en">NASCAR ARCA Menards Series East Racing</title></programme>
+<programme start="20211105000000 +0000" stop="20211105003000 +0000" channel="OutdoorChannel.us"><title lang="en">Beyond the Hunt</title></programme>
+<programme start="20211105003000 +0000" stop="20211105010000 +0000" channel="OutdoorChannel.us"><title lang="en">Bone Collector</title></programme>
+<programme start="20211105010000 +0000" stop="20211105013000 +0000" channel="OutdoorChannel.us"><title lang="en">Game Keepers</title></programme>
+<programme start="20211105013000 +0000" stop="20211105020000 +0000" channel="OutdoorChannel.us"><title lang="en">Wild Boar Fever &quot;the Art of Boar&quot;</title></programme>
+<programme start="20211105020000 +0000" stop="20211105023000 +0000" channel="OutdoorChannel.us"><title lang="en">Bowlife</title></programme>
+<programme start="20211105023000 +0000" stop="20211105030000 +0000" channel="OutdoorChannel.us"><title lang="en">Inside Outdoors TV</title></programme>
+<programme start="20211105030000 +0000" stop="20211105033000 +0000" channel="OutdoorChannel.us"><title lang="en">Whitetail Freaks</title></programme>
+<programme start="20211105033000 +0000" stop="20211105040000 +0000" channel="OutdoorChannel.us"><title lang="en">Headhunters TV</title></programme>
+<programme start="20211105040000 +0000" stop="20211105043000 +0000" channel="OutdoorChannel.us"><title lang="en">Mcmillan</title></programme>
+<programme start="20211105043000 +0000" stop="20211105050000 +0000" channel="OutdoorChannel.us"><title lang="en">Heartland Bowhunter</title></programme>
+<programme start="20211105050000 +0000" stop="20211105053000 +0000" channel="OutdoorChannel.us"><title lang="en">Bow Madness</title></programme>
+<programme start="20211105053000 +0000" stop="20211105060000 +0000" channel="OutdoorChannel.us"><title lang="en">Wild Boar Fever &quot;the Art of Boar&quot;</title></programme>
+<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="OutdoorChannel.us"><title lang="en">Buckmasters</title></programme>
+<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="OutdoorChannel.us"><title lang="en">The Jackie Bushman Show</title></programme>
+<programme start="20211105070000 +0000" stop="20211105073000 +0000" channel="OutdoorChannel.us"><title lang="en">Sporting Classics</title></programme>
+<programme start="20211105073000 +0000" stop="20211105080000 +0000" channel="OutdoorChannel.us"><title lang="en">Dirt Trax Television</title></programme>
+<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="OutdoorChannel.us"><title lang="en">Bill Dance Outdoors</title></programme>
+<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="OutdoorChannel.us"><title lang="en">Reel in the Outdoors</title></programme>
+<programme start="20211105090000 +0000" stop="20211105110000 +0000" channel="OutdoorChannel.us"><title lang="en">Major League Fishing</title></programme>
+<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="OutdoorChannel.us"><title lang="en">MLF All Angles</title></programme>
+<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="OutdoorChannel.us"><title lang="en">The Hunt for Monster Bass</title></programme>
+<programme start="20211105120000 +0000" stop="20211105123000 +0000" channel="OutdoorChannel.us"><title lang="en">Drury&apos;s Thirteen</title></programme>
+<programme start="20211105123000 +0000" stop="20211105130000 +0000" channel="OutdoorChannel.us"><title lang="en">Heartland Bowhunter</title></programme>
+<programme start="20211105130000 +0000" stop="20211105133000 +0000" channel="OutdoorChannel.us"><title lang="en">Bone Collector</title></programme>
+<programme start="20211105133000 +0000" stop="20211105140000 +0000" channel="OutdoorChannel.us"><title lang="en">Drop Zone</title></programme>
+<programme start="20211105140000 +0000" stop="20211105143000 +0000" channel="OutdoorChannel.us"><title lang="en">Legends of the Fall</title></programme>
+<programme start="20211105143000 +0000" stop="20211105150000 +0000" channel="OutdoorChannel.us"><title lang="en">Crush With Lee &amp; Tiffany</title></programme>
+<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="OutdoorChannel.us"><title lang="en">Mcmillan</title></programme>
+<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="OutdoorChannel.us"><title lang="en">Beyond the Hunt</title></programme>
+<programme start="20211105160000 +0000" stop="20211105163000 +0000" channel="OutdoorChannel.us"><title lang="en">Whitetail Freaks</title></programme>
+<programme start="20211105163000 +0000" stop="20211105170000 +0000" channel="OutdoorChannel.us"><title lang="en">Headhunters TV</title></programme>
+<programme start="20211105170000 +0000" stop="20211105173000 +0000" channel="OutdoorChannel.us"><title lang="en">The Fowl Life With Chad Belding</title></programme>
+<programme start="20211105173000 +0000" stop="20211105180000 +0000" channel="OutdoorChannel.us"><title lang="en">The Flush</title></programme>
+<programme start="20211105180000 +0000" stop="20211105190000 +0000" channel="OutdoorChannel.us"><title lang="en">Wicked Tuna</title></programme>
+<programme start="20211105190000 +0000" stop="20211105200000 +0000" channel="OutdoorChannel.us"><title lang="en">Longmire</title></programme>
+<programme start="20211105200000 +0000" stop="20211105210000 +0000" channel="OutdoorChannel.us"><title lang="en">Kid Rodeo</title></programme>
+<programme start="20211105210000 +0000" stop="20211105230000 +0000" channel="OutdoorChannel.us"><title lang="en">Hell or High Water</title></programme>
+<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="OutdoorChannel.us"><title lang="en">Hell or High Water</title></programme>
+<programme start="20211106010000 +0000" stop="20211106030000 +0000" channel="OutdoorChannel.us"><title lang="en">Hell or High Water</title></programme>
+<programme start="20211106030000 +0000" stop="20211106040000 +0000" channel="OutdoorChannel.us"><title lang="en">Kid Rodeo</title></programme>
+<programme start="20211106040000 +0000" stop="20211106043000 +0000" channel="OutdoorChannel.us"><title lang="en">Sporting Classics</title></programme>
+<programme start="20211106043000 +0000" stop="20211106050000 +0000" channel="OutdoorChannel.us"><title lang="en">Dirt Trax Television</title></programme>
+<programme start="20211106050000 +0000" stop="20211106053000 +0000" channel="OutdoorChannel.us"><title lang="en">Bill Dance Outdoors</title></programme>
+<programme start="20211106053000 +0000" stop="20211106060000 +0000" channel="OutdoorChannel.us"><title lang="en">The Hunt for Monster Bass</title></programme>
+<programme start="20211106060000 +0000" stop="20211106063000 +0000" channel="OutdoorChannel.us"><title lang="en">Realtree Outdoors</title></programme>
+<programme start="20211106063000 +0000" stop="20211106070000 +0000" channel="OutdoorChannel.us"><title lang="en">Critical Mass</title></programme>
+<programme start="20211106070000 +0000" stop="20211106073000 +0000" channel="OutdoorChannel.us"><title lang="en">Bowlife</title></programme>
+<programme start="20211106073000 +0000" stop="20211106080000 +0000" channel="OutdoorChannel.us"><title lang="en">Bow Madness</title></programme>
+<programme start="20211106080000 +0000" stop="20211106083000 +0000" channel="OutdoorChannel.us"><title lang="en">The Fowl Life With Chad Belding</title></programme>
+<programme start="20211106083000 +0000" stop="20211106090000 +0000" channel="OutdoorChannel.us"><title lang="en">The Flush</title></programme>
+<programme start="20211106090000 +0000" stop="20211106093000 +0000" channel="OutdoorChannel.us"><title lang="en">Buckmasters</title></programme>
+<programme start="20211106093000 +0000" stop="20211106100000 +0000" channel="OutdoorChannel.us"><title lang="en">The Bucks of Tecomate</title></programme>
+<programme start="20211106100000 +0000" stop="20211106103000 +0000" channel="OutdoorChannel.us"><title lang="en">Bone Collector</title></programme>
+<programme start="20211106103000 +0000" stop="20211106110000 +0000" channel="OutdoorChannel.us"><title lang="en">Headhunters TV</title></programme>
+<programme start="20211106110000 +0000" stop="20211106113000 +0000" channel="OutdoorChannel.us"><title lang="en">Primos Truth About Hunting</title></programme>
+<programme start="20211106113000 +0000" stop="20211106120000 +0000" channel="OutdoorChannel.us"><title lang="en">Raised Hunting</title></programme>
+<programme start="20211106120000 +0000" stop="20211106123000 +0000" channel="OutdoorChannel.us"><title lang="en">Nick&apos;s Wild Ride</title></programme>
+<programme start="20211106123000 +0000" stop="20211106130000 +0000" channel="OutdoorChannel.us"><title lang="en">Sporting Classics</title></programme>
+<programme start="20211106130000 +0000" stop="20211106133000 +0000" channel="OutdoorChannel.us"><title lang="en">Bill Dance Outdoors</title></programme>
+<programme start="20211106133000 +0000" stop="20211106140000 +0000" channel="OutdoorChannel.us"><title lang="en">Reel in the Outdoors</title></programme>
+<programme start="20211106140000 +0000" stop="20211106160000 +0000" channel="OutdoorChannel.us"><title lang="en">Major League Fishing Cups</title></programme>
+<programme start="20211106160000 +0000" stop="20211106163000 +0000" channel="OutdoorChannel.us"><title lang="en">Mlf All Angles</title></programme>
+<programme start="20211106163000 +0000" stop="20211106170000 +0000" channel="OutdoorChannel.us"><title lang="en">The Hunt for Monster Bass</title></programme>
+<programme start="20211106170000 +0000" stop="20211106173000 +0000" channel="OutdoorChannel.us"><title lang="en">Pigman, the Series</title></programme>
+<programme start="20211106173000 +0000" stop="20211106180000 +0000" channel="OutdoorChannel.us"><title lang="en">Wild Boar Fever &quot;the Art of Boar&quot;</title></programme>
+<programme start="20211106180000 +0000" stop="20211106183000 +0000" channel="OutdoorChannel.us"><title lang="en">MeatEater</title></programme>
+<programme start="20211106183000 +0000" stop="20211106190000 +0000" channel="OutdoorChannel.us"><title lang="en">Man Eats Wild</title></programme>
+<programme start="20211106190000 +0000" stop="20211106193000 +0000" channel="OutdoorChannel.us"><title lang="en">Farming the Wild</title></programme>
+<programme start="20211106193000 +0000" stop="20211106200000 +0000" channel="OutdoorChannel.us"><title lang="en">Back 40</title></programme>
+<programme start="20211106200000 +0000" stop="20211106203000 +0000" channel="OutdoorChannel.us"><title lang="en">Backyard Ballistics</title></programme>
+<programme start="20211106203000 +0000" stop="20211106210000 +0000" channel="OutdoorChannel.us"><title lang="en">Hollywood Weapons: Fact or Fiction?</title></programme>
+<programme start="20211106210000 +0000" stop="20211106220000 +0000" channel="OutdoorChannel.us"><title lang="en">Dances with Wolves</title></programme>
+<programme start="20211105000000 +0000" stop="20211105010000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title></programme>
+<programme start="20211105010000 +0000" stop="20211105020000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105020000 +0000" stop="20211105030000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Thursday Morning</title></programme>
+<programme start="20211105030000 +0000" stop="20211105040000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Thursday Morning</title></programme>
+<programme start="20211105040000 +0000" stop="20211105050000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105050000 +0000" stop="20211105060000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title></programme>
+<programme start="20211105060000 +0000" stop="20211105063000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105063000 +0000" stop="20211105070000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title></programme>
+<programme start="20211105070000 +0000" stop="20211105080000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title></programme>
+<programme start="20211105080000 +0000" stop="20211105083000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title></programme>
+<programme start="20211105083000 +0000" stop="20211105090000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105090000 +0000" stop="20211105100000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Investigative Story</title></programme>
+<programme start="20211105100000 +0000" stop="20211105103000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105103000 +0000" stop="20211105110000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105110000 +0000" stop="20211105113000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Minaassat</title></programme>
+<programme start="20211105113000 +0000" stop="20211105120000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Radar</title></programme>
+<programme start="20211105120000 +0000" stop="20211105130000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105130000 +0000" stop="20211105140000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Fikr &amp; Faan</title></programme>
+<programme start="20211105140000 +0000" stop="20211105150000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105150000 +0000" stop="20211105153000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Hard Talk</title></programme>
+<programme start="20211105153000 +0000" stop="20211105160000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105160000 +0000" stop="20211105170000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title></programme>
+<programme start="20211105170000 +0000" stop="20211105180000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title></programme>
+<programme start="20211105180000 +0000" stop="20211105183000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title></programme>
+<programme start="20211105183000 +0000" stop="20211105190000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title></programme>
+<programme start="20211105190000 +0000" stop="20211105193000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News / Maghreb</title></programme>
+<programme start="20211105193000 +0000" stop="20211105200000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105200000 +0000" stop="20211105203000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105203000 +0000" stop="20211105210000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Hard Talk</title></programme>
+<programme start="20211105210000 +0000" stop="20211105213000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211105213000 +0000" stop="20211105220000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Minaassat</title></programme>
+<programme start="20211105220000 +0000" stop="20211105230000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title></programme>
+<programme start="20211105230000 +0000" stop="20211106000000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title></programme>
+<programme start="20211106000000 +0000" stop="20211106003000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106003000 +0000" stop="20211106010000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Fikr &amp; Faan</title></programme>
+<programme start="20211106010000 +0000" stop="20211106013000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title></programme>
+<programme start="20211106013000 +0000" stop="20211106020000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106020000 +0000" stop="20211106030000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106030000 +0000" stop="20211106033000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Iqtisadokom</title></programme>
+<programme start="20211106033000 +0000" stop="20211106040000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106040000 +0000" stop="20211106050000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Investigative Story</title></programme>
+<programme start="20211106050000 +0000" stop="20211106060000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106060000 +0000" stop="20211106063000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Laila Maa Nadim</title></programme>
+<programme start="20211106063000 +0000" stop="20211106070000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106070000 +0000" stop="20211106073000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title></programme>
+<programme start="20211106073000 +0000" stop="20211106080000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title></programme>
+<programme start="20211106080000 +0000" stop="20211106083000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Noon News Show</title></programme>
+<programme start="20211106083000 +0000" stop="20211106090000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106090000 +0000" stop="20211106100000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Hard Talk</title></programme>
+<programme start="20211106100000 +0000" stop="20211106103000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106103000 +0000" stop="20211106110000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Kawkabouna</title></programme>
+<programme start="20211106110000 +0000" stop="20211106113000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106113000 +0000" stop="20211106120000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Diagnosis</title></programme>
+<programme start="20211106120000 +0000" stop="20211106130000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Radar</title></programme>
+<programme start="20211106130000 +0000" stop="20211106140000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106140000 +0000" stop="20211106150000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Influencers</title></programme>
+<programme start="20211106150000 +0000" stop="20211106153000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106153000 +0000" stop="20211106160000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Min Honak</title></programme>
+<programme start="20211106160000 +0000" stop="20211106170000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106170000 +0000" stop="20211106180000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title></programme>
+<programme start="20211106180000 +0000" stop="20211106183000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News Room</title></programme>
+<programme start="20211106183000 +0000" stop="20211106190000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Hadeeth Al Arab</title></programme>
+<programme start="20211106190000 +0000" stop="20211106193000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Maghreb Debat</title></programme>
+<programme start="20211106193000 +0000" stop="20211106213000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News / Maghreb</title></programme>
+<programme start="20211106213000 +0000" stop="20211106220000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106220000 +0000" stop="20211106230000 +0000" channel="SkyNewsArabia.uk"><title lang="en">News</title></programme>
+<programme start="20211106230000 +0000" stop="20211107000000 +0000" channel="SkyNewsArabia.uk"><title lang="en">Min Honak</title></programme>
 </tv>

@@ -2,31 +2,6 @@
 <channel id="RTBAneka.bn"><display-name>RTB Aneka</display-name><icon src="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png"/></channel>
 <channel id="RTBPerdana.bn"><display-name>RTB Perdana</display-name><icon src="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20PERDANA%20LOGO.png"/></channel>
 <channel id="RTBSukmaindera.bn"><display-name>RTB Sukmaindera</display-name><icon src="http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/LOGO%20RTB%20SUKMAINDERA.png"/></channel>
-<programme start="20211112020000 +0000" stop="20211112020500 +0000" channel="RTBAneka.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
-<programme start="20211112020500 +0000" stop="20211112023500 +0000" channel="RTBAneka.bn"><title lang="ms">PENDIDIKAN:</title></programme>
-<programme start="20211112023500 +0000" stop="20211112030500 +0000" channel="RTBAneka.bn"><title lang="ms">ANIMASI:</title></programme>
-<programme start="20211112030500 +0000" stop="20211112040500 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA TURKI:</title></programme>
-<programme start="20211112040500 +0000" stop="20211112043000 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN ZUHUR</title></programme>
-<programme start="20211112043000 +0000" stop="20211112053000 +0000" channel="RTBAneka.bn"><title lang="ms">CERAMAH KHAS SR.02</title></programme>
-<programme start="20211112053000 +0000" stop="20211112060000 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA TEMPATAN:</title></programme>
-<programme start="20211112060000 +0000" stop="20211112070000 +0000" channel="RTBAneka.bn"><title lang="ms">REALITI:</title></programme>
-<programme start="20211112070000 +0000" stop="20211112072700 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA CHINESE:</title></programme>
-<programme start="20211112072700 +0000" stop="20211112080000 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN ASAR</title></programme>
-<programme start="20211112080000 +0000" stop="20211112083000 +0000" channel="RTBAneka.bn"><title lang="ms">PENDIDIKAN:</title></programme>
-<programme start="20211112083000 +0000" stop="20211112090000 +0000" channel="RTBAneka.bn"><title lang="ms">ANIMASI:</title></programme>
-<programme start="20211112090000 +0000" stop="20211112100200 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA MELAYU:</title></programme>
-<programme start="20211112100200 +0000" stop="20211112100700 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN MAGHRIB</title></programme>
-<programme start="20211112100700 +0000" stop="20211112104500 +0000" channel="RTBAneka.bn"><title lang="ms">SURAH AMALAN HARIAN SR.02 (2019)</title></programme>
-<programme start="20211112104500 +0000" stop="20211112111400 +0000" channel="RTBAneka.bn"><title lang="ms">BACAAN SURAH YASSIN:</title></programme>
-<programme start="20211112111400 +0000" stop="20211112112500 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN ISYAK</title></programme>
-<programme start="20211112112500 +0000" stop="20211112121500 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA FILIPINA:</title></programme>
-<programme start="20211112121500 +0000" stop="20211112130000 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA BERSIRI:</title></programme>
-<programme start="20211112130000 +0000" stop="20211112133000 +0000" channel="RTBAneka.bn"><title lang="ms">INFORTAINMENT:</title></programme>
-<programme start="20211112133000 +0000" stop="20211112140000 +0000" channel="RTBAneka.bn"><title lang="ms">HIBURAN DAKWAH:</title></programme>
-<programme start="20211112140000 +0000" stop="20211112143500 +0000" channel="RTBAneka.bn"><title lang="ms">BERITA PERDANA (RECORDED)</title></programme>
-<programme start="20211112143500 +0000" stop="20211112145000 +0000" channel="RTBAneka.bn"><title lang="ms">BERITA DUNIA (4.30 PETANG) – RAKAMAN</title></programme>
-<programme start="20211112145000 +0000" stop="20211112204700 +0000" channel="RTBAneka.bn"><title lang="ms">SURAH-SURAH AMALAN HARIAN SR.02 (2019)</title></programme>
-<programme start="20211112204700 +0000" stop="20211112214700 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN SUBUH</title></programme>
 <programme start="20211112235500 +0000" stop="20211113000000 +0000" channel="RTBAneka.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
 <programme start="20211113000000 +0000" stop="20211113020500 +0000" channel="RTBAneka.bn"><title lang="ms">PENDIDIKAN:</title></programme>
 <programme start="20211113020500 +0000" stop="20211113023500 +0000" channel="RTBAneka.bn"><title lang="ms">PENDIDIKAN:</title></programme>
@@ -53,46 +28,29 @@
 <programme start="20211113143500 +0000" stop="20211113145000 +0000" channel="RTBAneka.bn"><title lang="ms">BERITA DUNIA (4.30 PETANG) – RAKAMAN</title></programme>
 <programme start="20211113145000 +0000" stop="20211113204700 +0000" channel="RTBAneka.bn"><title lang="ms">SURAH-SURAH AMALAN HARIAN SR.02 (2019)</title></programme>
 <programme start="20211113204700 +0000" stop="20211113214700 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN SUBUH</title></programme>
-<programme start="20211111220000 +0000" stop="20211111220300 +0000" channel="RTBPerdana.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
-<programme start="20211111220300 +0000" stop="20211111221500 +0000" channel="RTBPerdana.bn"><title lang="ms">TILAWAH AL-QURAN</title></programme>
-<programme start="20211111221500 +0000" stop="20211111224500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
-<programme start="20211111224500 +0000" stop="20211111230000 +0000" channel="RTBPerdana.bn"><title lang="ms">SEINDAH MUTIARA SR.4</title></programme>
-<programme start="20211111230000 +0000" stop="20211111232000 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA AWAL PAGI</title></programme>
-<programme start="20211111232000 +0000" stop="20211112020000 +0000" channel="RTBPerdana.bn"><title lang="ms">RAMPAI PAGI</title></programme>
-<programme start="20211112020000 +0000" stop="20211112020000 +0000" channel="RTBPerdana.bn"><title lang="ms">SUSUNAN RANCANGAN (RTB1)</title></programme>
-<programme start="20211112020000 +0000" stop="20211112022000 +0000" channel="RTBPerdana.bn"><title lang="ms">SEINDAH MUTIARA SR.4 - Ulangan</title></programme>
-<programme start="20211112022000 +0000" stop="20211112030000 +0000" channel="RTBPerdana.bn"><title lang="ms">CINTA AL-QURAN</title></programme>
-<programme start="20211112030000 +0000" stop="20211112033000 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA DUNIA</title></programme>
-<programme start="20211112033000 +0000" stop="20211112034500 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA 11:30 (RTB1)</title></programme>
-<programme start="20211112034500 +0000" stop="20211112040500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
-<programme start="20211112040500 +0000" stop="20211112043000 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN ZUHUR</title></programme>
-<programme start="20211112043000 +0000" stop="20211112053000 +0000" channel="RTBPerdana.bn"><title lang="ms">CERAMAH KHAS SR.2</title></programme>
-<programme start="20211112053000 +0000" stop="20211112060000 +0000" channel="RTBPerdana.bn"><title lang="ms">AL HIDAYAH - Ulangan</title></programme>
-<programme start="20211112060000 +0000" stop="20211112063000 +0000" channel="RTBPerdana.bn"><title lang="ms">GREAT COOK LEARN BY DOING - Ulangan</title></programme>
-<programme start="20211112063000 +0000" stop="20211112070000 +0000" channel="RTBPerdana.bn"><title lang="ms">BICARA SUKAN</title></programme>
-<programme start="20211112070000 +0000" stop="20211112072700 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA JAM TIGA PETANG</title></programme>
-<programme start="20211112072700 +0000" stop="20211112073200 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN ASAR</title></programme>
-<programme start="20211112073200 +0000" stop="20211112080000 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
-<programme start="20211112080000 +0000" stop="20211112083000 +0000" channel="RTBPerdana.bn"><title lang="ms">ARENA – Siaran Langsung</title></programme>
-<programme start="20211112083000 +0000" stop="20211112084500 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA DUNIA</title></programme>
-<programme start="20211112084500 +0000" stop="20211112091500 +0000" channel="RTBPerdana.bn"><title lang="ms">MEDITERRANEAN CUISINE</title></programme>
-<programme start="20211112091500 +0000" stop="20211112094500 +0000" channel="RTBPerdana.bn"><title lang="ms">CHEF MUDA SR.1</title></programme>
-<programme start="20211112094500 +0000" stop="20211112100200 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA 5:45</title></programme>
-<programme start="20211112100200 +0000" stop="20211112101800 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN MAGHRIB</title></programme>
-<programme start="20211112101800 +0000" stop="20211112104500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
-<programme start="20211112104500 +0000" stop="20211112111400 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
-<programme start="20211112111400 +0000" stop="20211112113000 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN ISYAK</title></programme>
-<programme start="20211112113000 +0000" stop="20211112120000 +0000" channel="RTBPerdana.bn"><title lang="ms">WEATHER OR NOT?</title></programme>
-<programme start="20211112120000 +0000" stop="20211112123500 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA PERDANA</title></programme>
-<programme start="20211112123500 +0000" stop="20211112130000 +0000" channel="RTBPerdana.bn"><title lang="ms">LA TAKHAF C0VID-19</title></programme>
-<programme start="20211112130000 +0000" stop="20211112133000 +0000" channel="RTBPerdana.bn"><title lang="ms">DOKUMENTARI</title></programme>
-<programme start="20211112133000 +0000" stop="20211112140000 +0000" channel="RTBPerdana.bn"><title lang="ms">STRUGGLE FOR SURVIVAL</title></programme>
-<programme start="20211112140000 +0000" stop="20211112144500 +0000" channel="RTBPerdana.bn"><title lang="ms">NEWS AT 10</title></programme>
-<programme start="20211112144500 +0000" stop="20211112151500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
-<programme start="20211112151500 +0000" stop="20211112152000 +0000" channel="RTBPerdana.bn"><title lang="ms">DOA PENUTUP SIARAN</title></programme>
-<programme start="20211112152000 +0000" stop="20211112152200 +0000" channel="RTBPerdana.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
-<programme start="20211112152200 +0000" stop="20211112204700 +0000" channel="RTBPerdana.bn"><title lang="ms">SIARAN LANGSUNG DARI MEKKAH</title></programme>
-<programme start="20211112204700 +0000" stop="20211112214700 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN SUBUH</title></programme>
+<programme start="20211114020000 +0000" stop="20211114020500 +0000" channel="RTBAneka.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
+<programme start="20211114020500 +0000" stop="20211114030000 +0000" channel="RTBAneka.bn"><title lang="ms">REALITI SHOW:</title></programme>
+<programme start="20211114030000 +0000" stop="20211114040600 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA BERSIRI:</title></programme>
+<programme start="20211114040600 +0000" stop="20211114041000 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN ZUHUR</title></programme>
+<programme start="20211114041000 +0000" stop="20211114043000 +0000" channel="RTBAneka.bn"><title lang="ms">SURAH AMALAN HARIAN SR.02</title></programme>
+<programme start="20211114043000 +0000" stop="20211114053000 +0000" channel="RTBAneka.bn"><title lang="ms">SUKAN:</title></programme>
+<programme start="20211114053000 +0000" stop="20211114060000 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA FILIPINA:</title></programme>
+<programme start="20211114060000 +0000" stop="20211114070000 +0000" channel="RTBAneka.bn"><title lang="ms">MAJALAH TV:</title></programme>
+<programme start="20211114070000 +0000" stop="20211114072700 +0000" channel="RTBAneka.bn"><title lang="ms">SUNDAY MATINEE:</title></programme>
+<programme start="20211114072700 +0000" stop="20211114073000 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN ASAR</title></programme>
+<programme start="20211114073000 +0000" stop="20211114090000 +0000" channel="RTBAneka.bn"><title lang="ms">SUNDAY MATINEE:</title></programme>
+<programme start="20211114090000 +0000" stop="20211114100200 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA MELAYU:</title></programme>
+<programme start="20211114100200 +0000" stop="20211114100700 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN MAGHRIB</title></programme>
+<programme start="20211114100700 +0000" stop="20211114104500 +0000" channel="RTBAneka.bn"><title lang="ms">SURAH AMALAN HARIAN SR.02</title></programme>
+<programme start="20211114104500 +0000" stop="20211114111300 +0000" channel="RTBAneka.bn"><title lang="ms">BACAAN SURAH YASSIN:</title></programme>
+<programme start="20211114111300 +0000" stop="20211114113000 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN ISYAK</title></programme>
+<programme start="20211114113000 +0000" stop="20211114121500 +0000" channel="RTBAneka.bn"><title lang="ms">DRAMA FILIPINA:</title></programme>
+<programme start="20211114121500 +0000" stop="20211114140000 +0000" channel="RTBAneka.bn"><title lang="ms">TELEMOVIE:</title></programme>
+<programme start="20211114140000 +0000" stop="20211114143500 +0000" channel="RTBAneka.bn"><title lang="ms">BERITA PERDANA (RECORDED)</title></programme>
+<programme start="20211114143500 +0000" stop="20211114145000 +0000" channel="RTBAneka.bn"><title lang="ms">BERITA DUNIA (4.30 PETANG) – RAKAMAN</title></programme>
+<programme start="20211114145000 +0000" stop="20211114151000 +0000" channel="RTBAneka.bn"><title lang="ms">SURAH-SURAH AMALAN HARIAN SR.02 (2019)</title></programme>
+<programme start="20211114151000 +0000" stop="20211114204700 +0000" channel="RTBAneka.bn"><title lang="ms">CLOSE DOWN</title></programme>
+<programme start="20211114204700 +0000" stop="20211114214700 +0000" channel="RTBAneka.bn"><title lang="ms">AZAN SUBUH</title></programme>
 <programme start="20211112220000 +0000" stop="20211112220300 +0000" channel="RTBPerdana.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
 <programme start="20211112220300 +0000" stop="20211112221500 +0000" channel="RTBPerdana.bn"><title lang="ms">TILAWAH AL-QURAN</title></programme>
 <programme start="20211112221500 +0000" stop="20211112224500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
@@ -132,54 +90,45 @@
 <programme start="20211113152000 +0000" stop="20211113152200 +0000" channel="RTBPerdana.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
 <programme start="20211113152200 +0000" stop="20211113204700 +0000" channel="RTBPerdana.bn"><title lang="ms">SIARAN LANGSUNG DARI MEKKAH</title></programme>
 <programme start="20211113204700 +0000" stop="20211113214700 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN SUBUH</title></programme>
-<programme start="20211111220000 +0000" stop="20211111220500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
-<programme start="20211111220500 +0000" stop="20211111222000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">TILAWAH AL QURAN</title></programme>
-<programme start="20211111222000 +0000" stop="20211111224000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BICARA FIQH SR.1</title></programme>
-<programme start="20211111224000 +0000" stop="20211111230000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YASSIN</title></programme>
-<programme start="20211111230000 +0000" stop="20211111233000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA AWAL PAGI</title></programme>
-<programme start="20211111233000 +0000" stop="20211112023000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">RAMPAI PAGI – Live</title></programme>
-<programme start="20211112023000 +0000" stop="20211112030000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">MENGORAK LANGKAH</title></programme>
-<programme start="20211112030000 +0000" stop="20211112033000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA DUNIA</title></programme>
-<programme start="20211112033000 +0000" stop="20211112040000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA 11:30 PAGI</title></programme>
-<programme start="20211112040000 +0000" stop="20211112040500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AL-KAHFI</title></programme>
-<programme start="20211112040500 +0000" stop="20211112043000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN ZUHUR</title></programme>
-<programme start="20211112043000 +0000" stop="20211112053000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">CERAMAH KHAS SR.2</title></programme>
-<programme start="20211112053000 +0000" stop="20211112063000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AN NUUR 2021</title></programme>
-<programme start="20211112063000 +0000" stop="20211112070000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AL HIDAYAH</title></programme>
-<programme start="20211112070000 +0000" stop="20211112072700 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA JAM TIGA PETANG</title></programme>
-<programme start="20211112072700 +0000" stop="20211112073000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN ASAR</title></programme>
-<programme start="20211112073000 +0000" stop="20211112080000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">TARBIYAH ISLAMIYYAH</title></programme>
-<programme start="20211112080000 +0000" stop="20211112083000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">ARENA - Siaran Langsung</title></programme>
-<programme start="20211112083000 +0000" stop="20211112090000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">SEMINAR MAJLIS ILMU</title></programme>
-<programme start="20211112090000 +0000" stop="20211112093000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AKHBAR CILIK SR.3</title></programme>
-<programme start="20211112093000 +0000" stop="20211112094500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AL MAUIZAH</title></programme>
-<programme start="20211112094500 +0000" stop="20211112100000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA 5:45</title></programme>
-<programme start="20211112100000 +0000" stop="20211112100200 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERSAMA UGAMAWAN (MENGENAI COVID-19)</title></programme>
-<programme start="20211112100200 +0000" stop="20211112102000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN MAGHRIB</title></programme>
-<programme start="20211112102000 +0000" stop="20211112104000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BICARA FIQH SR.1</title></programme>
-<programme start="20211112104000 +0000" stop="20211112110000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YASSIN</title></programme>
-<programme start="20211112110000 +0000" stop="20211112111400 +0000" channel="RTBSukmaindera.bn"><title lang="ms">MENGORAK LANGKAH</title></programme>
-<programme start="20211112111400 +0000" stop="20211112113000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN ISYAK</title></programme>
-<programme start="20211112113000 +0000" stop="20211112120000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BENAR ATAU MITOS?</title></programme>
-<programme start="20211112120000 +0000" stop="20211112124000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA PERDANA</title></programme>
-<programme start="20211112124000 +0000" stop="20211112130000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERSAMA UGAMAWAN (MENGENAI COVID-19)</title></programme>
-<programme start="20211112130000 +0000" stop="20211112133000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">DOKUMENTARI 2021</title></programme>
-<programme start="20211112133000 +0000" stop="20211112140000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">CINTA AL-QURAN</title></programme>
-<programme start="20211112140000 +0000" stop="20211112144000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NEWS AT 10</title></programme>
-<programme start="20211112144000 +0000" stop="20211112150000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">TARBIYAH ISLAMIYYAH</title></programme>
-<programme start="20211112150000 +0000" stop="20211112150500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">DOA PENUTUP SIARAN</title></programme>
-<programme start="20211112150500 +0000" stop="20211112151500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
-<programme start="20211112151500 +0000" stop="20211112173000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">RAMPAI PAGI - recorded</title></programme>
-<programme start="20211112173000 +0000" stop="20211112181000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA PERDANA</title></programme>
-<programme start="20211112181000 +0000" stop="20211112183000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERSAMA UGAMAWAN (MENGENAI COVID-19)</title></programme>
-<programme start="20211112183000 +0000" stop="20211112190000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">MENGORAK LANGKAH</title></programme>
-<programme start="20211112190000 +0000" stop="20211112194000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NEWS AT 10</title></programme>
-<programme start="20211112194000 +0000" stop="20211112200000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">TARBIYAH ISLAMIYYAH</title></programme>
-<programme start="20211112200000 +0000" stop="20211112203000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AL HIDAYAH</title></programme>
-<programme start="20211112203000 +0000" stop="20211112204700 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BICARA FIQH SR.1</title></programme>
-<programme start="20211112204700 +0000" stop="20211112210000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN SUBUH</title></programme>
-<programme start="20211112210000 +0000" stop="20211112213000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">SEMINAR MAJLIS ILMU</title></programme>
-<programme start="20211112213000 +0000" stop="20211112223000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YASSIN</title></programme>
+<programme start="20211113220000 +0000" stop="20211113220300 +0000" channel="RTBPerdana.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
+<programme start="20211113220300 +0000" stop="20211113221500 +0000" channel="RTBPerdana.bn"><title lang="ms">TILAWAH AL-QURAN</title></programme>
+<programme start="20211113221500 +0000" stop="20211113224500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
+<programme start="20211113224500 +0000" stop="20211113230000 +0000" channel="RTBPerdana.bn"><title lang="ms">SEINDAH MUTIARA SR.4</title></programme>
+<programme start="20211113230000 +0000" stop="20211113232000 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA AWAL PAGI</title></programme>
+<programme start="20211113232000 +0000" stop="20211114020000 +0000" channel="RTBPerdana.bn"><title lang="ms">RAMPAI PAGI – LIVE</title></programme>
+<programme start="20211114020000 +0000" stop="20211114020500 +0000" channel="RTBPerdana.bn"><title lang="ms">SUSUNAN RANCANGAN (RTB1)</title></programme>
+<programme start="20211114020500 +0000" stop="20211114023000 +0000" channel="RTBPerdana.bn"><title lang="ms">SMASHDOWN - Ulangan</title></programme>
+<programme start="20211114023000 +0000" stop="20211114030000 +0000" channel="RTBPerdana.bn"><title lang="ms">THE VOYAGER WITH JOSH GARCIA</title></programme>
+<programme start="20211114030000 +0000" stop="20211114033000 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA DUNIA</title></programme>
+<programme start="20211114033000 +0000" stop="20211114034500 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA 11:30 (RTB1)</title></programme>
+<programme start="20211114034500 +0000" stop="20211114040600 +0000" channel="RTBPerdana.bn"><title lang="ms">LIPUTAN SEMASA – Ulangan</title></programme>
+<programme start="20211114040600 +0000" stop="20211114043000 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN ZUHUR</title></programme>
+<programme start="20211114043000 +0000" stop="20211114053000 +0000" channel="RTBPerdana.bn"><title lang="ms">GUARDIANS OF THE WILD - Ulangan</title></programme>
+<programme start="20211114053000 +0000" stop="20211114060000 +0000" channel="RTBPerdana.bn"><title lang="ms">PRIME TIME ASIA</title></programme>
+<programme start="20211114060000 +0000" stop="20211114063000 +0000" channel="RTBPerdana.bn"><title lang="ms">EAT, FUN AND PRAY - Ulangan</title></programme>
+<programme start="20211114063000 +0000" stop="20211114070000 +0000" channel="RTBPerdana.bn"><title lang="ms">ARENA GLOBAL</title></programme>
+<programme start="20211114070000 +0000" stop="20211114072700 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA JAM TIGA PETANG</title></programme>
+<programme start="20211114072700 +0000" stop="20211114074200 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN ASAR</title></programme>
+<programme start="20211114074200 +0000" stop="20211114080000 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
+<programme start="20211114080000 +0000" stop="20211114083000 +0000" channel="RTBPerdana.bn"><title lang="ms">ARENA – Siaran Langsung</title></programme>
+<programme start="20211114083000 +0000" stop="20211114084500 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA DUNIA</title></programme>
+<programme start="20211114084500 +0000" stop="20211114094500 +0000" channel="RTBPerdana.bn"><title lang="ms">LITTLE BIG SHOTS YR.3</title></programme>
+<programme start="20211114094500 +0000" stop="20211114100200 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA 5:45</title></programme>
+<programme start="20211114100200 +0000" stop="20211114101800 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN MAGHRIB</title></programme>
+<programme start="20211114101800 +0000" stop="20211114104500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
+<programme start="20211114104500 +0000" stop="20211114111400 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
+<programme start="20211114111400 +0000" stop="20211114113000 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN ISYAK</title></programme>
+<programme start="20211114113000 +0000" stop="20211114120000 +0000" channel="RTBPerdana.bn"><title lang="ms">KEMBARA</title></programme>
+<programme start="20211114120000 +0000" stop="20211114123500 +0000" channel="RTBPerdana.bn"><title lang="ms">BERITA PERDANA</title></programme>
+<programme start="20211114123500 +0000" stop="20211114130000 +0000" channel="RTBPerdana.bn"><title lang="ms">LA TAKHAF COVID-19</title></programme>
+<programme start="20211114130000 +0000" stop="20211114133000 +0000" channel="RTBPerdana.bn"><title lang="ms">WYLAND’S ART STUDIO</title></programme>
+<programme start="20211114133000 +0000" stop="20211114140000 +0000" channel="RTBPerdana.bn"><title lang="ms">DUNIA ASIA</title></programme>
+<programme start="20211114140000 +0000" stop="20211114145000 +0000" channel="RTBPerdana.bn"><title lang="ms">NEWS AT 10</title></programme>
+<programme start="20211114145000 +0000" stop="20211114151500 +0000" channel="RTBPerdana.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
+<programme start="20211114151500 +0000" stop="20211114152000 +0000" channel="RTBPerdana.bn"><title lang="ms">DOA PENUTUP SIARAN</title></programme>
+<programme start="20211114152000 +0000" stop="20211114152200 +0000" channel="RTBPerdana.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
+<programme start="20211114152200 +0000" stop="20211114204700 +0000" channel="RTBPerdana.bn"><title lang="ms">SIARAN LANGSUNG DARI MEKKAH</title></programme>
+<programme start="20211114204700 +0000" stop="20211114214700 +0000" channel="RTBPerdana.bn"><title lang="ms">AZAN SUBUH</title></programme>
 <programme start="20211112220000 +0000" stop="20211112220500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
 <programme start="20211112220500 +0000" stop="20211112222000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">TILAWAH AL QURAN</title></programme>
 <programme start="20211112222000 +0000" stop="20211112224000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">TAZKIRAH</title></programme>
@@ -231,4 +180,53 @@
 <programme start="20211113204700 +0000" stop="20211113210000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN SUBUH</title></programme>
 <programme start="20211113210000 +0000" stop="20211113213000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">CIPTA RASA CHEF</title></programme>
 <programme start="20211113213000 +0000" stop="20211113223000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YASSIN</title></programme>
+<programme start="20211113220000 +0000" stop="20211113220500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
+<programme start="20211113220500 +0000" stop="20211113222000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">TILAWAH AL QURAN</title></programme>
+<programme start="20211113222000 +0000" stop="20211113224000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">SEINDAH MUTIARA SR.2</title></programme>
+<programme start="20211113224000 +0000" stop="20211113230000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YASSIN</title></programme>
+<programme start="20211113230000 +0000" stop="20211113233000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA AWAL PAGI</title></programme>
+<programme start="20211113233000 +0000" stop="20211114020000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">RAMPAI PAGI – Live</title></programme>
+<programme start="20211114020000 +0000" stop="20211114023000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">GREAT COOK LEARN BY DOING</title></programme>
+<programme start="20211114023000 +0000" stop="20211114030000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">DRAMA SITKOM: JIRAN SEKAMPONG</title></programme>
+<programme start="20211114030000 +0000" stop="20211114033000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA DUNIA</title></programme>
+<programme start="20211114033000 +0000" stop="20211114040000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA 11:30 PAGI</title></programme>
+<programme start="20211114040000 +0000" stop="20211114040600 +0000" channel="RTBSukmaindera.bn"><title lang="ms">THE PLAY DIARIES</title></programme>
+<programme start="20211114040600 +0000" stop="20211114043000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN ZUHUR</title></programme>
+<programme start="20211114043000 +0000" stop="20211114050000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">MAJALAH TV: #TARANAHTAHDIRUMAH</title></programme>
+<programme start="20211114050000 +0000" stop="20211114053000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YAASIIN</title></programme>
+<programme start="20211114053000 +0000" stop="20211114063000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">HIBURAN DAKWAH : CITRA IRAMA</title></programme>
+<programme start="20211114063000 +0000" stop="20211114070000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">LIPUTAN SEMASA 2021</title></programme>
+<programme start="20211114070000 +0000" stop="20211114072700 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA JAM TIGA PETANG</title></programme>
+<programme start="20211114072700 +0000" stop="20211114073000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN ASAR</title></programme>
+<programme start="20211114073000 +0000" stop="20211114080000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">MUSLIMAH TELADAN SR.1</title></programme>
+<programme start="20211114080000 +0000" stop="20211114083000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">ARENA - Siaran Langsung</title></programme>
+<programme start="20211114083000 +0000" stop="20211114090000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">GREAT COOK LEARN BY DOING</title></programme>
+<programme start="20211114090000 +0000" stop="20211114094500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">HIBURAN : APRESIASI MUZIK</title></programme>
+<programme start="20211114094500 +0000" stop="20211114100000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA 5:45</title></programme>
+<programme start="20211114100000 +0000" stop="20211114100200 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERSAMA UGAMAWAN (MENGENAI COVID-19)</title></programme>
+<programme start="20211114100200 +0000" stop="20211114102000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN MAGHRIB</title></programme>
+<programme start="20211114102000 +0000" stop="20211114104000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">SEINDAH MUTIARA SR.2</title></programme>
+<programme start="20211114104000 +0000" stop="20211114110000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YASSIN</title></programme>
+<programme start="20211114110000 +0000" stop="20211114111400 +0000" channel="RTBSukmaindera.bn"><title lang="ms">DRAMA SITKOM: JIRAN SEKAMPONG</title></programme>
+<programme start="20211114111400 +0000" stop="20211114113000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN ISYAK</title></programme>
+<programme start="20211114113000 +0000" stop="20211114120000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">YOUTH CHAT CORNER</title></programme>
+<programme start="20211114120000 +0000" stop="20211114124000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA PERDANA</title></programme>
+<programme start="20211114124000 +0000" stop="20211114130000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERSAMA UGAMAWAN (MENGENAI COVID-19)</title></programme>
+<programme start="20211114130000 +0000" stop="20211114133000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">SPARK4 TECH</title></programme>
+<programme start="20211114133000 +0000" stop="20211114140000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">FUTURE WAVE</title></programme>
+<programme start="20211114140000 +0000" stop="20211114144000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NEWS AT 10</title></programme>
+<programme start="20211114144000 +0000" stop="20211114150000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">MUSLIMAH TELADAN SR.1</title></programme>
+<programme start="20211114150000 +0000" stop="20211114150500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">DOA PENUTUP SIARAN</title></programme>
+<programme start="20211114150500 +0000" stop="20211114151500 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NATIONAL ANTHEM</title></programme>
+<programme start="20211114151500 +0000" stop="20211114173000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">RAMPAI PAGI - recorded</title></programme>
+<programme start="20211114173000 +0000" stop="20211114181000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERITA PERDANA</title></programme>
+<programme start="20211114181000 +0000" stop="20211114183000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BERSAMA UGAMAWAN (MENGENAI COVID-19)</title></programme>
+<programme start="20211114183000 +0000" stop="20211114190000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">DRAMA SITKOM: JIRAN SEKAMPONG</title></programme>
+<programme start="20211114190000 +0000" stop="20211114194000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">NEWS AT 10</title></programme>
+<programme start="20211114194000 +0000" stop="20211114200000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">MUSLIMAH TELADAN SR.1</title></programme>
+<programme start="20211114200000 +0000" stop="20211114203000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">LIPUTAN SEMASA 2021</title></programme>
+<programme start="20211114203000 +0000" stop="20211114204700 +0000" channel="RTBSukmaindera.bn"><title lang="ms">SEINDAH MUTIARA SR.2</title></programme>
+<programme start="20211114204700 +0000" stop="20211114210000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">AZAN SUBUH</title></programme>
+<programme start="20211114210000 +0000" stop="20211114213000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">GREAT COOK LEARN BY DOING</title></programme>
+<programme start="20211114213000 +0000" stop="20211114223000 +0000" channel="RTBSukmaindera.bn"><title lang="ms">BACAAN SURAH YASSIN</title></programme>
 </tv>

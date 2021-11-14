@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
-<channel id="BeInSports.qa"><display-name>BeIn Sports</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png"/></channel>
-<channel id="BeInSportsNews.qa"><display-name>BeIn Sports News</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png"/></channel>
-<channel id="BeInSports1.qa"><display-name>BeIn Sports 1</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png"/></channel>
-<channel id="BeInSports2.qa"><display-name>BeIn Sports 2</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png"/></channel>
+<channel id="BeInSports.qa"><display-name>BeIn Sports</display-name></channel>
+<channel id="BeInSportsNews.qa"><display-name>BeIn Sports News</display-name></channel>
+<channel id="BeInSports1.qa"><display-name>BeIn Sports 1</display-name></channel>
+<channel id="BeInSports2.qa"><display-name>BeIn Sports 2</display-name></channel>
 <channel id="BeInSports3.qa"><display-name>BeIn Sports 3</display-name></channel>
 <channel id="BeInSports4.qa"><display-name>BeIn Sports 4</display-name></channel>
 <channel id="BeInSports5.qa"><display-name>BeIn Sports 5</display-name></channel>
@@ -21,83 +21,4 @@
 <channel id="BeInSportsFrench1.qa"><display-name>BeIn Sports French 1</display-name></channel>
 <channel id="BeInSportsFrench2.qa"><display-name>BeIn Sports French 2</display-name></channel>
 <channel id="BeInSportsFrench3.qa"><display-name>BeIn Sports French 3</display-name></channel>
-<programme start="20211112224500 +0000" stop="20211113003000 +0000" channel="BeInSports.qa"><title lang="en">Real Madrid vs Rayo Vallecano - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113003000 +0000" stop="20211113013000 +0000" channel="BeInSports.qa"><title lang="en">LaLiga Talking Football 2021/2022 Ep.2</title><category lang="en">Sports General</category></programme>
-<programme start="20211113013000 +0000" stop="20211113031500 +0000" channel="BeInSports.qa"><title lang="en">RCD Espanyol vs Granada CF - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113031500 +0000" stop="20211113050000 +0000" channel="BeInSports.qa"><title lang="en">RC Celta de Vigo vs FC Barcelona - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113050000 +0000" stop="20211113060000 +0000" channel="BeInSports.qa"><title lang="en">La Liga Highlights 2021/2022 Ep.13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113060000 +0000" stop="20211113074500 +0000" channel="BeInSports.qa"><title lang="en">CA Osasuna vs Real Sociedad - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113074500 +0000" stop="20211113093000 +0000" channel="BeInSports.qa"><title lang="en">Real Betis vs Sevilla FC - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113093000 +0000" stop="20211113103000 +0000" channel="BeInSports.qa"><title lang="en">LaLiga SmartBank 2021/2022 Highlights Ep.15</title><category lang="en">Spanish League - Segunda Division</category></programme>
-<programme start="20211113103000 +0000" stop="20211113121500 +0000" channel="BeInSports.qa"><title lang="en">Deportivo Alavés vs Levante UD - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113121500 +0000" stop="20211113140000 +0000" channel="BeInSports.qa"><title lang="en">Real Madrid vs Rayo Vallecano - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113140000 +0000" stop="20211113143000 +0000" channel="BeInSports.qa"><title lang="en">La Liga Chronicles 2021/2022 Ep.10</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113143000 +0000" stop="20211113161500 +0000" channel="BeInSports.qa"><title lang="en">Villarreal CF vs Getafe CF - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113161500 +0000" stop="20211113180000 +0000" channel="BeInSports.qa"><title lang="en">Valencia CF vs Atlético de Madrid - Spanish La Liga 2021/2022 Week 13</title><category lang="en">Spanish League - Primera División</category></programme>
-<programme start="20211113180000 +0000" stop="20211113190000 +0000" channel="BeInSports.qa"><title lang="en">LaLiga Talking Football 2021/2022 Ep.2</title><category lang="en">Sports General</category></programme>
-<programme start="20211113190000 +0000" stop="20211113193000 +0000" channel="BeInSports.qa"><title lang="en">Spain vs France - UEFA Nations League Mini Matches 2020/21</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211113193000 +0000" stop="20211113200000 +0000" channel="BeInSports.qa"><title lang="en">Valencia vs Atletico Madrid - Mini Match - Spanish La Liga 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211113200000 +0000" stop="20211113203000 +0000" channel="BeInSports.qa"><title lang="en">Betis vs Sevilla - Mini Match - Spanish La Liga 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211113203000 +0000" stop="20211113210000 +0000" channel="BeInSports.qa"><title lang="en">Celta vs Barcelona - Mini Match - Spanish La Liga 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211112231500 +0000" stop="20211113010000 +0000" channel="BeInSportsNews.qa"><title lang="en">Reims vs Monaco - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113010000 +0000" stop="20211113020000 +0000" channel="BeInSportsNews.qa"><title lang="en">EURO 2020 -Review Tournament- EURO 2020</title><category lang="en">Sports General</category></programme>
-<programme start="20211113020000 +0000" stop="20211113034500 +0000" channel="BeInSportsNews.qa"><title lang="en">Nice vs Montpellier - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113034500 +0000" stop="20211113053000 +0000" channel="BeInSportsNews.qa"><title lang="en">Rennes vs Lyon - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113053000 +0000" stop="20211113060000 +0000" channel="BeInSportsNews.qa"><title lang="en">UEFA UCL the Players (Mbappe and De Bryune)</title><category lang="en">Sports General</category></programme>
-<programme start="20211113060000 +0000" stop="20211113074500 +0000" channel="BeInSportsNews.qa"><title lang="en">Lens vs Troyes - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113074500 +0000" stop="20211113093000 +0000" channel="BeInSportsNews.qa"><title lang="en">Lorient vs Brest - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113093000 +0000" stop="20211113100000 +0000" channel="BeInSportsNews.qa"><title lang="en">This Is Paris 2021/2022 Ep.13</title><category lang="en">Sports General</category></programme>
-<programme start="20211113100000 +0000" stop="20211113103000 +0000" channel="BeInSportsNews.qa"><title lang="en">Road to the Final Copa Sudamericana</title><category lang="en">Sports General</category></programme>
-<programme start="20211113103000 +0000" stop="20211113110000 +0000" channel="BeInSportsNews.qa"><title lang="en">Rennes vs Lyon - Mini Match - French Ligue 1 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211113110000 +0000" stop="20211113124500 +0000" channel="BeInSportsNews.qa"><title lang="en">Marseille vs Metz - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113124500 +0000" stop="20211113143000 +0000" channel="BeInSportsNews.qa"><title lang="en">Reims vs Monaco - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113143000 +0000" stop="20211113153000 +0000" channel="BeInSportsNews.qa"><title lang="en">UCL-The Hope Cup</title><category lang="en">Sports General</category></programme>
-<programme start="20211113153000 +0000" stop="20211113171500 +0000" channel="BeInSportsNews.qa"><title lang="en">Nice vs Montpellier - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113171500 +0000" stop="20211113190000 +0000" channel="BeInSportsNews.qa"><title lang="en">Rennes vs Lyon - French Ligue 1 2021/2022 - Week 13</title><category lang="en">French League - Ligue 1</category></programme>
-<programme start="20211113190000 +0000" stop="20211113193000 +0000" channel="BeInSportsNews.qa"><title lang="en">Marseille vs Metz - Mini Match - French Ligue 1 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211113193000 +0000" stop="20211113200000 +0000" channel="BeInSportsNews.qa"><title lang="en">Nice vs Montpellier - Mini Match - French Ligue 1 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211113200000 +0000" stop="20211113203000 +0000" channel="BeInSportsNews.qa"><title lang="en">Rennes vs Lyon - Mini Match - French Ligue 1 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211113203000 +0000" stop="20211113210000 +0000" channel="BeInSportsNews.qa"><title lang="en">Bordeaux vs PSG - Mini Match - French Ligue 1 2021/22</title><category lang="en">Mini Matches</category></programme>
-<programme start="20211112230000 +0000" stop="20211113010000 +0000" channel="BeInSports1.qa"><title lang="en">International Swimming league 2021 - Playoffs - Day 1</title><category lang="en">Swimming</category></programme>
-<programme start="20211113010000 +0000" stop="20211113030000 +0000" channel="BeInSports1.qa"><title lang="en">International Swimming league 2021 - Playoffs - Day 1</title><category lang="en">Swimming</category></programme>
-<programme start="20211113030000 +0000" stop="20211113043000 +0000" channel="BeInSports1.qa"><title lang="en">Secret of Success : Ahmed Al Bahrani, The Human Artist</title><category lang="en">Sports General</category></programme>
-<programme start="20211113043000 +0000" stop="20211113053000 +0000" channel="BeInSports1.qa"><title lang="en">Euro 2020 - Best Goals</title><category lang="en">Sports General</category></programme>
-<programme start="20211113053000 +0000" stop="20211113063000 +0000" channel="BeInSports1.qa"><title lang="en">EURO 2020 -Review Tournament- EURO 2020</title><category lang="en">Sports General</category></programme>
-<programme start="20211113063000 +0000" stop="20211113073000 +0000" channel="BeInSports1.qa"><title lang="en">MotoGP Valencia GP  Free Practice 1 MotoGP</title><category lang="en">Moto GP - World Championship</category></programme>
-<programme start="20211113073000 +0000" stop="20211113085000 +0000" channel="BeInSports1.qa"><title lang="en">MotoGP Valencia GP  Free Practice 2 MotoGP</title><category lang="en">Moto GP - World Championship</category></programme>
-<programme start="20211113085000 +0000" stop="20211113094500 +0000" channel="BeInSports1.qa"><title lang="en">MotoGP Valencia GP  Free Practice 3 MotoGP</title><category lang="en">Moto GP - World Championship</category></programme>
-<programme start="20211113094500 +0000" stop="20211113104500 +0000" channel="BeInSports1.qa"><title lang="en">Salomon Golden Trail Championship</title><category lang="en">Sports General</category></programme>
-<programme start="20211113104500 +0000" stop="20211113113000 +0000" channel="BeInSports1.qa"><title lang="en">GP Confidential 2021 Magazine</title><category lang="en">Sports General</category></programme>
-<programme start="20211113113000 +0000" stop="20211113122500 +0000" channel="BeInSports1.qa"><title lang="en">MotoGP Valencia GP  Qualifying Moto 3</title><category lang="en">Moto GP - World Championship</category></programme>
-<programme start="20211113122500 +0000" stop="20211113130500 +0000" channel="BeInSports1.qa"><title lang="en">MotoGP Valencia GP  Free Practice 4 MotoGP</title><category lang="en">Moto GP - World Championship</category></programme>
-<programme start="20211113130500 +0000" stop="20211113140500 +0000" channel="BeInSports1.qa"><title lang="en">MotoGP Valencia GP  Qualifying Moto GP</title><category lang="en">Moto GP - World Championship</category></programme>
-<programme start="20211113140500 +0000" stop="20211113150000 +0000" channel="BeInSports1.qa"><title lang="en">MotoGP Valencia GP  Qualifying Moto 2</title><category lang="en">Moto GP - World Championship</category></programme>
-<programme start="20211113150000 +0000" stop="20211113153000 +0000" channel="BeInSports1.qa"><title lang="en">FIA European Truck Racing Championship / 2021 - Misano</title><category lang="en">Sports General</category></programme>
-<programme start="20211113153000 +0000" stop="20211113173000 +0000" channel="BeInSports1.qa"><title lang="en">International Swimming league 2021 - Playoffs - Day 2</title><category lang="en">Swimming</category></programme>
-<programme start="20211113173000 +0000" stop="20211113180000 +0000" channel="BeInSports1.qa"><title lang="en">Sporting Countdowns -Comebacks</title><category lang="en">Sports General</category></programme>
-<programme start="20211113180000 +0000" stop="20211113200000 +0000" channel="BeInSports1.qa"><title lang="en">International Swimming league 2021 - Playoffs - Day 3</title><category lang="en">Swimming</category></programme>
-<programme start="20211113200000 +0000" stop="20211113210000 +0000" channel="BeInSports1.qa"><title lang="en">Salomon Golden Trail Championship</title><category lang="en">Sports General</category></programme>
-<programme start="20211112220000 +0000" stop="20211113000000 +0000" channel="BeInSports2.qa"><title lang="en">Marquee Matchup</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113000000 +0000" stop="20211113010000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Together</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113010000 +0000" stop="20211113033000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Regular Season</title><category lang="en">Sports General</category></programme>
-<programme start="20211113033000 +0000" stop="20211113053000 +0000" channel="BeInSports2.qa"><title lang="en">Marquee Matchup</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113053000 +0000" stop="20211113060000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Action</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113060000 +0000" stop="20211113063000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Handles</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113063000 +0000" stop="20211113070000 +0000" channel="BeInSports2.qa"><title lang="en">NBA gametime</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113070000 +0000" stop="20211113073000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Handles</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113073000 +0000" stop="20211113080000 +0000" channel="BeInSports2.qa"><title lang="en">NBA gametime</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113080000 +0000" stop="20211113083000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Handles</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113083000 +0000" stop="20211113090000 +0000" channel="BeInSports2.qa"><title lang="en">NBA gametime</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113090000 +0000" stop="20211113093000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Handles</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113093000 +0000" stop="20211113100000 +0000" channel="BeInSports2.qa"><title lang="en">NBA gametime</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113100000 +0000" stop="20211113120000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Regular Season</title><category lang="en">Sports General</category></programme>
-<programme start="20211113120000 +0000" stop="20211113123000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Handles</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113123000 +0000" stop="20211113130000 +0000" channel="BeInSports2.qa"><title lang="en">NBA gametime</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113130000 +0000" stop="20211113133000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Handles</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113133000 +0000" stop="20211113140000 +0000" channel="BeInSports2.qa"><title lang="en">NBA gametime</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113140000 +0000" stop="20211113160000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Regular Season</title><category lang="en">Sports General</category></programme>
-<programme start="20211113160000 +0000" stop="20211113180000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Regular Season</title><category lang="en">Sports General</category></programme>
-<programme start="20211113180000 +0000" stop="20211113193000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Special</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113193000 +0000" stop="20211113200000 +0000" channel="BeInSports2.qa"><title lang="en">NBA Action</title><category lang="en">Entertainment</category></programme>
-<programme start="20211113200000 +0000" stop="20211113220000 +0000" channel="BeInSports2.qa"><title lang="en">Marquee Matchup</title><category lang="en">Entertainment</category></programme>
 </tv>

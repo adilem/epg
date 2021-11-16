@@ -5,43 +5,108 @@
 <channel id="IdmanTV.az"><display-name>Idman TV</display-name><icon src="https://resizer.mail.ru/p/eb83d04e-3f04-50cf-abeb-ff447189fb48/dpr:200/AAACJLBZiAcHN9w7m9cROtq2KAvaCMrm3y-sKf4N_AFprTFx13rCXy1qVYmZEs0YDLY95FK3BMaZuULcQukiaPgizHQ.png"/></channel>
 <channel id="MedeniyyetTV.az"><display-name>Medeniyyet TV</display-name></channel>
 <channel id="XezerTV.az"><display-name>Xezer TV</display-name><icon src="https://resizer.mail.ru/p/4fb35936-2ecb-5cee-834b-e91247fdae72/dpr:200/AAACW-DyItIDokGfHr2c8uEnwEhH1khSxz9JqU2IQ6Na43EX01VdDuVHkj2XNJiVr0pr835zsOqJhXNsgEoV12gq5Co.png"/></channel>
-<programme start="20211115020000 +0000" stop="20211115023000 +0000" channel="AzTV.az"><title lang="az">Gül kimi</title></programme>
-<programme start="20211115023000 +0000" stop="20211115030000 +0000" channel="AzTV.az"><title lang="az">Sənədli film</title></programme>
-<programme start="20211115030000 +0000" stop="20211115060000 +0000" channel="AzTV.az"><title lang="az">Telesəhər</title></programme>
-<programme start="20211115060000 +0000" stop="20211115063000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115063000 +0000" stop="20211115080000 +0000" channel="AzTV.az"><title lang="az">Gün başladı</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115080000 +0000" stop="20211115093000 +0000" channel="AzTV.az"><title lang="az">Həftə. Analitik-informasiya proqramı</title><category lang="az">Новости</category></programme>
-<programme start="20211115093000 +0000" stop="20211115100000 +0000" channel="AzTV.az"><title lang="az">Tarixin izi ilə</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115100000 +0000" stop="20211115103000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115103000 +0000" stop="20211115110000 +0000" channel="AzTV.az"><title lang="az">Zəfər qəhrəmanları</title><category lang="az">Документальное</category></programme>
-<programme start="20211115110000 +0000" stop="20211115120000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115120000 +0000" stop="20211115124000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115124000 +0000" stop="20211115130000 +0000" channel="AzTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115130000 +0000" stop="20211115140000 +0000" channel="AzTV.az"><title lang="az">Çıxışa doğru</title><category lang="az">Другое</category></programme>
-<programme start="20211115140000 +0000" stop="20211115143000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115143000 +0000" stop="20211115150000 +0000" channel="AzTV.az"><title lang="az">Oxuyur Vətən</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115150000 +0000" stop="20211115153000 +0000" channel="AzTV.az"><title lang="az">Region xəbərləri</title><category lang="az">Новости</category></programme>
-<programme start="20211115153000 +0000" stop="20211115160000 +0000" channel="AzTV.az"><title lang="az">İqtisadiyyat xəbərləri</title><category lang="az">Новости</category></programme>
-<programme start="20211115160000 +0000" stop="20211115183000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115183000 +0000" stop="20211115190000 +0000" channel="AzTV.az"><title lang="az">Qəhrəmanın səsi</title><category lang="az">Документальное</category></programme>
-<programme start="20211115190000 +0000" stop="20211115200000 +0000" channel="AzTV.az"><title lang="az">Diriliş Ertoğrul</title><category lang="az">Сериал</category></programme>
-<programme start="20211115200000 +0000" stop="20211115201500 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115201500 +0000" stop="20211115210000 +0000" channel="AzTV.az"><title lang="az">Gec də olsa</title><category lang="az">Новости</category></programme>
-<programme start="20211115210000 +0000" stop="20211115220000 +0000" channel="AzTV.az"><title lang="az">Böyük dayaq</title><category lang="az">Фильм</category></programme>
-<programme start="20211115220000 +0000" stop="20211115224500 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115224500 +0000" stop="20211115231500 +0000" channel="AzTV.az"><title lang="az">Qəhrəmanın səsi</title><category lang="az">Документальное</category></programme>
-<programme start="20211115231500 +0000" stop="20211116000000 +0000" channel="AzTV.az"><title lang="az">Diriliş Ertoğrul</title><category lang="az">Сериал</category></programme>
-<programme start="20211116000000 +0000" stop="20211116010000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211116010000 +0000" stop="20211116013000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211116013000 +0000" stop="20211116023000 +0000" channel="AzTV.az"><title lang="az">Çıxışa doğru</title><category lang="az">Другое</category></programme>
+<programme start="20211116020500 +0000" stop="20211116023000 +0000" channel="ARBGunes.az"><title lang="az">Süngər Bob</title></programme>
+<programme start="20211116023000 +0000" stop="20211116024000 +0000" channel="ARBGunes.az"><title lang="az">Arıların hekayələri</title></programme>
+<programme start="20211116024000 +0000" stop="20211116040000 +0000" channel="ARBGunes.az"><title lang="az">Vinni Puxun çoxsaylı macəraları</title></programme>
+<programme start="20211116040000 +0000" stop="20211116043000 +0000" channel="ARBGunes.az"><title lang="az">Çərpələng maarifləndirci proqram</title><category lang="az">Позновательное</category></programme>
+<programme start="20211116043000 +0000" stop="20211116045500 +0000" channel="ARBGunes.az"><title lang="az">Gözətçi şir</title><category lang="az">Сериал</category></programme>
+<programme start="20211116045500 +0000" stop="20211116050000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211116050000 +0000" stop="20211116051500 +0000" channel="ARBGunes.az"><title lang="az">Mərcangildə maarifləndirci proqram</title><category lang="az">Позновательное</category></programme>
+<programme start="20211116051500 +0000" stop="20211116053000 +0000" channel="ARBGunes.az"><title lang="az">Tayonun macəraları</title></programme>
+<programme start="20211116053000 +0000" stop="20211116053500 +0000" channel="ARBGunes.az"><title lang="az">Qazon</title></programme>
+<programme start="20211116053500 +0000" stop="20211116060000 +0000" channel="ARBGunes.az"><title lang="az">Köməyə tələsən itlər</title></programme>
+<programme start="20211116060000 +0000" stop="20211116061000 +0000" channel="ARBGunes.az"><title lang="az">Mişo və Robin</title></programme>
+<programme start="20211116061000 +0000" stop="20211116062500 +0000" channel="ARBGunes.az"><title lang="az">Köstəbək və Panda</title></programme>
+<programme start="20211116062500 +0000" stop="20211116065000 +0000" channel="ARBGunes.az"><title lang="az">Qoyun Şon</title></programme>
+<programme start="20211116065000 +0000" stop="20211116071500 +0000" channel="ARBGunes.az"><title lang="az">Balaca şahzadə</title></programme>
+<programme start="20211116071500 +0000" stop="20211116074000 +0000" channel="ARBGunes.az"><title lang="az">Dağ siçanının macəraları</title></programme>
+<programme start="20211116074000 +0000" stop="20211116080500 +0000" channel="ARBGunes.az"><title lang="az">Gözətçi şir</title><category lang="az">Сериал</category></programme>
+<programme start="20211116080500 +0000" stop="20211116093500 +0000" channel="ARBGunes.az"><title lang="az">Cizgi filmi</title></programme>
+<programme start="20211116093500 +0000" stop="20211116094000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211116094000 +0000" stop="20211116100500 +0000" channel="ARBGunes.az"><title lang="az">Super qanadlar: Cett və onun dostları</title></programme>
+<programme start="20211116100500 +0000" stop="20211116103000 +0000" channel="ARBGunes.az"><title lang="az">Köməyə tələsən itlər</title></programme>
+<programme start="20211116103000 +0000" stop="20211116110000 +0000" channel="ARBGunes.az"><title lang="az">Çərpələng</title><category lang="az">Другое</category></programme>
+<programme start="20211116110000 +0000" stop="20211116112500 +0000" channel="ARBGunes.az"><title lang="az">Balaca şahzadə</title></programme>
+<programme start="20211116112500 +0000" stop="20211116115000 +0000" channel="ARBGunes.az"><title lang="az">Tom və Cerri</title></programme>
+<programme start="20211116115000 +0000" stop="20211116121500 +0000" channel="ARBGunes.az"><title lang="az">Qoyun Şon</title></programme>
+<programme start="20211116121500 +0000" stop="20211116124000 +0000" channel="ARBGunes.az"><title lang="az">Dağ siçanının macəraları</title></programme>
+<programme start="20211116124000 +0000" stop="20211116125500 +0000" channel="ARBGunes.az"><title lang="az">Mərcangildə</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211116125500 +0000" stop="20211116130500 +0000" channel="ARBGunes.az"><title lang="az">Ayı balaları</title></programme>
+<programme start="20211116130500 +0000" stop="20211116131500 +0000" channel="ARBGunes.az"><title lang="az">Mişo və Robin</title></programme>
+<programme start="20211116131500 +0000" stop="20211116134000 +0000" channel="ARBGunes.az"><title lang="az">Çip və Deyl köməyə tələsirlər</title></programme>
+<programme start="20211116134000 +0000" stop="20211116135500 +0000" channel="ARBGunes.az"><title lang="az">Tayonun macəraları</title></programme>
+<programme start="20211116135500 +0000" stop="20211116140000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211116140000 +0000" stop="20211116141000 +0000" channel="ARBGunes.az"><title lang="az">Xəbərdar ol - xəbər proqramı</title><category lang="az">Новости</category></programme>
+<programme start="20211116141000 +0000" stop="20211116153000 +0000" channel="ARBGunes.az"><title lang="az">Tinker Bell: İtirilmiş xəzinənin axtarışında</title></programme>
+<programme start="20211116153000 +0000" stop="20211116153500 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211116153500 +0000" stop="20211116160000 +0000" channel="ARBGunes.az"><title lang="az">Super qanadlar: Cett və onun dostları</title></programme>
+<programme start="20211116160000 +0000" stop="20211116162500 +0000" channel="ARBGunes.az"><title lang="az">Kunq-fu Panda</title></programme>
+<programme start="20211116162500 +0000" stop="20211116165000 +0000" channel="ARBGunes.az"><title lang="az">Çip və Deyl köməyə tələsirlər</title></programme>
+<programme start="20211116165000 +0000" stop="20211116165500 +0000" channel="ARBGunes.az"><title lang="az">Yuxunuz şirin olsun</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211116165500 +0000" stop="20211116170000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211116170000 +0000" stop="20211116183500 +0000" channel="ARBGunes.az"><title lang="az">Əjdaha ovu</title></programme>
+<programme start="20211116183500 +0000" stop="20211116194500 +0000" channel="ARBGunes.az"><title lang="az">Cizgi filmi</title></programme>
+<programme start="20211116194500 +0000" stop="20211116210000 +0000" channel="ARBGunes.az"><title lang="az">Vinni Puxun çoxsaylı macəraları</title></programme>
+<programme start="20211116210000 +0000" stop="20211116212500 +0000" channel="ARBGunes.az"><title lang="az">Süngər Bob</title></programme>
+<programme start="20211116212500 +0000" stop="20211116225500 +0000" channel="ARBGunes.az"><title lang="az">Cizgi filmi</title></programme>
+<programme start="20211116225500 +0000" stop="20211116232000 +0000" channel="ARBGunes.az"><title lang="az">Kunq-fu Panda</title></programme>
+<programme start="20211116232000 +0000" stop="20211117003500 +0000" channel="ARBGunes.az"><title lang="az">Cizgi filmi</title></programme>
+<programme start="20211117003500 +0000" stop="20211117013500 +0000" channel="ARBGunes.az"><title lang="az">Əjdaha ovu</title></programme>
+<programme start="20211117020500 +0000" stop="20211117023000 +0000" channel="ARBGunes.az"><title lang="az">Süngər Bob</title></programme>
+<programme start="20211117023000 +0000" stop="20211117024000 +0000" channel="ARBGunes.az"><title lang="az">Arıların hekayələri</title></programme>
+<programme start="20211117024000 +0000" stop="20211117034000 +0000" channel="ARBGunes.az"><title lang="az">Vinni Pux</title></programme>
+<programme start="20211117034000 +0000" stop="20211117040000 +0000" channel="ARBGunes.az"><title lang="az">Köstəbək və Panda</title></programme>
+<programme start="20211117040000 +0000" stop="20211117043000 +0000" channel="ARBGunes.az"><title lang="az">Çərpələng maarifləndirci proqram</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117043000 +0000" stop="20211117045500 +0000" channel="ARBGunes.az"><title lang="az">Gözətçi şir</title><category lang="az">Сериал</category></programme>
+<programme start="20211117045500 +0000" stop="20211117050000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211117050000 +0000" stop="20211117051500 +0000" channel="ARBGunes.az"><title lang="az">Mərcangildə maarifləndirci proqram</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117051500 +0000" stop="20211117053000 +0000" channel="ARBGunes.az"><title lang="az">Tayonun macəraları</title></programme>
+<programme start="20211117053000 +0000" stop="20211117053500 +0000" channel="ARBGunes.az"><title lang="az">Qazon</title></programme>
+<programme start="20211117053500 +0000" stop="20211117060000 +0000" channel="ARBGunes.az"><title lang="az">Köməyə tələsən itlər</title></programme>
+<programme start="20211117060000 +0000" stop="20211117061000 +0000" channel="ARBGunes.az"><title lang="az">Mişo və Robin</title></programme>
+<programme start="20211117061000 +0000" stop="20211117062500 +0000" channel="ARBGunes.az"><title lang="az">Köstəbək və Panda</title></programme>
+<programme start="20211117062500 +0000" stop="20211117065000 +0000" channel="ARBGunes.az"><title lang="az">Qoyun Şon</title></programme>
+<programme start="20211117065000 +0000" stop="20211117071500 +0000" channel="ARBGunes.az"><title lang="az">Balaca şahzadə</title></programme>
+<programme start="20211117071500 +0000" stop="20211117074000 +0000" channel="ARBGunes.az"><title lang="az">Dağ siçanının macəraları</title></programme>
+<programme start="20211117074000 +0000" stop="20211117080500 +0000" channel="ARBGunes.az"><title lang="az">Gözətçi şir</title><category lang="az">Сериал</category></programme>
+<programme start="20211117080500 +0000" stop="20211117093500 +0000" channel="ARBGunes.az"><title lang="az">Həşəratların həyatı: Flikin macəraları</title></programme>
+<programme start="20211117093500 +0000" stop="20211117094000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211117094000 +0000" stop="20211117100500 +0000" channel="ARBGunes.az"><title lang="az">Super qanadlar: Cett və onun dostları</title></programme>
+<programme start="20211117100500 +0000" stop="20211117103000 +0000" channel="ARBGunes.az"><title lang="az">Köməyə tələsən itlər</title></programme>
+<programme start="20211117103000 +0000" stop="20211117110000 +0000" channel="ARBGunes.az"><title lang="az">Çərpələng</title><category lang="az">Другое</category></programme>
+<programme start="20211117110000 +0000" stop="20211117112500 +0000" channel="ARBGunes.az"><title lang="az">Balaca şahzadə</title></programme>
+<programme start="20211117112500 +0000" stop="20211117115000 +0000" channel="ARBGunes.az"><title lang="az">Tom və Cerri</title></programme>
+<programme start="20211117115000 +0000" stop="20211117121500 +0000" channel="ARBGunes.az"><title lang="az">Qoyun Şon</title></programme>
+<programme start="20211117121500 +0000" stop="20211117124000 +0000" channel="ARBGunes.az"><title lang="az">Dağ siçanının macəraları</title></programme>
+<programme start="20211117124000 +0000" stop="20211117125500 +0000" channel="ARBGunes.az"><title lang="az">Mərcangildə</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117125500 +0000" stop="20211117130500 +0000" channel="ARBGunes.az"><title lang="az">Ayı balaları</title></programme>
+<programme start="20211117130500 +0000" stop="20211117131500 +0000" channel="ARBGunes.az"><title lang="az">Mişo və Robin</title></programme>
+<programme start="20211117131500 +0000" stop="20211117134000 +0000" channel="ARBGunes.az"><title lang="az">Çip və Deyl köməyə tələsirlər</title></programme>
+<programme start="20211117134000 +0000" stop="20211117135500 +0000" channel="ARBGunes.az"><title lang="az">Tayonun macəraları</title></programme>
+<programme start="20211117135500 +0000" stop="20211117140000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211117140000 +0000" stop="20211117141000 +0000" channel="ARBGunes.az"><title lang="az">Xəbərdar ol - xəbər proqramı</title><category lang="az">Новости</category></programme>
+<programme start="20211117141000 +0000" stop="20211117143500 +0000" channel="ARBGunes.az"><title lang="az">Qoyun Şon</title></programme>
+<programme start="20211117143500 +0000" stop="20211117150000 +0000" channel="ARBGunes.az"><title lang="az">Super qanadlar: Cett və onun dostları</title></programme>
+<programme start="20211117150000 +0000" stop="20211117162000 +0000" channel="ARBGunes.az"><title lang="az">Sözün sehri Mədənimaarifçilik</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117162000 +0000" stop="20211117162500 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211117162500 +0000" stop="20211117165000 +0000" channel="ARBGunes.az"><title lang="az">Çip və Deyl köməyə tələsirlər</title></programme>
+<programme start="20211117165000 +0000" stop="20211117165500 +0000" channel="ARBGunes.az"><title lang="az">Yuxunuz şirin olsun</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117165500 +0000" stop="20211117170000 +0000" channel="ARBGunes.az"><title lang="az">Hava necə olacaq?</title><category lang="az">Новости</category></programme>
+<programme start="20211117170000 +0000" stop="20211117183500 +0000" channel="ARBGunes.az"><title lang="az">Əjdaha ovu</title></programme>
+<programme start="20211117183500 +0000" stop="20211117194500 +0000" channel="ARBGunes.az"><title lang="az">İmperatorun sərgüzəştləri</title></programme>
+<programme start="20211117194500 +0000" stop="20211117210000 +0000" channel="ARBGunes.az"><title lang="az">Vinni Pux</title></programme>
+<programme start="20211117210000 +0000" stop="20211117212500 +0000" channel="ARBGunes.az"><title lang="az">Süngər Bob</title></programme>
+<programme start="20211117212500 +0000" stop="20211117225500 +0000" channel="ARBGunes.az"><title lang="az">Həşəratların həyatı: Flikin macəraları</title></programme>
+<programme start="20211117225500 +0000" stop="20211117232000 +0000" channel="ARBGunes.az"><title lang="az">Kunq-fu Panda</title></programme>
+<programme start="20211117232000 +0000" stop="20211118003500 +0000" channel="ARBGunes.az"><title lang="az">İmperatorun sərgüzəştləri</title></programme>
+<programme start="20211118003500 +0000" stop="20211118013500 +0000" channel="ARBGunes.az"><title lang="az">Əjdaha ovu</title></programme>
 <programme start="20211116023000 +0000" stop="20211116030000 +0000" channel="AzTV.az"><title lang="az">Sənədli film</title></programme>
 <programme start="20211116030000 +0000" stop="20211116060000 +0000" channel="AzTV.az"><title lang="az">Telesəhər</title></programme>
 <programme start="20211116060000 +0000" stop="20211116063000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
 <programme start="20211116063000 +0000" stop="20211116080000 +0000" channel="AzTV.az"><title lang="az">Gün başladı</title><category lang="az">Развлекательное</category></programme>
 <programme start="20211116080000 +0000" stop="20211116083000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
 <programme start="20211116083000 +0000" stop="20211116100000 +0000" channel="AzTV.az"><title lang="az">Konsert proqramı</title></programme>
-<programme start="20211116100000 +0000" stop="20211116103000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211116103000 +0000" stop="20211116110000 +0000" channel="AzTV.az"><title lang="az">Zəfər qəhrəmanları</title><category lang="az">Документальное</category></programme>
+<programme start="20211116100000 +0000" stop="20211116110000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
 <programme start="20211116110000 +0000" stop="20211116120000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
 <programme start="20211116120000 +0000" stop="20211116124000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
 <programme start="20211116124000 +0000" stop="20211116130000 +0000" channel="AzTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
@@ -55,47 +120,50 @@
 <programme start="20211116173000 +0000" stop="20211116180000 +0000" channel="AzTV.az"><title lang="az">Oxuyur Vətən</title><category lang="az">Позновательное</category></programme>
 <programme start="20211116180000 +0000" stop="20211116190000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
 <programme start="20211116190000 +0000" stop="20211116200000 +0000" channel="AzTV.az"><title lang="az">Diriliş Ertoğrul</title><category lang="az">Сериал</category></programme>
-<programme start="20211115021000 +0000" stop="20211115022500 +0000" channel="IctimaiTV.az"><title lang="az">Musiqi</title></programme>
-<programme start="20211115022500 +0000" stop="20211115030000 +0000" channel="IctimaiTV.az"><title lang="az">Yeməsəm olmaz</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115030000 +0000" stop="20211115031000 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115031000 +0000" stop="20211115060000 +0000" channel="IctimaiTV.az"><title lang="az">Sabahın xeyir, Azərbaycan!</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115060000 +0000" stop="20211115075000 +0000" channel="IctimaiTV.az"><title lang="az">Dikdaban</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115075000 +0000" stop="20211115080000 +0000" channel="IctimaiTV.az"><title lang="az">Xəbərimiz var</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115080000 +0000" stop="20211115081500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115081500 +0000" stop="20211115082500 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
-<programme start="20211115082500 +0000" stop="20211115085000 +0000" channel="IctimaiTV.az"><title lang="az">Bura Vətəndir!</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115085000 +0000" stop="20211115095000 +0000" channel="IctimaiTV.az"><title lang="az">Sağlam yaşamaq</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115095000 +0000" stop="20211115105000 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115105000 +0000" stop="20211115110000 +0000" channel="IctimaiTV.az"><title lang="az">Xəbərimiz var</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115110000 +0000" stop="20211115112000 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115112000 +0000" stop="20211115115000 +0000" channel="IctimaiTV.az"><title lang="az">Diqqət mərkəzi</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115115000 +0000" stop="20211115124000 +0000" channel="IctimaiTV.az"><title lang="az">Necə hazırlanır?</title><category lang="az">Документальное</category></programme>
-<programme start="20211115124000 +0000" stop="20211115131000 +0000" channel="IctimaiTV.az"><title lang="az">Mag</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115131000 +0000" stop="20211115140000 +0000" channel="IctimaiTV.az"><title lang="az">Kulfi</title><category lang="az">Фильм</category></programme>
-<programme start="20211115140000 +0000" stop="20211115142500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115142500 +0000" stop="20211115161000 +0000" channel="IctimaiTV.az"><title lang="az">Sabaha Saxlamayaq</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115161000 +0000" stop="20211115170000 +0000" channel="IctimaiTV.az"><title lang="az">Seddülbahir 32 Saat</title><category lang="az">Сериал</category></programme>
-<programme start="20211115170000 +0000" stop="20211115172500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115172500 +0000" stop="20211115173500 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
-<programme start="20211115173500 +0000" stop="20211115183000 +0000" channel="IctimaiTV.az"><title lang="az">Diqqət mərkəzi</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115183000 +0000" stop="20211115190000 +0000" channel="IctimaiTV.az"><title lang="az">Qarabağ gündəliyi</title><category lang="az">Новости</category></programme>
-<programme start="20211115190000 +0000" stop="20211115200000 +0000" channel="IctimaiTV.az"><title lang="az">Körpü</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115200000 +0000" stop="20211115200500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115200500 +0000" stop="20211115210500 +0000" channel="IctimaiTV.az"><title lang="az">Bol idman</title><category lang="az">Новости</category></programme>
-<programme start="20211115210500 +0000" stop="20211115213500 +0000" channel="IctimaiTV.az"><title lang="az">Vətən uzaqda deyil</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115213500 +0000" stop="20211115220500 +0000" channel="IctimaiTV.az"><title lang="az">Bura Vətəndir!</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115220500 +0000" stop="20211115230000 +0000" channel="IctimaiTV.az"><title lang="az">Diqqət mərkəzi</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115230000 +0000" stop="20211115232500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115232500 +0000" stop="20211115233000 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
-<programme start="20211115233000 +0000" stop="20211116011000 +0000" channel="IctimaiTV.az"><title lang="az">Sabaha Saxlamayaq</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211116011000 +0000" stop="20211116021000 +0000" channel="IctimaiTV.az"><title lang="az">Körpü</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211116200000 +0000" stop="20211116201500 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211116201500 +0000" stop="20211116210000 +0000" channel="AzTV.az"><title lang="az">Gec də olsa</title><category lang="az">Новости</category></programme>
+<programme start="20211116210000 +0000" stop="20211116220000 +0000" channel="AzTV.az"><title lang="az">Dədə Qorqud</title><category lang="az">Фильм</category></programme>
+<programme start="20211116220000 +0000" stop="20211116231500 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211116231500 +0000" stop="20211117000000 +0000" channel="AzTV.az"><title lang="az">Diriliş Ertoğrul</title><category lang="az">Сериал</category></programme>
+<programme start="20211117000000 +0000" stop="20211117010000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117010000 +0000" stop="20211117013000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117013000 +0000" stop="20211117023000 +0000" channel="AzTV.az"><title lang="az">Çıxışa doğru</title><category lang="az">Другое</category></programme>
+<programme start="20211117023000 +0000" stop="20211117030000 +0000" channel="AzTV.az"><title lang="az">Sənədli film</title></programme>
+<programme start="20211117030000 +0000" stop="20211117060000 +0000" channel="AzTV.az"><title lang="az">Telesəhər</title></programme>
+<programme start="20211117060000 +0000" stop="20211117063000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117063000 +0000" stop="20211117080000 +0000" channel="AzTV.az"><title lang="az">Gün başladı</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117080000 +0000" stop="20211117083000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117083000 +0000" stop="20211117090000 +0000" channel="AzTV.az"><title lang="az">Çöl adamı məcarə axtarışında</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117090000 +0000" stop="20211117100000 +0000" channel="AzTV.az"><title lang="az">Diriliş Ertoğrul</title><category lang="az">Сериал</category></programme>
+<programme start="20211117100000 +0000" stop="20211117103000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117103000 +0000" stop="20211117110000 +0000" channel="AzTV.az"><title lang="az">ASAN həyat</title><category lang="az">Документальное</category></programme>
+<programme start="20211117110000 +0000" stop="20211117120000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117120000 +0000" stop="20211117124000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117124000 +0000" stop="20211117130000 +0000" channel="AzTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117130000 +0000" stop="20211117140000 +0000" channel="AzTV.az"><title lang="az">Çıxışa doğru</title><category lang="az">Другое</category></programme>
+<programme start="20211117140000 +0000" stop="20211117143000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117143000 +0000" stop="20211117150000 +0000" channel="AzTV.az"><title lang="az">Belə-belə işlər</title><category lang="az">Новости</category></programme>
+<programme start="20211117150000 +0000" stop="20211117153000 +0000" channel="AzTV.az"><title lang="az">Region xəbərləri</title><category lang="az">Новости</category></programme>
+<programme start="20211117153000 +0000" stop="20211117160000 +0000" channel="AzTV.az"><title lang="az">İqtisadiyyat xəbərləri</title><category lang="az">Новости</category></programme>
+<programme start="20211117160000 +0000" stop="20211117170000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117170000 +0000" stop="20211117173000 +0000" channel="AzTV.az"><title lang="az">Obyektiv</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117173000 +0000" stop="20211117180000 +0000" channel="AzTV.az"><title lang="az">Azərbaycan deyəndə</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="AzTV.az"><title lang="az">Diriliş Ertoğrul</title><category lang="az">Сериал</category></programme>
+<programme start="20211117200000 +0000" stop="20211117201500 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117201500 +0000" stop="20211117210000 +0000" channel="AzTV.az"><title lang="az">Gec də olsa</title><category lang="az">Новости</category></programme>
+<programme start="20211117210000 +0000" stop="20211117220000 +0000" channel="AzTV.az"><title lang="az">Fokus</title><category lang="az">Фильм</category></programme>
+<programme start="20211117220000 +0000" stop="20211117224500 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117224500 +0000" stop="20211117231500 +0000" channel="AzTV.az"><title lang="az">Obyektiv</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117231500 +0000" stop="20211118000000 +0000" channel="AzTV.az"><title lang="az">Diriliş Ertoğrul</title><category lang="az">Сериал</category></programme>
+<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="AzTV.az"><title lang="az">Əsas məsələ</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="AzTV.az"><title lang="az">AzTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211118013000 +0000" stop="20211118023000 +0000" channel="AzTV.az"><title lang="az">Çıxışa doğru</title><category lang="az">Другое</category></programme>
 <programme start="20211116021000 +0000" stop="20211116030000 +0000" channel="IctimaiTV.az"><title lang="az">Kulfi</title><category lang="az">Фильм</category></programme>
 <programme start="20211116030000 +0000" stop="20211116031000 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
 <programme start="20211116031000 +0000" stop="20211116060000 +0000" channel="IctimaiTV.az"><title lang="az">Sabahın xeyir, Azərbaycan!</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211116060000 +0000" stop="20211116075000 +0000" channel="IctimaiTV.az"><title lang="az">Dikdaban</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211116075000 +0000" stop="20211116080000 +0000" channel="IctimaiTV.az"><title lang="az">Xəbərimiz var</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211116080000 +0000" stop="20211116081500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211116081500 +0000" stop="20211116082500 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
+<programme start="20211116060000 +0000" stop="20211116080000 +0000" channel="IctimaiTV.az"><title lang="az">Dikdaban Sadəcə şarm verilişidir</title><category lang="az">Позновательное</category></programme>
+<programme start="20211116080000 +0000" stop="20211116082500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
 <programme start="20211116082500 +0000" stop="20211116085000 +0000" channel="IctimaiTV.az"><title lang="az">Itvtech</title><category lang="az">Новости</category></programme>
 <programme start="20211116085000 +0000" stop="20211116095000 +0000" channel="IctimaiTV.az"><title lang="az">Sağlam yaşamaq</title><category lang="az">Позновательное</category></programme>
 <programme start="20211116095000 +0000" stop="20211116105000 +0000" channel="IctimaiTV.az"><title lang="az">Alyaskada</title></programme>
@@ -121,33 +189,38 @@
 <programme start="20211116232500 +0000" stop="20211116233000 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
 <programme start="20211116233000 +0000" stop="20211117011000 +0000" channel="IctimaiTV.az"><title lang="az">Sabaha Saxlamayaq</title><category lang="az">Развлекательное</category></programme>
 <programme start="20211117011000 +0000" stop="20211117021000 +0000" channel="IctimaiTV.az"><title lang="az">Körpü</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115020000 +0000" stop="20211115023000 +0000" channel="IdmanTV.az"><title lang="az">Debüt</title><category lang="az">Другое</category></programme>
-<programme start="20211115023000 +0000" stop="20211115030000 +0000" channel="IdmanTV.az"><title lang="az">Əfsanəvi finallar</title><category lang="az">Документальное</category></programme>
-<programme start="20211115030000 +0000" stop="20211115050000 +0000" channel="IdmanTV.az"><title lang="az">Basketbol. Türkiyə Superliqası: Fənərbağça - Mərkəzəfəndi</title></programme>
-<programme start="20211115050000 +0000" stop="20211115060000 +0000" channel="IdmanTV.az"><title lang="az">İdman Səhər</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115060000 +0000" stop="20211115061000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115061000 +0000" stop="20211115064000 +0000" channel="IdmanTV.az"><title lang="az">İdman Səhər. Прямая трансляция</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115064000 +0000" stop="20211115080000 +0000" channel="IdmanTV.az"><title lang="az">Formula 1. Braziliya qran prisi. Təsnifat mərhələsi</title></programme>
-<programme start="20211115080000 +0000" stop="20211115082000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115082000 +0000" stop="20211115100000 +0000" channel="IdmanTV.az"><title lang="az">Basketbol. Türkiyə Superliqası: Tofaş - Qazientep</title></programme>
-<programme start="20211115100000 +0000" stop="20211115103000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115103000 +0000" stop="20211115110000 +0000" channel="IdmanTV.az"><title lang="az">Velo Ekstrim</title></programme>
-<programme start="20211115110000 +0000" stop="20211115120000 +0000" channel="IdmanTV.az"><title lang="az">Tokio-2020 Yay Olimpiya Oyunları</title></programme>
-<programme start="20211115120000 +0000" stop="20211115122000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115122000 +0000" stop="20211115140000 +0000" channel="IdmanTV.az"><title lang="az">Futbolun dahiləri</title><category lang="az">Документальное</category></programme>
-<programme start="20211115140000 +0000" stop="20211115143000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115143000 +0000" stop="20211115150000 +0000" channel="IdmanTV.az"><title lang="az">Məhəbbətin gücü</title><category lang="az">Документальное</category></programme>
-<programme start="20211115150000 +0000" stop="20211115160000 +0000" channel="IdmanTV.az"><title lang="az">Bilinməyən mən</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115160000 +0000" stop="20211115163000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115163000 +0000" stop="20211115170000 +0000" channel="IdmanTV.az"><title lang="az">Sport 103</title><category lang="az">Новости</category></programme>
-<programme start="20211115170000 +0000" stop="20211115190000 +0000" channel="IdmanTV.az"><title lang="az">Mərkəzi xətt</title><category lang="az">Новости</category></programme>
-<programme start="20211115190000 +0000" stop="20211115200000 +0000" channel="IdmanTV.az"><title lang="az">Nokautlar</title><category lang="az">Новости</category></programme>
-<programme start="20211115200000 +0000" stop="20211115203000 +0000" channel="IdmanTV.az"><title lang="az">Favorit</title></programme>
-<programme start="20211115203000 +0000" stop="20211115220000 +0000" channel="IdmanTV.az"><title lang="az">Mərkəzi xətt</title><category lang="az">Новости</category></programme>
-<programme start="20211115220000 +0000" stop="20211115230000 +0000" channel="IdmanTV.az"><title lang="az">MMA. Döyüş klubu</title></programme>
-<programme start="20211115230000 +0000" stop="20211116010000 +0000" channel="IdmanTV.az"><title lang="az">Tokio-2020 Yay Olimpiya Oyunları</title></programme>
-<programme start="20211116010000 +0000" stop="20211116011000 +0000" channel="IdmanTV.az"><title lang="az">Pro bull</title><category lang="az">Новости</category></programme>
-<programme start="20211116011000 +0000" stop="20211116021000 +0000" channel="IdmanTV.az"><title lang="az">İQ arena</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117021000 +0000" stop="20211117030000 +0000" channel="IctimaiTV.az"><title lang="az">Kulfi</title><category lang="az">Фильм</category></programme>
+<programme start="20211117030000 +0000" stop="20211117031000 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117031000 +0000" stop="20211117060000 +0000" channel="IctimaiTV.az"><title lang="az">Sabahın xeyir, Azərbaycan!</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117060000 +0000" stop="20211117075000 +0000" channel="IctimaiTV.az"><title lang="az">Dikdaban Sadəcə şarm verilişidir</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117075000 +0000" stop="20211117080000 +0000" channel="IctimaiTV.az"><title lang="az">Xəbərimiz var</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117080000 +0000" stop="20211117081500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117081500 +0000" stop="20211117082500 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
+<programme start="20211117082500 +0000" stop="20211117085000 +0000" channel="IctimaiTV.az"><title lang="az">Radius</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117085000 +0000" stop="20211117095000 +0000" channel="IctimaiTV.az"><title lang="az">Sağlam yaşamaq</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117095000 +0000" stop="20211117105000 +0000" channel="IctimaiTV.az"><title lang="az">Alyaskada</title></programme>
+<programme start="20211117105000 +0000" stop="20211117110000 +0000" channel="IctimaiTV.az"><title lang="az">Xəbərimiz var</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117110000 +0000" stop="20211117112000 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117112000 +0000" stop="20211117114000 +0000" channel="IctimaiTV.az"><title lang="az">Diqqət mərkəzi</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117114000 +0000" stop="20211117124000 +0000" channel="IctimaiTV.az"><title lang="az">Birinci dubldan</title><category lang="az">Документальное</category></programme>
+<programme start="20211117124000 +0000" stop="20211117131000 +0000" channel="IctimaiTV.az"><title lang="az">Mag</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117131000 +0000" stop="20211117140000 +0000" channel="IctimaiTV.az"><title lang="az">Kulfi</title><category lang="az">Фильм</category></programme>
+<programme start="20211117140000 +0000" stop="20211117142500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117142500 +0000" stop="20211117161000 +0000" channel="IctimaiTV.az"><title lang="az">Sabaha Saxlamayaq</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117161000 +0000" stop="20211117170000 +0000" channel="IctimaiTV.az"><title lang="az">Seddülbahir 32 Saat</title><category lang="az">Сериал</category></programme>
+<programme start="20211117170000 +0000" stop="20211117172500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117172500 +0000" stop="20211117173500 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
+<programme start="20211117173500 +0000" stop="20211117183000 +0000" channel="IctimaiTV.az"><title lang="az">Diqqət mərkəzi</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117183000 +0000" stop="20211117190000 +0000" channel="IctimaiTV.az"><title lang="az">61! İntellektual oyun</title><category lang="az">ТВ-шоу</category></programme>
+<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="IctimaiTV.az"><title lang="az">Körpü</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117200000 +0000" stop="20211117200500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117200500 +0000" stop="20211117202000 +0000" channel="IctimaiTV.az"><title lang="az">Qanundan kənar</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117202000 +0000" stop="20211117220000 +0000" channel="IctimaiTV.az"><title lang="az">Brilliantı necə oğurlamalı</title><category lang="az">Фильм</category></programme>
+<programme start="20211117220000 +0000" stop="20211117230000 +0000" channel="IctimaiTV.az"><title lang="az">Diqqət mərkəzi</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117230000 +0000" stop="20211117232500 +0000" channel="IctimaiTV.az"><title lang="az">İTV Xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117232500 +0000" stop="20211117233500 +0000" channel="IctimaiTV.az"><title lang="az">İdman</title><category lang="az">Новости</category></programme>
+<programme start="20211117233500 +0000" stop="20211118011000 +0000" channel="IctimaiTV.az"><title lang="az">Sabaha Saxlamayaq</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211118011000 +0000" stop="20211118021000 +0000" channel="IctimaiTV.az"><title lang="az">Körpü</title><category lang="az">Развлекательное</category></programme>
 <programme start="20211116020000 +0000" stop="20211116023000 +0000" channel="IdmanTV.az"><title lang="az">Sabahın ulduzları</title><category lang="az">Досуг,Хобби</category></programme>
 <programme start="20211116023000 +0000" stop="20211116030000 +0000" channel="IdmanTV.az"><title lang="az">Top 10</title><category lang="az">Досуг,Хобби</category></programme>
 <programme start="20211116030000 +0000" stop="20211116050000 +0000" channel="IdmanTV.az"><title lang="az">Voleybol: Sultanlar liqası</title></programme>
@@ -169,79 +242,92 @@
 <programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="IdmanTV.az"><title lang="az">İdman Aktual. Прямая трансляция</title><category lang="az">Развлекательное</category></programme>
 <programme start="20211116180000 +0000" stop="20211116183000 +0000" channel="IdmanTV.az"><title lang="az">FİFA - 2022</title><category lang="az">Документальное</category></programme>
 <programme start="20211116183000 +0000" stop="20211116193000 +0000" channel="IdmanTV.az"><title lang="az">BasketBOL</title><category lang="az">Новости</category></programme>
-<programme start="20211116193000 +0000" stop="20211116203000 +0000" channel="IdmanTV.az"><title lang="az">MMA. Döyüş klubu</title></programme>
-<programme start="20211115024000 +0000" stop="20211115030000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
-<programme start="20211115030000 +0000" stop="20211115033000 +0000" channel="MedeniyyetTV.az"><title lang="az">Altay. İki gölün cazibəsi</title><category lang="az">Документальное</category></programme>
-<programme start="20211115033000 +0000" stop="20211115040000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi dəqiqələri</title></programme>
-<programme start="20211115040000 +0000" stop="20211115060000 +0000" channel="MedeniyyetTV.az"><title lang="az">Səhər çağı</title><category lang="az">ТВ-шоу</category></programme>
-<programme start="20211115060000 +0000" stop="20211115063000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
-<programme start="20211115063000 +0000" stop="20211115070000 +0000" channel="MedeniyyetTV.az"><title lang="az">Sənədli film</title></programme>
-<programme start="20211115070000 +0000" stop="20211115080000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi dəqiqələri</title></programme>
-<programme start="20211115080000 +0000" stop="20211115083000 +0000" channel="MedeniyyetTV.az"><title lang="az">Nar nağılı</title><category lang="az">Фильм</category></programme>
-<programme start="20211115083000 +0000" stop="20211115090000 +0000" channel="MedeniyyetTV.az"><title lang="az">Xarı bülbül festivalı</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115090000 +0000" stop="20211115105000 +0000" channel="MedeniyyetTV.az"><title lang="az">Bi-bi balaca sehirbazdır</title><category lang="az">Фильм</category></programme>
-<programme start="20211115105000 +0000" stop="20211115110000 +0000" channel="MedeniyyetTV.az"><title lang="az">Virtual Qarabağ</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115110000 +0000" stop="20211115120000 +0000" channel="MedeniyyetTV.az"><title lang="az">Konsert proqramı</title></programme>
-<programme start="20211115120000 +0000" stop="20211115130000 +0000" channel="MedeniyyetTV.az"><title lang="az">Körpü</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115130000 +0000" stop="20211115143000 +0000" channel="MedeniyyetTV.az"><title lang="az">Əsli və Kərəm</title></programme>
-<programme start="20211115143000 +0000" stop="20211115150000 +0000" channel="MedeniyyetTV.az"><title lang="az">Dərs saatı</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115150000 +0000" stop="20211115153000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mədəniyyət xəbərləri</title><category lang="az">Новости</category></programme>
-<programme start="20211115153000 +0000" stop="20211115163000 +0000" channel="MedeniyyetTV.az"><title lang="az">Vətənim”Mövzu</title><category lang="az">Позновательное</category></programme>
-<programme start="20211115163000 +0000" stop="20211115170000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi dəqiqələri</title></programme>
-<programme start="20211115170000 +0000" stop="20211115172000 +0000" channel="MedeniyyetTV.az"><title lang="az">Nağıl vaxtı</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115172000 +0000" stop="20211115190000 +0000" channel="MedeniyyetTV.az"><title lang="az">Ovqat</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115190000 +0000" stop="20211115193000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mədəniyyət xəbərləri</title><category lang="az">Новости</category></programme>
-<programme start="20211115193000 +0000" stop="20211115203000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi inciləri</title></programme>
-<programme start="20211115203000 +0000" stop="20211115223000 +0000" channel="MedeniyyetTV.az"><title lang="az">Diana. Məhəbbət macərası</title><category lang="az">Фильм</category></programme>
-<programme start="20211115223000 +0000" stop="20211115233000 +0000" channel="MedeniyyetTV.az"><title lang="az">Caz musiqisi</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115233000 +0000" stop="20211116000000 +0000" channel="MedeniyyetTV.az"><title lang="az">Nar nağılı</title><category lang="az">Фильм</category></programme>
-<programme start="20211116000000 +0000" stop="20211116010000 +0000" channel="MedeniyyetTV.az"><title lang="az">Konsert proqramı</title></programme>
-<programme start="20211116010000 +0000" stop="20211116015000 +0000" channel="MedeniyyetTV.az"><title lang="az">Vətənim</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211116015000 +0000" stop="20211116025000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi inciləri</title></programme>
-<programme start="20211116030000 +0000" stop="20211116030300 +0000" channel="MedeniyyetTV.az"><title lang="az">Himn</title><category lang="az">Другое</category></programme>
-<programme start="20211116030300 +0000" stop="20211116033000 +0000" channel="MedeniyyetTV.az"><title lang="az">Sənədli film</title></programme>
+<programme start="20211116193000 +0000" stop="20211116202000 +0000" channel="IdmanTV.az"><title lang="az">MMA. Döyüş klubu</title></programme>
+<programme start="20211116202000 +0000" stop="20211116220000 +0000" channel="IdmanTV.az"><title lang="az">Basketbol. Türkiyə Superliqası</title></programme>
+<programme start="20211116220000 +0000" stop="20211116230000 +0000" channel="IdmanTV.az"><title lang="az">Mayk Tayson. Danılmaz həqiqət</title><category lang="az">Документальное</category></programme>
+<programme start="20211116230000 +0000" stop="20211117010000 +0000" channel="IdmanTV.az"><title lang="az">Tokio-2020 Yay Olimpiya Oyunları</title></programme>
+<programme start="20211117010000 +0000" stop="20211117020000 +0000" channel="IdmanTV.az"><title lang="az">Atıcılıq. Dünya kuboku.</title></programme>
+<programme start="20211117023000 +0000" stop="20211117030000 +0000" channel="IdmanTV.az"><title lang="az">İdman rekordları</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117030000 +0000" stop="20211117050000 +0000" channel="IdmanTV.az"><title lang="az">Formula 1.Braziliya qran prisi.Final mərhələsi</title></programme>
+<programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="IdmanTV.az"><title lang="az">İdman Səhər</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117060000 +0000" stop="20211117061000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117061000 +0000" stop="20211117063000 +0000" channel="IdmanTV.az"><title lang="az">İdman Səhər. Прямая трансляция</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117063000 +0000" stop="20211117070000 +0000" channel="IdmanTV.az"><title lang="az">Velo Ekstrim</title></programme>
+<programme start="20211117070000 +0000" stop="20211117080000 +0000" channel="IdmanTV.az"><title lang="az">Ay ulduzlu liqa</title><category lang="az">Новости</category></programme>
+<programme start="20211117080000 +0000" stop="20211117082000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117082000 +0000" stop="20211117092000 +0000" channel="IdmanTV.az"><title lang="az">İdman Aktual</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117092000 +0000" stop="20211117100000 +0000" channel="IdmanTV.az"><title lang="az">Futbolun dahiləri</title><category lang="az">Документальное</category></programme>
+<programme start="20211117100000 +0000" stop="20211117101000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117101000 +0000" stop="20211117120000 +0000" channel="IdmanTV.az"><title lang="az">Voleybol. Sultanlar liqası. Kuzey Boru Gənclik - Vakifbank. Прямая трансляция</title></programme>
+<programme start="20211117120000 +0000" stop="20211117122000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117122000 +0000" stop="20211117130000 +0000" channel="IdmanTV.az"><title lang="az">Şahmat klubu</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117130000 +0000" stop="20211117140000 +0000" channel="IdmanTV.az"><title lang="az">Sports Panorama. Прямая трансляция</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117140000 +0000" stop="20211117143000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117143000 +0000" stop="20211117150000 +0000" channel="IdmanTV.az"><title lang="az">Telefitnes</title><category lang="az">ТВ-шоу</category></programme>
+<programme start="20211117150000 +0000" stop="20211117160000 +0000" channel="IdmanTV.az"><title lang="az">Dumanlı Albion. Прямая трансляция</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117160000 +0000" stop="20211117163000 +0000" channel="IdmanTV.az"><title lang="az">İdman xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117163000 +0000" stop="20211117170000 +0000" channel="IdmanTV.az"><title lang="az">Kevin Dürant</title><category lang="az">Документальное</category></programme>
+<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="IdmanTV.az"><title lang="az">İdman və media. Прямая трансляция</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117180000 +0000" stop="20211117183000 +0000" channel="IdmanTV.az"><title lang="az">Əfsanəvi finallar</title><category lang="az">Документальное</category></programme>
+<programme start="20211117183000 +0000" stop="20211117184500 +0000" channel="IdmanTV.az"><title lang="az">Primero</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117184500 +0000" stop="20211117190000 +0000" channel="IdmanTV.az"><title lang="az">Rinq</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="IdmanTV.az"><title lang="az">KOTV Klassik</title><category lang="az">Новости</category></programme>
+<programme start="20211117200000 +0000" stop="20211117220000 +0000" channel="IdmanTV.az"><title lang="az">Basketbol. Türkiyə Superliqası</title></programme>
+<programme start="20211117220000 +0000" stop="20211117230000 +0000" channel="IdmanTV.az"><title lang="az">Xəmsə</title><category lang="az">Игровое</category></programme>
+<programme start="20211117230000 +0000" stop="20211118010000 +0000" channel="IdmanTV.az"><title lang="az">Tokio-2020 Yay Olimpiya Oyunları</title></programme>
+<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="IdmanTV.az"><title lang="az">Tour  de Stade</title><category lang="az">Позновательное</category></programme>
+<programme start="20211116020000 +0000" stop="20211116022500 +0000" channel="MedeniyyetTV.az"><title lang="az">Oxuyur Vətən</title><category lang="az">Позновательное</category></programme>
+<programme start="20211116022500 +0000" stop="20211116030000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi dəqiqələri</title></programme>
+<programme start="20211116030000 +0000" stop="20211116033000 +0000" channel="MedeniyyetTV.az"><title lang="az">Zəfər meydanı</title><category lang="az">Досуг,Хобби</category></programme>
 <programme start="20211116033000 +0000" stop="20211116040000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
-<programme start="20211116040000 +0000" stop="20211116050000 +0000" channel="MedeniyyetTV.az"><title lang="az">Səhər çağı</title><category lang="az">ТВ-шоу</category></programme>
-<programme start="20211116050000 +0000" stop="20211116051000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mədəniyyət xəbərləri</title><category lang="az">Новости</category></programme>
-<programme start="20211116051000 +0000" stop="20211116060000 +0000" channel="MedeniyyetTV.az"><title lang="az">Səhər çağı</title><category lang="az">ТВ-шоу</category></programme>
-<programme start="20211116060000 +0000" stop="20211116063000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
-<programme start="20211116063000 +0000" stop="20211116070000 +0000" channel="MedeniyyetTV.az"><title lang="az">Abadçı</title></programme>
-<programme start="20211116070000 +0000" stop="20211116080000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi dəqiqələri</title></programme>
-<programme start="20211116080000 +0000" stop="20211116100000 +0000" channel="MedeniyyetTV.az"><title lang="az">Oyunun planları</title><category lang="az">Фильм</category></programme>
-<programme start="20211116100000 +0000" stop="20211116114000 +0000" channel="MedeniyyetTV.az"><title lang="az">Ovqat</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211116114000 +0000" stop="20211116120000 +0000" channel="MedeniyyetTV.az"><title lang="az">Yeni çağırışlar</title><category lang="az">Другое</category></programme>
-<programme start="20211116120000 +0000" stop="20211116140000 +0000" channel="MedeniyyetTV.az"><title lang="az">Məhəbbət əfsanəsi</title></programme>
-<programme start="20211116140000 +0000" stop="20211116143000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
+<programme start="20211116040000 +0000" stop="20211116063000 +0000" channel="MedeniyyetTV.az"><title lang="az">Səhər çağı</title><category lang="az">ТВ-шоу</category></programme>
+<programme start="20211116063000 +0000" stop="20211116073000 +0000" channel="MedeniyyetTV.az"><title lang="az">Şirvan Milli parkı</title><category lang="az">Документальное</category></programme>
+<programme start="20211116073000 +0000" stop="20211116080000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
+<programme start="20211116080000 +0000" stop="20211116083000 +0000" channel="MedeniyyetTV.az"><title lang="az">Xarı Bülbül</title></programme>
+<programme start="20211116083000 +0000" stop="20211116100000 +0000" channel="MedeniyyetTV.az"><title lang="az">Yeddi oğul istərəm</title><category lang="az">Фильм</category></programme>
+<programme start="20211116100000 +0000" stop="20211116111000 +0000" channel="MedeniyyetTV.az"><title lang="az">Konsert proqramı</title></programme>
+<programme start="20211116111000 +0000" stop="20211116113000 +0000" channel="MedeniyyetTV.az"><title lang="az">Qarabağın tarixi dini abidələri</title><category lang="az">Документальное</category></programme>
+<programme start="20211116113000 +0000" stop="20211116120000 +0000" channel="MedeniyyetTV.az"><title lang="az">Məmləkətim</title><category lang="az">Документальное</category></programme>
+<programme start="20211116120000 +0000" stop="20211116143000 +0000" channel="MedeniyyetTV.az"><title lang="az">Üzeyir Hacıbəyli: &quot;Koroğlu&quot; operası</title></programme>
 <programme start="20211116143000 +0000" stop="20211116150000 +0000" channel="MedeniyyetTV.az"><title lang="az">Dərs saatı</title><category lang="az">Досуг,Хобби</category></programme>
 <programme start="20211116150000 +0000" stop="20211116153000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mədəniyyət xəbərləri</title><category lang="az">Новости</category></programme>
-<programme start="20211116153000 +0000" stop="20211116163000 +0000" channel="MedeniyyetTV.az"><title lang="az">Konsert proqramı</title></programme>
-<programme start="20211116163000 +0000" stop="20211116170000 +0000" channel="MedeniyyetTV.az"><title lang="az">Şirvanşahlar</title><category lang="az">Документальное</category></programme>
-<programme start="20211116170000 +0000" stop="20211116172000 +0000" channel="MedeniyyetTV.az"><title lang="az">Nağıl vaxtı</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211116172000 +0000" stop="20211116180000 +0000" channel="MedeniyyetTV.az"><title lang="az">O</title><category lang="az">Фильм</category></programme>
-<programme start="20211116180000 +0000" stop="20211116183000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mücahidlər</title><category lang="az">Позновательное</category></programme>
-<programme start="20211116183000 +0000" stop="20211116190000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi dəqiqələr</title></programme>
+<programme start="20211116153000 +0000" stop="20211116172000 +0000" channel="MedeniyyetTV.az"><title lang="az">Qarabağ bizimdir</title></programme>
+<programme start="20211116172000 +0000" stop="20211116180000 +0000" channel="MedeniyyetTV.az"><title lang="az">O</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211116180000 +0000" stop="20211116182000 +0000" channel="MedeniyyetTV.az"><title lang="az">Tarixin nəğməsi</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211116182000 +0000" stop="20211116190000 +0000" channel="MedeniyyetTV.az"><title lang="az">Oxuyur Vətən</title><category lang="az">Позновательное</category></programme>
 <programme start="20211116190000 +0000" stop="20211116193000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mədəniyyət xəbərləri</title><category lang="az">Новости</category></programme>
-<programme start="20211116193000 +0000" stop="20211116202000 +0000" channel="MedeniyyetTV.az"><title lang="az">Konsert proqramı</title></programme>
-<programme start="20211116202000 +0000" stop="20211116231000 +0000" channel="MedeniyyetTV.az"><title lang="az">Odri Hepbernin həyatı</title><category lang="az">Фильм</category></programme>
-<programme start="20211116231000 +0000" stop="20211117000000 +0000" channel="MedeniyyetTV.az"><title lang="az">Nostalji</title></programme>
-<programme start="20211117000000 +0000" stop="20211117003000 +0000" channel="MedeniyyetTV.az"><title lang="az">Yada düşər xatirələr</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211117003000 +0000" stop="20211117013000 +0000" channel="MedeniyyetTV.az"><title lang="az">Xəmsə</title><category lang="az">Игровое</category></programme>
+<programme start="20211116193000 +0000" stop="20211116210000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mənim Azərbaycanım</title></programme>
+<programme start="20211116210000 +0000" stop="20211116231000 +0000" channel="MedeniyyetTV.az"><title lang="az">Legion</title><category lang="az">Фильм</category></programme>
+<programme start="20211116231000 +0000" stop="20211117000000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
+<programme start="20211117000000 +0000" stop="20211117013000 +0000" channel="MedeniyyetTV.az"><title lang="az">Balet</title></programme>
 <programme start="20211117013000 +0000" stop="20211117023000 +0000" channel="MedeniyyetTV.az"><title lang="az">Sənədli film</title></programme>
-<programme start="20211115030000 +0000" stop="20211115040000 +0000" channel="XezerTV.az"><title lang="az">Ata ocağı</title><category lang="az">Сериал</category></programme>
-<programme start="20211115040000 +0000" stop="20211115080000 +0000" channel="XezerTV.az"><title lang="az">Xəzər səhər</title><category lang="az">Новости</category></programme>
-<programme start="20211115080000 +0000" stop="20211115090000 +0000" channel="XezerTV.az"><title lang="az">Anamın yeməyindən yoxdur</title><category lang="az">Досуг,Хобби</category></programme>
-<programme start="20211115090000 +0000" stop="20211115092500 +0000" channel="XezerTV.az"><title lang="az">Xəbərlər</title><category lang="az">Новости</category></programme>
-<programme start="20211115092500 +0000" stop="20211115110000 +0000" channel="XezerTV.az"><title lang="az">Həkim işi</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115110000 +0000" stop="20211115115500 +0000" channel="XezerTV.az"><title lang="az">İmtahan</title><category lang="az">Сериал</category></programme>
-<programme start="20211115115500 +0000" stop="20211115130000 +0000" channel="XezerTV.az"><title lang="az">Səni axtarıram</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115130000 +0000" stop="20211115131000 +0000" channel="XezerTV.az"><title lang="az">Xəbərlər</title><category lang="az">Новости</category></programme>
-<programme start="20211115131000 +0000" stop="20211115150000 +0000" channel="XezerTV.az"><title lang="az">Səni axtarıram</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115150000 +0000" stop="20211115170000 +0000" channel="XezerTV.az"><title lang="az">5 də 5</title><category lang="az">Развлекательное</category></programme>
-<programme start="20211115170000 +0000" stop="20211115175500 +0000" channel="XezerTV.az"><title lang="az">Xəzər xəbər</title><category lang="az">Новости</category></programme>
-<programme start="20211115175500 +0000" stop="20211115190000 +0000" channel="XezerTV.az"><title lang="az">Ata ocağı</title><category lang="az">Сериал</category></programme>
-<programme start="20211115190000 +0000" stop="20211115191000 +0000" channel="XezerTV.az"><title lang="az">Xəbərlər</title><category lang="az">Новости</category></programme>
-<programme start="20211115191000 +0000" stop="20211115200000 +0000" channel="XezerTV.az"><title lang="az">Xəzər aktual</title><category lang="az">Новости</category></programme>
-<programme start="20211115200000 +0000" stop="20211115210000 +0000" channel="XezerTV.az"><title lang="az">Ənənə boğçası</title><category lang="az">ТВ-шоу</category></programme>
+<programme start="20211117020000 +0000" stop="20211117030000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi inciləri</title></programme>
+<programme start="20211117030000 +0000" stop="20211117033000 +0000" channel="MedeniyyetTV.az"><title lang="az">Sənədli film</title></programme>
+<programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
+<programme start="20211117040000 +0000" stop="20211117060000 +0000" channel="MedeniyyetTV.az"><title lang="az">Səhər çağı</title><category lang="az">ТВ-шоу</category></programme>
+<programme start="20211117060000 +0000" stop="20211117070000 +0000" channel="MedeniyyetTV.az"><title lang="az">Nəğməkar torpaq</title><category lang="az">Фильм</category></programme>
+<programme start="20211117070000 +0000" stop="20211117073000 +0000" channel="MedeniyyetTV.az"><title lang="az">Qarabağlar</title><category lang="az">Документальное</category></programme>
+<programme start="20211117073000 +0000" stop="20211117073500 +0000" channel="MedeniyyetTV.az"><title lang="az">Kəndimiz</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117073500 +0000" stop="20211117080000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
+<programme start="20211117080000 +0000" stop="20211117100000 +0000" channel="MedeniyyetTV.az"><title lang="az">Dambo</title><category lang="az">Фильм</category></programme>
+<programme start="20211117100000 +0000" stop="20211117110000 +0000" channel="MedeniyyetTV.az"><title lang="az">Konsert proqramı</title></programme>
+<programme start="20211117110000 +0000" stop="20211117113000 +0000" channel="MedeniyyetTV.az"><title lang="az">Gülüş dəqiqələri</title><category lang="az">Юмористическое</category></programme>
+<programme start="20211117113000 +0000" stop="20211117120000 +0000" channel="MedeniyyetTV.az"><title lang="az">Çıraqqala</title><category lang="az">Документальное</category></programme>
+<programme start="20211117120000 +0000" stop="20211117140000 +0000" channel="MedeniyyetTV.az"><title lang="az">Eşq və ölüm</title></programme>
+<programme start="20211117140000 +0000" stop="20211117143000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
+<programme start="20211117143000 +0000" stop="20211117150000 +0000" channel="MedeniyyetTV.az"><title lang="az">Dərs saatı</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117150000 +0000" stop="20211117153000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mədəniyyət xəbərləri</title><category lang="az">Новости</category></programme>
+<programme start="20211117153000 +0000" stop="20211117163000 +0000" channel="MedeniyyetTV.az"><title lang="az">UNESCO-da Qara Qarayevin 100 illiyi</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117163000 +0000" stop="20211117170000 +0000" channel="MedeniyyetTV.az"><title lang="az">Çərçivəsiz</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117170000 +0000" stop="20211117172000 +0000" channel="MedeniyyetTV.az"><title lang="az">Nağıl vaxtı</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117172000 +0000" stop="20211117190000 +0000" channel="MedeniyyetTV.az"><title lang="az">Oxuyur</title><category lang="az">Позновательное</category></programme>
+<programme start="20211117190000 +0000" stop="20211117193000 +0000" channel="MedeniyyetTV.az"><title lang="az">Mədəniyyət xəbərləri</title><category lang="az">Новости</category></programme>
+<programme start="20211117193000 +0000" stop="20211117210000 +0000" channel="MedeniyyetTV.az"><title lang="az">Musiqi inciləri</title></programme>
+<programme start="20211117210000 +0000" stop="20211117231000 +0000" channel="MedeniyyetTV.az"><title lang="az">Samson və Dalila</title><category lang="az">Фильм</category></programme>
+<programme start="20211117231000 +0000" stop="20211117233000 +0000" channel="MedeniyyetTV.az"><title lang="az">Kliplər</title></programme>
+<programme start="20211117233000 +0000" stop="20211118000000 +0000" channel="MedeniyyetTV.az"><title lang="az">Çərçivəsiz</title><category lang="az">Позновательное</category></programme>
+<programme start="20211118000000 +0000" stop="20211118013000 +0000" channel="MedeniyyetTV.az"><title lang="az">Balet</title></programme>
+<programme start="20211118013000 +0000" stop="20211118023000 +0000" channel="MedeniyyetTV.az"><title lang="az">Sənədli film</title></programme>
 <programme start="20211116030000 +0000" stop="20211116035000 +0000" channel="XezerTV.az"><title lang="az">Ata ocağı</title><category lang="az">Сериал</category></programme>
 <programme start="20211116035000 +0000" stop="20211116054000 +0000" channel="XezerTV.az"><title lang="az">Xəzər səhər</title><category lang="az">Новости</category></programme>
 <programme start="20211116054000 +0000" stop="20211116080000 +0000" channel="XezerTV.az"><title lang="az">Hər Şey Daxil</title><category lang="az">Развлекательное</category></programme>
@@ -258,4 +344,20 @@
 <programme start="20211116190000 +0000" stop="20211116191000 +0000" channel="XezerTV.az"><title lang="az">Xəbərlər</title><category lang="az">Новости</category></programme>
 <programme start="20211116191000 +0000" stop="20211116200000 +0000" channel="XezerTV.az"><title lang="az">Xəzər aktual</title><category lang="az">Новости</category></programme>
 <programme start="20211116200000 +0000" stop="20211116210000 +0000" channel="XezerTV.az"><title lang="az">Çöl adamı</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117030000 +0000" stop="20211117035000 +0000" channel="XezerTV.az"><title lang="az">Ata ocağı</title><category lang="az">Сериал</category></programme>
+<programme start="20211117035000 +0000" stop="20211117054000 +0000" channel="XezerTV.az"><title lang="az">Xəzər səhər</title><category lang="az">Новости</category></programme>
+<programme start="20211117054000 +0000" stop="20211117080000 +0000" channel="XezerTV.az"><title lang="az">Hər Şey Daxil</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117080000 +0000" stop="20211117090000 +0000" channel="XezerTV.az"><title lang="az">Anamın yeməyindən yoxdur</title><category lang="az">Досуг,Хобби</category></programme>
+<programme start="20211117090000 +0000" stop="20211117092500 +0000" channel="XezerTV.az"><title lang="az">Xəbərlər</title><category lang="az">Новости</category></programme>
+<programme start="20211117092500 +0000" stop="20211117110000 +0000" channel="XezerTV.az"><title lang="az">Həkim işi</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117110000 +0000" stop="20211117115500 +0000" channel="XezerTV.az"><title lang="az">İmtahan</title><category lang="az">Сериал</category></programme>
+<programme start="20211117115500 +0000" stop="20211117130000 +0000" channel="XezerTV.az"><title lang="az">Səni axtarıram</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117130000 +0000" stop="20211117131000 +0000" channel="XezerTV.az"><title lang="az">Xəbərlər</title><category lang="az">Новости</category></programme>
+<programme start="20211117131000 +0000" stop="20211117150000 +0000" channel="XezerTV.az"><title lang="az">Səni axtarıram</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117150000 +0000" stop="20211117170000 +0000" channel="XezerTV.az"><title lang="az">5 də 5</title><category lang="az">Развлекательное</category></programme>
+<programme start="20211117170000 +0000" stop="20211117175500 +0000" channel="XezerTV.az"><title lang="az">Xəzər xəbər</title><category lang="az">Новости</category></programme>
+<programme start="20211117175500 +0000" stop="20211117190000 +0000" channel="XezerTV.az"><title lang="az">Ata ocağı</title><category lang="az">Сериал</category></programme>
+<programme start="20211117190000 +0000" stop="20211117191000 +0000" channel="XezerTV.az"><title lang="az">Xəbərlər</title><category lang="az">Новости</category></programme>
+<programme start="20211117191000 +0000" stop="20211117200000 +0000" channel="XezerTV.az"><title lang="az">Xəzər aktual</title><category lang="az">Новости</category></programme>
+<programme start="20211117200000 +0000" stop="20211117210000 +0000" channel="XezerTV.az"><title lang="az">Könül Dünyamız</title><category lang="az">Развлекательное</category></programme>
 </tv>

@@ -10,31 +10,6 @@
 <channel id="RotanaKhalejia.sa"><display-name>Rotana Khalejia</display-name><icon src="https://rotana.net/triAssets/uploads/2020/11/khalijiat.png"/></channel>
 <channel id="RotanaKids.sa"><display-name>Rotana Kids</display-name><icon src="https://rotana.net/triAssets/uploads/2020/11/kids.png"/></channel>
 <channel id="RotanaPlus.sa"><display-name>Rotana+</display-name><icon src="https://rotana.net/triAssets/uploads/2020/11/hd.png"/></channel>
-<programme start="20211116000000 +0000" stop="20211116010000 +0000" channel="LBC.sa"><title lang="ar">نون القوة</title><category lang="ar">Social</category></programme>
-<programme start="20211116010000 +0000" stop="20211116011500 +0000" channel="LBC.sa"><title lang="ar">SPOTLIGHT - Episode 26</title><category lang="ar">Generic</category></programme>
-<programme start="20211116011500 +0000" stop="20211116013000 +0000" channel="LBC.sa"><title lang="ar">Stars - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116013000 +0000" stop="20211116023000 +0000" channel="LBC.sa"><title lang="ar">تشيللو - Episode 30</title><category lang="ar">Drama</category></programme>
-<programme start="20211116023000 +0000" stop="20211116033000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 33</title><category lang="ar">Drama</category></programme>
-<programme start="20211116033000 +0000" stop="20211116043000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 34</title><category lang="ar">Drama</category></programme>
-<programme start="20211116043000 +0000" stop="20211116060000 +0000" channel="LBC.sa"><title lang="ar">سيدتي</title><category lang="ar">Social</category></programme>
-<programme start="20211116060000 +0000" stop="20211116070000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116064500 +0000" stop="20211116074500 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 12</title><category lang="ar">Generic</category></programme>
-<programme start="20211116073000 +0000" stop="20211116083000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 33</title><category lang="ar">Drama</category></programme>
-<programme start="20211116083000 +0000" stop="20211116093000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 34</title><category lang="ar">Drama</category></programme>
-<programme start="20211116093000 +0000" stop="20211116103000 +0000" channel="LBC.sa"><title lang="ar">نون القوة</title><category lang="ar">Social</category></programme>
-<programme start="20211116103000 +0000" stop="20211116104500 +0000" channel="LBC.sa"><title lang="ar">SPOTLIGHT - Episode 26</title><category lang="ar">Generic</category></programme>
-<programme start="20211116104500 +0000" stop="20211116110000 +0000" channel="LBC.sa"><title lang="ar">Stars - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116110000 +0000" stop="20211116120000 +0000" channel="LBC.sa"><title lang="ar">تشيللو - Episode 30</title><category lang="ar">Drama</category></programme>
-<programme start="20211116120000 +0000" stop="20211116130000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 13</title><category lang="ar">Generic</category></programme>
-<programme start="20211116130000 +0000" stop="20211116140000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 14</title><category lang="ar">Generic</category></programme>
-<programme start="20211116140000 +0000" stop="20211116160000 +0000" channel="LBC.sa"><title lang="ar">سيدتي</title><category lang="ar">Social</category></programme>
-<programme start="20211116160000 +0000" stop="20211116170000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 35</title><category lang="ar">Drama</category></programme>
-<programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 36</title><category lang="ar">Drama</category></programme>
-<programme start="20211116180000 +0000" stop="20211116193000 +0000" channel="LBC.sa"><title lang="ar">تحت السيطرة - Episode 10</title><category lang="ar">Social</category></programme>
-<programme start="20211116193000 +0000" stop="20211116203000 +0000" channel="LBC.sa"><title lang="ar">على صفيح ساخن - Episode 1</title><category lang="ar">Generic</category></programme>
-<programme start="20211116203000 +0000" stop="20211116220000 +0000" channel="LBC.sa"><title lang="ar">سيدتي</title><category lang="ar">Social</category></programme>
-<programme start="20211116220000 +0000" stop="20211116230000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 13</title><category lang="ar">Generic</category></programme>
-<programme start="20211116230000 +0000" stop="20211117000000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 14</title><category lang="ar">Generic</category></programme>
 <programme start="20211117000000 +0000" stop="20211117013000 +0000" channel="LBC.sa"><title lang="ar">تحت السيطرة - Episode 10</title><category lang="ar">Social</category></programme>
 <programme start="20211117013000 +0000" stop="20211117023000 +0000" channel="LBC.sa"><title lang="ar">على صفيح ساخن - Episode 1</title><category lang="ar">Generic</category></programme>
 <programme start="20211117023000 +0000" stop="20211117033000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 35</title><category lang="ar">Drama</category></programme>
@@ -57,18 +32,30 @@
 <programme start="20211117203000 +0000" stop="20211117220000 +0000" channel="LBC.sa"><title lang="ar">سيدتي</title><category lang="ar">Social</category></programme>
 <programme start="20211117220000 +0000" stop="20211117230000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 15</title><category lang="ar">Generic</category></programme>
 <programme start="20211117230000 +0000" stop="20211118000000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 16</title><category lang="ar">Generic</category></programme>
-<programme start="20211116010000 +0000" stop="20211116030000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">عيون الصقر</title><category lang="ar">Social</category></programme>
-<programme start="20211116030000 +0000" stop="20211116050000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">بحبك وبموت فيك</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116050000 +0000" stop="20211116070000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">زكي شان</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116070000 +0000" stop="20211116090000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">تيمور وشفيقة</title><category lang="ar">Romance</category></programme>
-<programme start="20211116090000 +0000" stop="20211116110000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">الكنز 1</title><category lang="ar">Drama</category></programme>
-<programme start="20211116110000 +0000" stop="20211116130000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">انتحار صاحب الشقه</title><category lang="ar">Social</category></programme>
-<programme start="20211116130000 +0000" stop="20211116150000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">طائر الليل الحزين</title><category lang="ar">Social</category></programme>
-<programme start="20211116150000 +0000" stop="20211116170000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">يا انا يا خالتي</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116170000 +0000" stop="20211116190000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">حراميه × تايلاند</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116190000 +0000" stop="20211116210000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">فتح عينيك</title><category lang="ar">Action</category></programme>
-<programme start="20211116210000 +0000" stop="20211116230000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">سمير وشهير وبهير</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116230000 +0000" stop="20211117010000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">اغتيال</title><category lang="ar">Social</category></programme>
+<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="LBC.sa"><title lang="ar">THE CLINIC - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="LBC.sa"><title lang="ar">TOP 10</title><category lang="ar">Social</category></programme>
+<programme start="20211118013000 +0000" stop="20211118023000 +0000" channel="LBC.sa"><title lang="ar">على صفيح ساخن - Episode 2</title><category lang="ar">Generic</category></programme>
+<programme start="20211118023000 +0000" stop="20211118033000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 37</title><category lang="ar">Drama</category></programme>
+<programme start="20211118033000 +0000" stop="20211118043000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 38</title><category lang="ar">Drama</category></programme>
+<programme start="20211118043000 +0000" stop="20211118060000 +0000" channel="LBC.sa"><title lang="ar">سيدتي</title><category lang="ar">Social</category></programme>
+<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 15</title><category lang="ar">Generic</category></programme>
+<programme start="20211118064500 +0000" stop="20211118074500 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 16</title><category lang="ar">Generic</category></programme>
+<programme start="20211118073000 +0000" stop="20211118083000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 37</title><category lang="ar">Drama</category></programme>
+<programme start="20211118083000 +0000" stop="20211118093000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 38</title><category lang="ar">Drama</category></programme>
+<programme start="20211118093000 +0000" stop="20211118103000 +0000" channel="LBC.sa"><title lang="ar">THE CLINIC - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="LBC.sa"><title lang="ar">TOP 10</title><category lang="ar">Social</category></programme>
+<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="LBC.sa"><title lang="ar">على صفيح ساخن - Episode 2</title><category lang="ar">Generic</category></programme>
+<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 17</title><category lang="ar">Generic</category></programme>
+<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 18</title><category lang="ar">Generic</category></programme>
+<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="LBC.sa"><title lang="ar">سيدتي</title><category lang="ar">Social</category></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 39</title><category lang="ar">Drama</category></programme>
+<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="LBC.sa"><title lang="ar">جذور - Episode 40</title><category lang="ar">Drama</category></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="LBC.sa"><title lang="ar">FASHION NEWS ARABIA</title><category lang="ar">Social</category></programme>
+<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="LBC.sa"><title lang="ar">Sound bites - Episode 26</title><category lang="ar">Social</category></programme>
+<programme start="20211118193000 +0000" stop="20211118203000 +0000" channel="LBC.sa"><title lang="ar">على صفيح ساخن - Episode 3</title><category lang="ar">Generic</category></programme>
+<programme start="20211118203000 +0000" stop="20211118220000 +0000" channel="LBC.sa"><title lang="ar">سيدتي</title><category lang="ar">Social</category></programme>
+<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 17</title><category lang="ar">Generic</category></programme>
+<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="LBC.sa"><title lang="ar">دكتور امراض نسا - Episode 18</title><category lang="ar">Generic</category></programme>
 <programme start="20211117010000 +0000" stop="20211117030000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">طائر الليل الحزين</title><category lang="ar">Social</category></programme>
 <programme start="20211117030000 +0000" stop="20211117050000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">يا انا يا خالتي</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117050000 +0000" stop="20211117070000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">حراميه × تايلاند</title><category lang="ar">Comedy</category></programme>
@@ -81,31 +68,18 @@
 <programme start="20211117190000 +0000" stop="20211117210000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">خليج نعمة</title><category lang="ar">Youth</category></programme>
 <programme start="20211117210000 +0000" stop="20211117230000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">الكبار</title><category lang="ar">Social</category></programme>
 <programme start="20211117230000 +0000" stop="20211118010000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">اللعبه القذره</title><category lang="ar">Policy</category></programme>
-<programme start="20211116000000 +0000" stop="20211116010000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
-<programme start="20211116010000 +0000" stop="20211116023000 +0000" channel="RotanaAmerica.sa"><title lang="ar">تحت السيطرة - Episode 7</title><category lang="ar">Social</category></programme>
-<programme start="20211116020000 +0000" stop="20211116023000 +0000" channel="RotanaAmerica.sa"><title lang="ar">Fashion Talks - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116023000 +0000" stop="20211116030000 +0000" channel="RotanaAmerica.sa"><title lang="ar">Top 10 - Episode 11</title><category lang="ar">Social</category></programme>
-<programme start="20211116030000 +0000" stop="20211116043000 +0000" channel="RotanaAmerica.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
-<programme start="20211116043000 +0000" stop="20211116060000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سيدتي R</title><category lang="ar">Generic</category></programme>
-<programme start="20211116060000 +0000" stop="20211116070000 +0000" channel="RotanaAmerica.sa"><title lang="ar">لأعلى سعر - Episode 27</title><category lang="ar">Drama</category></programme>
-<programme start="20211116070000 +0000" stop="20211116080000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ياهلا - R</title><category lang="ar">Generic</category></programme>
-<programme start="20211116080000 +0000" stop="20211116093000 +0000" channel="RotanaAmerica.sa"><title lang="ar">تحت السيطرة - Episode 7</title><category lang="ar">Social</category></programme>
-<programme start="20211116090000 +0000" stop="20211116093000 +0000" channel="RotanaAmerica.sa"><title lang="ar">Fashion Talks - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116093000 +0000" stop="20211116100000 +0000" channel="RotanaAmerica.sa"><title lang="ar">Top 10 - Episode 11</title><category lang="ar">Social</category></programme>
-<programme start="20211116100000 +0000" stop="20211116110000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سمرا - Episode 37</title><category lang="ar">Drama</category></programme>
-<programme start="20211116110000 +0000" stop="20211116120000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ساعة شباب - R</title><category lang="ar">Generic</category></programme>
-<programme start="20211116120000 +0000" stop="20211116133000 +0000" channel="RotanaAmerica.sa"><title lang="ar">كورة - R</title><category lang="ar">Generic</category></programme>
-<programme start="20211116133000 +0000" stop="20211116143000 +0000" channel="RotanaAmerica.sa"><title lang="ar">لأعلى سعر - Episode 27</title><category lang="ar">Drama</category></programme>
-<programme start="20211116143000 +0000" stop="20211116153000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ياهلا - R 2</title><category lang="ar">Generic</category></programme>
-<programme start="20211116153000 +0000" stop="20211116163000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سمرا - Episode 37</title><category lang="ar">Drama</category></programme>
-<programme start="20211116163000 +0000" stop="20211116173000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ساعة شباب - R</title><category lang="ar">Generic</category></programme>
-<programme start="20211116173000 +0000" stop="20211116190000 +0000" channel="RotanaAmerica.sa"><title lang="ar">تحت السيطرة - Episode 7</title><category lang="ar">Social</category></programme>
-<programme start="20211116183000 +0000" stop="20211116190000 +0000" channel="RotanaAmerica.sa"><title lang="ar">Fashion Talks - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116190000 +0000" stop="20211116193000 +0000" channel="RotanaAmerica.sa"><title lang="ar">Top 10 - Episode 11</title><category lang="ar">Social</category></programme>
-<programme start="20211116193000 +0000" stop="20211116203000 +0000" channel="RotanaAmerica.sa"><title lang="ar">لأعلى سعر - Episode 28</title><category lang="ar">Drama</category></programme>
-<programme start="20211116203000 +0000" stop="20211116220000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سيدتي</title><category lang="ar">Generic Sponsored</category></programme>
-<programme start="20211116220000 +0000" stop="20211116230000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سمرا - Episode 38</title><category lang="ar">Drama</category></programme>
-<programme start="20211116230000 +0000" stop="20211117000000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Generic</category></programme>
+<programme start="20211118010000 +0000" stop="20211118030000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">اميره حبى انا</title><category lang="ar">Musical</category></programme>
+<programme start="20211118030000 +0000" stop="20211118050000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">رامي الاعتصامي</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118050000 +0000" stop="20211118070000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">الاولة في الغرام</title><category lang="ar">Drama</category></programme>
+<programme start="20211118070000 +0000" stop="20211118090000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">خليج نعمة</title><category lang="ar">Youth</category></programme>
+<programme start="20211118090000 +0000" stop="20211118110000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">الكبار</title><category lang="ar">Social</category></programme>
+<programme start="20211118110000 +0000" stop="20211118130000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">اللعبه القذره</title><category lang="ar">Policy</category></programme>
+<programme start="20211118130000 +0000" stop="20211118150000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">اذكريني</title><category lang="ar">Romance</category></programme>
+<programme start="20211118150000 +0000" stop="20211118170000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">أسد و 4 قطط</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118170000 +0000" stop="20211118190000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">حريم كريم</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118190000 +0000" stop="20211118210000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">طبيعة الحال</title><category lang="ar">Drama</category></programme>
+<programme start="20211118210000 +0000" stop="20211118230000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">تتح</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118230000 +0000" stop="20211119010000 +0000" channel="RotanaAflamPlus.sa"><title lang="ar">ملائكة الشوارع</title><category lang="ar">Social</category></programme>
 <programme start="20211117000000 +0000" stop="20211117010000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
 <programme start="20211117010000 +0000" stop="20211117020000 +0000" channel="RotanaAmerica.sa"><title lang="ar">نون القوة - Episode 12</title><category lang="ar">Generic</category></programme>
 <programme start="20211117020000 +0000" stop="20211117033000 +0000" channel="RotanaAmerica.sa"><title lang="ar">وينك - Episode 11</title><category lang="ar">Generic</category></programme>
@@ -128,17 +102,28 @@
 <programme start="20211117203000 +0000" stop="20211117220000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سيدتي</title><category lang="ar">Generic Sponsored</category></programme>
 <programme start="20211117220000 +0000" stop="20211117230000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سمرا - Episode 39</title><category lang="ar">Drama</category></programme>
 <programme start="20211117230000 +0000" stop="20211118000000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Generic</category></programme>
-<programme start="20211116000000 +0000" stop="20211116023000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">واحده بواحده</title><category lang="ar">Social</category></programme>
-<programme start="20211116023000 +0000" stop="20211116043000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">أسوار القمر</title><category lang="ar">Drama</category></programme>
-<programme start="20211116043000 +0000" stop="20211116063000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">كده رضا</title><category lang="ar">Drama</category></programme>
-<programme start="20211116063000 +0000" stop="20211116090000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">جيم اوفر</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116090000 +0000" stop="20211116110000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">شيخ جاكسون</title><category lang="ar">Drama</category></programme>
-<programme start="20211116110000 +0000" stop="20211116130000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">عصابة الدكتور عمر</title><category lang="ar">Generic</category></programme>
-<programme start="20211116130000 +0000" stop="20211116153000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">التعويذه</title><category lang="ar">Social</category></programme>
-<programme start="20211116153000 +0000" stop="20211116180000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">ميكروفون</title><category lang="ar">Generic</category></programme>
-<programme start="20211116180000 +0000" stop="20211116200000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">ساعة ونص</title><category lang="ar">Drama</category></programme>
-<programme start="20211116200000 +0000" stop="20211116220000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">حملة فريزر</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116220000 +0000" stop="20211117000000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">البيه رومانسي</title><category lang="ar">Generic</category></programme>
+<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
+<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="RotanaAmerica.sa"><title lang="ar">FASHION NEWS ARABIA</title><category lang="ar">Generic</category></programme>
+<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="RotanaAmerica.sa"><title lang="ar">طارق شو</title><category lang="ar">Generic</category></programme>
+<programme start="20211118030000 +0000" stop="20211118043000 +0000" channel="RotanaAmerica.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
+<programme start="20211118043000 +0000" stop="20211118060000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سيدتي R</title><category lang="ar">Generic</category></programme>
+<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="RotanaAmerica.sa"><title lang="ar">لأعلى سعر - Episode 29</title><category lang="ar">Drama</category></programme>
+<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ياهلا - R</title><category lang="ar">Generic</category></programme>
+<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="RotanaAmerica.sa"><title lang="ar">FASHION NEWS ARABIA</title><category lang="ar">Generic</category></programme>
+<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="RotanaAmerica.sa"><title lang="ar">طارق شو</title><category lang="ar">Generic</category></programme>
+<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سمرا - Episode 39</title><category lang="ar">Drama</category></programme>
+<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ساعة شباب - R</title><category lang="ar">Generic</category></programme>
+<programme start="20211118120000 +0000" stop="20211118133000 +0000" channel="RotanaAmerica.sa"><title lang="ar">كورة - R</title><category lang="ar">Generic</category></programme>
+<programme start="20211118133000 +0000" stop="20211118143000 +0000" channel="RotanaAmerica.sa"><title lang="ar">لأعلى سعر - Episode 29</title><category lang="ar">Drama</category></programme>
+<programme start="20211118143000 +0000" stop="20211118153000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ياهلا - R 2</title><category lang="ar">Generic</category></programme>
+<programme start="20211118153000 +0000" stop="20211118163000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سمرا - Episode 39</title><category lang="ar">Drama</category></programme>
+<programme start="20211118163000 +0000" stop="20211118173000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ساعة شباب - R</title><category lang="ar">Generic</category></programme>
+<programme start="20211118173000 +0000" stop="20211118183000 +0000" channel="RotanaAmerica.sa"><title lang="ar">FASHION NEWS ARABIA</title><category lang="ar">Generic</category></programme>
+<programme start="20211118183000 +0000" stop="20211118193000 +0000" channel="RotanaAmerica.sa"><title lang="ar">طارق شو</title><category lang="ar">Generic</category></programme>
+<programme start="20211118193000 +0000" stop="20211118203000 +0000" channel="RotanaAmerica.sa"><title lang="ar">لأعلى سعر - Episode 30</title><category lang="ar">Drama</category></programme>
+<programme start="20211118203000 +0000" stop="20211118220000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سيدتي</title><category lang="ar">Generic Sponsored</category></programme>
+<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="RotanaAmerica.sa"><title lang="ar">سمرا - Episode 40</title><category lang="ar">Drama</category></programme>
+<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="RotanaAmerica.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Generic</category></programme>
 <programme start="20211117000000 +0000" stop="20211117023000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">التعويذه</title><category lang="ar">Social</category></programme>
 <programme start="20211117023000 +0000" stop="20211117043000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">شيخ جاكسون</title><category lang="ar">Drama</category></programme>
 <programme start="20211117043000 +0000" stop="20211117063000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">عصابة الدكتور عمر</title><category lang="ar">Generic</category></programme>
@@ -150,18 +135,17 @@
 <programme start="20211117180000 +0000" stop="20211117200000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">تيتة رهيبة</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117200000 +0000" stop="20211117220000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">الكنز 1</title><category lang="ar">Drama</category></programme>
 <programme start="20211117220000 +0000" stop="20211118000000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">خليك في حالك</title><category lang="ar">Generic</category></programme>
-<programme start="20211116010000 +0000" stop="20211116030000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">عشم</title><category lang="ar">Drama</category></programme>
-<programme start="20211116030000 +0000" stop="20211116050000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">كركر</title><category lang="ar">Drama</category></programme>
-<programme start="20211116050000 +0000" stop="20211116070000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">اطلعولى برا</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116070000 +0000" stop="20211116090000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">85 جنايات</title><category lang="ar">Classic</category></programme>
-<programme start="20211116090000 +0000" stop="20211116110000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">انا مش معاهم</title><category lang="ar">Generic</category></programme>
-<programme start="20211116110000 +0000" stop="20211116130000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">رغدة متوحشة</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116130000 +0000" stop="20211116150000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">بدل فاقد</title><category lang="ar">Social</category></programme>
-<programme start="20211116150000 +0000" stop="20211116170000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">الارهاب والكباب</title><category lang="ar">Drama</category></programme>
-<programme start="20211116170000 +0000" stop="20211116190000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">بلطية العايمة</title><category lang="ar">Drama</category></programme>
-<programme start="20211116190000 +0000" stop="20211116210000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">اللعبة الامريكاني</title><category lang="ar">Drama</category></programme>
-<programme start="20211116210000 +0000" stop="20211116230000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">واحد كابوتشينو</title><category lang="ar">Social</category></programme>
-<programme start="20211116230000 +0000" stop="20211117010000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">موعد على العشاء</title><category lang="ar">Drama</category></programme>
+<programme start="20211118000000 +0000" stop="20211118023000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">الحلال يكسب</title><category lang="ar">Social</category></programme>
+<programme start="20211118023000 +0000" stop="20211118043000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">ساعة ونص</title><category lang="ar">Drama</category></programme>
+<programme start="20211118043000 +0000" stop="20211118063000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">حملة فريزر</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118063000 +0000" stop="20211118090000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">شبه منحرف</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118090000 +0000" stop="20211118110000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">تيتة رهيبة</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118110000 +0000" stop="20211118130000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">الكنز 1</title><category lang="ar">Drama</category></programme>
+<programme start="20211118130000 +0000" stop="20211118153000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">الهروب</title><category lang="ar">Social</category></programme>
+<programme start="20211118153000 +0000" stop="20211118180000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">الباشا تلميذ</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118180000 +0000" stop="20211118200000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">مقلب حرامية</title><category lang="ar">Action</category></programme>
+<programme start="20211118200000 +0000" stop="20211118220000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">بني آدم</title><category lang="ar">Drama</category></programme>
+<programme start="20211118220000 +0000" stop="20211119000000 +0000" channel="RotanaCinemaEgypt.sa"><title lang="ar">ريجاتا</title><category lang="ar">Drama</category></programme>
 <programme start="20211117010000 +0000" stop="20211117030000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">انا مش معاهم</title><category lang="ar">Generic</category></programme>
 <programme start="20211117030000 +0000" stop="20211117050000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">رغدة متوحشة</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117050000 +0000" stop="20211117070000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">بلطية العايمة</title><category lang="ar">Drama</category></programme>
@@ -174,23 +158,18 @@
 <programme start="20211117190000 +0000" stop="20211117210000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">بلبل حيران</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117210000 +0000" stop="20211117230000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">نمس بوند</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117230000 +0000" stop="20211118010000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">جبروت امرأه</title><category lang="ar">Social</category></programme>
-<programme start="20211116000000 +0000" stop="20211116010000 +0000" channel="RotanaClassic.sa"><title lang="ar">حفل ام كلثوم</title><category lang="ar">Song</category></programme>
-<programme start="20211116010000 +0000" stop="20211116030000 +0000" channel="RotanaClassic.sa"><title lang="ar">مع الذكريات</title><category lang="ar">Social</category></programme>
-<programme start="20211116030000 +0000" stop="20211116050000 +0000" channel="RotanaClassic.sa"><title lang="ar">علي بيه مظهر و 40 حرامي</title><category lang="ar">Drama</category></programme>
-<programme start="20211116050000 +0000" stop="20211116053000 +0000" channel="RotanaClassic.sa"><title lang="ar">من اغانى الافلام</title><category lang="ar">Song</category></programme>
-<programme start="20211116053000 +0000" stop="20211116060000 +0000" channel="RotanaClassic.sa"><title lang="ar">اغانى من حفلات</title><category lang="ar">Song</category></programme>
-<programme start="20211116060000 +0000" stop="20211116080000 +0000" channel="RotanaClassic.sa"><title lang="ar">فتاة الاستعراض</title><category lang="ar">Generic</category></programme>
-<programme start="20211116080000 +0000" stop="20211116103000 +0000" channel="RotanaClassic.sa"><title lang="ar">نهايه الطريق</title><category lang="ar">Social</category></programme>
-<programme start="20211116103000 +0000" stop="20211116110000 +0000" channel="RotanaClassic.sa"><title lang="ar">سهرة طربية من اغانى الافلام</title><category lang="ar">Social</category></programme>
-<programme start="20211116110000 +0000" stop="20211116130000 +0000" channel="RotanaClassic.sa"><title lang="ar">صحيفة السوابق</title><category lang="ar">Generic</category></programme>
-<programme start="20211116130000 +0000" stop="20211116150000 +0000" channel="RotanaClassic.sa"><title lang="ar">صراع مع الحياه</title><category lang="ar">Social</category></programme>
-<programme start="20211116150000 +0000" stop="20211116170000 +0000" channel="RotanaClassic.sa"><title lang="ar">حادي بادي</title><category lang="ar">Drama</category></programme>
-<programme start="20211116170000 +0000" stop="20211116173000 +0000" channel="RotanaClassic.sa"><title lang="ar">استعراضات ابيض واسود</title><category lang="ar">Social</category></programme>
-<programme start="20211116173000 +0000" stop="20211116193000 +0000" channel="RotanaClassic.sa"><title lang="ar">الماضي المجهول</title><category lang="ar">Musical</category></programme>
-<programme start="20211116193000 +0000" stop="20211116200000 +0000" channel="RotanaClassic.sa"><title lang="ar">من اغانى الافلام</title><category lang="ar">Classic</category></programme>
-<programme start="20211116200000 +0000" stop="20211116210000 +0000" channel="RotanaClassic.sa"><title lang="ar">حفل ام كلثوم</title><category lang="ar">Song</category></programme>
-<programme start="20211116210000 +0000" stop="20211116233000 +0000" channel="RotanaClassic.sa"><title lang="ar">ايس كريم في جليم</title><category lang="ar">Classic</category></programme>
-<programme start="20211116233000 +0000" stop="20211117000000 +0000" channel="RotanaClassic.sa"><title lang="ar">اغانى من حفلات</title><category lang="ar">Song</category></programme>
+<programme start="20211118010000 +0000" stop="20211118030000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">بدل فاقد</title><category lang="ar">Social</category></programme>
+<programme start="20211118030000 +0000" stop="20211118050000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">اللعبة الامريكاني</title><category lang="ar">Drama</category></programme>
+<programme start="20211118050000 +0000" stop="20211118070000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">ابن القنصل</title><category lang="ar">Action</category></programme>
+<programme start="20211118070000 +0000" stop="20211118090000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">النظره الاخيره</title><category lang="ar">Social</category></programme>
+<programme start="20211118090000 +0000" stop="20211118110000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">كلبي دليلي</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118110000 +0000" stop="20211118130000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">بلبل حيران</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118130000 +0000" stop="20211118150000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">مطارده غراميه</title><category lang="ar">Social</category></programme>
+<programme start="20211118150000 +0000" stop="20211118170000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">الفرن</title><category lang="ar">Drama</category></programme>
+<programme start="20211118170000 +0000" stop="20211118190000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">خير وبركه</title><category lang="ar">Drama</category></programme>
+<programme start="20211118190000 +0000" stop="20211118210000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">وجدة</title><category lang="ar">Drama</category></programme>
+<programme start="20211118210000 +0000" stop="20211118230000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">حلاوة روح</title><category lang="ar">Drama</category></programme>
+<programme start="20211118230000 +0000" stop="20211119010000 +0000" channel="RotanaCinemaKSA.sa"><title lang="ar">غرام الافاعي</title><category lang="ar">Romance</category></programme>
 <programme start="20211117000000 +0000" stop="20211117010000 +0000" channel="RotanaClassic.sa"><title lang="ar">حفل ام كلثوم</title><category lang="ar">Song</category></programme>
 <programme start="20211117010000 +0000" stop="20211117030000 +0000" channel="RotanaClassic.sa"><title lang="ar">صراع مع الحياه</title><category lang="ar">Social</category></programme>
 <programme start="20211117030000 +0000" stop="20211117050000 +0000" channel="RotanaClassic.sa"><title lang="ar">حادي بادي</title><category lang="ar">Drama</category></programme>
@@ -208,19 +187,23 @@
 <programme start="20211117200000 +0000" stop="20211117210000 +0000" channel="RotanaClassic.sa"><title lang="ar">حفل ام كلثوم</title><category lang="ar">Song</category></programme>
 <programme start="20211117210000 +0000" stop="20211117233000 +0000" channel="RotanaClassic.sa"><title lang="ar">انا وبناتى</title><category lang="ar">Social</category></programme>
 <programme start="20211117233000 +0000" stop="20211118000000 +0000" channel="RotanaClassic.sa"><title lang="ar">اغانى من حفلات</title><category lang="ar">Song</category></programme>
-<programme start="20211116000000 +0000" stop="20211116020000 +0000" channel="RotanaComedy.sa"><title lang="ar">الفرسان الثلاثه</title><category lang="ar">Drama</category></programme>
-<programme start="20211116020000 +0000" stop="20211116040000 +0000" channel="RotanaComedy.sa"><title lang="ar">غريب في بيتي</title><category lang="ar">Social</category></programme>
-<programme start="20211116040000 +0000" stop="20211116060000 +0000" channel="RotanaComedy.sa"><title lang="ar">الستات مايعرفوش يكدبوا</title><category lang="ar">Social</category></programme>
-<programme start="20211116060000 +0000" stop="20211116080000 +0000" channel="RotanaComedy.sa"><title lang="ar">حمادة يلعب</title><category lang="ar">Drama</category></programme>
-<programme start="20211116080000 +0000" stop="20211116100000 +0000" channel="RotanaComedy.sa"><title lang="ar">غريب في بيتي</title><category lang="ar">Social</category></programme>
-<programme start="20211116100000 +0000" stop="20211116120000 +0000" channel="RotanaComedy.sa"><title lang="ar">القرموطي في أرض النار</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116120000 +0000" stop="20211116140000 +0000" channel="RotanaComedy.sa"><title lang="ar">لسنا ملائكه</title><category lang="ar">Drama</category></programme>
-<programme start="20211116140000 +0000" stop="20211116160000 +0000" channel="RotanaComedy.sa"><title lang="ar">شيلني واشيلك</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116160000 +0000" stop="20211116170000 +0000" channel="RotanaComedy.sa"><title lang="ar">زوج تحت الاقامة الجبرية - Episode 5</title><category lang="ar">Generic</category></programme>
-<programme start="20211116170000 +0000" stop="20211116190000 +0000" channel="RotanaComedy.sa"><title lang="ar">سر طاقية الاخفاء</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116190000 +0000" stop="20211116210000 +0000" channel="RotanaComedy.sa"><title lang="ar">عسكر في المعسكر</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116210000 +0000" stop="20211116230000 +0000" channel="RotanaComedy.sa"><title lang="ar">مناحي</title><category lang="ar">Comedy</category></programme>
-<programme start="20211116230000 +0000" stop="20211117000000 +0000" channel="RotanaComedy.sa"><title lang="ar">زوج تحت الاقامة الجبرية - Episode 5</title><category lang="ar">Generic</category></programme>
+<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="RotanaClassic.sa"><title lang="ar">حفل ام كلثوم</title><category lang="ar">Song</category></programme>
+<programme start="20211118010000 +0000" stop="20211118030000 +0000" channel="RotanaClassic.sa"><title lang="ar">صوره الزفاف</title><category lang="ar">Social</category></programme>
+<programme start="20211118030000 +0000" stop="20211118050000 +0000" channel="RotanaClassic.sa"><title lang="ar">تحت التهديد</title><category lang="ar">Drama</category></programme>
+<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="RotanaClassic.sa"><title lang="ar">من اغانى الافلام</title><category lang="ar">Song</category></programme>
+<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="RotanaClassic.sa"><title lang="ar">اغانى من حفلات</title><category lang="ar">Song</category></programme>
+<programme start="20211118060000 +0000" stop="20211118080000 +0000" channel="RotanaClassic.sa"><title lang="ar">الماضي المجهول</title><category lang="ar">Musical</category></programme>
+<programme start="20211118080000 +0000" stop="20211118103000 +0000" channel="RotanaClassic.sa"><title lang="ar">انا وبناتى</title><category lang="ar">Social</category></programme>
+<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="RotanaClassic.sa"><title lang="ar">بورتريه</title><category lang="ar">Social</category></programme>
+<programme start="20211118110000 +0000" stop="20211118130000 +0000" channel="RotanaClassic.sa"><title lang="ar">رسالة من امرأة مجهولة</title><category lang="ar">Social</category></programme>
+<programme start="20211118130000 +0000" stop="20211118150000 +0000" channel="RotanaClassic.sa"><title lang="ar">عشاق الليل</title><category lang="ar">Social</category></programme>
+<programme start="20211118150000 +0000" stop="20211118170000 +0000" channel="RotanaClassic.sa"><title lang="ar">عيون الصقر</title><category lang="ar">Social</category></programme>
+<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="RotanaClassic.sa"><title lang="ar">من اغانى الافلام</title><category lang="ar">Social</category></programme>
+<programme start="20211118173000 +0000" stop="20211118193000 +0000" channel="RotanaClassic.sa"><title lang="ar">حسن ونعيمه</title><category lang="ar">Social</category></programme>
+<programme start="20211118193000 +0000" stop="20211118200000 +0000" channel="RotanaClassic.sa"><title lang="ar">سهرة طربية من اغانى الافلام</title><category lang="ar">Classic</category></programme>
+<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="RotanaClassic.sa"><title lang="ar">حفل ام كلثوم</title><category lang="ar">Song</category></programme>
+<programme start="20211118210000 +0000" stop="20211118233000 +0000" channel="RotanaClassic.sa"><title lang="ar">اللعب مع الشياطين</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="RotanaClassic.sa"><title lang="ar">اغانى من حفلات</title><category lang="ar">Song</category></programme>
 <programme start="20211117000000 +0000" stop="20211117020000 +0000" channel="RotanaComedy.sa"><title lang="ar">لسنا ملائكه</title><category lang="ar">Drama</category></programme>
 <programme start="20211117020000 +0000" stop="20211117040000 +0000" channel="RotanaComedy.sa"><title lang="ar">شيلني واشيلك</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117040000 +0000" stop="20211117060000 +0000" channel="RotanaComedy.sa"><title lang="ar">سر طاقية الاخفاء</title><category lang="ar">Comedy</category></programme>
@@ -234,32 +217,19 @@
 <programme start="20211117190000 +0000" stop="20211117210000 +0000" channel="RotanaComedy.sa"><title lang="ar">مطب صناعي</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117210000 +0000" stop="20211117230000 +0000" channel="RotanaComedy.sa"><title lang="ar">ياباني أصلي</title><category lang="ar">Comedy</category></programme>
 <programme start="20211117230000 +0000" stop="20211118000000 +0000" channel="RotanaComedy.sa"><title lang="ar">زوج تحت الاقامة الجبرية - Episode 6</title><category lang="ar">Generic</category></programme>
-<programme start="20211116003000 +0000" stop="20211116013000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 6</title><category lang="ar">Drama</category></programme>
-<programme start="20211116013000 +0000" stop="20211116021500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116021500 +0000" stop="20211116030000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116030000 +0000" stop="20211116040000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 4</title><category lang="ar">Generic</category></programme>
-<programme start="20211116040000 +0000" stop="20211116050000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 16</title><category lang="ar">Drama</category></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 7</title><category lang="ar">Generic</category></programme>
-<programme start="20211116060000 +0000" stop="20211116064500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116064500 +0000" stop="20211116073000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116073000 +0000" stop="20211116083000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 4</title><category lang="ar">Generic</category></programme>
-<programme start="20211116083000 +0000" stop="20211116093000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 6</title><category lang="ar">Drama</category></programme>
-<programme start="20211116093000 +0000" stop="20211116103000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 7</title><category lang="ar">Generic</category></programme>
-<programme start="20211116103000 +0000" stop="20211116113000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 16</title><category lang="ar">Drama</category></programme>
-<programme start="20211116113000 +0000" stop="20211116123000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 4</title><category lang="ar">Generic</category></programme>
-<programme start="20211116123000 +0000" stop="20211116133000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 6</title><category lang="ar">Drama</category></programme>
-<programme start="20211116133000 +0000" stop="20211116143000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 7</title><category lang="ar">Generic</category></programme>
-<programme start="20211116143000 +0000" stop="20211116151500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116151500 +0000" stop="20211116160000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 12</title><category lang="ar">Generic</category></programme>
-<programme start="20211116160000 +0000" stop="20211116170000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 17</title><category lang="ar">Drama</category></programme>
-<programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 5</title><category lang="ar">Generic</category></programme>
-<programme start="20211116180000 +0000" stop="20211116190000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 7</title><category lang="ar">Drama</category></programme>
-<programme start="20211116190000 +0000" stop="20211116200000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 8</title><category lang="ar">Generic</category></programme>
-<programme start="20211116200000 +0000" stop="20211116204500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116204500 +0000" stop="20211116213000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 12</title><category lang="ar">Generic</category></programme>
-<programme start="20211116213000 +0000" stop="20211116223000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 5</title><category lang="ar">Generic</category></programme>
-<programme start="20211116223000 +0000" stop="20211116233000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 17</title><category lang="ar">Drama</category></programme>
-<programme start="20211116233000 +0000" stop="20211117003000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 8</title><category lang="ar">Generic</category></programme>
+<programme start="20211118000000 +0000" stop="20211118020000 +0000" channel="RotanaComedy.sa"><title lang="ar">سلامه في خير</title><category lang="ar">Social</category></programme>
+<programme start="20211118020000 +0000" stop="20211118040000 +0000" channel="RotanaComedy.sa"><title lang="ar">بنات حارتنا</title><category lang="ar">Social</category></programme>
+<programme start="20211118040000 +0000" stop="20211118060000 +0000" channel="RotanaComedy.sa"><title lang="ar">حكاية جواز</title><category lang="ar">Romance</category></programme>
+<programme start="20211118060000 +0000" stop="20211118080000 +0000" channel="RotanaComedy.sa"><title lang="ar">مطب صناعي</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118080000 +0000" stop="20211118100000 +0000" channel="RotanaComedy.sa"><title lang="ar">بنات حارتنا</title><category lang="ar">Social</category></programme>
+<programme start="20211118100000 +0000" stop="20211118120000 +0000" channel="RotanaComedy.sa"><title lang="ar">ياباني أصلي</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118120000 +0000" stop="20211118140000 +0000" channel="RotanaComedy.sa"><title lang="ar">بنت الجيران</title><category lang="ar">Drama</category></programme>
+<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="RotanaComedy.sa"><title lang="ar">المليونيره النشاله</title><category lang="ar">Social</category></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="RotanaComedy.sa"><title lang="ar">زوج تحت الاقامة الجبرية - Episode 7</title><category lang="ar">Generic</category></programme>
+<programme start="20211118170000 +0000" stop="20211118190000 +0000" channel="RotanaComedy.sa"><title lang="ar">الفانوس السحري</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118190000 +0000" stop="20211118210000 +0000" channel="RotanaComedy.sa"><title lang="ar">صباحو كدب</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118210000 +0000" stop="20211118230000 +0000" channel="RotanaComedy.sa"><title lang="ar">يجعلو عامر</title><category lang="ar">Comedy</category></programme>
+<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="RotanaComedy.sa"><title lang="ar">زوج تحت الاقامة الجبرية - Episode 7</title><category lang="ar">Generic</category></programme>
 <programme start="20211117003000 +0000" stop="20211117013000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 7</title><category lang="ar">Drama</category></programme>
 <programme start="20211117013000 +0000" stop="20211117021500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 11</title><category lang="ar">Generic</category></programme>
 <programme start="20211117021500 +0000" stop="20211117030000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 12</title><category lang="ar">Generic</category></programme>
@@ -286,28 +256,32 @@
 <programme start="20211117213000 +0000" stop="20211117223000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 6</title><category lang="ar">Generic</category></programme>
 <programme start="20211117223000 +0000" stop="20211117233000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 18</title><category lang="ar">Drama</category></programme>
 <programme start="20211117233000 +0000" stop="20211118003000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116000000 +0000" stop="20211116013000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حفلات روتانا</title><category lang="ar">Generic</category></programme>
-<programme start="20211116013000 +0000" stop="20211116030000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
-<programme start="20211116030000 +0000" stop="20211116034000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 19</title><category lang="ar">Generic</category></programme>
-<programme start="20211116034000 +0000" stop="20211116042000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 20</title><category lang="ar">Generic</category></programme>
-<programme start="20211116042000 +0000" stop="20211116050000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 21</title><category lang="ar">Generic</category></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سما عالية - Episode 2</title><category lang="ar">Generic</category></programme>
-<programme start="20211116060000 +0000" stop="20211116070000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Generic</category></programme>
-<programme start="20211116070000 +0000" stop="20211116090000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سيدتي</title><category lang="ar">Generic</category></programme>
-<programme start="20211116090000 +0000" stop="20211116094000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 22</title><category lang="ar">Generic</category></programme>
-<programme start="20211116094000 +0000" stop="20211116102000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116102000 +0000" stop="20211116110000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 24</title><category lang="ar">Generic</category></programme>
-<programme start="20211116110000 +0000" stop="20211116113000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حسب الظروف بدون تترات - Episode 22</title><category lang="ar">Drama</category></programme>
-<programme start="20211116113000 +0000" stop="20211116130000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حفلات روتانا</title><category lang="ar">Generic</category></programme>
-<programme start="20211116130000 +0000" stop="20211116140000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Generic</category></programme>
-<programme start="20211116140000 +0000" stop="20211116160000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سيدتي</title><category lang="ar">Generic</category></programme>
-<programme start="20211116160000 +0000" stop="20211116170000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سما عالية - Episode 3</title><category lang="ar">Generic</category></programme>
-<programme start="20211116170000 +0000" stop="20211116183000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
-<programme start="20211116183000 +0000" stop="20211116190000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حسب الظروف بدون تترات - Episode 23</title><category lang="ar">Drama</category></programme>
-<programme start="20211116190000 +0000" stop="20211116203000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">وينك - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116203000 +0000" stop="20211116220000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
-<programme start="20211116220000 +0000" stop="20211116233000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
-<programme start="20211116233000 +0000" stop="20211117000000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حسب الظروف بدون تترات - Episode 23</title><category lang="ar">Drama</category></programme>
+<programme start="20211118003000 +0000" stop="20211118013000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 8</title><category lang="ar">Drama</category></programme>
+<programme start="20211118013000 +0000" stop="20211118021500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 13</title><category lang="ar">Generic</category></programme>
+<programme start="20211118021500 +0000" stop="20211118030000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 14</title><category lang="ar">Generic</category></programme>
+<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 6</title><category lang="ar">Generic</category></programme>
+<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 18</title><category lang="ar">Drama</category></programme>
+<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 9</title><category lang="ar">Generic</category></programme>
+<programme start="20211118060000 +0000" stop="20211118064500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 13</title><category lang="ar">Generic</category></programme>
+<programme start="20211118064500 +0000" stop="20211118073000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 14</title><category lang="ar">Generic</category></programme>
+<programme start="20211118073000 +0000" stop="20211118083000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 6</title><category lang="ar">Generic</category></programme>
+<programme start="20211118083000 +0000" stop="20211118093000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 8</title><category lang="ar">Drama</category></programme>
+<programme start="20211118093000 +0000" stop="20211118103000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 9</title><category lang="ar">Generic</category></programme>
+<programme start="20211118103000 +0000" stop="20211118113000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 18</title><category lang="ar">Drama</category></programme>
+<programme start="20211118113000 +0000" stop="20211118123000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 6</title><category lang="ar">Generic</category></programme>
+<programme start="20211118123000 +0000" stop="20211118133000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 8</title><category lang="ar">Drama</category></programme>
+<programme start="20211118133000 +0000" stop="20211118143000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 9</title><category lang="ar">Generic</category></programme>
+<programme start="20211118143000 +0000" stop="20211118151500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 15</title><category lang="ar">Generic</category></programme>
+<programme start="20211118151500 +0000" stop="20211118160000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 16</title><category lang="ar">Generic</category></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 19</title><category lang="ar">Drama</category></programme>
+<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 7</title><category lang="ar">Generic</category></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="RotanaDrama.sa"><title lang="ar">الطاووس - Episode 9</title><category lang="ar">Drama</category></programme>
+<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 10</title><category lang="ar">Generic</category></programme>
+<programme start="20211118200000 +0000" stop="20211118204500 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 15</title><category lang="ar">Generic</category></programme>
+<programme start="20211118204500 +0000" stop="20211118213000 +0000" channel="RotanaDrama.sa"><title lang="ar">خطوط حمراء - Episode 16</title><category lang="ar">Generic</category></programme>
+<programme start="20211118213000 +0000" stop="20211118223000 +0000" channel="RotanaDrama.sa"><title lang="ar">خيبة أمل - Episode 7</title><category lang="ar">Generic</category></programme>
+<programme start="20211118223000 +0000" stop="20211118233000 +0000" channel="RotanaDrama.sa"><title lang="ar">القمر اخر الدنيا - Episode 19</title><category lang="ar">Drama</category></programme>
+<programme start="20211118233000 +0000" stop="20211119003000 +0000" channel="RotanaDrama.sa"><title lang="ar">يجيب الله مطر - Episode 10</title><category lang="ar">Generic</category></programme>
 <programme start="20211117000000 +0000" stop="20211117013000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">وينك - Episode 11</title><category lang="ar">Generic</category></programme>
 <programme start="20211117013000 +0000" stop="20211117030000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
 <programme start="20211117030000 +0000" stop="20211117034000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 22</title><category lang="ar">Generic</category></programme>
@@ -330,88 +304,28 @@
 <programme start="20211117203000 +0000" stop="20211117220000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
 <programme start="20211117220000 +0000" stop="20211117233000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
 <programme start="20211117233000 +0000" stop="20211118000000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حسب الظروف بدون تترات - Episode 24</title><category lang="ar">Drama</category></programme>
-<programme start="20211116000000 +0000" stop="20211116003000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 17</title><category lang="ar">Generic</category></programme>
-<programme start="20211116003000 +0000" stop="20211116010000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 50</title><category lang="ar">Generic</category></programme>
-<programme start="20211116010000 +0000" stop="20211116013000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116013000 +0000" stop="20211116020000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 26</title><category lang="ar">Generic</category></programme>
-<programme start="20211116014500 +0000" stop="20211116020000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116020000 +0000" stop="20211116021500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 19</title><category lang="ar">Generic</category></programme>
-<programme start="20211116021500 +0000" stop="20211116023000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 16</title><category lang="ar">Generic</category></programme>
-<programme start="20211116023000 +0000" stop="20211116024500 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 1</title><category lang="ar">Generic</category></programme>
-<programme start="20211116024500 +0000" stop="20211116030000 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 22</title><category lang="ar">Generic</category></programme>
-<programme start="20211116030000 +0000" stop="20211116031500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 7</title><category lang="ar">Generic</category></programme>
-<programme start="20211116031500 +0000" stop="20211116034500 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 21</title><category lang="ar">Generic</category></programme>
-<programme start="20211116033000 +0000" stop="20211116040000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116040000 +0000" stop="20211116043000 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 24</title><category lang="ar">Generic</category></programme>
-<programme start="20211116041500 +0000" stop="20211116042000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 4</title><category lang="ar">Generic</category></programme>
-<programme start="20211116043000 +0000" stop="20211116050000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116050000 +0000" stop="20211116051000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 7</title><category lang="ar">Generic</category></programme>
-<programme start="20211116051000 +0000" stop="20211116052000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 8</title><category lang="ar">Generic</category></programme>
-<programme start="20211116052000 +0000" stop="20211116053000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116053000 +0000" stop="20211116054500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 19</title><category lang="ar">Generic</category></programme>
-<programme start="20211116054500 +0000" stop="20211116060000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 16</title><category lang="ar">Generic</category></programme>
-<programme start="20211116060000 +0000" stop="20211116063000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 26</title><category lang="ar">Generic</category></programme>
-<programme start="20211116061500 +0000" stop="20211116063000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116063000 +0000" stop="20211116070000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 21</title><category lang="ar">Generic</category></programme>
-<programme start="20211116064500 +0000" stop="20211116070000 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 7</title><category lang="ar">Generic</category></programme>
-<programme start="20211116070000 +0000" stop="20211116073000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116073000 +0000" stop="20211116080000 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 24</title><category lang="ar">Generic</category></programme>
-<programme start="20211116074500 +0000" stop="20211116075000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 4</title><category lang="ar">Generic</category></programme>
-<programme start="20211116080000 +0000" stop="20211116083000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 17</title><category lang="ar">Generic</category></programme>
-<programme start="20211116083000 +0000" stop="20211116090000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 50</title><category lang="ar">Generic</category></programme>
-<programme start="20211116090000 +0000" stop="20211116091500 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 22</title><category lang="ar">Generic</category></programme>
-<programme start="20211116091500 +0000" stop="20211116093000 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 1</title><category lang="ar">Generic</category></programme>
-<programme start="20211116093000 +0000" stop="20211116100000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116100000 +0000" stop="20211116101500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 7</title><category lang="ar">Generic</category></programme>
-<programme start="20211116101500 +0000" stop="20211116104500 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 24</title><category lang="ar">Generic</category></programme>
-<programme start="20211116103000 +0000" stop="20211116104500 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 16</title><category lang="ar">Generic</category></programme>
-<programme start="20211116104500 +0000" stop="20211116110000 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 19</title><category lang="ar">Generic</category></programme>
-<programme start="20211116110000 +0000" stop="20211116113000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 26</title><category lang="ar">Generic</category></programme>
-<programme start="20211116111500 +0000" stop="20211116113000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116113000 +0000" stop="20211116120000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116120000 +0000" stop="20211116121000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116121000 +0000" stop="20211116122000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116122000 +0000" stop="20211116123000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 12</title><category lang="ar">Generic</category></programme>
-<programme start="20211116123000 +0000" stop="20211116124500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 8</title><category lang="ar">Generic</category></programme>
-<programme start="20211116124500 +0000" stop="20211116131500 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 22</title><category lang="ar">Generic</category></programme>
-<programme start="20211116130000 +0000" stop="20211116133000 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 25</title><category lang="ar">Generic</category></programme>
-<programme start="20211116132500 +0000" stop="20211116133000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 5</title><category lang="ar">Generic</category></programme>
-<programme start="20211116133000 +0000" stop="20211116134500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 20</title><category lang="ar">Generic</category></programme>
-<programme start="20211116134500 +0000" stop="20211116140000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 17</title><category lang="ar">Generic</category></programme>
-<programme start="20211116140000 +0000" stop="20211116143000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 18</title><category lang="ar">Generic</category></programme>
-<programme start="20211116143000 +0000" stop="20211116150000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 51</title><category lang="ar">Generic</category></programme>
-<programme start="20211116150000 +0000" stop="20211116153000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116153000 +0000" stop="20211116154500 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116154500 +0000" stop="20211116160000 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 2</title><category lang="ar">Generic</category></programme>
-<programme start="20211116160000 +0000" stop="20211116163000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 1</title><category lang="ar">Generic</category></programme>
-<programme start="20211116162500 +0000" stop="20211116164000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116163000 +0000" stop="20211116170000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 24</title><category lang="ar">Generic</category></programme>
-<programme start="20211116170000 +0000" stop="20211116171000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116171000 +0000" stop="20211116172000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116172000 +0000" stop="20211116173000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 12</title><category lang="ar">Generic</category></programme>
-<programme start="20211116173000 +0000" stop="20211116174500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 8</title><category lang="ar">Generic</category></programme>
-<programme start="20211116174500 +0000" stop="20211116181500 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 22</title><category lang="ar">Generic</category></programme>
-<programme start="20211116180000 +0000" stop="20211116180500 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 5</title><category lang="ar">Generic</category></programme>
-<programme start="20211116181500 +0000" stop="20211116184500 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 25</title><category lang="ar">Generic</category></programme>
-<programme start="20211116183000 +0000" stop="20211116184500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 20</title><category lang="ar">Generic</category></programme>
-<programme start="20211116184500 +0000" stop="20211116190000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 17</title><category lang="ar">Generic</category></programme>
-<programme start="20211116190000 +0000" stop="20211116193000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 18</title><category lang="ar">Generic</category></programme>
-<programme start="20211116193000 +0000" stop="20211116200000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116200000 +0000" stop="20211116203000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 51</title><category lang="ar">Generic</category></programme>
-<programme start="20211116203000 +0000" stop="20211116204500 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 23</title><category lang="ar">Generic</category></programme>
-<programme start="20211116204500 +0000" stop="20211116210000 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 2</title><category lang="ar">Generic</category></programme>
-<programme start="20211116210000 +0000" stop="20211116211000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 10</title><category lang="ar">Generic</category></programme>
-<programme start="20211116211000 +0000" stop="20211116212000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116212000 +0000" stop="20211116213000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 12</title><category lang="ar">Generic</category></programme>
-<programme start="20211116213000 +0000" stop="20211116220000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 24</title><category lang="ar">Generic</category></programme>
-<programme start="20211116220000 +0000" stop="20211116221500 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116221500 +0000" stop="20211116224500 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 1</title><category lang="ar">Generic</category></programme>
-<programme start="20211116223000 +0000" stop="20211116230000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 22</title><category lang="ar">Generic</category></programme>
-<programme start="20211116224500 +0000" stop="20211116230000 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 8</title><category lang="ar">Generic</category></programme>
-<programme start="20211116230000 +0000" stop="20211116231500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 20</title><category lang="ar">Generic</category></programme>
-<programme start="20211116231500 +0000" stop="20211116233000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 17</title><category lang="ar">Generic</category></programme>
-<programme start="20211116233000 +0000" stop="20211116234500 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 25</title><category lang="ar">Generic</category></programme>
-<programme start="20211116234500 +0000" stop="20211116235000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 5</title><category lang="ar">Generic</category></programme>
+<programme start="20211118000000 +0000" stop="20211118013000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">طارق شو - Episode 4</title><category lang="ar">Generic</category></programme>
+<programme start="20211118013000 +0000" stop="20211118030000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
+<programme start="20211118030000 +0000" stop="20211118034000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 25</title><category lang="ar">Generic</category></programme>
+<programme start="20211118034000 +0000" stop="20211118042000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 26</title><category lang="ar">Generic</category></programme>
+<programme start="20211118042000 +0000" stop="20211118050000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 27</title><category lang="ar">Generic</category></programme>
+<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سما عالية - Episode 4</title><category lang="ar">Generic</category></programme>
+<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Generic</category></programme>
+<programme start="20211118070000 +0000" stop="20211118090000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سيدتي</title><category lang="ar">Generic</category></programme>
+<programme start="20211118090000 +0000" stop="20211118094000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 28</title><category lang="ar">Generic</category></programme>
+<programme start="20211118094000 +0000" stop="20211118102000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 29</title><category lang="ar">Generic</category></programme>
+<programme start="20211118102000 +0000" stop="20211118110000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ممنوع الاقتراب أو التصوير - Episode 30</title><category lang="ar">Generic</category></programme>
+<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حسب الظروف بدون تترات - Episode 24</title><category lang="ar">Drama</category></programme>
+<programme start="20211118113000 +0000" stop="20211118130000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">طارق شو - Episode 4</title><category lang="ar">Generic</category></programme>
+<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Generic</category></programme>
+<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سيدتي</title><category lang="ar">Generic</category></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">سما عالية - Episode 5</title><category lang="ar">Generic</category></programme>
+<programme start="20211118170000 +0000" stop="20211118183000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
+<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حسب الظروف بدون تترات - Episode 25</title><category lang="ar">Drama</category></programme>
+<programme start="20211118190000 +0000" stop="20211118203000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">فتح عينيك</title><category lang="ar">Action</category></programme>
+<programme start="20211118203000 +0000" stop="20211118220000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">كورة</title><category lang="ar">Generic</category></programme>
+<programme start="20211118220000 +0000" stop="20211118233000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">ياهلا</title><category lang="ar">Generic</category></programme>
+<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="RotanaKhalejia.sa"><title lang="ar">حسب الظروف بدون تترات - Episode 25</title><category lang="ar">Drama</category></programme>
 <programme start="20211117000000 +0000" stop="20211117003000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 18</title><category lang="ar">Generic</category></programme>
 <programme start="20211117003000 +0000" stop="20211117010000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 51</title><category lang="ar">Generic</category></programme>
 <programme start="20211117010000 +0000" stop="20211117013000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 10</title><category lang="ar">Generic</category></programme>
@@ -494,29 +408,88 @@
 <programme start="20211117231500 +0000" stop="20211117233000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 18</title><category lang="ar">Generic</category></programme>
 <programme start="20211117233000 +0000" stop="20211117234500 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 26</title><category lang="ar">Generic</category></programme>
 <programme start="20211117234500 +0000" stop="20211117235000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 6</title><category lang="ar">Generic</category></programme>
-<programme start="20211116010000 +0000" stop="20211116020000 +0000" channel="RotanaPlus.sa"><title lang="ar">ساعة شباب R2</title><category lang="ar">Youth</category></programme>
-<programme start="20211116020000 +0000" stop="20211116021500 +0000" channel="RotanaPlus.sa"><title lang="ar">Stars - Episode 11</title><category lang="ar">Generic</category></programme>
-<programme start="20211116023000 +0000" stop="20211116040000 +0000" channel="RotanaPlus.sa"><title lang="ar">تحت السيطرة - Episode 7</title><category lang="ar">Social</category></programme>
-<programme start="20211116033000 +0000" stop="20211116040000 +0000" channel="RotanaPlus.sa"><title lang="ar">Sound bites - Episode 11</title><category lang="ar">Social</category></programme>
-<programme start="20211116040000 +0000" stop="20211116050000 +0000" channel="RotanaPlus.sa"><title lang="ar">ياهلا R</title><category lang="ar">Political</category></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="RotanaPlus.sa"><title lang="ar">جود - Episode 21</title><category lang="ar">Drama</category></programme>
-<programme start="20211116060000 +0000" stop="20211116073000 +0000" channel="RotanaPlus.sa"><title lang="ar">كورة R</title><category lang="ar">Sport</category></programme>
-<programme start="20211116073000 +0000" stop="20211116083000 +0000" channel="RotanaPlus.sa"><title lang="ar">آفراح القبة - Episode 27</title><category lang="ar">Drama</category></programme>
-<programme start="20211116083000 +0000" stop="20211116093000 +0000" channel="RotanaPlus.sa"><title lang="ar">ساعة شباب R2</title><category lang="ar">Youth</category></programme>
-<programme start="20211116093000 +0000" stop="20211116103000 +0000" channel="RotanaPlus.sa"><title lang="ar">يوماّ ما - Episode 8</title><category lang="ar">Generic</category></programme>
-<programme start="20211116103000 +0000" stop="20211116113000 +0000" channel="RotanaPlus.sa"><title lang="ar">CONCERT F</title><category lang="ar">Generic</category></programme>
-<programme start="20211116120000 +0000" stop="20211116123000 +0000" channel="RotanaPlus.sa"><title lang="ar">ON THE ROAD - Episode 11</title><category lang="ar">Social</category></programme>
-<programme start="20211116123000 +0000" stop="20211116133000 +0000" channel="RotanaPlus.sa"><title lang="ar">جود - Episode 22</title><category lang="ar">Drama</category></programme>
-<programme start="20211116133000 +0000" stop="20211116143000 +0000" channel="RotanaPlus.sa"><title lang="ar">آفراح القبة - Episode 28</title><category lang="ar">Drama</category></programme>
-<programme start="20211116143000 +0000" stop="20211116153000 +0000" channel="RotanaPlus.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Youth</category></programme>
-<programme start="20211116153000 +0000" stop="20211116170000 +0000" channel="RotanaPlus.sa"><title lang="ar">سيدتي</title><category lang="ar">Talk Show</category></programme>
-<programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="RotanaPlus.sa"><title lang="ar">يوماّ ما - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116180000 +0000" stop="20211116190000 +0000" channel="RotanaPlus.sa"><title lang="ar">ياهلا</title><category lang="ar">Political</category></programme>
-<programme start="20211116190000 +0000" stop="20211116200000 +0000" channel="RotanaPlus.sa"><title lang="ar">جود - Episode 22</title><category lang="ar">Drama</category></programme>
-<programme start="20211116200000 +0000" stop="20211116210000 +0000" channel="RotanaPlus.sa"><title lang="ar">آفراح القبة - Episode 28</title><category lang="ar">Drama</category></programme>
-<programme start="20211116210000 +0000" stop="20211116223000 +0000" channel="RotanaPlus.sa"><title lang="ar">كورة</title><category lang="ar">Sport</category></programme>
-<programme start="20211116223000 +0000" stop="20211116233000 +0000" channel="RotanaPlus.sa"><title lang="ar">يوماّ ما - Episode 9</title><category lang="ar">Generic</category></programme>
-<programme start="20211116233000 +0000" stop="20211117010000 +0000" channel="RotanaPlus.sa"><title lang="ar">سيدتي R</title><category lang="ar">Talk Show</category></programme>
+<programme start="20211118000000 +0000" stop="20211118003000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 19</title><category lang="ar">Generic</category></programme>
+<programme start="20211118003000 +0000" stop="20211118010000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 52</title><category lang="ar">Generic</category></programme>
+<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118013000 +0000" stop="20211118020000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 2</title><category lang="ar">Generic</category></programme>
+<programme start="20211118014500 +0000" stop="20211118020000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 12</title><category lang="ar">Generic</category></programme>
+<programme start="20211118020000 +0000" stop="20211118021500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 21</title><category lang="ar">Generic</category></programme>
+<programme start="20211118021500 +0000" stop="20211118023000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 18</title><category lang="ar">Generic</category></programme>
+<programme start="20211118023000 +0000" stop="20211118024500 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 3</title><category lang="ar">Generic</category></programme>
+<programme start="20211118024500 +0000" stop="20211118030000 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 24</title><category lang="ar">Generic</category></programme>
+<programme start="20211118030000 +0000" stop="20211118031500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 9</title><category lang="ar">Generic</category></programme>
+<programme start="20211118031500 +0000" stop="20211118034500 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 23</title><category lang="ar">Generic</category></programme>
+<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 25</title><category lang="ar">Generic</category></programme>
+<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 26</title><category lang="ar">Generic</category></programme>
+<programme start="20211118041500 +0000" stop="20211118042000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 6</title><category lang="ar">Generic</category></programme>
+<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118050000 +0000" stop="20211118051000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 13</title><category lang="ar">Generic</category></programme>
+<programme start="20211118051000 +0000" stop="20211118052000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 14</title><category lang="ar">Generic</category></programme>
+<programme start="20211118052000 +0000" stop="20211118053000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 15</title><category lang="ar">Generic</category></programme>
+<programme start="20211118053000 +0000" stop="20211118054500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 21</title><category lang="ar">Generic</category></programme>
+<programme start="20211118054500 +0000" stop="20211118060000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 18</title><category lang="ar">Generic</category></programme>
+<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 2</title><category lang="ar">Generic</category></programme>
+<programme start="20211118061500 +0000" stop="20211118063000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 12</title><category lang="ar">Generic</category></programme>
+<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 23</title><category lang="ar">Generic</category></programme>
+<programme start="20211118064500 +0000" stop="20211118070000 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 9</title><category lang="ar">Generic</category></programme>
+<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 25</title><category lang="ar">Generic</category></programme>
+<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 26</title><category lang="ar">Generic</category></programme>
+<programme start="20211118074500 +0000" stop="20211118075000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 6</title><category lang="ar">Generic</category></programme>
+<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 19</title><category lang="ar">Generic</category></programme>
+<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 52</title><category lang="ar">Generic</category></programme>
+<programme start="20211118090000 +0000" stop="20211118091500 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 24</title><category lang="ar">Generic</category></programme>
+<programme start="20211118091500 +0000" stop="20211118093000 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 3</title><category lang="ar">Generic</category></programme>
+<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118100000 +0000" stop="20211118101500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 9</title><category lang="ar">Generic</category></programme>
+<programme start="20211118101500 +0000" stop="20211118104500 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 26</title><category lang="ar">Generic</category></programme>
+<programme start="20211118103000 +0000" stop="20211118104500 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 18</title><category lang="ar">Generic</category></programme>
+<programme start="20211118104500 +0000" stop="20211118110000 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 21</title><category lang="ar">Generic</category></programme>
+<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 2</title><category lang="ar">Generic</category></programme>
+<programme start="20211118111500 +0000" stop="20211118113000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 12</title><category lang="ar">Generic</category></programme>
+<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 25</title><category lang="ar">Generic</category></programme>
+<programme start="20211118120000 +0000" stop="20211118121000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 16</title><category lang="ar">Generic</category></programme>
+<programme start="20211118121000 +0000" stop="20211118122000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 17</title><category lang="ar">Generic</category></programme>
+<programme start="20211118122000 +0000" stop="20211118123000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 18</title><category lang="ar">Generic</category></programme>
+<programme start="20211118123000 +0000" stop="20211118124500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 10</title><category lang="ar">Generic</category></programme>
+<programme start="20211118124500 +0000" stop="20211118131500 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 24</title><category lang="ar">Generic</category></programme>
+<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 27</title><category lang="ar">Generic</category></programme>
+<programme start="20211118132500 +0000" stop="20211118133000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 7</title><category lang="ar">Generic</category></programme>
+<programme start="20211118133000 +0000" stop="20211118134500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 22</title><category lang="ar">Generic</category></programme>
+<programme start="20211118134500 +0000" stop="20211118140000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 19</title><category lang="ar">Generic</category></programme>
+<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 20</title><category lang="ar">Generic</category></programme>
+<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 1</title><category lang="ar">Generic</category></programme>
+<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 12</title><category lang="ar">Generic</category></programme>
+<programme start="20211118153000 +0000" stop="20211118154500 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 25</title><category lang="ar">Generic</category></programme>
+<programme start="20211118154500 +0000" stop="20211118160000 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 4</title><category lang="ar">Generic</category></programme>
+<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 3</title><category lang="ar">Generic</category></programme>
+<programme start="20211118162500 +0000" stop="20211118164000 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 13</title><category lang="ar">Generic</category></programme>
+<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 26</title><category lang="ar">Generic</category></programme>
+<programme start="20211118170000 +0000" stop="20211118171000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 16</title><category lang="ar">Generic</category></programme>
+<programme start="20211118171000 +0000" stop="20211118172000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 17</title><category lang="ar">Generic</category></programme>
+<programme start="20211118172000 +0000" stop="20211118173000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 18</title><category lang="ar">Generic</category></programme>
+<programme start="20211118173000 +0000" stop="20211118174500 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 10</title><category lang="ar">Generic</category></programme>
+<programme start="20211118174500 +0000" stop="20211118181500 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 24</title><category lang="ar">Generic</category></programme>
+<programme start="20211118180000 +0000" stop="20211118180500 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 7</title><category lang="ar">Generic</category></programme>
+<programme start="20211118181500 +0000" stop="20211118184500 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 27</title><category lang="ar">Generic</category></programme>
+<programme start="20211118183000 +0000" stop="20211118184500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 22</title><category lang="ar">Generic</category></programme>
+<programme start="20211118184500 +0000" stop="20211118190000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 19</title><category lang="ar">Generic</category></programme>
+<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="RotanaKids.sa"><title lang="ar">(The Jungle Book ) كتاب الغابة - Episode 20</title><category lang="ar">Generic</category></programme>
+<programme start="20211118193000 +0000" stop="20211118200000 +0000" channel="RotanaKids.sa"><title lang="ar">ماركو بولو الجزء الاول - Episode 12</title><category lang="ar">Generic</category></programme>
+<programme start="20211118200000 +0000" stop="20211118203000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات روبن هود - Episode 1</title><category lang="ar">Generic</category></programme>
+<programme start="20211118203000 +0000" stop="20211118204500 +0000" channel="RotanaKids.sa"><title lang="ar">Vroomiz Season 1 - Episode 25</title><category lang="ar">Generic</category></programme>
+<programme start="20211118204500 +0000" stop="20211118210000 +0000" channel="RotanaKids.sa"><title lang="ar">قنديل الحكايات -LANTERN TALES - Episode 4</title><category lang="ar">Generic</category></programme>
+<programme start="20211118210000 +0000" stop="20211118211000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 16</title><category lang="ar">Generic</category></programme>
+<programme start="20211118211000 +0000" stop="20211118212000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 17</title><category lang="ar">Generic</category></programme>
+<programme start="20211118212000 +0000" stop="20211118213000 +0000" channel="RotanaKids.sa"><title lang="ar">إينا مينا ديكا 3 - Episode 18</title><category lang="ar">Generic</category></programme>
+<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات زينة ونحول - Episode 26</title><category lang="ar">Generic</category></programme>
+<programme start="20211118220000 +0000" stop="20211118221500 +0000" channel="RotanaKids.sa"><title lang="ar">Saari - Episode 13</title><category lang="ar">Generic</category></programme>
+<programme start="20211118221500 +0000" stop="20211118224500 +0000" channel="RotanaKids.sa"><title lang="ar">Dinofroz - Episode 3</title><category lang="ar">Generic</category></programme>
+<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="RotanaKids.sa"><title lang="ar">مغامرات ماهر - Episode 24</title><category lang="ar">Generic</category></programme>
+<programme start="20211118224500 +0000" stop="20211118230000 +0000" channel="RotanaKids.sa"><title lang="ar">جاد الشجاع	 - Episode 10</title><category lang="ar">Generic</category></programme>
+<programme start="20211118230000 +0000" stop="20211118231500 +0000" channel="RotanaKids.sa"><title lang="ar">السنافر - Episode 22</title><category lang="ar">Generic</category></programme>
+<programme start="20211118231500 +0000" stop="20211118233000 +0000" channel="RotanaKids.sa"><title lang="ar">القوة الصغيرة 2 - Episode 19</title><category lang="ar">Generic</category></programme>
+<programme start="20211118233000 +0000" stop="20211118234500 +0000" channel="RotanaKids.sa"><title lang="ar">Gon - Episode 27</title><category lang="ar">Generic</category></programme>
+<programme start="20211118234500 +0000" stop="20211118235000 +0000" channel="RotanaKids.sa"><title lang="ar">المحترف البارع - Episode 7</title><category lang="ar">Generic</category></programme>
 <programme start="20211117010000 +0000" stop="20211117020000 +0000" channel="RotanaPlus.sa"><title lang="ar">ساعة شباب R2</title><category lang="ar">Youth</category></programme>
 <programme start="20211117020000 +0000" stop="20211117030000 +0000" channel="RotanaPlus.sa"><title lang="ar">CONCERT R</title><category lang="ar">Documentary</category></programme>
 <programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="RotanaPlus.sa"><title lang="ar">ON THE ROAD - Episode 11</title><category lang="ar">Social</category></programme>
@@ -539,4 +512,26 @@
 <programme start="20211117210000 +0000" stop="20211117223000 +0000" channel="RotanaPlus.sa"><title lang="ar">كورة</title><category lang="ar">Sport</category></programme>
 <programme start="20211117223000 +0000" stop="20211117233000 +0000" channel="RotanaPlus.sa"><title lang="ar">يوماّ ما - Episode 10</title><category lang="ar">Generic</category></programme>
 <programme start="20211117233000 +0000" stop="20211118010000 +0000" channel="RotanaPlus.sa"><title lang="ar">سيدتي R</title><category lang="ar">Talk Show</category></programme>
+<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="RotanaPlus.sa"><title lang="ar">ساعة شباب R2</title><category lang="ar">Youth</category></programme>
+<programme start="20211118020000 +0000" stop="20211118033000 +0000" channel="RotanaPlus.sa"><title lang="ar">وينك - Episode 10</title><category lang="ar">Generic</category></programme>
+<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="RotanaPlus.sa"><title lang="ar">TOP 10 - R1</title><category lang="ar">Action</category></programme>
+<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="RotanaPlus.sa"><title lang="ar">ياهلا R</title><category lang="ar">Political</category></programme>
+<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="RotanaPlus.sa"><title lang="ar">جود - Episode 23</title><category lang="ar">Drama</category></programme>
+<programme start="20211118060000 +0000" stop="20211118073000 +0000" channel="RotanaPlus.sa"><title lang="ar">كورة R</title><category lang="ar">Sport</category></programme>
+<programme start="20211118073000 +0000" stop="20211118083000 +0000" channel="RotanaPlus.sa"><title lang="ar">آفراح القبة - Episode 29</title><category lang="ar">Drama</category></programme>
+<programme start="20211118083000 +0000" stop="20211118093000 +0000" channel="RotanaPlus.sa"><title lang="ar">ساعة شباب R2</title><category lang="ar">Youth</category></programme>
+<programme start="20211118093000 +0000" stop="20211118103000 +0000" channel="RotanaPlus.sa"><title lang="ar">يوماّ ما - Episode 10</title><category lang="ar">Generic</category></programme>
+<programme start="20211118103000 +0000" stop="20211118113000 +0000" channel="RotanaPlus.sa"><title lang="ar">THE CLINIC - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118113000 +0000" stop="20211118123000 +0000" channel="RotanaPlus.sa"><title lang="ar">NOON AL QUWA - F</title><category lang="ar">Romance</category></programme>
+<programme start="20211118123000 +0000" stop="20211118133000 +0000" channel="RotanaPlus.sa"><title lang="ar">جود - Episode 24</title><category lang="ar">Drama</category></programme>
+<programme start="20211118133000 +0000" stop="20211118143000 +0000" channel="RotanaPlus.sa"><title lang="ar">آفراح القبة - Episode 30</title><category lang="ar">Drama</category></programme>
+<programme start="20211118143000 +0000" stop="20211118153000 +0000" channel="RotanaPlus.sa"><title lang="ar">ساعة شباب</title><category lang="ar">Youth</category></programme>
+<programme start="20211118153000 +0000" stop="20211118170000 +0000" channel="RotanaPlus.sa"><title lang="ar">سيدتي</title><category lang="ar">Talk Show</category></programme>
+<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="RotanaPlus.sa"><title lang="ar">يوماّ ما - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="RotanaPlus.sa"><title lang="ar">ياهلا</title><category lang="ar">Political</category></programme>
+<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="RotanaPlus.sa"><title lang="ar">جود - Episode 24</title><category lang="ar">Drama</category></programme>
+<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="RotanaPlus.sa"><title lang="ar">آفراح القبة - Episode 30</title><category lang="ar">Drama</category></programme>
+<programme start="20211118210000 +0000" stop="20211118223000 +0000" channel="RotanaPlus.sa"><title lang="ar">كورة</title><category lang="ar">Sport</category></programme>
+<programme start="20211118223000 +0000" stop="20211118233000 +0000" channel="RotanaPlus.sa"><title lang="ar">يوماّ ما - Episode 11</title><category lang="ar">Generic</category></programme>
+<programme start="20211118233000 +0000" stop="20211119010000 +0000" channel="RotanaPlus.sa"><title lang="ar">سيدتي R</title><category lang="ar">Talk Show</category></programme>
 </tv>

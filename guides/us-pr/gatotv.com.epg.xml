@@ -6,138 +6,106 @@
 <channel id="WLIIDT.us"><display-name>Univisión (WLII-DT) San Juan, PR</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png"/></channel>
 <channel id="WORODT.us"><display-name>TeleOro Canal 13 (WORO-DT) San Juan, PR</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_puerto_rico-mediano.png"/></channel>
 <channel id="WRUA.us"><display-name>Tiva TV (WRUA) San Juan, PR</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tiva-mediano.png"/></channel>
-<programme start="20211115213000 +0000" stop="20211116010000 +0000" channel="WAPADT2.us"><title lang="es">Cangrejeros de Santurce vs. Indios de Mayagüez</title></programme>
-<programme start="20211116010000 +0000" stop="20211116013000 +0000" channel="WAPADT2.us"><title lang="es">Formula E</title></programme>
-<programme start="20211116013000 +0000" stop="20211116020000 +0000" channel="WAPADT2.us"><title lang="es">Mobil 1 The Grid</title></programme>
-<programme start="20211116020000 +0000" stop="20211116030000 +0000" channel="WAPADT2.us"><title lang="es">Super Estrellas de la Lucha Libre</title></programme>
-<programme start="20211116030000 +0000" stop="20211116040000 +0000" channel="WAPADT2.us"><title lang="es">Super Estrellas de la Lucha Libre</title></programme>
-<programme start="20211116040000 +0000" stop="20211116043000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116043000 +0000" stop="20211116050000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="WAPADT2.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
-<programme start="20211116060000 +0000" stop="20211116070000 +0000" channel="WAPADT2.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
-<programme start="20211116070000 +0000" stop="20211116073000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116073000 +0000" stop="20211116080000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116080000 +0000" stop="20211116083000 +0000" channel="WAPADT2.us"><title lang="es">¡Arregla el problema en tus pies y alivia el dolor en todo tu cuerpo!</title></programme>
-<programme start="20211116083000 +0000" stop="20211116090000 +0000" channel="WAPADT2.us"><title lang="es">Velform Cover: ¡Oculta las imperfecciones y da color a tu piel!</title></programme>
-<programme start="20211116090000 +0000" stop="20211116093000 +0000" channel="WAPADT2.us"><title lang="es">¡Nutrición orgánica integral y superalimenticia simplificada!</title></programme>
-<programme start="20211116093000 +0000" stop="20211116100000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116100000 +0000" stop="20211116103000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116103000 +0000" stop="20211116110000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116110000 +0000" stop="20211116133000 +0000" channel="WAPADT2.us"><title lang="es">Gigantes de Carolina vs. Cangrejeras de Santurce</title></programme>
-<programme start="20211116133000 +0000" stop="20211116140000 +0000" channel="WAPADT2.us"><title lang="es">Mobil 1 The Grid</title></programme>
-<programme start="20211116140000 +0000" stop="20211116153000 +0000" channel="WAPADT2.us"><title lang="es">A Puño Limpio</title></programme>
-<programme start="20211116153000 +0000" stop="20211116180000 +0000" channel="WAPADT2.us"><title lang="es">Gigantes de Carolina vs. Cangrejeras de Santurce</title></programme>
-<programme start="20211116180000 +0000" stop="20211116183000 +0000" channel="WAPADT2.us"><title lang="es">NBA Action</title></programme>
-<programme start="20211116183000 +0000" stop="20211116200000 +0000" channel="WAPADT2.us"><title lang="es">2011 Dallas Mavericks Championship Video</title></programme>
-<programme start="20211116200000 +0000" stop="20211117000000 +0000" channel="WAPADT2.us"><title lang="es">Béisbol</title></programme>
-<programme start="20211117000000 +0000" stop="20211117003000 +0000" channel="WAPADT2.us"><title lang="es">Mobil 1 The Grid</title></programme>
-<programme start="20211117003000 +0000" stop="20211117010000 +0000" channel="WAPADT2.us"><title lang="es">The Story</title></programme>
-<programme start="20211117010000 +0000" stop="20211117013000 +0000" channel="WAPADT2.us"><title lang="es">Super League Triathlon</title></programme>
-<programme start="20211117013000 +0000" stop="20211117020000 +0000" channel="WAPADT2.us"><title lang="es">Formula E</title></programme>
+<programme start="20211117000000 +0000" stop="20211117003000 +0000" channel="WAPADT2.us"><title lang="es">Super League Triathlon</title></programme>
+<programme start="20211117003000 +0000" stop="20211117010000 +0000" channel="WAPADT2.us"><title lang="es">Formula E</title></programme>
+<programme start="20211117010000 +0000" stop="20211117020000 +0000" channel="WAPADT2.us"><title lang="es">Super Estrellas de la Lucha Libre</title></programme>
 <programme start="20211117020000 +0000" stop="20211117030000 +0000" channel="WAPADT2.us"><title lang="es">Super Estrellas de la Lucha Libre</title></programme>
-<programme start="20211117030000 +0000" stop="20211117040000 +0000" channel="WAPADT2.us"><title lang="es">Super Estrellas de la Lucha Libre</title></programme>
-<programme start="20211117040000 +0000" stop="20211117043000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117043000 +0000" stop="20211117050000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117030000 +0000" stop="20211117033000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117040000 +0000" stop="20211117050000 +0000" channel="WAPADT2.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
 <programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="WAPADT2.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
-<programme start="20211117060000 +0000" stop="20211117070000 +0000" channel="WAPADT2.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
-<programme start="20211117070000 +0000" stop="20211117073000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117073000 +0000" stop="20211117080000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117080000 +0000" stop="20211117083000 +0000" channel="WAPADT2.us"><title lang="es">Rotorazor: La sierra más larga</title></programme>
-<programme start="20211117083000 +0000" stop="20211117090000 +0000" channel="WAPADT2.us"><title lang="es">Paint Zoom - La Espectacular y Poderosa Pistola para Pintar</title></programme>
-<programme start="20211117090000 +0000" stop="20211117093000 +0000" channel="WAPADT2.us"><title lang="es">El secreto natural de la salud masculina para una próstata sana</title></programme>
+<programme start="20211117060000 +0000" stop="20211117063000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117063000 +0000" stop="20211117070000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117070000 +0000" stop="20211117073000 +0000" channel="WAPADT2.us"><title lang="es">Rotorazor: La sierra más larga</title></programme>
+<programme start="20211117073000 +0000" stop="20211117080000 +0000" channel="WAPADT2.us"><title lang="es">Paint Zoom - La Espectacular y Poderosa Pistola para Pintar</title></programme>
+<programme start="20211117080000 +0000" stop="20211117083000 +0000" channel="WAPADT2.us"><title lang="es">El secreto natural de la salud masculina para una próstata sana</title></programme>
+<programme start="20211117083000 +0000" stop="20211117090000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117090000 +0000" stop="20211117093000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117093000 +0000" stop="20211117100000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117100000 +0000" stop="20211117103000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117103000 +0000" stop="20211117110000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117110000 +0000" stop="20211117133000 +0000" channel="WAPADT2.us"><title lang="es">FIBA Americup 2021: Puerto Rico vs. México</title></programme>
-<programme start="20211117133000 +0000" stop="20211117143000 +0000" channel="WAPADT2.us"><title lang="es">Baseball Seasons</title></programme>
-<programme start="20211117143000 +0000" stop="20211117163000 +0000" channel="WAPADT2.us"><title lang="es">A Puño Limpio</title></programme>
-<programme start="20211117163000 +0000" stop="20211117190000 +0000" channel="WAPADT2.us"><title lang="es">Final 1988: Detroit Pistons vs. Los Ángeles Lakers</title></programme>
-<programme start="20211117190000 +0000" stop="20211117213000 +0000" channel="WAPADT2.us"><title lang="es">Cangrejeras de Santurce vs. Gigantes de Carolina</title></programme>
-<programme start="20211117213000 +0000" stop="20211117223000 +0000" channel="WAPADT2.us"><title lang="es">Baseball Seasons</title></programme>
-<programme start="20211117223000 +0000" stop="20211117230000 +0000" channel="WAPADT2.us"><title lang="es">Mobil 1 The Grid</title></programme>
-<programme start="20211117230000 +0000" stop="20211117233000 +0000" channel="WAPADT2.us"><title lang="es">Formula E</title></programme>
-<programme start="20211117233000 +0000" stop="20211118000000 +0000" channel="WAPADT2.us"><title lang="es">Super League Triathlon</title></programme>
-<programme start="20211115223000 +0000" stop="20211116003000 +0000" channel="WAPATV.us"><title lang="es">El poder del amor</title></programme>
-<programme start="20211116003000 +0000" stop="20211116010000 +0000" channel="WAPATV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116010000 +0000" stop="20211116023000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
-<programme start="20211116023000 +0000" stop="20211116030000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
-<programme start="20211116030000 +0000" stop="20211116035600 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
-<programme start="20211116035600 +0000" stop="20211116043000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al amanecer: Primera edición</title></programme>
-<programme start="20211116043000 +0000" stop="20211116090000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al Amanecer</title></programme>
-<programme start="20211116090000 +0000" stop="20211116100000 +0000" channel="WAPATV.us"><title lang="es">Enfermeras</title></programme>
-<programme start="20211116100000 +0000" stop="20211116103000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
-<programme start="20211116103000 +0000" stop="20211116120000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
-<programme start="20211116120000 +0000" stop="20211116130000 +0000" channel="WAPATV.us"><title lang="es">Viva la Tarde</title></programme>
-<programme start="20211116130000 +0000" stop="20211116143000 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
-<programme start="20211116143000 +0000" stop="20211116150000 +0000" channel="WAPATV.us"><title lang="es">Los datos son los datos</title></programme>
-<programme start="20211116150000 +0000" stop="20211116163000 +0000" channel="WAPATV.us"><title lang="es">Noticentro Emisión Estelar</title></programme>
-<programme start="20211116163000 +0000" stop="20211116180000 +0000" channel="WAPATV.us"><title lang="es">Guerreros</title></programme>
-<programme start="20211116180000 +0000" stop="20211116200000 +0000" channel="WAPATV.us"><title lang="es">Mad Max: Fury Road</title></programme>
-<programme start="20211116200000 +0000" stop="20211116210000 +0000" channel="WAPATV.us"><title lang="es">Zuleyha</title></programme>
-<programme start="20211116210000 +0000" stop="20211116220000 +0000" channel="WAPATV.us"><title lang="es">Cuarto Poder</title></programme>
-<programme start="20211116220000 +0000" stop="20211116223000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
-<programme start="20211116223000 +0000" stop="20211117003000 +0000" channel="WAPATV.us"><title lang="es">El poder del amor</title></programme>
-<programme start="20211116223000 +0000" stop="20211117003000 +0000" channel="WAPATV.us"><title lang="es">El poder del amor</title></programme>
-<programme start="20211117003000 +0000" stop="20211117010000 +0000" channel="WAPATV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117010000 +0000" stop="20211117023000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
-<programme start="20211117023000 +0000" stop="20211117030000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
-<programme start="20211117030000 +0000" stop="20211117035600 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
-<programme start="20211117035600 +0000" stop="20211117043000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al amanecer: Primera edición</title></programme>
-<programme start="20211117043000 +0000" stop="20211117090000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al Amanecer</title></programme>
-<programme start="20211117090000 +0000" stop="20211117100000 +0000" channel="WAPATV.us"><title lang="es">Enfermeras</title></programme>
-<programme start="20211117100000 +0000" stop="20211117103000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
-<programme start="20211117103000 +0000" stop="20211117120000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
-<programme start="20211117120000 +0000" stop="20211117130000 +0000" channel="WAPATV.us"><title lang="es">Viva la Tarde</title></programme>
-<programme start="20211117130000 +0000" stop="20211117143000 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
-<programme start="20211117143000 +0000" stop="20211117150000 +0000" channel="WAPATV.us"><title lang="es">Los datos son los datos</title></programme>
-<programme start="20211117150000 +0000" stop="20211117163000 +0000" channel="WAPATV.us"><title lang="es">Noticentro Emisión Estelar</title></programme>
-<programme start="20211117163000 +0000" stop="20211117180000 +0000" channel="WAPATV.us"><title lang="es">Guerreros</title></programme>
-<programme start="20211117180000 +0000" stop="20211117200000 +0000" channel="WAPATV.us"><title lang="es">S.W.A.T.: Under Siege</title></programme>
-<programme start="20211117200000 +0000" stop="20211117210000 +0000" channel="WAPATV.us"><title lang="es">Zuleyha</title></programme>
-<programme start="20211117210000 +0000" stop="20211117220000 +0000" channel="WAPATV.us"><title lang="es">El Remix</title></programme>
-<programme start="20211117220000 +0000" stop="20211117223000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
-<programme start="20211117223000 +0000" stop="20211118003000 +0000" channel="WAPATV.us"><title lang="es">El poder del amor</title></programme>
-<programme start="20211115233000 +0000" stop="20211116003000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
-<programme start="20211116003000 +0000" stop="20211116013000 +0000" channel="WKAQDT2.us"><title lang="es">La Doña: Edición especial</title></programme>
-<programme start="20211116013000 +0000" stop="20211116023000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
-<programme start="20211116023000 +0000" stop="20211116033000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
-<programme start="20211116033000 +0000" stop="20211116040000 +0000" channel="WKAQDT2.us"><title lang="es">Decisiones</title><desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png"/></programme>
-<programme start="20211116040000 +0000" stop="20211116050000 +0000" channel="WKAQDT2.us"><title lang="es">Suelta la Sopa</title></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="WKAQDT2.us"><title lang="es">Comienza el Día con la Pastora Wanda Rolon</title></programme>
-<programme start="20211116060000 +0000" stop="20211116063000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116063000 +0000" stop="20211116070000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116070000 +0000" stop="20211116073000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116073000 +0000" stop="20211116080000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116080000 +0000" stop="20211116083000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116083000 +0000" stop="20211116090000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116090000 +0000" stop="20211116093000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116093000 +0000" stop="20211116100000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116100000 +0000" stop="20211116103000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116103000 +0000" stop="20211116110000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116110000 +0000" stop="20211116113000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116113000 +0000" stop="20211116120000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116120000 +0000" stop="20211116123000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116123000 +0000" stop="20211116130000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116130000 +0000" stop="20211116133000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116133000 +0000" stop="20211116140000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116140000 +0000" stop="20211116150000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
-<programme start="20211116150000 +0000" stop="20211116160000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
-<programme start="20211116160000 +0000" stop="20211116170000 +0000" channel="WKAQDT2.us"><title lang="es">En casa con Telemundo</title></programme>
-<programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="WKAQDT2.us"><title lang="es">La dona</title></programme>
-<programme start="20211116180000 +0000" stop="20211116190000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
-<programme start="20211116190000 +0000" stop="20211116200000 +0000" channel="WKAQDT2.us"><title lang="es">Suelta la Sopa</title></programme>
-<programme start="20211116200000 +0000" stop="20211116210000 +0000" channel="WKAQDT2.us"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211116210000 +0000" stop="20211116220000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
-<programme start="20211116220000 +0000" stop="20211116223000 +0000" channel="WKAQDT2.us"><title lang="es">Noticias Telemundo</title></programme>
-<programme start="20211116223000 +0000" stop="20211116233000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
-<programme start="20211116233000 +0000" stop="20211117003000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
-<programme start="20211116233000 +0000" stop="20211117003000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
-<programme start="20211117003000 +0000" stop="20211117013000 +0000" channel="WKAQDT2.us"><title lang="es">La Doña: Edición especial</title></programme>
-<programme start="20211117013000 +0000" stop="20211117023000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
-<programme start="20211117023000 +0000" stop="20211117033000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
-<programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="WKAQDT2.us"><title lang="es">Decisiones</title><desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png"/></programme>
-<programme start="20211117040000 +0000" stop="20211117050000 +0000" channel="WKAQDT2.us"><title lang="es">Suelta la Sopa</title></programme>
-<programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="WKAQDT2.us"><title lang="es">Comienza el Día con la Pastora Wanda Rolon</title></programme>
+<programme start="20211117100000 +0000" stop="20211117123000 +0000" channel="WAPADT2.us"><title lang="es">FIBA Americup 2021: Puerto Rico vs. México</title></programme>
+<programme start="20211117123000 +0000" stop="20211117133000 +0000" channel="WAPADT2.us"><title lang="es">Baseball Seasons</title></programme>
+<programme start="20211117133000 +0000" stop="20211117153000 +0000" channel="WAPADT2.us"><title lang="es">A Puño Limpio</title></programme>
+<programme start="20211117153000 +0000" stop="20211117180000 +0000" channel="WAPADT2.us"><title lang="es">Final 1988: Detroit Pistons vs. Los Ángeles Lakers</title></programme>
+<programme start="20211117180000 +0000" stop="20211117203000 +0000" channel="WAPADT2.us"><title lang="es">Cangrejeras de Santurce vs. Gigantes de Carolina</title></programme>
+<programme start="20211117203000 +0000" stop="20211117213000 +0000" channel="WAPADT2.us"><title lang="es">Baseball Seasons</title></programme>
+<programme start="20211117213000 +0000" stop="20211117220000 +0000" channel="WAPADT2.us"><title lang="es">Mobil 1 The Grid</title></programme>
+<programme start="20211117220000 +0000" stop="20211117223000 +0000" channel="WAPADT2.us"><title lang="es">Formula E</title></programme>
+<programme start="20211117223000 +0000" stop="20211117230000 +0000" channel="WAPADT2.us"><title lang="es">Super League Triathlon</title></programme>
+<programme start="20211117230000 +0000" stop="20211117233000 +0000" channel="WAPADT2.us"><title lang="es">The Story</title></programme>
+<programme start="20211117233000 +0000" stop="20211118010000 +0000" channel="WAPADT2.us"><title lang="es">The Race</title></programme>
+<programme start="20211117233000 +0000" stop="20211118010000 +0000" channel="WAPADT2.us"><title lang="es">The Race</title></programme>
+<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="WAPADT2.us"><title lang="es">Super Estrellas de la Lucha Libre</title></programme>
+<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="WAPADT2.us"><title lang="es">Super Estrellas de la Lucha Libre</title></programme>
+<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="WAPADT2.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
+<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="WAPADT2.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
+<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="WAPADT2.us"><title lang="es">Ir al baño a menudo?</title></programme>
+<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="WAPADT2.us"><title lang="es">¡Arregla el problema en tus pies y alivia el dolor en todo tu cuerpo!</title></programme>
+<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="WAPADT2.us"><title lang="es">Velform Cover: ¡Oculta las imperfecciones y da color a tu piel!</title></programme>
+<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="WAPADT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118100000 +0000" stop="20211118123000 +0000" channel="WAPADT2.us"><title lang="es">Gigantes de Carolina vs. Cangrejeras de Santurce</title></programme>
+<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="WAPADT2.us"><title lang="es">Mobil 1 The Grid</title></programme>
+<programme start="20211118130000 +0000" stop="20211118153000 +0000" channel="WAPADT2.us"><title lang="es">Cangrejeras de Santurce vs. Gigantes de Carolina</title></programme>
+<programme start="20211118153000 +0000" stop="20211118180000 +0000" channel="WAPADT2.us"><title lang="es">Final 1988: Detroit Pistons vs. Los Ángeles Lakers</title></programme>
+<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="WAPADT2.us"><title lang="es">NBA Action</title></programme>
+<programme start="20211118183000 +0000" stop="20211118210000 +0000" channel="WAPADT2.us"><title lang="es">Golden State Warriors vs. Cleveland Cavaliers</title></programme>
+<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="WAPADT2.us"><title lang="es">My Most Memorable Game</title></programme>
+<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="WAPADT2.us"><title lang="es">Formula E</title></programme>
+<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="WAPADT2.us"><title lang="es">Mobil 1 The Grid</title></programme>
+<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="WAPADT2.us"><title lang="es">The Story</title></programme>
+<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="WAPADT2.us"><title lang="es">Super League Triathlon</title></programme>
+<programme start="20211118233000 +0000" stop="20211119010000 +0000" channel="WAPADT2.us"><title lang="es">The Race</title></programme>
+<programme start="20211117000000 +0000" stop="20211117013000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
+<programme start="20211117013000 +0000" stop="20211117020000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
+<programme start="20211117020000 +0000" stop="20211117025600 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
+<programme start="20211117025600 +0000" stop="20211117033000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al amanecer: Primera edición</title></programme>
+<programme start="20211117033000 +0000" stop="20211117080000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al Amanecer</title></programme>
+<programme start="20211117080000 +0000" stop="20211117090000 +0000" channel="WAPATV.us"><title lang="es">Enfermeras</title></programme>
+<programme start="20211117090000 +0000" stop="20211117093000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
+<programme start="20211117093000 +0000" stop="20211117110000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
+<programme start="20211117110000 +0000" stop="20211117120000 +0000" channel="WAPATV.us"><title lang="es">Viva la Tarde</title></programme>
+<programme start="20211117120000 +0000" stop="20211117133000 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
+<programme start="20211117133000 +0000" stop="20211117140000 +0000" channel="WAPATV.us"><title lang="es">Los datos son los datos</title></programme>
+<programme start="20211117140000 +0000" stop="20211117153000 +0000" channel="WAPATV.us"><title lang="es">Noticentro Emisión Estelar</title></programme>
+<programme start="20211117153000 +0000" stop="20211117170000 +0000" channel="WAPATV.us"><title lang="es">Guerreros</title></programme>
+<programme start="20211117170000 +0000" stop="20211117190000 +0000" channel="WAPATV.us"><title lang="es">S.W.A.T.: Under Siege</title></programme>
+<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="WAPATV.us"><title lang="es">Zuleyha</title></programme>
+<programme start="20211117200000 +0000" stop="20211117210000 +0000" channel="WAPATV.us"><title lang="es">El Remix</title></programme>
+<programme start="20211117210000 +0000" stop="20211117213000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
+<programme start="20211117213000 +0000" stop="20211117233000 +0000" channel="WAPATV.us"><title lang="es">El poder del amor</title></programme>
+<programme start="20211117233000 +0000" stop="20211118000000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
+<programme start="20211118000000 +0000" stop="20211118003000 +0000" channel="WAPATV.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118003000 +0000" stop="20211118020000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
+<programme start="20211118020000 +0000" stop="20211118025600 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
+<programme start="20211118025600 +0000" stop="20211118033000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al amanecer: Primera edición</title></programme>
+<programme start="20211118033000 +0000" stop="20211118080000 +0000" channel="WAPATV.us"><title lang="es">Noticentro al Amanecer</title></programme>
+<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="WAPATV.us"><title lang="es">Enfermeras</title></programme>
+<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
+<programme start="20211118093000 +0000" stop="20211118110000 +0000" channel="WAPATV.us"><title lang="es">Pégate al Mediodía</title></programme>
+<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="WAPATV.us"><title lang="es">Viva la Tarde</title></programme>
+<programme start="20211118120000 +0000" stop="20211118133000 +0000" channel="WAPATV.us"><title lang="es">Lo Se Todo</title></programme>
+<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="WAPATV.us"><title lang="es">Los datos son los datos</title></programme>
+<programme start="20211118140000 +0000" stop="20211118153000 +0000" channel="WAPATV.us"><title lang="es">Noticentro Emisión Estelar</title></programme>
+<programme start="20211118153000 +0000" stop="20211118170000 +0000" channel="WAPATV.us"><title lang="es">Guerreros</title></programme>
+<programme start="20211118170000 +0000" stop="20211118190000 +0000" channel="WAPATV.us"><title lang="es">A Quiet Place</title><desc lang="es">Aquellos que han sobrevivido viven con una sola regla: nunca debes hacer ruido. Si no te escuchan, no pueden cazarte.</desc><icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/un_lugar_en_silencio.jpg"/></programme>
+<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="WAPATV.us"><title lang="es">Zuleyha</title></programme>
+<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="WAPATV.us"><title lang="es">Ahí está la verdad</title></programme>
+<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="WAPATV.us"><title lang="es">Noticentro</title></programme>
+<programme start="20211118213000 +0000" stop="20211118233000 +0000" channel="WAPATV.us"><title lang="es">El poder del amor</title></programme>
+<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="WAPATV.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211116233000 +0000" stop="20211117003000 +0000" channel="WKAQDT2.us"><title lang="es">La Doña: Edición especial</title></programme>
+<programme start="20211117003000 +0000" stop="20211117013000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
+<programme start="20211117013000 +0000" stop="20211117023000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
+<programme start="20211117023000 +0000" stop="20211117030000 +0000" channel="WKAQDT2.us"><title lang="es">Decisiones</title><desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png"/></programme>
+<programme start="20211117030000 +0000" stop="20211117040000 +0000" channel="WKAQDT2.us"><title lang="es">Suelta la Sopa</title></programme>
+<programme start="20211117040000 +0000" stop="20211117050000 +0000" channel="WKAQDT2.us"><title lang="es">Comienza el Día con la Pastora Wanda Rolon</title></programme>
+<programme start="20211117050000 +0000" stop="20211117053000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117053000 +0000" stop="20211117060000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117060000 +0000" stop="20211117063000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117063000 +0000" stop="20211117070000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117070000 +0000" stop="20211117073000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
@@ -152,211 +120,205 @@
 <programme start="20211117113000 +0000" stop="20211117120000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117120000 +0000" stop="20211117123000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117123000 +0000" stop="20211117130000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117130000 +0000" stop="20211117133000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117133000 +0000" stop="20211117140000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117140000 +0000" stop="20211117150000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
-<programme start="20211117150000 +0000" stop="20211117160000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
-<programme start="20211117160000 +0000" stop="20211117170000 +0000" channel="WKAQDT2.us"><title lang="es">En casa con Telemundo</title></programme>
-<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WKAQDT2.us"><title lang="es">La dona</title></programme>
-<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
-<programme start="20211117190000 +0000" stop="20211117210000 +0000" channel="WKAQDT2.us"><title lang="es">Vaqueros de Bayamón vs. Cangrejeros de Santurce</title></programme>
-<programme start="20211117210000 +0000" stop="20211117220000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
-<programme start="20211117220000 +0000" stop="20211117223000 +0000" channel="WKAQDT2.us"><title lang="es">Noticias Telemundo</title></programme>
-<programme start="20211117223000 +0000" stop="20211117233000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
-<programme start="20211117233000 +0000" stop="20211118003000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
-<programme start="20211116000000 +0000" stop="20211116010000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211116010000 +0000" stop="20211116040000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
-<programme start="20211116040000 +0000" stop="20211116050000 +0000" channel="WKAQTV.us"><title lang="es">Historias de la vírgen morena</title></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211116060000 +0000" stop="20211116070000 +0000" channel="WKAQTV.us"><title lang="es">Yo soy Betty, la fea</title></programme>
-<programme start="20211116070000 +0000" stop="20211116090000 +0000" channel="WKAQTV.us"><title lang="es">Hoy día Puerto Rico</title></programme>
-<programme start="20211116090000 +0000" stop="20211116100000 +0000" channel="WKAQTV.us"><title lang="es">Buscando a Frida</title></programme>
-<programme start="20211116100000 +0000" stop="20211116103000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
-<programme start="20211116103000 +0000" stop="20211116120000 +0000" channel="WKAQTV.us"><title lang="es">Alexandra a las 12</title></programme>
-<programme start="20211116120000 +0000" stop="20211116150000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
-<programme start="20211116150000 +0000" stop="20211116170000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
-<programme start="20211116170000 +0000" stop="20211116190000 +0000" channel="WKAQTV.us"><title lang="es">Çocuk</title></programme>
-<programme start="20211116190000 +0000" stop="20211116210000 +0000" channel="WKAQTV.us"><title lang="es">Raymond y sus Amigos</title></programme>
-<programme start="20211116210000 +0000" stop="20211116220000 +0000" channel="WKAQTV.us"><title lang="es">Rayos X</title></programme>
-<programme start="20211116220000 +0000" stop="20211116223000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
-<programme start="20211116223000 +0000" stop="20211116233000 +0000" channel="WKAQTV.us"><title lang="es">La casa de los famosos</title></programme>
-<programme start="20211116233000 +0000" stop="20211117003000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211116233000 +0000" stop="20211117003000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211117003000 +0000" stop="20211117010000 +0000" channel="WKAQTV.us"><title lang="es">Decisiones</title><desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png"/></programme>
-<programme start="20211117010000 +0000" stop="20211117040000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
-<programme start="20211117040000 +0000" stop="20211117050000 +0000" channel="WKAQTV.us"><title lang="es">Historias de la vírgen morena</title></programme>
-<programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211117060000 +0000" stop="20211117070000 +0000" channel="WKAQTV.us"><title lang="es">Yo soy Betty, la fea</title></programme>
-<programme start="20211117070000 +0000" stop="20211117090000 +0000" channel="WKAQTV.us"><title lang="es">Hoy día Puerto Rico</title></programme>
-<programme start="20211117090000 +0000" stop="20211117100000 +0000" channel="WKAQTV.us"><title lang="es">Buscando a Frida</title></programme>
-<programme start="20211117100000 +0000" stop="20211117103000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
-<programme start="20211117103000 +0000" stop="20211117120000 +0000" channel="WKAQTV.us"><title lang="es">Alexandra a las 12</title></programme>
-<programme start="20211117120000 +0000" stop="20211117150000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
-<programme start="20211117150000 +0000" stop="20211117170000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
-<programme start="20211117170000 +0000" stop="20211117190000 +0000" channel="WKAQTV.us"><title lang="es">Puerto Rico gana</title></programme>
-<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="WKAQTV.us"><title lang="es">Me robaste el corazón</title></programme>
-<programme start="20211117200000 +0000" stop="20211117220000 +0000" channel="WKAQTV.us"><title lang="es">¿Por amor o por dinero?</title></programme>
-<programme start="20211117220000 +0000" stop="20211117223000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
-<programme start="20211117223000 +0000" stop="20211118000000 +0000" channel="WKAQTV.us"><title lang="es">Alexandra a las 12</title></programme>
-<programme start="20211116000000 +0000" stop="20211116003000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116003000 +0000" stop="20211116010000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116010000 +0000" stop="20211116020000 +0000" channel="WLIIDT.us"><title lang="es">Primer Impacto</title></programme>
-<programme start="20211116020000 +0000" stop="20211116023000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
-<programme start="20211116023000 +0000" stop="20211116030000 +0000" channel="WLIIDT.us"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20211116030000 +0000" stop="20211116033000 +0000" channel="WLIIDT.us"><title lang="es">Vecinos</title></programme>
-<programme start="20211116033000 +0000" stop="20211116040000 +0000" channel="WLIIDT.us"><title lang="es">La Familia Peluche</title></programme>
-<programme start="20211116040000 +0000" stop="20211116043000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116043000 +0000" stop="20211116050000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="WLIIDT.us"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20211116060000 +0000" stop="20211116070000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20211116070000 +0000" stop="20211116100000 +0000" channel="WLIIDT.us"><title lang="es">Despierta América</title></programme>
-<programme start="20211116100000 +0000" stop="20211116110000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20211116110000 +0000" stop="20211116120000 +0000" channel="WLIIDT.us"><title lang="es">La madrastra</title></programme>
-<programme start="20211116120000 +0000" stop="20211116130000 +0000" channel="WLIIDT.us"><title lang="es">La Desalmada</title></programme>
-<programme start="20211116130000 +0000" stop="20211116140000 +0000" channel="WLIIDT.us"><title lang="es">Huérfanos de su tierra</title></programme>
-<programme start="20211116140000 +0000" stop="20211116150000 +0000" channel="WLIIDT.us"><title lang="es">La Rosa de Guadalupe</title></programme>
-<programme start="20211116150000 +0000" stop="20211116160000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias ahora</title></programme>
-<programme start="20211116160000 +0000" stop="20211116170000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias prime</title></programme>
-<programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="WLIIDT.us"><title lang="es">La Comay</title></programme>
-<programme start="20211116180000 +0000" stop="20211116190000 +0000" channel="WLIIDT.us"><title lang="es">Jugando Pelota Dura</title></programme>
-<programme start="20211116190000 +0000" stop="20211116210000 +0000" channel="WLIIDT.us"><title lang="es">Enamorándonos</title></programme>
-<programme start="20211116210000 +0000" stop="20211116220000 +0000" channel="WLIIDT.us"><title lang="es">Acuéstate con Francis</title></programme>
-<programme start="20211116220000 +0000" stop="20211116223000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
-<programme start="20211116223000 +0000" stop="20211116230000 +0000" channel="WLIIDT.us"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20211116230000 +0000" stop="20211116233000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116233000 +0000" stop="20211117000000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117000000 +0000" stop="20211117003000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117003000 +0000" stop="20211117010000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117010000 +0000" stop="20211117020000 +0000" channel="WLIIDT.us"><title lang="es">Primer Impacto</title></programme>
-<programme start="20211117020000 +0000" stop="20211117023000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
-<programme start="20211117023000 +0000" stop="20211117030000 +0000" channel="WLIIDT.us"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20211117030000 +0000" stop="20211117033000 +0000" channel="WLIIDT.us"><title lang="es">Vecinos</title></programme>
-<programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="WLIIDT.us"><title lang="es">La Familia Peluche</title></programme>
-<programme start="20211117040000 +0000" stop="20211117043000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117043000 +0000" stop="20211117050000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="WLIIDT.us"><title lang="es">El Gordo y la Flaca</title></programme>
-<programme start="20211117060000 +0000" stop="20211117070000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20211117070000 +0000" stop="20211117100000 +0000" channel="WLIIDT.us"><title lang="es">Despierta América</title></programme>
-<programme start="20211117100000 +0000" stop="20211117110000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20211117110000 +0000" stop="20211117120000 +0000" channel="WLIIDT.us"><title lang="es">La madrastra</title></programme>
-<programme start="20211117120000 +0000" stop="20211117130000 +0000" channel="WLIIDT.us"><title lang="es">La Desalmada</title></programme>
-<programme start="20211117130000 +0000" stop="20211117140000 +0000" channel="WLIIDT.us"><title lang="es">Huérfanos de su tierra</title></programme>
-<programme start="20211117140000 +0000" stop="20211117150000 +0000" channel="WLIIDT.us"><title lang="es">La Rosa de Guadalupe</title></programme>
-<programme start="20211117150000 +0000" stop="20211117160000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias ahora</title></programme>
-<programme start="20211117160000 +0000" stop="20211117170000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias prime</title></programme>
-<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WLIIDT.us"><title lang="es">La Comay</title></programme>
-<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="WLIIDT.us"><title lang="es">Jugando Pelota Dura</title></programme>
-<programme start="20211117190000 +0000" stop="20211117210000 +0000" channel="WLIIDT.us"><title lang="es">Enamorándonos</title></programme>
-<programme start="20211117210000 +0000" stop="20211117220000 +0000" channel="WLIIDT.us"><title lang="es">Acuéstate con Francis</title></programme>
-<programme start="20211117220000 +0000" stop="20211117223000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
-<programme start="20211117223000 +0000" stop="20211117230000 +0000" channel="WLIIDT.us"><title lang="es">Noticiero Univisión</title></programme>
+<programme start="20211117130000 +0000" stop="20211117140000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
+<programme start="20211117140000 +0000" stop="20211117150000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
+<programme start="20211117150000 +0000" stop="20211117160000 +0000" channel="WKAQDT2.us"><title lang="es">En casa con Telemundo</title></programme>
+<programme start="20211117160000 +0000" stop="20211117170000 +0000" channel="WKAQDT2.us"><title lang="es">La dona</title></programme>
+<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
+<programme start="20211117180000 +0000" stop="20211117200000 +0000" channel="WKAQDT2.us"><title lang="es">Vaqueros de Bayamón vs. Cangrejeros de Santurce</title></programme>
+<programme start="20211117200000 +0000" stop="20211117210000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
+<programme start="20211117210000 +0000" stop="20211117213000 +0000" channel="WKAQDT2.us"><title lang="es">Noticias Telemundo</title></programme>
+<programme start="20211117213000 +0000" stop="20211117223000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
+<programme start="20211117223000 +0000" stop="20211117233000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
+<programme start="20211117233000 +0000" stop="20211118003000 +0000" channel="WKAQDT2.us"><title lang="es">La Doña: Edición especial</title></programme>
+<programme start="20211117233000 +0000" stop="20211118003000 +0000" channel="WKAQDT2.us"><title lang="es">La Doña: Edición especial</title></programme>
+<programme start="20211118003000 +0000" stop="20211118013000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
+<programme start="20211118013000 +0000" stop="20211118023000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
+<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="WKAQDT2.us"><title lang="es">Decisiones</title><desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png"/></programme>
+<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="WKAQDT2.us"><title lang="es">Suelta la Sopa</title></programme>
+<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="WKAQDT2.us"><title lang="es">Comienza el Día con la Pastora Wanda Rolon</title></programme>
+<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118100000 +0000" stop="20211118103000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="WKAQDT2.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
+<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
+<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="WKAQDT2.us"><title lang="es">En casa con Telemundo</title></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="WKAQDT2.us"><title lang="es">La dona</title></programme>
+<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="WKAQDT2.us"><title lang="es">El Señor de los Cielos</title><desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/el_senor_de_los_cielos.jpg"/></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="WKAQDT2.us"><title lang="es">Suelta la Sopa</title></programme>
+<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="WKAQDT2.us"><title lang="es">Al rojo vivo</title></programme>
+<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="WKAQDT2.us"><title lang="es">El final del paraíso</title></programme>
+<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="WKAQDT2.us"><title lang="es">Noticias Telemundo</title></programme>
+<programme start="20211118213000 +0000" stop="20211118223000 +0000" channel="WKAQDT2.us"><title lang="es">Mas sabe el diablo</title></programme>
+<programme start="20211118223000 +0000" stop="20211118233000 +0000" channel="WKAQDT2.us"><title lang="es">Reina de Corazones</title></programme>
+<programme start="20211118233000 +0000" stop="20211119003000 +0000" channel="WKAQDT2.us"><title lang="es">La Doña: Edición especial</title></programme>
+<programme start="20211117000000 +0000" stop="20211117030000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
+<programme start="20211117030000 +0000" stop="20211117040000 +0000" channel="WKAQTV.us"><title lang="es">Historias de la vírgen morena</title></programme>
+<programme start="20211117040000 +0000" stop="20211117050000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
+<programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="WKAQTV.us"><title lang="es">Yo soy Betty, la fea</title></programme>
+<programme start="20211117060000 +0000" stop="20211117080000 +0000" channel="WKAQTV.us"><title lang="es">Hoy día Puerto Rico</title></programme>
+<programme start="20211117080000 +0000" stop="20211117090000 +0000" channel="WKAQTV.us"><title lang="es">Buscando a Frida</title></programme>
+<programme start="20211117090000 +0000" stop="20211117093000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
+<programme start="20211117093000 +0000" stop="20211117110000 +0000" channel="WKAQTV.us"><title lang="es">Alexandra a las 12</title></programme>
+<programme start="20211117110000 +0000" stop="20211117140000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
+<programme start="20211117140000 +0000" stop="20211117160000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
+<programme start="20211117160000 +0000" stop="20211117180000 +0000" channel="WKAQTV.us"><title lang="es">Puerto Rico gana</title></programme>
+<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="WKAQTV.us"><title lang="es">Me robaste el corazón</title></programme>
+<programme start="20211117190000 +0000" stop="20211117210000 +0000" channel="WKAQTV.us"><title lang="es">¿Por amor o por dinero?</title></programme>
+<programme start="20211117210000 +0000" stop="20211117213000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
+<programme start="20211117213000 +0000" stop="20211117230000 +0000" channel="WKAQTV.us"><title lang="es">Alexandra a las 12</title></programme>
+<programme start="20211117230000 +0000" stop="20211118000000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
+<programme start="20211118000000 +0000" stop="20211118030000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
+<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="WKAQTV.us"><title lang="es">Historias de la vírgen morena</title></programme>
+<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
+<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="WKAQTV.us"><title lang="es">Yo soy Betty, la fea</title></programme>
+<programme start="20211118060000 +0000" stop="20211118080000 +0000" channel="WKAQTV.us"><title lang="es">Hoy día Puerto Rico</title></programme>
+<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="WKAQTV.us"><title lang="es">Buscando a Frida</title></programme>
+<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
+<programme start="20211118093000 +0000" stop="20211118110000 +0000" channel="WKAQTV.us"><title lang="es">Alexandra a las 12</title></programme>
+<programme start="20211118110000 +0000" stop="20211118140000 +0000" channel="WKAQTV.us"><title lang="es">Día a día</title></programme>
+<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
+<programme start="20211118160000 +0000" stop="20211118180000 +0000" channel="WKAQTV.us"><title lang="es">Puerto Rico gana</title></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="WKAQTV.us"><title lang="es">Me robaste el corazón</title></programme>
+<programme start="20211118190000 +0000" stop="20211118210000 +0000" channel="WKAQTV.us"><title lang="es">¿Por amor o por dinero?</title></programme>
+<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="WKAQTV.us"><title lang="es">Telenoticias</title></programme>
+<programme start="20211118213000 +0000" stop="20211118230000 +0000" channel="WKAQTV.us"><title lang="es">Alexandra a las 12</title></programme>
+<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="WKAQTV.us"><title lang="es">Al rojo vivo</title></programme>
+<programme start="20211117000000 +0000" stop="20211117010000 +0000" channel="WLIIDT.us"><title lang="es">Primer Impacto</title></programme>
+<programme start="20211117010000 +0000" stop="20211117013000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
+<programme start="20211117013000 +0000" stop="20211117020000 +0000" channel="WLIIDT.us"><title lang="es">Noticiero Univisión</title></programme>
+<programme start="20211117020000 +0000" stop="20211117023000 +0000" channel="WLIIDT.us"><title lang="es">Vecinos</title></programme>
+<programme start="20211117023000 +0000" stop="20211117030000 +0000" channel="WLIIDT.us"><title lang="es">La Familia Peluche</title></programme>
+<programme start="20211117030000 +0000" stop="20211117033000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117040000 +0000" stop="20211117050000 +0000" channel="WLIIDT.us"><title lang="es">El Gordo y la Flaca</title></programme>
+<programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
+<programme start="20211117060000 +0000" stop="20211117090000 +0000" channel="WLIIDT.us"><title lang="es">Despierta América</title></programme>
+<programme start="20211117090000 +0000" stop="20211117100000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
+<programme start="20211117100000 +0000" stop="20211117110000 +0000" channel="WLIIDT.us"><title lang="es">La madrastra</title></programme>
+<programme start="20211117110000 +0000" stop="20211117120000 +0000" channel="WLIIDT.us"><title lang="es">La Desalmada</title></programme>
+<programme start="20211117120000 +0000" stop="20211117130000 +0000" channel="WLIIDT.us"><title lang="es">Huérfanos de su tierra</title></programme>
+<programme start="20211117130000 +0000" stop="20211117140000 +0000" channel="WLIIDT.us"><title lang="es">La Rosa de Guadalupe</title></programme>
+<programme start="20211117140000 +0000" stop="20211117150000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias ahora</title></programme>
+<programme start="20211117150000 +0000" stop="20211117160000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias prime</title></programme>
+<programme start="20211117160000 +0000" stop="20211117170000 +0000" channel="WLIIDT.us"><title lang="es">La Comay</title></programme>
+<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WLIIDT.us"><title lang="es">Jugando Pelota Dura</title></programme>
+<programme start="20211117180000 +0000" stop="20211117200000 +0000" channel="WLIIDT.us"><title lang="es">Enamorándonos</title></programme>
+<programme start="20211117200000 +0000" stop="20211117210000 +0000" channel="WLIIDT.us"><title lang="es">Acuéstate con Francis</title></programme>
+<programme start="20211117210000 +0000" stop="20211117213000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
+<programme start="20211117213000 +0000" stop="20211117220000 +0000" channel="WLIIDT.us"><title lang="es">Noticiero Univisión</title></programme>
+<programme start="20211117220000 +0000" stop="20211117223000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211117223000 +0000" stop="20211117230000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117230000 +0000" stop="20211117233000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211117233000 +0000" stop="20211118000000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211116000000 +0000" stop="20211116003000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211116003000 +0000" stop="20211116043000 +0000" channel="WORODT.us"><title lang="es">Fuera del aire</title></programme>
-<programme start="20211116043000 +0000" stop="20211116050000 +0000" channel="WORODT.us"><title lang="es">Santo Rosario</title></programme>
-<programme start="20211116050000 +0000" stop="20211116053000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
-<programme start="20211116053000 +0000" stop="20211116060000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
-<programme start="20211116060000 +0000" stop="20211116063000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211116063000 +0000" stop="20211116070000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211116070000 +0000" stop="20211116080000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
-<programme start="20211116080000 +0000" stop="20211116090000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
-<programme start="20211116090000 +0000" stop="20211116093000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
-<programme start="20211116093000 +0000" stop="20211116100000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211116100000 +0000" stop="20211116103000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
-<programme start="20211116103000 +0000" stop="20211116110000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
-<programme start="20211116110000 +0000" stop="20211116120000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
-<programme start="20211116120000 +0000" stop="20211116123000 +0000" channel="WORODT.us"><title lang="es">Mente y Corazón</title></programme>
-<programme start="20211116123000 +0000" stop="20211116125800 +0000" channel="WORODT.us"><title lang="es">¡Familia!, Activa tu fe</title></programme>
-<programme start="20211116125800 +0000" stop="20211116130000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
-<programme start="20211116130000 +0000" stop="20211116133000 +0000" channel="WORODT.us"><title lang="es">Aviva</title></programme>
-<programme start="20211116133000 +0000" stop="20211116140000 +0000" channel="WORODT.us"><title lang="es">Alpha y Omega</title></programme>
-<programme start="20211116140000 +0000" stop="20211116143000 +0000" channel="WORODT.us"><title lang="es">Coronilla de la Divina Misericordia</title></programme>
-<programme start="20211116143000 +0000" stop="20211116150000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
-<programme start="20211116150000 +0000" stop="20211116153000 +0000" channel="WORODT.us"><title lang="es">Shabum y su tienda mágica</title></programme>
-<programme start="20211116153000 +0000" stop="20211116155800 +0000" channel="WORODT.us"><title lang="es">Aprendo con Shabum</title></programme>
-<programme start="20211116155800 +0000" stop="20211116160000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
-<programme start="20211116160000 +0000" stop="20211116163000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
-<programme start="20211116163000 +0000" stop="20211116170000 +0000" channel="WORODT.us"><title lang="es">Entre Líneas</title></programme>
-<programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="WORODT.us"><title lang="es">En Cuerpo y Alma</title></programme>
-<programme start="20211116180000 +0000" stop="20211116190000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
-<programme start="20211116190000 +0000" stop="20211116200000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
-<programme start="20211116200000 +0000" stop="20211116210000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
-<programme start="20211116210000 +0000" stop="20211116213000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
-<programme start="20211116213000 +0000" stop="20211116220000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
-<programme start="20211116220000 +0000" stop="20211116230000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
-<programme start="20211116230000 +0000" stop="20211117000000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria</title></programme>
-<programme start="20211117000000 +0000" stop="20211117003000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211117003000 +0000" stop="20211117043000 +0000" channel="WORODT.us"><title lang="es">Fuera del aire</title></programme>
-<programme start="20211117043000 +0000" stop="20211117050000 +0000" channel="WORODT.us"><title lang="es">Santo Rosario</title></programme>
-<programme start="20211117050000 +0000" stop="20211117053000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
-<programme start="20211117053000 +0000" stop="20211117060000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
-<programme start="20211117060000 +0000" stop="20211117063000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211117063000 +0000" stop="20211117070000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211117070000 +0000" stop="20211117080000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
-<programme start="20211117080000 +0000" stop="20211117090000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
-<programme start="20211117090000 +0000" stop="20211117093000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
-<programme start="20211117093000 +0000" stop="20211117100000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
-<programme start="20211117100000 +0000" stop="20211117103000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
-<programme start="20211117103000 +0000" stop="20211117110000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
-<programme start="20211117110000 +0000" stop="20211117120000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
-<programme start="20211117120000 +0000" stop="20211117123000 +0000" channel="WORODT.us"><title lang="es">Mente y Corazón</title></programme>
-<programme start="20211117123000 +0000" stop="20211117125800 +0000" channel="WORODT.us"><title lang="es">¡Familia!, Activa tu fe</title></programme>
-<programme start="20211117125800 +0000" stop="20211117130000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
-<programme start="20211117130000 +0000" stop="20211117133000 +0000" channel="WORODT.us"><title lang="es">Aviva</title></programme>
-<programme start="20211117133000 +0000" stop="20211117140000 +0000" channel="WORODT.us"><title lang="es">Alpha y Omega</title></programme>
-<programme start="20211117140000 +0000" stop="20211117143000 +0000" channel="WORODT.us"><title lang="es">Coronilla de la Divina Misericordia</title></programme>
-<programme start="20211117143000 +0000" stop="20211117150000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
-<programme start="20211117150000 +0000" stop="20211117153000 +0000" channel="WORODT.us"><title lang="es">Shabum y su tienda mágica</title></programme>
-<programme start="20211117153000 +0000" stop="20211117155800 +0000" channel="WORODT.us"><title lang="es">Aprendo con Shabum</title></programme>
-<programme start="20211117155800 +0000" stop="20211117160000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
-<programme start="20211117160000 +0000" stop="20211117163000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
-<programme start="20211117163000 +0000" stop="20211117170000 +0000" channel="WORODT.us"><title lang="es">Entre Líneas</title></programme>
-<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WORODT.us"><title lang="es">En Cuerpo y Alma</title></programme>
-<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
-<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
-<programme start="20211117200000 +0000" stop="20211117210000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
-<programme start="20211117210000 +0000" stop="20211117213000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
-<programme start="20211117213000 +0000" stop="20211117220000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
-<programme start="20211117220000 +0000" stop="20211117230000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
-<programme start="20211117230000 +0000" stop="20211118000000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria</title></programme>
-<programme start="20211116000000 +0000" stop="20211116003000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116003000 +0000" stop="20211116010000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116010000 +0000" stop="20211116013000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116013000 +0000" stop="20211116020000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116020000 +0000" stop="20211116023000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116023000 +0000" stop="20211116030000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116030000 +0000" stop="20211116033000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116033000 +0000" stop="20211116040000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116040000 +0000" stop="20211116043000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116043000 +0000" stop="20211116050000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116050000 +0000" stop="20211116060000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211116060000 +0000" stop="20211116070000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211116070000 +0000" stop="20211116073000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116073000 +0000" stop="20211116080000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116080000 +0000" stop="20211116090000 +0000" channel="WRUA.us"><title lang="es">Hablemos de tu Dolor</title></programme>
-<programme start="20211116090000 +0000" stop="20211116093000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116093000 +0000" stop="20211116100000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116100000 +0000" stop="20211116103000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116103000 +0000" stop="20211116110000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116110000 +0000" stop="20211116120000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
-<programme start="20211116120000 +0000" stop="20211116130000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211116130000 +0000" stop="20211116140000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211116140000 +0000" stop="20211116143000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116143000 +0000" stop="20211116150000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116150000 +0000" stop="20211116153000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116153000 +0000" stop="20211116160000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116160000 +0000" stop="20211116163000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116163000 +0000" stop="20211116170000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116170000 +0000" stop="20211116180000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
-<programme start="20211116180000 +0000" stop="20211116190000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211116190000 +0000" stop="20211116200000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211116200000 +0000" stop="20211116210000 +0000" channel="WRUA.us"><title lang="es">Alianza</title></programme>
-<programme start="20211116210000 +0000" stop="20211116213000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116213000 +0000" stop="20211116220000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116220000 +0000" stop="20211116223000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116223000 +0000" stop="20211116230000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211116230000 +0000" stop="20211117000000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="WLIIDT.us"><title lang="es">Primer Impacto</title></programme>
+<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
+<programme start="20211118013000 +0000" stop="20211118020000 +0000" channel="WLIIDT.us"><title lang="es">Noticiero Univisión</title></programme>
+<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="WLIIDT.us"><title lang="es">Vecinos</title></programme>
+<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="WLIIDT.us"><title lang="es">La Familia Peluche</title></programme>
+<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="WLIIDT.us"><title lang="es">El Gordo y la Flaca</title></programme>
+<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
+<programme start="20211118060000 +0000" stop="20211118090000 +0000" channel="WLIIDT.us"><title lang="es">Despierta América</title></programme>
+<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="WLIIDT.us"><title lang="es">Como dice el dicho</title></programme>
+<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="WLIIDT.us"><title lang="es">La madrastra</title></programme>
+<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="WLIIDT.us"><title lang="es">La Desalmada</title></programme>
+<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="WLIIDT.us"><title lang="es">Huérfanos de su tierra</title></programme>
+<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="WLIIDT.us"><title lang="es">La Rosa de Guadalupe</title></programme>
+<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias ahora</title></programme>
+<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias prime</title></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="WLIIDT.us"><title lang="es">La Comay</title></programme>
+<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="WLIIDT.us"><title lang="es">Jugando Pelota Dura</title></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="WLIIDT.us"><title lang="es">Noche de Estrellas: Latin Grammy</title></programme>
+<programme start="20211118190000 +0000" stop="20211118220000 +0000" channel="WLIIDT.us"><title lang="es">Latin Grammy 2021</title></programme>
+<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="WLIIDT.us"><title lang="es">Las noticias: Última edición</title></programme>
+<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="WLIIDT.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211116233000 +0000" stop="20211117033000 +0000" channel="WORODT.us"><title lang="es">Fuera del aire</title></programme>
+<programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="WORODT.us"><title lang="es">Santo Rosario</title></programme>
+<programme start="20211117040000 +0000" stop="20211117043000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20211117043000 +0000" stop="20211117050000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20211117050000 +0000" stop="20211117053000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211117053000 +0000" stop="20211117060000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211117060000 +0000" stop="20211117070000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
+<programme start="20211117070000 +0000" stop="20211117080000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
+<programme start="20211117080000 +0000" stop="20211117083000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211117083000 +0000" stop="20211117090000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
+<programme start="20211117090000 +0000" stop="20211117093000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
+<programme start="20211117093000 +0000" stop="20211117100000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
+<programme start="20211117100000 +0000" stop="20211117110000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20211117110000 +0000" stop="20211117113000 +0000" channel="WORODT.us"><title lang="es">Mente y Corazón</title></programme>
+<programme start="20211117113000 +0000" stop="20211117115800 +0000" channel="WORODT.us"><title lang="es">¡Familia!, Activa tu fe</title></programme>
+<programme start="20211117115800 +0000" stop="20211117120000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
+<programme start="20211117120000 +0000" stop="20211117123000 +0000" channel="WORODT.us"><title lang="es">Aviva</title></programme>
+<programme start="20211117123000 +0000" stop="20211117130000 +0000" channel="WORODT.us"><title lang="es">Alpha y Omega</title></programme>
+<programme start="20211117130000 +0000" stop="20211117133000 +0000" channel="WORODT.us"><title lang="es">Coronilla de la Divina Misericordia</title></programme>
+<programme start="20211117133000 +0000" stop="20211117140000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
+<programme start="20211117140000 +0000" stop="20211117143000 +0000" channel="WORODT.us"><title lang="es">Shabum y su tienda mágica</title></programme>
+<programme start="20211117143000 +0000" stop="20211117145800 +0000" channel="WORODT.us"><title lang="es">Aprendo con Shabum</title></programme>
+<programme start="20211117145800 +0000" stop="20211117150000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
+<programme start="20211117150000 +0000" stop="20211117153000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
+<programme start="20211117153000 +0000" stop="20211117160000 +0000" channel="WORODT.us"><title lang="es">Entre Líneas</title></programme>
+<programme start="20211117160000 +0000" stop="20211117170000 +0000" channel="WORODT.us"><title lang="es">En Cuerpo y Alma</title></programme>
+<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
+<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
+<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
+<programme start="20211117200000 +0000" stop="20211117203000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
+<programme start="20211117203000 +0000" stop="20211117210000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
+<programme start="20211117210000 +0000" stop="20211117220000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
+<programme start="20211117220000 +0000" stop="20211117230000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria</title></programme>
+<programme start="20211117230000 +0000" stop="20211117233000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211117233000 +0000" stop="20211118033000 +0000" channel="WORODT.us"><title lang="es">Fuera del aire</title></programme>
+<programme start="20211117233000 +0000" stop="20211118033000 +0000" channel="WORODT.us"><title lang="es">Fuera del aire</title></programme>
+<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="WORODT.us"><title lang="es">Santo Rosario</title></programme>
+<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
+<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
+<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
+<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
+<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
+<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria Local</title></programme>
+<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="WORODT.us"><title lang="es">Mente y Corazón</title></programme>
+<programme start="20211118113000 +0000" stop="20211118115800 +0000" channel="WORODT.us"><title lang="es">¡Familia!, Activa tu fe</title></programme>
+<programme start="20211118115800 +0000" stop="20211118120000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
+<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="WORODT.us"><title lang="es">Aviva</title></programme>
+<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="WORODT.us"><title lang="es">Alpha y Omega</title></programme>
+<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="WORODT.us"><title lang="es">Coronilla de la Divina Misericordia</title></programme>
+<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="WORODT.us"><title lang="es">TXM</title></programme>
+<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="WORODT.us"><title lang="es">Shabum y su tienda mágica</title></programme>
+<programme start="20211118143000 +0000" stop="20211118145800 +0000" channel="WORODT.us"><title lang="es">Aprendo con Shabum</title></programme>
+<programme start="20211118145800 +0000" stop="20211118150000 +0000" channel="WORODT.us"><title lang="es">Minuto Informativo</title></programme>
+<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
+<programme start="20211118153000 +0000" stop="20211118160000 +0000" channel="WORODT.us"><title lang="es">Entre Líneas</title></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="WORODT.us"><title lang="es">En Cuerpo y Alma</title></programme>
+<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="WORODT.us"><title lang="es">Ellas y</title></programme>
+<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="WORODT.us"><title lang="es">Mi Gente</title></programme>
+<programme start="20211118200000 +0000" stop="20211118203000 +0000" channel="WORODT.us"><title lang="es">En Espíritu y Verdad</title></programme>
+<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="WORODT.us"><title lang="es">Abrete Corazón</title></programme>
+<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="WORODT.us"><title lang="es">Noticias 13</title></programme>
+<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="WORODT.us"><title lang="es">Misa Diaria</title></programme>
+<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="WORODT.us"><title lang="es">Satélite EWTN</title></programme>
+<programme start="20211118233000 +0000" stop="20211119033000 +0000" channel="WORODT.us"><title lang="es">Fuera del aire</title></programme>
 <programme start="20211117000000 +0000" stop="20211117003000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117003000 +0000" stop="20211117010000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117010000 +0000" stop="20211117013000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
@@ -365,33 +327,70 @@
 <programme start="20211117023000 +0000" stop="20211117030000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117030000 +0000" stop="20211117033000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117033000 +0000" stop="20211117040000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117040000 +0000" stop="20211117043000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117043000 +0000" stop="20211117050000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211117040000 +0000" stop="20211117050000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
 <programme start="20211117050000 +0000" stop="20211117060000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211117060000 +0000" stop="20211117070000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
+<programme start="20211117060000 +0000" stop="20211117063000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211117063000 +0000" stop="20211117070000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117070000 +0000" stop="20211117073000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117073000 +0000" stop="20211117080000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117080000 +0000" stop="20211117083000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117083000 +0000" stop="20211117090000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117090000 +0000" stop="20211117093000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117093000 +0000" stop="20211117100000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117100000 +0000" stop="20211117103000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117103000 +0000" stop="20211117110000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117110000 +0000" stop="20211117120000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211117100000 +0000" stop="20211117110000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211117110000 +0000" stop="20211117120000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
 <programme start="20211117120000 +0000" stop="20211117130000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211117130000 +0000" stop="20211117140000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211117140000 +0000" stop="20211117150000 +0000" channel="WRUA.us"><title lang="es">Alianza</title></programme>
-<programme start="20211117150000 +0000" stop="20211117160000 +0000" channel="WRUA.us"><title lang="es">Hablemos de tu Dolor</title></programme>
-<programme start="20211117160000 +0000" stop="20211117163000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117163000 +0000" stop="20211117170000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
-<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
-<programme start="20211117190000 +0000" stop="20211117200000 +0000" channel="WRUA.us"><title lang="es">Vive Sanamente</title></programme>
+<programme start="20211117130000 +0000" stop="20211117140000 +0000" channel="WRUA.us"><title lang="es">Alianza</title></programme>
+<programme start="20211117140000 +0000" stop="20211117150000 +0000" channel="WRUA.us"><title lang="es">Hablemos de tu Dolor</title></programme>
+<programme start="20211117150000 +0000" stop="20211117153000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211117153000 +0000" stop="20211117160000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211117160000 +0000" stop="20211117170000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211117170000 +0000" stop="20211117180000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
+<programme start="20211117180000 +0000" stop="20211117190000 +0000" channel="WRUA.us"><title lang="es">Vive Sanamente</title></programme>
+<programme start="20211117190000 +0000" stop="20211117193000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211117193000 +0000" stop="20211117200000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117200000 +0000" stop="20211117203000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117203000 +0000" stop="20211117210000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117210000 +0000" stop="20211117213000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 <programme start="20211117213000 +0000" stop="20211117220000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117220000 +0000" stop="20211117223000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117223000 +0000" stop="20211117230000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
-<programme start="20211117230000 +0000" stop="20211118000000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211117220000 +0000" stop="20211117230000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211117230000 +0000" stop="20211117233000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211117233000 +0000" stop="20211118000000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118000000 +0000" stop="20211118003000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118003000 +0000" stop="20211118010000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118013000 +0000" stop="20211118020000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="WRUA.us"><title lang="es">Hay Que Decirlo</title></programme>
+<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="WRUA.us"><title lang="es">Hay Que Decirlo</title></programme>
+<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="WRUA.us"><title lang="es">Alternativa Natural</title></programme>
+<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="WRUA.us"><title lang="es">Vive Sanamente</title></programme>
+<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="WRUA.us"><title lang="es">Hablemos de tu Dolor</title></programme>
+<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118153000 +0000" stop="20211118160000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="WRUA.us"><title lang="es">Hay Que Decirlo</title></programme>
+<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="WRUA.us"><title lang="es">Hay Que Decirlo</title></programme>
+<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="WRUA.us"><title lang="es">Alianza</title></programme>
+<programme start="20211118200000 +0000" stop="20211118203000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="WRUA.us"><title lang="es">Auto Resuelve</title></programme>
+<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
+<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="WRUA.us"><title lang="es">Programa</title></programme>
 </tv>

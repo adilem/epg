@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
-<channel id="Canal2.sv"><display-name>Canal 2</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-2-nacional_m.png"/></channel>
-<channel id="Canal4.sv"><display-name>Canal 4</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-4-nacional_m.png"/></channel>
-<channel id="Canal6.sv"><display-name>Canal 6</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-6-nacional_m.png"/></channel>
-<channel id="Canal10.sv"><display-name>Canal 10</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-10-nacional_m.png"/></channel>
-<channel id="Canal12.sv"><display-name>Canal 12</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-12-nacional_m.png"/></channel>
-<channel id="CanalClaro.cl"><display-name>Canal Claro</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-claro_m.png"/></channel>
-<channel id="Genteve.sv"><display-name>Gentevé</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_genteve-canal-29_m.png"/></channel>
-<channel id="MegavisionCanal19.sv"><display-name>Megavisión Canal 19</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-19-nacional_m.png"/></channel>
-<channel id="MegavisionCanal21.sv"><display-name>Megavisión Canal 21</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-21-nacional_m.png"/></channel>
-<channel id="TVOCanal23.sv"><display-name>TVO Canal 23</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_23-tv-oriente_m.png"/></channel>
-<channel id="TVX.sv"><display-name>TVX</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-23-tvx_m.png"/></channel>
-<channel id="VTVCanal35.sv"><display-name>VTV Canal 35</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_vtv_m.png"/></channel>
-<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="Canal2.sv"><title lang="es">Yago</title></programme>
-<programme start="20211118070000 +0000" stop="20211118112500 +0000" channel="Canal2.sv"><title lang="es">Fin de transmisión</title></programme>
-<programme start="20211118112500 +0000" stop="20211118113000 +0000" channel="Canal2.sv"><title lang="es">El minuto de María</title></programme>
-<programme start="20211118113000 +0000" stop="20211118123000 +0000" channel="Canal2.sv"><title lang="es">TCS Noticias</title></programme>
-<programme start="20211118123000 +0000" stop="20211118140000 +0000" channel="Canal2.sv"><title lang="es">Frente a frente</title></programme>
-<programme start="20211118140000 +0000" stop="20211118170000 +0000" channel="Canal2.sv"><title lang="es">Viva la mañana</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="Canal2.sv"><title lang="es">Secretos de cocina</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="Canal2.sv"><title lang="es">Los Picapiedra</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="Canal2.sv"><title lang="es">Vecinos</title></programme>
-<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="Canal2.sv"><title lang="es">Teledos</title></programme>
-<programme start="20211118193000 +0000" stop="20211118203000 +0000" channel="Canal2.sv"><title lang="es">Vencer el pasado</title></programme>
-<programme start="20211118203000 +0000" stop="20211118213000 +0000" channel="Canal2.sv"><title lang="es">Hasta el final</title></programme>
-<programme start="20211118213000 +0000" stop="20211118223000 +0000" channel="Canal2.sv"><title lang="es">Diseñando tu amor</title></programme>
-<programme start="20211118223000 +0000" stop="20211118233000 +0000" channel="Canal2.sv"><title lang="es">Play</title></programme>
-<programme start="20211118233000 +0000" stop="20211119010000 +0000" channel="Canal2.sv"><title lang="es">Llevátelo</title></programme>
-<programme start="20211119010000 +0000" stop="20211119030000 +0000" channel="Canal2.sv"><title lang="es">Teledos</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="Canal2.sv"><title lang="es">Latin Grammy&apos;s 2021</title></programme>
+<channel id="Canal2.sv"><display-name>Canal 2</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-2-nacional_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal4.sv"><display-name>Canal 4</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-4-nacional_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal6.sv"><display-name>Canal 6</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-6-nacional_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal10.sv"><display-name>Canal 10</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-10-nacional_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Canal12.sv"><display-name>Canal 12</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-12-nacional_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalClaro.cl"><display-name>Canal Claro</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-claro_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Genteve.sv"><display-name>Gentevé</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_genteve-canal-29_m.png"/><url>https://mi.tv</url></channel>
+<channel id="MegavisionCanal19.sv"><display-name>Megavisión Canal 19</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-19-nacional_m.png"/><url>https://mi.tv</url></channel>
+<channel id="MegavisionCanal21.sv"><display-name>Megavisión Canal 21</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-21-nacional_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVOCanal23.sv"><display-name>TVO Canal 23</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_23-tv-oriente_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVX.sv"><display-name>TVX</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_canal-23-tvx_m.png"/><url>https://mi.tv</url></channel>
+<channel id="VTVCanal35.sv"><display-name>VTV Canal 35</display-name><icon src="https://cdn.mitvstatic.com/channels/sv_vtv_m.png"/><url>https://mi.tv</url></channel>
 <programme start="20211119060000 +0000" stop="20211119070000 +0000" channel="Canal2.sv"><title lang="es">Teledos</title></programme>
 <programme start="20211119070000 +0000" stop="20211119080000 +0000" channel="Canal2.sv"><title lang="es">Yago</title></programme>
 <programme start="20211119080000 +0000" stop="20211119112500 +0000" channel="Canal2.sv"><title lang="es">Fin de transmisión</title></programme>
@@ -48,27 +31,23 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="Canal2.sv"><title lang="es">La venganza de Analia</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="Canal2.sv"><title lang="es">Verdad oculta</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="Canal2.sv"><title lang="es">Teledos</title></programme>
-<programme start="20211118051500 +0000" stop="20211118061500 +0000" channel="Canal4.sv"><title lang="es">Noticias 4 visión</title></programme>
-<programme start="20211118061500 +0000" stop="20211118070000 +0000" channel="Canal4.sv"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211118070000 +0000" stop="20211118112500 +0000" channel="Canal4.sv"><title lang="es">Fin de transmisión</title></programme>
-<programme start="20211118112500 +0000" stop="20211118113000 +0000" channel="Canal4.sv"><title lang="es">El minuto de María</title></programme>
-<programme start="20211118113000 +0000" stop="20211118123000 +0000" channel="Canal4.sv"><title lang="es">TCS Noticias</title></programme>
-<programme start="20211118123000 +0000" stop="20211118140000 +0000" channel="Canal4.sv"><title lang="es">Frente a frente</title></programme>
-<programme start="20211118140000 +0000" stop="20211118170000 +0000" channel="Canal4.sv"><title lang="es">Viva la mañana</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="Canal4.sv"><title lang="es">Plaza Sésamo</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="Canal4.sv"><title lang="es">Primer impacto extra</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="Canal4.sv"><title lang="es">Noticias 4 visión</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="Canal4.sv"><title lang="es">DC4 Radio</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="Canal4.sv"><title lang="es">Dr. Oz</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="Canal4.sv"><title lang="es">100 latinos dijeron</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="Canal4.sv"><title lang="es">Al rojo vivo</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="Canal4.sv"><title lang="es">El gordo y la flaca</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="Canal4.sv"><title lang="es">Primer impacto</title></programme>
-<programme start="20211119010000 +0000" stop="20211119013000 +0000" channel="Canal4.sv"><title lang="es">Renta congelada</title></programme>
-<programme start="20211119013000 +0000" stop="20211119030000 +0000" channel="Canal4.sv"><title lang="es">La polémica</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="Canal4.sv"><title lang="es">Noticias 4 visión</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="Canal4.sv"><title lang="es">Primer impacto</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="Canal4.sv"><title lang="es">Noticias 4 visión</title></programme>
+<programme start="20211120060000 +0000" stop="20211120070000 +0000" channel="Canal2.sv"><title lang="es">Yago</title></programme>
+<programme start="20211120070000 +0000" stop="20211120120000 +0000" channel="Canal2.sv"><title lang="es">Fin de transmisión</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="Canal2.sv"><title lang="es">Conan, el niño del futuro</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="Canal2.sv"><title lang="es">DC Super Hero Girls</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="Canal2.sv"><title lang="es">Dragones: carrera al borde</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="Canal2.sv"><title lang="es">El amanecer de los Croods</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="Canal2.sv"><title lang="es">Las aventuras del Gato con Botas</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="Canal2.sv"><title lang="es">Trolls: ¡No pierdas el ritmo!</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="Canal2.sv"><title lang="es">Acampados</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="Canal2.sv"><title lang="es">¡Buena suerte, Charlie!</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="Canal2.sv"><title lang="es">El mundo de Riley</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="Canal2.sv"><title lang="es">Jessie</title></programme>
+<programme start="20211120170000 +0000" stop="20211120180000 +0000" channel="Canal2.sv"><title lang="es">También caerás</title></programme>
+<programme start="20211120180000 +0000" stop="20211120200000 +0000" channel="Canal2.sv"><title lang="es">Bia</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="Canal2.sv"><title lang="es">Sangre y tesoro</title></programme>
+<programme start="20211120210000 +0000" stop="20211121030000 +0000" channel="Canal2.sv"><title lang="es">Nancy Drew</title></programme>
+<programme start="20211121030000 +0000" stop="20211121040000 +0000" channel="Canal2.sv"><title lang="es">El poder del amor</title></programme>
 <programme start="20211119060000 +0000" stop="20211119070000 +0000" channel="Canal4.sv"><title lang="es">Al rojo vivo</title></programme>
 <programme start="20211119070000 +0000" stop="20211119112500 +0000" channel="Canal4.sv"><title lang="es">Fin de transmisión</title></programme>
 <programme start="20211119112500 +0000" stop="20211119113000 +0000" channel="Canal4.sv"><title lang="es">El minuto de María</title></programme>
@@ -89,24 +68,23 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="Canal4.sv"><title lang="es">Noticias 4 visión</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="Canal4.sv"><title lang="es">Primer impacto</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="Canal4.sv"><title lang="es">Noticias 4 visión</title></programme>
-<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="Canal6.sv"><title lang="es">Frente a frente</title></programme>
-<programme start="20211118070000 +0000" stop="20211118112500 +0000" channel="Canal6.sv"><title lang="es">Cierre de transmisión</title></programme>
-<programme start="20211118112500 +0000" stop="20211118113000 +0000" channel="Canal6.sv"><title lang="es">El minuto de María</title></programme>
-<programme start="20211118113000 +0000" stop="20211118140000 +0000" channel="Canal6.sv"><title lang="es">TCS Noticias</title></programme>
-<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="Canal6.sv"><title lang="es">Por amar sin ley</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="Canal6.sv"><title lang="es">Médicos: línea de vida</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="Canal6.sv"><title lang="es">La mexicana y el güero</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="Canal6.sv"><title lang="es">Como dice el dicho</title></programme>
-<programme start="20211118180000 +0000" stop="20211118193000 +0000" channel="Canal6.sv"><title lang="es">Liberadas</title></programme>
-<programme start="20211118193000 +0000" stop="20211118200000 +0000" channel="Canal6.sv"><title lang="es">El noticiero</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="Canal6.sv"><title lang="es">Bom sucesso</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="Canal6.sv"><title lang="es">Los increíbles 90</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="Canal6.sv"><title lang="es">Pa&apos; quererte</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="Canal6.sv"><title lang="es">La rosa de Guadalupe</title></programme>
-<programme start="20211119000000 +0000" stop="20211119020000 +0000" channel="Canal6.sv"><title lang="es">El poder del amor</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="Canal6.sv"><title lang="es">El noticiero</title></programme>
-<programme start="20211119030000 +0000" stop="20211119050000 +0000" channel="Canal6.sv"><title lang="es">Piratas del Caribe: La venganza de Salazar</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="Canal6.sv"><title lang="es">El noticiero</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="Canal4.sv"><title lang="es">Al rojo vivo</title></programme>
+<programme start="20211120063000 +0000" stop="20211120120000 +0000" channel="Canal4.sv"><title lang="es">Fin de transmisión</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="Canal4.sv"><title lang="es">Noticiero Univisión</title></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="Canal4.sv"><title lang="es">Primer impacto</title></programme>
+<programme start="20211120140000 +0000" stop="20211120144500 +0000" channel="Canal4.sv"><title lang="es">El Chavo animado</title></programme>
+<programme start="20211120144500 +0000" stop="20211120160000 +0000" channel="Canal4.sv"><title lang="es">El Chapulín Colorado</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="Canal4.sv"><title lang="es">Cero en conducta</title></programme>
+<programme start="20211120170000 +0000" stop="20211120180000 +0000" channel="Canal4.sv"><title lang="es">La casa de la risa</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="Canal4.sv"><title lang="es">Furcio</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="Canal4.sv"><title lang="es">Hazme reir</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="Canal4.sv"><title lang="es">Hospital el Paisa</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="Canal4.sv"><title lang="es">Durmiendo con mi jefe</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="Canal4.sv"><title lang="es">Vecinos</title></programme>
+<programme start="20211120220000 +0000" stop="20211121023000 +0000" channel="Canal4.sv"><title lang="es">A confirmar</title></programme>
+<programme start="20211121023000 +0000" stop="20211121030000 +0000" channel="Canal4.sv"><title lang="es">Magazine - Copa Mundial de la FIFA Qatar 2022</title></programme>
+<programme start="20211121030000 +0000" stop="20211121050000 +0000" channel="Canal4.sv"><title lang="es">Top chef estrellas</title></programme>
+<programme start="20211121050000 +0000" stop="20211121060000 +0000" channel="Canal4.sv"><title lang="es">A confirmar</title></programme>
 <programme start="20211119060000 +0000" stop="20211119070000 +0000" channel="Canal6.sv"><title lang="es">Frente a frente</title></programme>
 <programme start="20211119070000 +0000" stop="20211119112500 +0000" channel="Canal6.sv"><title lang="es">Cierre de transmisión</title></programme>
 <programme start="20211119112500 +0000" stop="20211119113000 +0000" channel="Canal6.sv"><title lang="es">El minuto de María</title></programme>
@@ -125,57 +103,20 @@
 <programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="Canal6.sv"><title lang="es">El noticiero</title></programme>
 <programme start="20211120030000 +0000" stop="20211120050000 +0000" channel="Canal6.sv"><title lang="es">Deadpool</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="Canal6.sv"><title lang="es">El noticiero</title></programme>
-<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador, entrevista</title></programme>
-<programme start="20211118070000 +0000" stop="20211118112400 +0000" channel="Canal10.sv"><title lang="es">Cierre</title></programme>
-<programme start="20211118112400 +0000" stop="20211118113000 +0000" channel="Canal10.sv"><title lang="es">Patrón - Música</title></programme>
-<programme start="20211118113000 +0000" stop="20211118123000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador</title></programme>
-<programme start="20211118123000 +0000" stop="20211118140000 +0000" channel="Canal10.sv"><title lang="es">AM con Marisol Doratt</title></programme>
-<programme start="20211118140000 +0000" stop="20211118141600 +0000" channel="Canal10.sv"><title lang="es">¡Listos, a jugar!</title></programme>
-<programme start="20211118141600 +0000" stop="20211118142300 +0000" channel="Canal10.sv"><title lang="es">Pequeñas aventureras</title></programme>
-<programme start="20211118142300 +0000" stop="20211118143700 +0000" channel="Canal10.sv"><title lang="es">Plaza Sésamo: monstruos en red</title></programme>
-<programme start="20211118143700 +0000" stop="20211118143900 +0000" channel="Canal10.sv"><title lang="es">Camusi Camusi</title></programme>
-<programme start="20211118143900 +0000" stop="20211118144300 +0000" channel="Canal10.sv"><title lang="es">Hagamos ruido</title></programme>
-<programme start="20211118144300 +0000" stop="20211118145200 +0000" channel="Canal10.sv"><title lang="es">Pororo</title></programme>
-<programme start="20211118145200 +0000" stop="20211118150000 +0000" channel="Canal10.sv"><title lang="es">Crecer leyendo</title></programme>
-<programme start="20211118150000 +0000" stop="20211118150800 +0000" channel="Canal10.sv"><title lang="es">El taller de Papo</title></programme>
-<programme start="20211118150800 +0000" stop="20211118151500 +0000" channel="Canal10.sv"><title lang="es">Anselmo quiere saber</title></programme>
-<programme start="20211118151500 +0000" stop="20211118153000 +0000" channel="Canal10.sv"><title lang="es">La mesa amarilla</title></programme>
-<programme start="20211118153000 +0000" stop="20211118160000 +0000" channel="Canal10.sv"><title lang="es">Jugando a ser artistas</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="Canal10.sv"><title lang="es">Soy música</title></programme>
-<programme start="20211118163000 +0000" stop="20211118164500 +0000" channel="Canal10.sv"><title lang="es">El mundo animal de Max Rodríguez</title></programme>
-<programme start="20211118164500 +0000" stop="20211118170000 +0000" channel="Canal10.sv"><title lang="es">Mágico bicentenario</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="Canal10.sv"><title lang="es">Soy música</title></programme>
-<programme start="20211118173000 +0000" stop="20211118175000 +0000" channel="Canal10.sv"><title lang="es">Mentes curiosas</title></programme>
-<programme start="20211118175000 +0000" stop="20211118180000 +0000" channel="Canal10.sv"><title lang="es">Huertos escolares</title></programme>
-<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="Canal10.sv"><title lang="es">Consejería escolar</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador</title></programme>
-<programme start="20211118190000 +0000" stop="20211118191500 +0000" channel="Canal10.sv"><title lang="es">Don Quijote de la láctea</title></programme>
-<programme start="20211118191500 +0000" stop="20211118193000 +0000" channel="Canal10.sv"><title lang="es">Chico en la isla de los jurubebas</title></programme>
-<programme start="20211118193000 +0000" stop="20211118194500 +0000" channel="Canal10.sv"><title lang="es">Renata</title></programme>
-<programme start="20211118194500 +0000" stop="20211118200000 +0000" channel="Canal10.sv"><title lang="es">El laboratorio secreto de Thomas Edison</title></programme>
-<programme start="20211118200000 +0000" stop="20211118201500 +0000" channel="Canal10.sv"><title lang="es">Conciencia en mi mundo</title></programme>
-<programme start="20211118201500 +0000" stop="20211118203000 +0000" channel="Canal10.sv"><title lang="es">Mi talento, mi historia</title></programme>
-<programme start="20211118203000 +0000" stop="20211118204500 +0000" channel="Canal10.sv"><title lang="es">Los guardianes Tepewas</title></programme>
-<programme start="20211118204500 +0000" stop="20211118210000 +0000" channel="Canal10.sv"><title lang="es">Anaís y el mago aprendiz</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="Canal10.sv"><title lang="es">De rebote</title></programme>
-<programme start="20211118213000 +0000" stop="20211118215000 +0000" channel="Canal10.sv"><title lang="es">Soy música</title></programme>
-<programme start="20211118215000 +0000" stop="20211118221000 +0000" channel="Canal10.sv"><title lang="es">Jugando a ser artistas</title></programme>
-<programme start="20211118221000 +0000" stop="20211118223000 +0000" channel="Canal10.sv"><title lang="es">Soy música</title></programme>
-<programme start="20211118223000 +0000" stop="20211118224600 +0000" channel="Canal10.sv"><title lang="es">¡Listos, a jugar!</title></programme>
-<programme start="20211118224600 +0000" stop="20211118225300 +0000" channel="Canal10.sv"><title lang="es">Pequeñas aventureras</title></programme>
-<programme start="20211118225300 +0000" stop="20211118230700 +0000" channel="Canal10.sv"><title lang="es">Plaza Sésamo: monstruos en red</title></programme>
-<programme start="20211118230700 +0000" stop="20211118230900 +0000" channel="Canal10.sv"><title lang="es">Camusi Camusi</title></programme>
-<programme start="20211118230900 +0000" stop="20211118231300 +0000" channel="Canal10.sv"><title lang="es">Hagamos ruido</title></programme>
-<programme start="20211118231300 +0000" stop="20211118232200 +0000" channel="Canal10.sv"><title lang="es">Pororo</title></programme>
-<programme start="20211118232200 +0000" stop="20211118233000 +0000" channel="Canal10.sv"><title lang="es">Crecer leyendo</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="Canal10.sv"><title lang="es">Turismo interoceánico</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="Canal10.sv"><title lang="es">Documental</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador, entrevista</title></programme>
-<programme start="20211119030000 +0000" stop="20211119033000 +0000" channel="Canal10.sv"><title lang="es">Mujeres de Overol</title></programme>
-<programme start="20211119033000 +0000" stop="20211119040000 +0000" channel="Canal10.sv"><title lang="es">¿Qué inventa?</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="Canal10.sv"><title lang="es">Documental</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador</title></programme>
+<programme start="20211120060000 +0000" stop="20211120070000 +0000" channel="Canal6.sv"><title lang="es">Frente a frente</title></programme>
+<programme start="20211120070000 +0000" stop="20211120120000 +0000" channel="Canal6.sv"><title lang="es">Cierre de transmisión</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="Canal6.sv"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="Canal6.sv"><title lang="es">Justice League Action</title></programme>
+<programme start="20211120130000 +0000" stop="20211120150000 +0000" channel="Canal6.sv"><title lang="es">La familia Monster</title></programme>
+<programme start="20211120150000 +0000" stop="20211120170000 +0000" channel="Canal6.sv"><title lang="es">Kung Fu Panda</title></programme>
+<programme start="20211120170000 +0000" stop="20211120190000 +0000" channel="Canal6.sv"><title lang="es">Los Andersson en Grecia</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="Canal6.sv"><title lang="es">La momia regresa</title></programme>
+<programme start="20211120210000 +0000" stop="20211120230000 +0000" channel="Canal6.sv"><title lang="es">Bandidas</title></programme>
+<programme start="20211120230000 +0000" stop="20211121010000 +0000" channel="Canal6.sv"><title lang="es">Aloha</title></programme>
+<programme start="20211121010000 +0000" stop="20211121013000 +0000" channel="Canal6.sv"><title lang="es">El noticiero - Fin de semana</title></programme>
+<programme start="20211121013000 +0000" stop="20211121020000 +0000" channel="Canal6.sv"><title lang="es">Noticiero Univisión</title></programme>
+<programme start="20211121020000 +0000" stop="20211121040000 +0000" channel="Canal6.sv"><title lang="es">Loco y estúpido amor</title></programme>
+<programme start="20211121040000 +0000" stop="20211121050000 +0000" channel="Canal6.sv"><title lang="es">Irrupción</title></programme>
 <programme start="20211119060000 +0000" stop="20211119070000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador, entrevista</title></programme>
 <programme start="20211119070000 +0000" stop="20211119112400 +0000" channel="Canal10.sv"><title lang="es">Cierre</title></programme>
 <programme start="20211119112400 +0000" stop="20211119113000 +0000" channel="Canal10.sv"><title lang="es">Patrón - Música</title></programme>
@@ -223,21 +164,48 @@
 <programme start="20211120033000 +0000" stop="20211120040000 +0000" channel="Canal10.sv"><title lang="es">Autosustentables</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="Canal10.sv"><title lang="es">Documental</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador</title></programme>
-<programme start="20211118060000 +0000" stop="20211118113000 +0000" channel="Canal12.sv"><title lang="es">Fin de transmisión</title></programme>
-<programme start="20211118113000 +0000" stop="20211118143000 +0000" channel="Canal12.sv"><title lang="es">Noticiero Hechos A. M.</title></programme>
-<programme start="20211118143000 +0000" stop="20211118173000 +0000" channel="Canal12.sv"><title lang="es">Hola El Salvador</title></programme>
-<programme start="20211118173000 +0000" stop="20211118181500 +0000" channel="Canal12.sv"><title lang="es">Cambio de vida</title></programme>
-<programme start="20211118181500 +0000" stop="20211118190000 +0000" channel="Canal12.sv"><title lang="es">A cada quien su santo</title></programme>
-<programme start="20211118190000 +0000" stop="20211118203000 +0000" channel="Canal12.sv"><title lang="es">Noticiero Hechos de la tarde</title></programme>
-<programme start="20211118203000 +0000" stop="20211118213000 +0000" channel="Canal12.sv"><title lang="es">Amor de contrabando</title></programme>
-<programme start="20211118213000 +0000" stop="20211118230000 +0000" channel="Canal12.sv"><title lang="es">Karadayi</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="Canal12.sv"><title lang="es">Pop 12</title></programme>
-<programme start="20211119000000 +0000" stop="20211119013000 +0000" channel="Canal12.sv"><title lang="es">Elif</title></programme>
-<programme start="20211119013000 +0000" stop="20211119020000 +0000" channel="Canal12.sv"><title lang="es">Pizarrón deportivo - Estelar</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="Canal12.sv"><title lang="es">Noticiero Hechos de la noche</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="Canal12.sv"><title lang="es">Vikingos</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="Canal12.sv"><title lang="es">Velvet</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="Canal12.sv"><title lang="es">RNA - Red de noticias Albavision</title></programme>
+<programme start="20211120060000 +0000" stop="20211120070000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador, entrevista</title></programme>
+<programme start="20211120070000 +0000" stop="20211120122400 +0000" channel="Canal10.sv"><title lang="es">Cierre</title></programme>
+<programme start="20211120122400 +0000" stop="20211120123000 +0000" channel="Canal10.sv"><title lang="es">Patrón - Música</title></programme>
+<programme start="20211120123000 +0000" stop="20211120124500 +0000" channel="Canal10.sv"><title lang="es">1,2,3 Matemáticas</title></programme>
+<programme start="20211120124500 +0000" stop="20211120130000 +0000" channel="Canal10.sv"><title lang="es">¿Puedo hacerlo yo?</title></programme>
+<programme start="20211120130000 +0000" stop="20211120131600 +0000" channel="Canal10.sv"><title lang="es">La casa de Lula</title></programme>
+<programme start="20211120131600 +0000" stop="20211120132200 +0000" channel="Canal10.sv"><title lang="es">Pequeñas aventureras</title></programme>
+<programme start="20211120132200 +0000" stop="20211120133500 +0000" channel="Canal10.sv"><title lang="es">Plaza Sésamo: monstruos en red</title></programme>
+<programme start="20211120133500 +0000" stop="20211120133700 +0000" channel="Canal10.sv"><title lang="es">Camusi Camusi</title></programme>
+<programme start="20211120133700 +0000" stop="20211120134100 +0000" channel="Canal10.sv"><title lang="es">Hagamos ruido</title></programme>
+<programme start="20211120134100 +0000" stop="20211120135500 +0000" channel="Canal10.sv"><title lang="es">Pororo</title></programme>
+<programme start="20211120135500 +0000" stop="20211120140000 +0000" channel="Canal10.sv"><title lang="es">Crecer leyendo</title></programme>
+<programme start="20211120140000 +0000" stop="20211120141500 +0000" channel="Canal10.sv"><title lang="es">El taller de Papo</title></programme>
+<programme start="20211120141500 +0000" stop="20211120143000 +0000" channel="Canal10.sv"><title lang="es">Mágico bicentenario</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="Canal10.sv"><title lang="es">La hora del niño</title></programme>
+<programme start="20211120150000 +0000" stop="20211120151500 +0000" channel="Canal10.sv"><title lang="es">Anselmo quiere saber</title></programme>
+<programme start="20211120151500 +0000" stop="20211120153000 +0000" channel="Canal10.sv"><title lang="es">El mundo animal de Max Rodríguez</title></programme>
+<programme start="20211120153000 +0000" stop="20211120155000 +0000" channel="Canal10.sv"><title lang="es">Mentes curiosas</title></programme>
+<programme start="20211120155000 +0000" stop="20211120160000 +0000" channel="Canal10.sv"><title lang="es">Huertos escolares</title></programme>
+<programme start="20211120160000 +0000" stop="20211120161500 +0000" channel="Canal10.sv"><title lang="es">Don Quijote de la láctea</title></programme>
+<programme start="20211120161500 +0000" stop="20211120163000 +0000" channel="Canal10.sv"><title lang="es">Chico en la isla de los jurubebas</title></programme>
+<programme start="20211120163000 +0000" stop="20211120164500 +0000" channel="Canal10.sv"><title lang="es">Renata</title></programme>
+<programme start="20211120164500 +0000" stop="20211120170000 +0000" channel="Canal10.sv"><title lang="es">El laboratorio secreto de Thomas Edison</title></programme>
+<programme start="20211120170000 +0000" stop="20211120171500 +0000" channel="Canal10.sv"><title lang="es">Conciencia en mi mundo</title></programme>
+<programme start="20211120171500 +0000" stop="20211120173000 +0000" channel="Canal10.sv"><title lang="es">Mi talento, mi historia</title></programme>
+<programme start="20211120173000 +0000" stop="20211120174500 +0000" channel="Canal10.sv"><title lang="es">La mesa amarilla</title></programme>
+<programme start="20211120174500 +0000" stop="20211120180000 +0000" channel="Canal10.sv"><title lang="es">Anaís y el mago aprendiz</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="Canal10.sv"><title lang="es">Haciendo discos</title></programme>
+<programme start="20211120190000 +0000" stop="20211120200000 +0000" channel="Canal10.sv"><title lang="es">Lo mágico de México</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="Canal10.sv"><title lang="es">Turismo interoceánico</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="Canal10.sv"><title lang="es">Héroes anónimos</title></programme>
+<programme start="20211120210000 +0000" stop="20211120230000 +0000" channel="Canal10.sv"><title lang="es">Liga de ascenso de El Salvador</title></programme>
+<programme start="20211120230000 +0000" stop="20211120233000 +0000" channel="Canal10.sv"><title lang="es">Incluídos</title></programme>
+<programme start="20211120233000 +0000" stop="20211121000000 +0000" channel="Canal10.sv"><title lang="es">Autosustentables</title></programme>
+<programme start="20211121000000 +0000" stop="20211121003000 +0000" channel="Canal10.sv"><title lang="es">¿Qué inventa?</title></programme>
+<programme start="20211121003000 +0000" stop="20211121010000 +0000" channel="Canal10.sv"><title lang="es">Trabajos con historia</title></programme>
+<programme start="20211121010000 +0000" stop="20211121013000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador</title></programme>
+<programme start="20211121013000 +0000" stop="20211121020000 +0000" channel="Canal10.sv"><title lang="es">Mujeres de Overol</title></programme>
+<programme start="20211121020000 +0000" stop="20211121033000 +0000" channel="Canal10.sv"><title lang="es">Cine Libertad</title></programme>
+<programme start="20211121033000 +0000" stop="20211121050000 +0000" channel="Canal10.sv"><title lang="es">Esta noche suena</title></programme>
+<programme start="20211121050000 +0000" stop="20211121053000 +0000" channel="Canal10.sv"><title lang="es">Noticiero El Salvador</title></programme>
+<programme start="20211121053000 +0000" stop="20211121063000 +0000" channel="Canal10.sv"><title lang="es">Cierre</title></programme>
 <programme start="20211119060000 +0000" stop="20211119113000 +0000" channel="Canal12.sv"><title lang="es">Fin de transmisión</title></programme>
 <programme start="20211119113000 +0000" stop="20211119143000 +0000" channel="Canal12.sv"><title lang="es">Noticiero Hechos A. M.</title></programme>
 <programme start="20211119143000 +0000" stop="20211119173000 +0000" channel="Canal12.sv"><title lang="es">Hola El Salvador</title></programme>
@@ -253,38 +221,27 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="Canal12.sv"><title lang="es">Vikingos</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="Canal12.sv"><title lang="es">Velvet</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="Canal12.sv"><title lang="es">RNA - Red de noticias Albavision</title></programme>
-<programme start="20211118050000 +0000" stop="20211118070000 +0000" channel="CanalClaro.cl"><title lang="es">Besos de azúcar</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="CanalClaro.cl"><title lang="es">El amor de los ángeles</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="CanalClaro.cl"><title lang="es">Mujer desconocida</title></programme>
-<programme start="20211118090000 +0000" stop="20211118110000 +0000" channel="CanalClaro.cl"><title lang="es">Besos de azúcar</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="CanalClaro.cl"><title lang="es">Los caballeros del Zodíaco</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="CanalClaro.cl"><title lang="es">Wolfblood: familia lobo</title></programme>
-<programme start="20211118120000 +0000" stop="20211118121100 +0000" channel="CanalClaro.cl"><title lang="es">Cantinflas Show</title></programme>
-<programme start="20211118121100 +0000" stop="20211118122400 +0000" channel="CanalClaro.cl"><title lang="es">Cantinflas y sus amigos</title></programme>
-<programme start="20211118122400 +0000" stop="20211118123000 +0000" channel="CanalClaro.cl"><title lang="es">Karli y Los Nubecinos</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="CanalClaro.cl"><title lang="es">Club de Teo</title></programme>
-<programme start="20211118130000 +0000" stop="20211118132400 +0000" channel="CanalClaro.cl"><title lang="es">Club de Teo</title></programme>
-<programme start="20211118132400 +0000" stop="20211118133000 +0000" channel="CanalClaro.cl"><title lang="es">Karli y Los Nubecinos</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="CanalClaro.cl"><title lang="es">Basejump</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143100 +0000" channel="CanalClaro.cl"><title lang="es">Larry King Now</title></programme>
-<programme start="20211118143100 +0000" stop="20211118150100 +0000" channel="CanalClaro.cl"><title lang="es">Dress Code</title></programme>
-<programme start="20211118150100 +0000" stop="20211118153100 +0000" channel="CanalClaro.cl"><title lang="es">Godzilla: The Series</title></programme>
-<programme start="20211118153100 +0000" stop="20211118160000 +0000" channel="CanalClaro.cl"><title lang="es">Wolfblood: familia lobo</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="CanalClaro.cl"><title lang="es">Hatirla Gönül</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="CanalClaro.cl"><title lang="es">The New Nurses</title></programme>
-<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="CanalClaro.cl"><title lang="es">La caja de Pandora</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="CanalClaro.cl"><title lang="es">Cooking Up a Fortune</title></programme>
-<programme start="20211118190000 +0000" stop="20211118210000 +0000" channel="CanalClaro.cl"><title lang="es">Ciudad del silencio</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="CanalClaro.cl"><title lang="es">Hatirla Gönül</title></programme>
-<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="CanalClaro.cl"><title lang="es">Los caballeros del Zodíaco</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="CanalClaro.cl"><title lang="es">El regreso de los Cazafantasmas</title></programme>
-<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="CanalClaro.cl"><title lang="es">Fire Force</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="CanalClaro.cl"><title lang="es">Wolfblood: familia lobo</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="CanalClaro.cl"><title lang="es">Amor justo</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="CanalClaro.cl"><title lang="es">The Truth About Looking Good</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="CanalClaro.cl"><title lang="es">El amor de los ángeles</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="CanalClaro.cl"><title lang="es">The New Nurses</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="CanalClaro.cl"><title lang="es">Ciudad del silencio</title></programme>
+<programme start="20211120060000 +0000" stop="20211120120000 +0000" channel="Canal12.sv"><title lang="es">Fin de transmisión</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="Canal12.sv"><title lang="es">3, 2, 1, ¡Vamos!</title></programme>
+<programme start="20211120123000 +0000" stop="20211120133000 +0000" channel="Canal12.sv"><title lang="es">Beyblade</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="Canal12.sv"><title lang="es">Bakugan</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="Canal12.sv"><title lang="es">Heidi</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="Canal12.sv"><title lang="es">Plaza Sésamo</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="Canal12.sv"><title lang="es">Medabots</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="Canal12.sv"><title lang="es">Kamen Rider</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="Canal12.sv"><title lang="es">El conciertazo</title></programme>
+<programme start="20211120170000 +0000" stop="20211120180000 +0000" channel="Canal12.sv"><title lang="es">WWE Raw</title></programme>
+<programme start="20211120180000 +0000" stop="20211120200000 +0000" channel="Canal12.sv"><title lang="es">La compañía</title></programme>
+<programme start="20211120200000 +0000" stop="20211120201500 +0000" channel="Canal12.sv"><title lang="es">La cruz de los milagros</title></programme>
+<programme start="20211120201500 +0000" stop="20211120210000 +0000" channel="Canal12.sv"><title lang="es">Factor miedo</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="Canal12.sv"><title lang="es">WWE Raw</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="Canal12.sv"><title lang="es">American Ninja Warrior</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="Canal12.sv"><title lang="es">Alerta cobra</title></programme>
+<programme start="20211121000000 +0000" stop="20211121013000 +0000" channel="Canal12.sv"><title lang="es">Los repartidores</title></programme>
+<programme start="20211121013000 +0000" stop="20211121023000 +0000" channel="Canal12.sv"><title lang="es">Noticiero hechos - Fin de semana</title></programme>
+<programme start="20211121023000 +0000" stop="20211121043000 +0000" channel="Canal12.sv"><title lang="es">¿Qué has hecho, hijo?</title></programme>
+<programme start="20211121043000 +0000" stop="20211121051500 +0000" channel="Canal12.sv"><title lang="es">Black Sails</title></programme>
+<programme start="20211121051500 +0000" stop="20211121061500 +0000" channel="Canal12.sv"><title lang="es">Toledo</title></programme>
 <programme start="20211119060000 +0000" stop="20211119063000 +0000" channel="CanalClaro.cl"><title lang="es">Larry King Now</title></programme>
 <programme start="20211119063000 +0000" stop="20211119070000 +0000" channel="CanalClaro.cl"><title lang="es">La caja de Pandora</title></programme>
 <programme start="20211119070000 +0000" stop="20211119080000 +0000" channel="CanalClaro.cl"><title lang="es">El amor de los ángeles</title></programme>
@@ -316,43 +273,40 @@
 <programme start="20211120010000 +0000" stop="20211120030000 +0000" channel="CanalClaro.cl"><title lang="es">El hechicero y la serpiente blanca</title></programme>
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="CanalClaro.cl"><title lang="es">The New Nurses</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="CanalClaro.cl"><title lang="es">Besos de azúcar</title></programme>
-<programme start="20211118060000 +0000" stop="20211118100000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
-<programme start="20211118100000 +0000" stop="20211118140000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
-<programme start="20211118140000 +0000" stop="20211118180000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
-<programme start="20211118180000 +0000" stop="20211118220000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
-<programme start="20211118220000 +0000" stop="20211119020000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
+<programme start="20211120060000 +0000" stop="20211120080000 +0000" channel="CanalClaro.cl"><title lang="es">Diario de un ejecutivo agresivo</title></programme>
+<programme start="20211120080000 +0000" stop="20211120083000 +0000" channel="CanalClaro.cl"><title lang="es">La caja de Pandora</title></programme>
+<programme start="20211120083000 +0000" stop="20211120090000 +0000" channel="CanalClaro.cl"><title lang="es">Larry King Now</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="CanalClaro.cl"><title lang="es">Los peores cocineros</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="CanalClaro.cl"><title lang="es">24 horas en el infierno, con Gordon Ramsay</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="CanalClaro.cl"><title lang="es">Los caballeros del Zodíaco</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="CanalClaro.cl"><title lang="es">Wolfblood: familia lobo</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="CanalClaro.cl"><title lang="es">Club de Teo</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="CanalClaro.cl"><title lang="es">Club de Teo</title></programme>
+<programme start="20211120130000 +0000" stop="20211120150000 +0000" channel="CanalClaro.cl"><title lang="es">Diario de un ejecutivo agresivo</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="CanalClaro.cl"><title lang="es">Dress Code</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="CanalClaro.cl"><title lang="es">Wolfblood: familia lobo</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="CanalClaro.cl"><title lang="es">Hatirla Gönül</title></programme>
+<programme start="20211120170000 +0000" stop="20211120180000 +0000" channel="CanalClaro.cl"><title lang="es">The New Nurses</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="CanalClaro.cl"><title lang="es">Los peores cocineros</title></programme>
+<programme start="20211120190000 +0000" stop="20211120195900 +0000" channel="CanalClaro.cl"><title lang="es">24 horas en el infierno, con Gordon Ramsay</title></programme>
+<programme start="20211120195900 +0000" stop="20211120210000 +0000" channel="CanalClaro.cl"><title lang="es">Shark Tank México</title></programme>
+<programme start="20211120210000 +0000" stop="20211120230000 +0000" channel="CanalClaro.cl"><title lang="es">La leyenda de la tumba del dragón</title></programme>
+<programme start="20211120230000 +0000" stop="20211121010000 +0000" channel="CanalClaro.cl"><title lang="es">Ciudad del silencio</title></programme>
+<programme start="20211121010000 +0000" stop="20211121030000 +0000" channel="CanalClaro.cl"><title lang="es">Backstreet Boys in a World Like This Live in Saitama</title></programme>
+<programme start="20211121030000 +0000" stop="20211121050000 +0000" channel="CanalClaro.cl"><title lang="es">Deseo peligroso</title></programme>
+<programme start="20211121050000 +0000" stop="20211121060000 +0000" channel="CanalClaro.cl"><title lang="es">El hechicero y la serpiente blanca</title></programme>
 <programme start="20211119060000 +0000" stop="20211119100000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
 <programme start="20211119100000 +0000" stop="20211119140000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
 <programme start="20211119140000 +0000" stop="20211119180000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
 <programme start="20211119180000 +0000" stop="20211119220000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
 <programme start="20211119220000 +0000" stop="20211120020000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
 <programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
-<programme start="20211118060000 +0000" stop="20211118113000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Cierre de transmisión</title></programme>
-<programme start="20211118113000 +0000" stop="20211118123000 +0000" channel="MegavisionCanal19.sv"><title lang="es">TN21</title></programme>
-<programme start="20211118123000 +0000" stop="20211118140000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Diálogo</title></programme>
-<programme start="20211118140000 +0000" stop="20211118170000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Arriba mi gente</title></programme>
-<programme start="20211118170000 +0000" stop="20211118171000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Avance Meganoticias 19</title></programme>
-<programme start="20211118171000 +0000" stop="20211118180000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Asesoría migratoria GMV</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Meganoticias 19 - Meridiano</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="MegavisionCanal19.sv"><title lang="es">DW noticias</title></programme>
-<programme start="20211118200000 +0000" stop="20211118201000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Avance Meganoticias 19</title></programme>
-<programme start="20211118201000 +0000" stop="20211118210000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Buena vida</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Meganoticias 19 - Media tarde</title></programme>
-<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="MegavisionCanal19.sv"><title lang="es">DW Noticias / Economía</title></programme>
-<programme start="20211118220000 +0000" stop="20211118221000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Avance Meganoticias 19</title></programme>
-<programme start="20211118221000 +0000" stop="20211118223000 +0000" channel="MegavisionCanal19.sv"><title lang="es">DW noticias</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Fuerza latina</title></programme>
-<programme start="20211118230000 +0000" stop="20211118231000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Avance Meganoticias 19</title></programme>
-<programme start="20211118231000 +0000" stop="20211119000000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Ventaneando</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Meganoticias 19 - Estelar</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Bayly</title></programme>
-<programme start="20211119020000 +0000" stop="20211119023000 +0000" channel="MegavisionCanal19.sv"><title lang="es">El mundo al día</title></programme>
-<programme start="20211119023000 +0000" stop="20211119033000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Ahora con Oscar Haza</title></programme>
-<programme start="20211119033000 +0000" stop="20211119040000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Meganoticias 19 - Última hora</title></programme>
-<programme start="20211119040000 +0000" stop="20211119043000 +0000" channel="MegavisionCanal19.sv"><title lang="es">La hora del milagro</title></programme>
-<programme start="20211119043000 +0000" stop="20211119050000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Sercano Noticiero</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Así dice Jehová</title></programme>
+<programme start="20211120060000 +0000" stop="20211120100000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
+<programme start="20211120100000 +0000" stop="20211120140000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
+<programme start="20211120140000 +0000" stop="20211120180000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
+<programme start="20211120180000 +0000" stop="20211120220000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
+<programme start="20211120220000 +0000" stop="20211121020000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
+<programme start="20211121020000 +0000" stop="20211121030000 +0000" channel="Genteve.sv"><title lang="es">Gentevé</title></programme>
 <programme start="20211119060000 +0000" stop="20211119113000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Cierre de transmisión</title></programme>
 <programme start="20211119113000 +0000" stop="20211119123000 +0000" channel="MegavisionCanal19.sv"><title lang="es">TN21</title></programme>
 <programme start="20211119123000 +0000" stop="20211119140000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Diálogo</title></programme>
@@ -378,23 +332,36 @@
 <programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="MegavisionCanal19.sv"><title lang="es">La hora del milagro</title></programme>
 <programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Sercano Noticiero</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Así dice Jehová</title></programme>
-<programme start="20211118060000 +0000" stop="20211118113000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Cierre de transmisión</title></programme>
-<programme start="20211118113000 +0000" stop="20211118123000 +0000" channel="MegavisionCanal21.sv"><title lang="es">TN21</title></programme>
-<programme start="20211118123000 +0000" stop="20211118140000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Diálogo</title></programme>
-<programme start="20211118140000 +0000" stop="20211118170000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Arriba mi gente</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="MegavisionCanal21.sv"><title lang="es">21 a la carta</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Mujer Express</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Salud TV</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Telenoticias 21 - Meridiano</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Pedaleando</title></programme>
-<programme start="20211118210000 +0000" stop="20211118230000 +0000" channel="MegavisionCanal21.sv"><title lang="es">El sótano</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Exit</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="MegavisionCanal21.sv"><title lang="es">El Hormiguero</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Tele noticias 21 Edición estelar</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Llamas del destino</title></programme>
-<programme start="20211119030000 +0000" stop="20211119033000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Código 21</title></programme>
-<programme start="20211119033000 +0000" stop="20211119043000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Fanáticos Plus</title></programme>
-<programme start="20211119043000 +0000" stop="20211119053000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Diálogo</title></programme>
+<programme start="20211120060000 +0000" stop="20211120120000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Cierre de transmisión</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Meganoticias 19</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="MegavisionCanal19.sv"><title lang="es">El mundo al día</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Guía tu cuerpo</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Global 3000</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Euromaxx</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="MegavisionCanal19.sv"><title lang="es">DW Noticias / Economía</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Enfoque Europa</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="MegavisionCanal19.sv"><title lang="es">¡Escápate!</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Nuestra América deportiva</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Con sabor y saber</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Visión futuro</title></programme>
+<programme start="20211120180000 +0000" stop="20211120183000 +0000" channel="MegavisionCanal19.sv"><title lang="es">DW Noticias / Reporteros en el mundo</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Todo gol</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Enlaces</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Vidas</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Zona verde</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Patrimonio mundial</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Ventaneando</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Buena vida</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Puerta astral</title></programme>
+<programme start="20211121000000 +0000" stop="20211121003000 +0000" channel="MegavisionCanal19.sv"><title lang="es">¡Aquí estoy!</title></programme>
+<programme start="20211121003000 +0000" stop="20211121010000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Este es El Salvador</title></programme>
+<programme start="20211121010000 +0000" stop="20211121013000 +0000" channel="MegavisionCanal19.sv"><title lang="es">TeleNoticias</title></programme>
+<programme start="20211121013000 +0000" stop="20211121023000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Zona docu</title></programme>
+<programme start="20211121023000 +0000" stop="20211121030000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Todo deporte</title></programme>
+<programme start="20211121030000 +0000" stop="20211121040000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Bayly</title></programme>
+<programme start="20211121040000 +0000" stop="20211121043000 +0000" channel="MegavisionCanal19.sv"><title lang="es">La hora del milagro</title></programme>
+<programme start="20211121043000 +0000" stop="20211121050000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Vidas</title></programme>
+<programme start="20211121050000 +0000" stop="20211121060000 +0000" channel="MegavisionCanal19.sv"><title lang="es">Así dice Jehová</title></programme>
 <programme start="20211119060000 +0000" stop="20211119113000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Cierre de transmisión</title></programme>
 <programme start="20211119113000 +0000" stop="20211119123000 +0000" channel="MegavisionCanal21.sv"><title lang="es">TN21</title></programme>
 <programme start="20211119123000 +0000" stop="20211119140000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Diálogo</title></programme>
@@ -412,40 +379,35 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Código 21</title></programme>
 <programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Fanáticos Plus</title></programme>
 <programme start="20211120043000 +0000" stop="20211120053000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Diálogo</title></programme>
-<programme start="20211118060000 +0000" stop="20211118100000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
-<programme start="20211118100000 +0000" stop="20211118140000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
-<programme start="20211118140000 +0000" stop="20211118180000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
-<programme start="20211118180000 +0000" stop="20211118220000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
-<programme start="20211118220000 +0000" stop="20211119020000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
+<programme start="20211120060000 +0000" stop="20211120120000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Cierre de transmisión</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="MegavisionCanal21.sv"><title lang="es">DW Noticias / Economía DW</title></programme>
+<programme start="20211120123000 +0000" stop="20211120133000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Tele noticias 21</title></programme>
+<programme start="20211120133000 +0000" stop="20211120150000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Diálogo</title></programme>
+<programme start="20211120150000 +0000" stop="20211120170000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Lo mejor de Salud TV</title></programme>
+<programme start="20211120170000 +0000" stop="20211120200000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Lo mejor de Llamas del destino</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Pedaleando</title></programme>
+<programme start="20211120210000 +0000" stop="20211120223000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Cine 21</title></programme>
+<programme start="20211120223000 +0000" stop="20211120233000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Natsuzora: El cielo de Natsu</title></programme>
+<programme start="20211120233000 +0000" stop="20211121000000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Mi país TV</title></programme>
+<programme start="20211121000000 +0000" stop="20211121010000 +0000" channel="MegavisionCanal21.sv"><title lang="es">7 días</title></programme>
+<programme start="20211121010000 +0000" stop="20211121013000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Telenoticias 21 - Fin de semana</title></programme>
+<programme start="20211121013000 +0000" stop="20211121023000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Código 21 extra</title></programme>
+<programme start="20211121023000 +0000" stop="20211121043000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Mi pareja puede</title></programme>
+<programme start="20211121043000 +0000" stop="20211121050000 +0000" channel="MegavisionCanal21.sv"><title lang="es">A confimar</title></programme>
+<programme start="20211121050000 +0000" stop="20211121053000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Cultura.21</title></programme>
+<programme start="20211121053000 +0000" stop="20211121063000 +0000" channel="MegavisionCanal21.sv"><title lang="es">Euromaxx</title></programme>
 <programme start="20211119060000 +0000" stop="20211119100000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
 <programme start="20211119100000 +0000" stop="20211119140000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
 <programme start="20211119140000 +0000" stop="20211119180000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
 <programme start="20211119180000 +0000" stop="20211119220000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
 <programme start="20211119220000 +0000" stop="20211120020000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
 <programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
-<programme start="20211118060000 +0000" stop="20211118120000 +0000" channel="TVX.sv"><title lang="es">Cierre</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="TVX.sv"><title lang="es">RT noticias</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="TVX.sv"><title lang="es">Encuentro con Julio Villagran</title></programme>
-<programme start="20211118140000 +0000" stop="20211118141500 +0000" channel="TVX.sv"><title lang="es">Portafolio empresarial</title></programme>
-<programme start="20211118141500 +0000" stop="20211118160000 +0000" channel="TVX.sv"><title lang="es">Class Icons</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="TVX.sv"><title lang="es">Cafeína</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="TVX.sv"><title lang="es">Asia Shake</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="TVX.sv"><title lang="es">Animé</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="TVX.sv"><title lang="es">Los días felices de Doudou</title></programme>
-<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="TVX.sv"><title lang="es">Plataforma</title></programme>
-<programme start="20211118193000 +0000" stop="20211118203000 +0000" channel="TVX.sv"><title lang="es">Radar país</title></programme>
-<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="TVX.sv"><title lang="es">Novoscopio</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="TVX.sv"><title lang="es">Urban X</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="TVX.sv"><title lang="es">C- POP</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="TVX.sv"><title lang="es">Lasercat</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="TVX.sv"><title lang="es">Noticiero - Lo nuestro TV</title></programme>
-<programme start="20211119010000 +0000" stop="20211119013000 +0000" channel="TVX.sv"><title lang="es">Plataforma</title></programme>
-<programme start="20211119013000 +0000" stop="20211119020000 +0000" channel="TVX.sv"><title lang="es">Del terremoto de 2017 a la pandemia: Tepapayeca, la localidad mexicana que se une ante la adversidad</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="TVX.sv"><title lang="es">Radar país</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="TVX.sv"><title lang="es">Los días felices de Doudou</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="TVX.sv"><title lang="es">Encuentro con Julio Villagran</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="TVX.sv"><title lang="es">RT noticias</title></programme>
+<programme start="20211120060000 +0000" stop="20211120100000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
+<programme start="20211120100000 +0000" stop="20211120140000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
+<programme start="20211120140000 +0000" stop="20211120180000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
+<programme start="20211120180000 +0000" stop="20211120220000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
+<programme start="20211120220000 +0000" stop="20211121020000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
+<programme start="20211121020000 +0000" stop="20211121030000 +0000" channel="TVOCanal23.sv"><title lang="es">23 TVO</title></programme>
 <programme start="20211119060000 +0000" stop="20211119120000 +0000" channel="TVX.sv"><title lang="es">Cierre</title></programme>
 <programme start="20211119120000 +0000" stop="20211119130000 +0000" channel="TVX.sv"><title lang="es">RT noticias</title></programme>
 <programme start="20211119130000 +0000" stop="20211119140000 +0000" channel="TVX.sv"><title lang="es">Encuentro con Julio Villagran</title></programme>
@@ -467,31 +429,21 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="TVX.sv"><title lang="es">Los días felices de Doudou</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="TVX.sv"><title lang="es">Encuentro con Julio Villagran</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="TVX.sv"><title lang="es">RT noticias</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="VTVCanal35.sv"><title lang="es">¡A cocinar!</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="VTVCanal35.sv"><title lang="es">Invasión 51</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="VTVCanal35.sv"><title lang="es">Noticias TCS Plus</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="VTVCanal35.sv"><title lang="es">Ponte fit</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="VTVCanal35.sv"><title lang="es">12 corazones</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="VTVCanal35.sv"><title lang="es">¡Cuéntamelo ya!</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="VTVCanal35.sv"><title lang="es">Debate con Nacho Castillo</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="VTVCanal35.sv"><title lang="es">Ponte fit</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="VTVCanal35.sv"><title lang="es">Ben 10: Omniverse</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="VTVCanal35.sv"><title lang="es">El escuadrón de superhéroes</title></programme>
-<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="VTVCanal35.sv"><title lang="es">Amigos salvajes</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="VTVCanal35.sv"><title lang="es">Friends</title></programme>
-<programme start="20211118163000 +0000" stop="20211118183000 +0000" channel="VTVCanal35.sv"><title lang="es">Hoy</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="VTVCanal35.sv"><title lang="es">¡A cocinar!</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="VTVCanal35.sv"><title lang="es">Noticias TCS Plus</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="VTVCanal35.sv"><title lang="es">Suelta la sopa</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="VTVCanal35.sv"><title lang="es">Tom y Jerry</title></programme>
-<programme start="20211118213000 +0000" stop="20211118233000 +0000" channel="VTVCanal35.sv"><title lang="es">Annápolis</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="VTVCanal35.sv"><title lang="es">Invasión 51</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="VTVCanal35.sv"><title lang="es">¡Cuéntamelo ya!</title></programme>
-<programme start="20211119010000 +0000" stop="20211119013000 +0000" channel="VTVCanal35.sv"><title lang="es">Noticias TCS Plus</title></programme>
-<programme start="20211119013000 +0000" stop="20211119020000 +0000" channel="VTVCanal35.sv"><title lang="es">Noticiero Univisión</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="VTVCanal35.sv"><title lang="es">Debate con Nacho Castillo</title></programme>
-<programme start="20211119030000 +0000" stop="20211119050000 +0000" channel="VTVCanal35.sv"><title lang="es">Homeland</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="VTVCanal35.sv"><title lang="es">Two and a Half Men</title></programme>
+<programme start="20211120060000 +0000" stop="20211120120000 +0000" channel="TVX.sv"><title lang="es">Cierre</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="TVX.sv"><title lang="es">RT noticias</title></programme>
+<programme start="20211120130000 +0000" stop="20211120141500 +0000" channel="TVX.sv"><title lang="es">Class Icons</title></programme>
+<programme start="20211120141500 +0000" stop="20211120151500 +0000" channel="TVX.sv"><title lang="es">En frecuencia</title></programme>
+<programme start="20211120151500 +0000" stop="20211120170000 +0000" channel="TVX.sv"><title lang="es">En vivo</title></programme>
+<programme start="20211120170000 +0000" stop="20211120190000 +0000" channel="TVX.sv"><title lang="es">Cafeína</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="TVX.sv"><title lang="es">Zaresound</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="TVX.sv"><title lang="es">Urban X</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="TVX.sv"><title lang="es">Sal a la herida</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="TVX.sv"><title lang="es">Lyrics</title></programme>
+<programme start="20211121000000 +0000" stop="20211121003000 +0000" channel="TVX.sv"><title lang="es">¿Qué es lo que hace a un niño inteligente?</title></programme>
+<programme start="20211121003000 +0000" stop="20211121013000 +0000" channel="TVX.sv"><title lang="es">Lazos familiares</title></programme>
+<programme start="20211121013000 +0000" stop="20211121020000 +0000" channel="TVX.sv"><title lang="es">Un camino por la igualdad</title></programme>
+<programme start="20211121020000 +0000" stop="20211121040000 +0000" channel="TVX.sv"><title lang="es">Remind!</title></programme>
+<programme start="20211121040000 +0000" stop="20211121050000 +0000" channel="TVX.sv"><title lang="es">El castillo vagabundo</title></programme>
 <programme start="20211119060000 +0000" stop="20211119063000 +0000" channel="VTVCanal35.sv"><title lang="es">¡A cocinar!</title></programme>
 <programme start="20211119063000 +0000" stop="20211119070000 +0000" channel="VTVCanal35.sv"><title lang="es">Invasión 51</title></programme>
 <programme start="20211119070000 +0000" stop="20211119080000 +0000" channel="VTVCanal35.sv"><title lang="es">Noticias TCS Plus</title></programme>
@@ -517,4 +469,16 @@
 <programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="VTVCanal35.sv"><title lang="es">Debate con Nacho Castillo</title></programme>
 <programme start="20211120030000 +0000" stop="20211120050000 +0000" channel="VTVCanal35.sv"><title lang="es">Homeland</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="VTVCanal35.sv"><title lang="es">Two and a Half Men</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="VTVCanal35.sv"><title lang="es">¡A cocinar!</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="VTVCanal35.sv"><title lang="es">Invasión 51</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="VTVCanal35.sv"><title lang="es">Noticias TCS Plus</title></programme>
+<programme start="20211120080000 +0000" stop="20211120090000 +0000" channel="VTVCanal35.sv"><title lang="es">Ponte fit</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="VTVCanal35.sv"><title lang="es">12 corazones</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="VTVCanal35.sv"><title lang="es">¡Cuéntamelo ya!</title></programme>
+<programme start="20211120110000 +0000" stop="20211120120000 +0000" channel="VTVCanal35.sv"><title lang="es">Debate con Nacho Castillo</title></programme>
+<programme start="20211120120000 +0000" stop="20211120170000 +0000" channel="VTVCanal35.sv"><title lang="es">Supergirl</title></programme>
+<programme start="20211120170000 +0000" stop="20211120220000 +0000" channel="VTVCanal35.sv"><title lang="es">Two and a Half Men</title></programme>
+<programme start="20211120220000 +0000" stop="20211121003000 +0000" channel="VTVCanal35.sv"><title lang="es">Los Simpson</title></programme>
+<programme start="20211121003000 +0000" stop="20211121030000 +0000" channel="VTVCanal35.sv"><title lang="es">Friends</title></programme>
+<programme start="20211121030000 +0000" stop="20211121040000 +0000" channel="VTVCanal35.sv"><title lang="es">Grimm</title></programme>
 </tv>

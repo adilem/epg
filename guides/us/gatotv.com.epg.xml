@@ -1,48 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
-<channel id="BeInSportsenEspanol.qa"><display-name>BeIn Sports en Español</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png"/></channel>
-<channel id="CineSony.us"><display-name>Cine Sony</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png"/></channel>
-<channel id="ESPNDeportes.us"><display-name>ESPN Deportes</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png"/></channel>
-<channel id="EstrellaTVEast.us"><display-name>Estrella TV East</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/estrella_tv-mediano.png"/></channel>
-<channel id="FoxDeportes.us"><display-name>Fox Deportes</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png"/></channel>
-<channel id="GolTV.us"><display-name>Gol TV</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png"/></channel>
-<channel id="HistoryenEspanol.us"><display-name>History en Español</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_en_espanol-mediano.png"/></channel>
-<channel id="HITN.us"><display-name>HITN</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hitn-mediano.png"/></channel>
-<channel id="MasChicEstadosUnidos.us"><display-name>Más Chic Estados Unidos</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png"/></channel>
-<channel id="NBCUniversoEste.us"><display-name>NBC Universo Este</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png"/></channel>
-<channel id="NFLNetwork.us"><display-name>NFL Network</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png"/></channel>
-<channel id="PasionesEstadosUnidos.us"><display-name>Pasiones Estados Unidos</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png"/></channel>
-<channel id="TUDNEstadosUnidos.mx"><display-name>TUDN Estados Unidos</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png"/></channel>
-<channel id="VePlusPanregional.ve"><display-name>Ve Plus Panregional</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ve_plus-mediano.png"/></channel>
-<channel id="Vme.us"><display-name>V me</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/vme_tv-mediano.png"/></channel>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Footvolley</title></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Footvolley</title></programme>
-<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Sudamericana: Road to the Final</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Libertadores: Road to the Final</title></programme>
-<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118073000 +0000" stop="20211118093000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Paris Saint-Germain máquina goleadora</title></programme>
-<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118100000 +0000" stop="20211118103000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Goles sudamericanos en nuestras ligas</title></programme>
-<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Goles sudamericanos en nuestras ligas</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Goles sudamericanos en nuestras ligas</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Goles sudamericanos en nuestras ligas</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">2021 Miami Beach World Series Footvolley</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">2021 Miami Beach World Series Footvolley</title></programme>
-<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">2021: Barcelona vs. Flamengo</title></programme>
-<programme start="20211118160000 +0000" stop="20211118180000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Athletico Paranaense vs. Peñarol</title></programme>
-<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Los goles de Mbappé</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Los goles de Mbappé</title></programme>
-<programme start="20211118190000 +0000" stop="20211118210000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Pádel</title></programme>
-<programme start="20211118210000 +0000" stop="20211118230000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Pádel</title></programme>
-<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Los goles de Mbappé</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Los goles de Mbappé</title></programme>
+<channel id="BeInSportsenEspanol.qa"><display-name>BeIn Sports en Español</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="CineSony.us"><display-name>Cine Sony</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="ESPNDeportes.us"><display-name>ESPN Deportes</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="EstrellaTVEast.us"><display-name>Estrella TV East</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/estrella_tv-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="FoxDeportes.us"><display-name>Fox Deportes</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="GolTV.us"><display-name>Gol TV</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="HistoryenEspanol.us"><display-name>History en Español</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_en_espanol-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="HITN.us"><display-name>HITN</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hitn-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="MasChicEstadosUnidos.us"><display-name>Más Chic Estados Unidos</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="NBCUniversoEste.us"><display-name>NBC Universo Este</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universo-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="NFLNetwork.us"><display-name>NFL Network</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="PasionesEstadosUnidos.us"><display-name>Pasiones Estados Unidos</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="TUDNEstadosUnidos.mx"><display-name>TUDN Estados Unidos</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="VePlusPanregional.ve"><display-name>Ve Plus Panregional</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ve_plus-mediano.png"/><url>https://gatotv.com</url></channel>
+<channel id="Vme.us"><display-name>V me</display-name><icon src="https://imagenes.gatotv.com/logos/canales/oscuros/vme_tv-mediano.png"/><url>https://gatotv.com</url></channel>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">2021 Miami Beach World Series Footvolley</title></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">2021 Miami Beach World Series Footvolley</title></programme>
 <programme start="20211119020000 +0000" stop="20211119023000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
@@ -74,19 +45,36 @@
 <programme start="20211119210000 +0000" stop="20211119230000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Pádel</title></programme>
 <programme start="20211119230000 +0000" stop="20211119233000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Sudamericana: Road to the Final</title></programme>
 <programme start="20211119233000 +0000" stop="20211120000000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Libertadores: Road to the Final</title></programme>
-<programme start="20211117213000 +0000" stop="20211118002000 +0000" channel="CineSony.us"><title lang="es">The Patriot</title></programme>
-<programme start="20211118002000 +0000" stop="20211118024000 +0000" channel="CineSony.us"><title lang="es">Angels &amp; Demons</title></programme>
-<programme start="20211118024000 +0000" stop="20211118053000 +0000" channel="CineSony.us"><title lang="es">The Patriot</title></programme>
-<programme start="20211118053000 +0000" stop="20211118072500 +0000" channel="CineSony.us"><title lang="es">The Shepherd</title></programme>
-<programme start="20211118072500 +0000" stop="20211118092000 +0000" channel="CineSony.us"><title lang="es">Cross wars</title></programme>
-<programme start="20211118092000 +0000" stop="20211118111000 +0000" channel="CineSony.us"><title lang="es">Deep Winter</title></programme>
-<programme start="20211118111000 +0000" stop="20211118134000 +0000" channel="CineSony.us"><title lang="es">Hook</title></programme>
-<programme start="20211118134000 +0000" stop="20211118151500 +0000" channel="CineSony.us"><title lang="es">Adam Sandler&apos;s Eight Crazy Nights</title></programme>
-<programme start="20211118151500 +0000" stop="20211118171000 +0000" channel="CineSony.us"><title lang="es">Sniper: Legacy</title></programme>
-<programme start="20211118171000 +0000" stop="20211118190000 +0000" channel="CineSony.us"><title lang="es">The Net 2.0</title></programme>
-<programme start="20211118190000 +0000" stop="20211118205000 +0000" channel="CineSony.us"><title lang="es">7 seconds</title></programme>
-<programme start="20211118205000 +0000" stop="20211118231000 +0000" channel="CineSony.us"><title lang="es">Corazones de Hierro (Fury)</title><desc lang="es">Un sargento de combate comanda un tanque con cinco de sus mejores hombres para infiltrarse en el corazón de la Alemania Nazi.</desc><icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/corazones_de_hierro_fury.jpg"/></programme>
-<programme start="20211118231000 +0000" stop="20211119005500 +0000" channel="CineSony.us"><title lang="es">7 seconds</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Footvolley</title></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Footvolley</title></programme>
+<programme start="20211120020000 +0000" stop="20211120023000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120023000 +0000" stop="20211120030000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120030000 +0000" stop="20211120033000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120033000 +0000" stop="20211120040000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120070000 +0000" stop="20211120073000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120073000 +0000" stop="20211120092500 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Paris Saint-Germain máquina goleadora</title></programme>
+<programme start="20211120092500 +0000" stop="20211120095000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">This is Paris</title></programme>
+<programme start="20211120095000 +0000" stop="20211120120000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Paris Saint-Germain vs. Nantes</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Sudamericana 2021-2022: Libertad vs. Bragantino</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Sudamericana 2021-2022: Athletico Paranaense vs. Peñarol</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Sudamericana: Road to the Final</title></programme>
+<programme start="20211120133000 +0000" stop="20211120135000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">The Express Preview</title></programme>
+<programme start="20211120135000 +0000" stop="20211120160000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Athletico Paranaense vs. Bragantino</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">The Express Preview</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Paris Saint-Germain vs. Nantes</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Libertadores 2021-2022: Palmeiras vs. Atlético Mineiro</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Libertadores 2021-2022: Atlético Mineiro vs. Palmeiras</title></programme>
+<programme start="20211120180000 +0000" stop="20211120183000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Libertadores 2021-2022: Flamengo vs. Barcelona</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Copa Libertadores 2021-2022: Barcelona vs. Flamengo</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Athletico Paranaense vs. Bragantino</title></programme>
+<programme start="20211120210000 +0000" stop="20211120230000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Pádel</title></programme>
+<programme start="20211120230000 +0000" stop="20211121010000 +0000" channel="BeInSportsenEspanol.qa"><title lang="es">Stade Rennais vs. Montpellier</title></programme>
 <programme start="20211118231000 +0000" stop="20211119005500 +0000" channel="CineSony.us"><title lang="es">7 seconds</title></programme>
 <programme start="20211119005500 +0000" stop="20211119031500 +0000" channel="CineSony.us"><title lang="es">Corazones de Hierro (Fury)</title><desc lang="es">Un sargento de combate comanda un tanque con cinco de sus mejores hombres para infiltrarse en el corazón de la Alemania Nazi.</desc><icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/corazones_de_hierro_fury.jpg"/></programme>
 <programme start="20211119031500 +0000" stop="20211119053000 +0000" channel="CineSony.us"><title lang="es">Cowboy be-bop</title></programme>
@@ -100,29 +88,20 @@
 <programme start="20211119190000 +0000" stop="20211119210000 +0000" channel="CineSony.us"><title lang="es">The Taking of Pelham 123</title></programme>
 <programme start="20211119210000 +0000" stop="20211119224500 +0000" channel="CineSony.us"><title lang="es">Paul Blart: Mall Cop</title></programme>
 <programme start="20211119224500 +0000" stop="20211120003500 +0000" channel="CineSony.us"><title lang="es">The Taking of Pelham 123</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
-<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="ESPNDeportes.us"><title lang="es">Top Rank Classic Fights</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="ESPNDeportes.us"><title lang="es">Blood, Sweat &amp; Tears</title></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="ESPNDeportes.us"><title lang="es">Blood, Sweat &amp; Tears</title></programme>
-<programme start="20211118050000 +0000" stop="20211118070000 +0000" channel="ESPNDeportes.us"><title lang="es">Dallas Mavericks vs. Phoenix Suns</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118130000 +0000" stop="20211118150000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="ESPNDeportes.us"><title lang="es">Cronómetro</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="ESPNDeportes.us"><title lang="es">Ahora o nunca</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="ESPNDeportes.us"><title lang="es">Karate Combat</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="ESPNDeportes.us"><title lang="es">Karate Combat</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
+<programme start="20211119224500 +0000" stop="20211120003500 +0000" channel="CineSony.us"><title lang="es">The Taking of Pelham 123</title></programme>
+<programme start="20211120003500 +0000" stop="20211120021500 +0000" channel="CineSony.us"><title lang="es">Paul Blart: Mall Cop</title></programme>
+<programme start="20211120021500 +0000" stop="20211120041000 +0000" channel="CineSony.us"><title lang="es">Maggie&apos;s Plan</title></programme>
+<programme start="20211120041000 +0000" stop="20211120061000 +0000" channel="CineSony.us"><title lang="es">Love Lies Bleeding</title></programme>
+<programme start="20211120061000 +0000" stop="20211120075500 +0000" channel="CineSony.us"><title lang="es">Company of heroes</title></programme>
+<programme start="20211120075500 +0000" stop="20211120095000 +0000" channel="CineSony.us"><title lang="es">Beyond Valkyrie: Dawn of the Fourth Reich</title></programme>
+<programme start="20211120095000 +0000" stop="20211120114500 +0000" channel="CineSony.us"><title lang="es">Red Hill</title></programme>
+<programme start="20211120114500 +0000" stop="20211120133000 +0000" channel="CineSony.us"><title lang="es">The Hunt for Eagle One</title></programme>
+<programme start="20211120133000 +0000" stop="20211120151000 +0000" channel="CineSony.us"><title lang="es">The Hunt for Eagle One: Crash Point</title></programme>
+<programme start="20211120151000 +0000" stop="20211120170000 +0000" channel="CineSony.us"><title lang="es">Armored</title></programme>
+<programme start="20211120170000 +0000" stop="20211120190000 +0000" channel="CineSony.us"><title lang="es">Underworld: Evolution</title></programme>
+<programme start="20211120190000 +0000" stop="20211120204000 +0000" channel="CineSony.us"><title lang="es">30 Minutes Or Less</title></programme>
+<programme start="20211120204000 +0000" stop="20211120232500 +0000" channel="CineSony.us"><title lang="es">The Girl With the Dragon Tattoo</title></programme>
+<programme start="20211120232500 +0000" stop="20211121005500 +0000" channel="CineSony.us"><title lang="es">30 Minutes Or Less</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
 <programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
@@ -146,38 +125,28 @@
 <programme start="20211119183000 +0000" stop="20211119210000 +0000" channel="ESPNDeportes.us"><title lang="es">Los Angeles Lakers vs. Boston Celtics</title></programme>
 <programme start="20211119210000 +0000" stop="20211119233000 +0000" channel="ESPNDeportes.us"><title lang="es">Dallas Mavericks vs. Phoenix Suns</title></programme>
 <programme start="20211119233000 +0000" stop="20211120000000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
-<programme start="20211118000000 +0000" stop="20211118003000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118003000 +0000" stop="20211118010000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118013000 +0000" stop="20211118020000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="EstrellaTVEast.us"><title lang="es">Cantinflas Show</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="EstrellaTVEast.us"><title lang="es">En vivo</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="EstrellaTVEast.us"><title lang="es">Noticiero: Cierre de edición</title></programme>
-<programme start="20211118070000 +0000" stop="20211118090000 +0000" channel="EstrellaTVEast.us"><title lang="es">La reina del trópico</title></programme>
-<programme start="20211118090000 +0000" stop="20211118110000 +0000" channel="EstrellaTVEast.us"><title lang="es">El Empresario</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="EstrellaTVEast.us"><title lang="es">Retofamosos</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="EstrellaTVEast.us"><title lang="es">100 latinos dijeron</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="EstrellaTVEast.us"><title lang="es">100 latinos dijeron</title></programme>
-<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="EstrellaTVEast.us"><title lang="es">Tengo talento, mucho talento</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="EstrellaTVEast.us"><title lang="es">24 Horas</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="EstrellaTVEast.us"><title lang="es">Noticiero Estrella TV</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="EstrellaTVEast.us"><title lang="es">Chisme en vivo</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="EstrellaTVEast.us"><title lang="es">100 latinos dijeron</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="EstrellaTVEast.us"><title lang="es">Tengo talento, mucho talento</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="EstrellaTVEast.us"><title lang="es">Tu-Night con Omar Chaparro</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="EstrellaTVEast.us"><title lang="es">Alarma TV</title></programme>
-<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="EstrellaTVEast.us"><title lang="es">Noticiero: Cierre de edición</title></programme>
-<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="EstrellaTVEast.us"><title lang="es">24 Horas</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="EstrellaTVEast.us"><title lang="es">Alarma TV</title></programme>
-<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
+<programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120030000 +0000" stop="20211120033000 +0000" channel="ESPNDeportes.us"><title lang="es">Blood, Sweat &amp; Tears</title></programme>
+<programme start="20211120033000 +0000" stop="20211120040000 +0000" channel="ESPNDeportes.us"><title lang="es">Blood, Sweat &amp; Tears</title></programme>
+<programme start="20211120040000 +0000" stop="20211120045500 +0000" channel="ESPNDeportes.us"><title lang="es">Top Rank Classic Fights</title></programme>
+<programme start="20211120045500 +0000" stop="20211120060500 +0000" channel="ESPNDeportes.us"><title lang="es">Gran Premio de Catar, Práctica 3</title></programme>
+<programme start="20211120060500 +0000" stop="20211120070000 +0000" channel="ESPNDeportes.us"><title lang="es">Karate Combat</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
+<programme start="20211120080000 +0000" stop="20211120090000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120090000 +0000" stop="20211120111500 +0000" channel="ESPNDeportes.us"><title lang="es">Sevilla vs. Alavés</title></programme>
+<programme start="20211120111500 +0000" stop="20211120120000 +0000" channel="ESPNDeportes.us"><title lang="es">ESPN Fútbol Center</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120150000 +0000" stop="20211120160000 +0000" channel="ESPNDeportes.us"><title lang="es">ESPN Fútbol Center</title></programme>
+<programme start="20211120160000 +0000" stop="20211120180000 +0000" channel="ESPNDeportes.us"><title lang="es">Monterrey vs. Guadalajara</title><icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/monterrey_vs_guadalajara.png"/></programme>
+<programme start="20211120180000 +0000" stop="20211120200000 +0000" channel="ESPNDeportes.us"><title lang="es">Crawford vs. Porter, preliminares</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="ESPNDeportes.us"><title lang="es">UFC Main Event</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="ESPNDeportes.us"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="ESPNDeportes.us"><title lang="es">Futbol Picante</title></programme>
 <programme start="20211119000000 +0000" stop="20211119003000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211119003000 +0000" stop="20211119010000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211119010000 +0000" stop="20211119013000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
@@ -210,30 +179,42 @@
 <programme start="20211119223000 +0000" stop="20211119230000 +0000" channel="EstrellaTVEast.us"><title lang="es">Alarma TV</title></programme>
 <programme start="20211119230000 +0000" stop="20211119233000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211119233000 +0000" stop="20211120000000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
-<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
-<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="FoxDeportes.us"><title lang="es">El chiringuito de Jugones</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="FoxDeportes.us"><title lang="es">Agenda Fox Sports</title></programme>
-<programme start="20211118100000 +0000" stop="20211118120000 +0000" channel="FoxDeportes.us"><title lang="es">Monterrey vs. Guadalajara</title><icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/monterrey_vs_guadalajara.png"/></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="FoxDeportes.us"><title lang="es">El chiringuito de Jugones</title></programme>
-<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="FoxDeportes.us"><title lang="es">FIFA Eliminatorias Copa Mundial 2022</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="FoxDeportes.us"><title lang="es">Fox Sports Radio México</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="FoxDeportes.us"><title lang="es">El chiringuito de Jugones</title></programme>
-<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="FoxDeportes.us"><title lang="es">Eliminatorias Sudamericanas - gol x gol</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="FoxDeportes.us"><title lang="es">FOXD NFL Pregame</title></programme>
-<programme start="20211118190000 +0000" stop="20211118223000 +0000" channel="FoxDeportes.us"><title lang="es">Patriots vs. Atlanta Falcons</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="FoxDeportes.us"><title lang="es">FOX Deportes en Vivo</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211120000000 +0000" stop="20211120003000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120003000 +0000" stop="20211120010000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120010000 +0000" stop="20211120013000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120013000 +0000" stop="20211120020000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120020000 +0000" stop="20211120023000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120023000 +0000" stop="20211120030000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120030000 +0000" stop="20211120033000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120033000 +0000" stop="20211120040000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="EstrellaTVEast.us"><title lang="es">¿Accidente automovilístico? Consulta legal gratuita</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="EstrellaTVEast.us"><title lang="es">Cantinflas Show</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120070000 +0000" stop="20211120073000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120073000 +0000" stop="20211120080000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120080000 +0000" stop="20211120083000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120083000 +0000" stop="20211120090000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120090000 +0000" stop="20211120093000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120093000 +0000" stop="20211120100000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120100000 +0000" stop="20211120103000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120103000 +0000" stop="20211120110000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120110000 +0000" stop="20211120120000 +0000" channel="EstrellaTVEast.us"><title lang="es">¡Ahora caigo!</title></programme>
+<programme start="20211120120000 +0000" stop="20211120140000 +0000" channel="EstrellaTVEast.us"><title lang="es">Para que la Cuña Apriete</title></programme>
+<programme start="20211120140000 +0000" stop="20211120160000 +0000" channel="EstrellaTVEast.us"><title lang="es">Los dos apostoles</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="EstrellaTVEast.us"><title lang="es">Chisme en vivo. Fin de semana</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="EstrellaTVEast.us"><title lang="es">24 Horas</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="EstrellaTVEast.us"><title lang="es">24 Horas</title></programme>
+<programme start="20211120180000 +0000" stop="20211120200000 +0000" channel="EstrellaTVEast.us"><title lang="es">Sábados de Concierto</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="EstrellaTVEast.us"><title lang="es">Tu-Night con Omar Chaparro</title></programme>
+<programme start="20211120210000 +0000" stop="20211120213000 +0000" channel="EstrellaTVEast.us"><title lang="es">Alarma TV fin de semana</title></programme>
+<programme start="20211120213000 +0000" stop="20211120220000 +0000" channel="EstrellaTVEast.us"><title lang="es">24 Horas</title></programme>
+<programme start="20211120220000 +0000" stop="20211120223000 +0000" channel="EstrellaTVEast.us"><title lang="es">Escorpión al volante</title></programme>
+<programme start="20211120223000 +0000" stop="20211120230000 +0000" channel="EstrellaTVEast.us"><title lang="es">La Familia del Barrio</title></programme>
+<programme start="20211120230000 +0000" stop="20211120233000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120233000 +0000" stop="20211121000000 +0000" channel="EstrellaTVEast.us"><title lang="es">Programa Pagado</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="FoxDeportes.us"><title lang="es">El chiringuito de Jugones</title></programme>
 <programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
@@ -257,33 +238,28 @@
 <programme start="20211119190000 +0000" stop="20211119210000 +0000" channel="FoxDeportes.us"><title lang="es">WWE Friday Night SmackDown</title></programme>
 <programme start="20211119210000 +0000" stop="20211119230000 +0000" channel="FoxDeportes.us"><title lang="es">FIFA Eliminatorias Copa Mundial 2022</title></programme>
 <programme start="20211119230000 +0000" stop="20211120000000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
-<programme start="20211118000000 +0000" stop="20211118020000 +0000" channel="GolTV.us"><title lang="es">L.D.U. de Quito vs. Delfín</title></programme>
-<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Uruguay</title></programme>
-<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="GolTV.us"><title lang="es">Go Go Goal</title></programme>
-<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Perú</title></programme>
-<programme start="20211118033000 +0000" stop="20211118053000 +0000" channel="GolTV.us"><title lang="es">Progreso vs. Montevideo Wanderers</title></programme>
-<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
-<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="GolTV.us"><title lang="es">The Football Review</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Ecuador</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Uruguay</title></programme>
-<programme start="20211118113000 +0000" stop="20211118133000 +0000" channel="GolTV.us"><title lang="es">Paços de Ferreira vs. Sporting CP</title></programme>
-<programme start="20211118133000 +0000" stop="20211118153000 +0000" channel="GolTV.us"><title lang="es">Cerro Largo vs. Rentistas</title></programme>
-<programme start="20211118153000 +0000" stop="20211118163000 +0000" channel="GolTV.us"><title lang="es">Portugol</title></programme>
-<programme start="20211118163000 +0000" stop="20211118173000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Ecuador</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Uruguay</title></programme>
-<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="GolTV.us"><title lang="es">Go Go Goal</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Perú</title></programme>
-<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="GolTV.us"><title lang="es">The Football Review</title></programme>
-<programme start="20211118193000 +0000" stop="20211118213000 +0000" channel="GolTV.us"><title lang="es">Benfica vs. Braga</title></programme>
-<programme start="20211118213000 +0000" stop="20211118233000 +0000" channel="GolTV.us"><title lang="es">Porto vs. Santa Clara</title></programme>
-<programme start="20211118233000 +0000" stop="20211119003000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Ecuador</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="FoxDeportes.us"><title lang="es">Fox Gol Centroamérica</title></programme>
+<programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
+<programme start="20211120030000 +0000" stop="20211120033000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120033000 +0000" stop="20211120040000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="FoxDeportes.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120060000 +0000" stop="20211120070000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
+<programme start="20211120080000 +0000" stop="20211120090000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="FoxDeportes.us"><title lang="es">Central Fox</title><desc lang="es">El noticiero deportivo de la cadena de televisión Fox Sports que desde México y Argentina mantiene al tanto al público latinoamericano.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/central_fox.png"/></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
+<programme start="20211120110000 +0000" stop="20211120130000 +0000" channel="FoxDeportes.us"><title lang="es">FIFA Eliminatorias Copa Mundial 2022</title></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="FoxDeportes.us"><title lang="es">El entretiempo</title></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="FoxDeportes.us"><title lang="es">El entretiempo</title></programme>
+<programme start="20211120150000 +0000" stop="20211120183000 +0000" channel="FoxDeportes.us"><title lang="es">Fútbol Americano Universitario</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="FoxDeportes.us"><title lang="es">FOX Deportes en Vivo</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="FoxDeportes.us"><title lang="es">Fútbol Hondureño Primera División</title></programme>
+<programme start="20211120210000 +0000" stop="20211120230000 +0000" channel="FoxDeportes.us"><title lang="es">FIFA Eliminatorias Copa Mundial 2022</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="FoxDeportes.us"><title lang="es">La última palabra</title></programme>
 <programme start="20211118233000 +0000" stop="20211119003000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Ecuador</title></programme>
 <programme start="20211119003000 +0000" stop="20211119023000 +0000" channel="GolTV.us"><title lang="es">C.S. Emelec vs. Mushuc Runa</title></programme>
 <programme start="20211119023000 +0000" stop="20211119043000 +0000" channel="GolTV.us"><title lang="es">River Plate vs. Peñarol</title></programme>
@@ -311,35 +287,30 @@
 <programme start="20211119210000 +0000" stop="20211119230000 +0000" channel="GolTV.us"><title lang="es">Carlos Stein vs. Deportivo Binacional</title></programme>
 <programme start="20211119230000 +0000" stop="20211119233000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Uruguay</title></programme>
 <programme start="20211119233000 +0000" stop="20211120000000 +0000" channel="GolTV.us"><title lang="es">Tu Fútbol - Perú</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="HistoryenEspanol.us"><title lang="es">El oro perdido de la segunda guerra mundial</title></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="HistoryenEspanol.us"><title lang="es">Grandes tesoros del mundo</title></programme>
-<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
-<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="HistoryenEspanol.us"><title lang="es">Ninja Foodi XL Pro Grill &amp; Griddle - Grill, griddle, air fryer, and so much more!</title></programme>
-<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="HistoryenEspanol.us"><title lang="es">Shark Vertex with DuoClean PowerFins</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="HistoryenEspanol.us"><title lang="es">Velform Cover: ¡Oculta las imperfecciones y da color a tu piel!</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="HistoryenEspanol.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="HistoryenEspanol.us"><title lang="es">Inventos legendarios</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="HistoryenEspanol.us"><title lang="es">El oro perdido de la segunda guerra mundial</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="HistoryenEspanol.us"><title lang="es">Grandes tesoros del mundo</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="HistoryenEspanol.us"><title lang="es">Inventos legendarios</title></programme>
-<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="HistoryenEspanol.us"><title lang="es">El oro perdido de la segunda guerra mundial</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="HistoryenEspanol.us"><title lang="es">Grandes tesoros del mundo</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="HistoryenEspanol.us"><title lang="es">Hombres de montaña</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="HistoryenEspanol.us"><title lang="es">Hombres de montaña</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="HistoryenEspanol.us"><title lang="es">Amos del pantano</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="HistoryenEspanol.us"><title lang="es">Hombres de montaña</title></programme>
+<programme start="20211120000000 +0000" stop="20211120013000 +0000" channel="GolTV.us"><title lang="es">Aucas vs. Macará</title></programme>
+<programme start="20211120013000 +0000" stop="20211120020000 +0000" channel="GolTV.us"><title lang="es">Arsenal World</title></programme>
+<programme start="20211120020000 +0000" stop="20211120040000 +0000" channel="GolTV.us"><title lang="es">Fútbol Uruguayo Primera División</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="GolTV.us"><title lang="es">Portugol</title></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="GolTV.us"><title lang="es">Foot Brazil</title></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="GolTV.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="GolTV.us"><title lang="es">¡Arregla el problema en tus pies y alivia el dolor en todo tu cuerpo!</title></programme>
+<programme start="20211120070000 +0000" stop="20211120073000 +0000" channel="GolTV.us"><title lang="es">Ideal Prostate+ proporciona alivio natural seguro</title></programme>
+<programme start="20211120073000 +0000" stop="20211120080000 +0000" channel="GolTV.us"><title lang="es">El secreto natural de la salud masculina para una próstata sana</title></programme>
+<programme start="20211120080000 +0000" stop="20211120083000 +0000" channel="GolTV.us"><title lang="es">¡Nutrición orgánica integral y superalimenticia simplificada!</title></programme>
+<programme start="20211120083000 +0000" stop="20211120090000 +0000" channel="GolTV.us"><title lang="es">Foot Brazil</title></programme>
+<programme start="20211120090000 +0000" stop="20211120110000 +0000" channel="GolTV.us"><title lang="es">Fútbol Copa de Escocia</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="GolTV.us"><title lang="es">The Football Review</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="GolTV.us"><title lang="es">Arsenal TV</title></programme>
+<programme start="20211120120000 +0000" stop="20211120140000 +0000" channel="GolTV.us"><title lang="es">Fútbol Portugués Primeira Liga</title></programme>
+<programme start="20211120140000 +0000" stop="20211120160000 +0000" channel="GolTV.us"><title lang="es">Fútbol Brasileirao</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="GolTV.us"><title lang="es">Arsenal 360</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="GolTV.us"><title lang="es">The Football Review</title></programme>
+<programme start="20211120170000 +0000" stop="20211120190000 +0000" channel="GolTV.us"><title lang="es">Fútbol Uruguayo Primera División</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="GolTV.us"><title lang="es">Fútbol Brasileirao</title></programme>
+<programme start="20211120210000 +0000" stop="20211120230000 +0000" channel="GolTV.us"><title lang="es">Fútbol Brasileirao</title></programme>
+<programme start="20211120230000 +0000" stop="20211121020000 +0000" channel="GolTV.us"><title lang="es">Fútbol Brasileirao</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="HistoryenEspanol.us"><title lang="es">Hombres de montaña</title></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="HistoryenEspanol.us"><title lang="es">Amos del pantano</title></programme>
 <programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
@@ -369,32 +340,33 @@
 <programme start="20211119210000 +0000" stop="20211119220000 +0000" channel="HistoryenEspanol.us"><title lang="es">El secreto de Skinwalker</title></programme>
 <programme start="20211119220000 +0000" stop="20211119230000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
 <programme start="20211119230000 +0000" stop="20211120000000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="HITN.us"><title lang="es">Safaris de ensueño</title></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="HITN.us"><title lang="es">Diagnóstico desconocido</title></programme>
-<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
-<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
-<programme start="20211118030000 +0000" stop="20211118050000 +0000" channel="HITN.us"><title lang="es">Vida y salud</title></programme>
-<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="HITN.us"><title lang="es">Signos vitales con Dr. Sanjay Gupta</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="HITN.us"><title lang="es">My Yoga Works</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="HITN.us"><title lang="es">EuroNews</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="HITN.us"><title lang="es">Trabajos salvajes</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="HITN.us"><title lang="es">Pequeños gigantes de la naturaleza</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="HITN.us"><title lang="es">Tu planeta</title></programme>
-<programme start="20211118100000 +0000" stop="20211118120000 +0000" channel="HITN.us"><title lang="es">Vida y salud</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="HITN.us"><title lang="es">Signos vitales con Dr. Sanjay Gupta</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="HITN.us"><title lang="es">Padres e hijos</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="HITN.us"><title lang="es">Signos vitales con Dr. Sanjay Gupta</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="HITN.us"><title lang="es">Padres e hijos</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="HITN.us"><title lang="es">Animal Files</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="HITN.us"><title lang="es">Vida Extrema</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="HITN.us"><title lang="es">Al descubierto</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="HITN.us"><title lang="es">Al descubierto</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="HITN.us"><title lang="es">Zona de peligro</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="HITN.us"><title lang="es">Al descubierto</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="HistoryenEspanol.us"><title lang="es">El secreto de Skinwalker</title></programme>
+<programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
+<programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="HistoryenEspanol.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="HistoryenEspanol.us"><title lang="es">¡Mantenga su Sistema Inmune Fuerte con MagBlue!</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="HistoryenEspanol.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="HistoryenEspanol.us"><title lang="es">Programa Pagado</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
+<programme start="20211120080000 +0000" stop="20211120090000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="HistoryenEspanol.us"><title lang="es">El secreto de Skinwalker</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="HistoryenEspanol.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="HistoryenEspanol.us"><title lang="es">Extraterrestres de la Antiguedad</title></programme>
+<programme start="20211120150000 +0000" stop="20211120160000 +0000" channel="HistoryenEspanol.us"><title lang="es">El secreto de Skinwalker</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="HistoryenEspanol.us"><title lang="es">Cazadores de tesoros</title></programme>
+<programme start="20211120170000 +0000" stop="20211120180000 +0000" channel="HistoryenEspanol.us"><title lang="es">Desafío sobre fuego</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="HistoryenEspanol.us"><title lang="es">El oro perdido de la segunda guerra mundial</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="HistoryenEspanol.us"><title lang="es">Secretos de Estado: Edición especial</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="HistoryenEspanol.us"><title lang="es">Amos del pantano</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="HistoryenEspanol.us"><title lang="es">El oro perdido de la segunda guerra mundial</title></programme>
+<programme start="20211120230000 +0000" stop="20211121010000 +0000" channel="HistoryenEspanol.us"><title lang="es">Secretos de Estado: Edición especial</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="HITN.us"><title lang="es">Al descubierto</title></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="HITN.us"><title lang="es">Zona de peligro</title></programme>
 <programme start="20211119020000 +0000" stop="20211119023000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
@@ -421,52 +393,33 @@
 <programme start="20211119210000 +0000" stop="20211119220000 +0000" channel="HITN.us"><title lang="es">Felinos</title></programme>
 <programme start="20211119220000 +0000" stop="20211119230000 +0000" channel="HITN.us"><title lang="es">Maravillas del mundo</title></programme>
 <programme start="20211119230000 +0000" stop="20211120000000 +0000" channel="HITN.us"><title lang="es">Historia de la vida</title></programme>
-<programme start="20211118000000 +0000" stop="20211118003000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Un jardín a tu medida</title></programme>
-<programme start="20211118003000 +0000" stop="20211118010000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Remodela sin obra</title></programme>
-<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
-<programme start="20211118013000 +0000" stop="20211118020000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Para cada ocasión</title></programme>
-<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Cosmética natural</title></programme>
-<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Viste tu Mesa</title></programme>
-<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Redecora con Raquel</title></programme>
-<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco de autor</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Remodela sin obra</title></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
-<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Renueva tu armario</title></programme>
-<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Mis hoteles favoritos</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Customiza tu ropa</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Para cada ocasión</title></programme>
-<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
-<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco de autor</title></programme>
-<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Renueva tu armario</title></programme>
-<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Mis hoteles favoritos</title></programme>
-<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Viste tu Mesa</title></programme>
-<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Redecora con Raquel</title></programme>
-<programme start="20211118100000 +0000" stop="20211118103000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Básicos Deco</title></programme>
-<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Con el toque de Chus</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Decoración creativa</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco de autor</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Para cada ocasión</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Acacias 38</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Customiza tu ropa</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Mis hoteles favoritos</title></programme>
-<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
-<programme start="20211118153000 +0000" stop="20211118160000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Básicos Deco</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Aprende a Maquillarte</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Con el toque de Chus</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Decoración creativa</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Acacias 38</title></programme>
-<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Viste tu Mesa</title></programme>
-<programme start="20211118193000 +0000" stop="20211118200000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco de autor</title></programme>
-<programme start="20211118200000 +0000" stop="20211118203000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Customiza tu ropa</title></programme>
-<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Decoración creativa</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Redecora con Raquel</title></programme>
-<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
-<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Mis hoteles favoritos</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Aprende a Maquillarte</title></programme>
-<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Con el toque de Chus</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Customiza tu ropa</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="HITN.us"><title lang="es">Felinos</title></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="HITN.us"><title lang="es">Maravillas del mundo</title></programme>
+<programme start="20211120020000 +0000" stop="20211120023000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
+<programme start="20211120023000 +0000" stop="20211120030000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
+<programme start="20211120030000 +0000" stop="20211120050000 +0000" channel="HITN.us"><title lang="es">Vida y salud</title></programme>
+<programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="HITN.us"><title lang="es">Volando por Europa</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="HITN.us"><title lang="es">My Yoga Works</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="HITN.us"><title lang="es">EuroNews</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="HITN.us"><title lang="es">Dr. Brown: Veterinario sin fronteras</title></programme>
+<programme start="20211120080000 +0000" stop="20211120090000 +0000" channel="HITN.us"><title lang="es">Doctor en casa</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="HITN.us"><title lang="es">Habla Nuestro Cuerpo</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="HITN.us"><title lang="es">Doctor en casa</title></programme>
+<programme start="20211120110000 +0000" stop="20211120120000 +0000" channel="HITN.us"><title lang="es">Signos vitales con Dr. Sanjay Gupta</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="HITN.us"><title lang="es">Padres e hijos</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="HITN.us"><title lang="es">Centro médico</title></programme>
+<programme start="20211120150000 +0000" stop="20211120160000 +0000" channel="HITN.us"><title lang="es">Cambio ambiental</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="HITN.us"><title lang="es">Arkeo</title></programme>
+<programme start="20211120170000 +0000" stop="20211120180000 +0000" channel="HITN.us"><title lang="es">Pequeños huérfanos</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="HITN.us"><title lang="es">Maravillas del mundo</title></programme>
+<programme start="20211120190000 +0000" stop="20211120200000 +0000" channel="HITN.us"><title lang="es">Diagnóstico desconocido</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="HITN.us"><title lang="es">Los Nuevos Detectives</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="HITN.us"><title lang="es">Zona de peligro</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="HITN.us"><title lang="es">Cazadores de tormentas</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="HITN.us"><title lang="es">Los Nuevos Detectives</title></programme>
 <programme start="20211119000000 +0000" stop="20211119003000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
 <programme start="20211119003000 +0000" stop="20211119010000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Básicos Deco</title></programme>
 <programme start="20211119010000 +0000" stop="20211119013000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
@@ -513,35 +466,52 @@
 <programme start="20211119223000 +0000" stop="20211119230000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Aprende a Maquillarte</title></programme>
 <programme start="20211119230000 +0000" stop="20211119233000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Con el toque de Chus</title></programme>
 <programme start="20211119233000 +0000" stop="20211120000000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Customiza tu ropa</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
-<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
-<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
-<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
-<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="NBCUniversoEste.us"><title lang="es">Larrymania</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="NBCUniversoEste.us"><title lang="es">The Riveras</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="NBCUniversoEste.us"><title lang="es">El es mi hijo</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="NBCUniversoEste.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="NBCUniversoEste.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="NBCUniversoEste.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="NBCUniversoEste.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="NBCUniversoEste.us"><title lang="es">Lo mejor de ti con Chiquis</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="NBCUniversoEste.us"><title lang="es">Lo mejor de ti con Chiquis</title></programme>
+<programme start="20211120000000 +0000" stop="20211120003000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
+<programme start="20211120003000 +0000" stop="20211120010000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Remodela sin obra</title></programme>
+<programme start="20211120010000 +0000" stop="20211120013000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
+<programme start="20211120013000 +0000" stop="20211120020000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Para cada ocasión</title></programme>
+<programme start="20211120020000 +0000" stop="20211120023000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Cosmética natural</title></programme>
+<programme start="20211120023000 +0000" stop="20211120030000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Viste tu Mesa</title></programme>
+<programme start="20211120030000 +0000" stop="20211120033000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Redecora con Raquel</title></programme>
+<programme start="20211120033000 +0000" stop="20211120040000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco Hogar</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Remodela sin obra</title></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco de autor</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Remodela sin obra</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Decoración creativa</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
+<programme start="20211120070000 +0000" stop="20211120073000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Mis hoteles favoritos</title></programme>
+<programme start="20211120073000 +0000" stop="20211120080000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Customiza tu ropa</title></programme>
+<programme start="20211120080000 +0000" stop="20211120083000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Look de Fiesta</title></programme>
+<programme start="20211120083000 +0000" stop="20211120090000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Peinadas y divinas</title></programme>
+<programme start="20211120090000 +0000" stop="20211120093000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Redecora con Raquel</title></programme>
+<programme start="20211120093000 +0000" stop="20211120100000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Viste tu Mesa</title></programme>
+<programme start="20211120100000 +0000" stop="20211120103000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">De compras en</title></programme>
+<programme start="20211120103000 +0000" stop="20211120110000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Con el toque de Chus</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Mis hoteles favoritos</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Para cada ocasión</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Minipisos asombrosos</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Decora con plantas</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco de autor</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Aprende a Maquillarte</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Remodela sin obra</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Decoración creativa</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Acacias 38</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Con el toque de Chus</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Minipisos asombrosos</title></programme>
+<programme start="20211120180000 +0000" stop="20211120183000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Customiza tu ropa</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Look de Fiesta</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Deco de autor</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Para cada ocasión</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Decora con plantas</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">La recicladora de muebles</title></programme>
+<programme start="20211120210000 +0000" stop="20211120213000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Paisajes con firma</title></programme>
+<programme start="20211120213000 +0000" stop="20211120220000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Aprende a Maquillarte</title></programme>
+<programme start="20211120220000 +0000" stop="20211120223000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Viste tu Mesa</title></programme>
+<programme start="20211120223000 +0000" stop="20211120230000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Con el toque de Chus</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="MasChicEstadosUnidos.us"><title lang="es">Acacias 38</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
 <programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
@@ -572,22 +542,37 @@
 <programme start="20211119210000 +0000" stop="20211119220000 +0000" channel="NBCUniversoEste.us"><title lang="es">El socio</title></programme>
 <programme start="20211119220000 +0000" stop="20211119230000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
 <programme start="20211119230000 +0000" stop="20211120000000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
-<programme start="20211118000000 +0000" stop="20211118030000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Football</title></programme>
-<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Total Access</title></programme>
-<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Fantasy Live</title></programme>
-<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Total Access</title></programme>
-<programme start="20211118060000 +0000" stop="20211118090000 +0000" channel="NFLNetwork.us"><title lang="es">Good morning football</title></programme>
-<programme start="20211118090000 +0000" stop="20211118120000 +0000" channel="NFLNetwork.us"><title lang="es">Good morning football</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Now</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Now</title></programme>
-<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="NFLNetwork.us"><title lang="es">TNF first look</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Fantasy Live</title></programme>
-<programme start="20211118170000 +0000" stop="20211118183000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Gameday Kickoff</title></programme>
-<programme start="20211118183000 +0000" stop="20211118193000 +0000" channel="NFLNetwork.us"><title lang="es">Fox NFL Thursday</title></programme>
-<programme start="20211118193000 +0000" stop="20211118223000 +0000" channel="NFLNetwork.us"><title lang="es">ThurSDay night footballEn Vivo</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="NFLNetwork.us"><title lang="es">TNF Postgame Show</title></programme>
-<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="NFLNetwork.us"><title lang="es">TNF Postgame Show</title></programme>
-<programme start="20211118233000 +0000" stop="20211119003000 +0000" channel="NFLNetwork.us"><title lang="es">TNF Postgame Show</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="NBCUniversoEste.us"><title lang="es">El socio</title></programme>
+<programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="NBCUniversoEste.us"><title lang="es">12 corazones</title></programme>
+<programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="NBCUniversoEste.us"><title lang="es">Acumuladores compulsivos</title></programme>
+<programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="NBCUniversoEste.us"><title lang="es">Acumuladores compulsivos</title></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120060000 +0000" stop="20211120062500 +0000" channel="NBCUniversoEste.us"><title lang="es">La Liga Premier Extra</title></programme>
+<programme start="20211120062500 +0000" stop="20211120083000 +0000" channel="NBCUniversoEste.us"><title lang="es">Leicester vs. Chelsea</title></programme>
+<programme start="20211120083000 +0000" stop="20211120085500 +0000" channel="NBCUniversoEste.us"><title lang="es">La Liga Premier Extra</title></programme>
+<programme start="20211120085500 +0000" stop="20211120110000 +0000" channel="NBCUniversoEste.us"><title lang="es">Wolverhampton vs. West Ham United</title></programme>
+<programme start="20211120110000 +0000" stop="20211120112500 +0000" channel="NBCUniversoEste.us"><title lang="es">La Liga Premier Extra</title></programme>
+<programme start="20211120112500 +0000" stop="20211120133000 +0000" channel="NBCUniversoEste.us"><title lang="es">Liverpool vs. Arsenal</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="NBCUniversoEste.us"><title lang="es">El Precio de la Historia</title><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/el_precio_de_la_historia.jpg"/></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="NBCUniversoEste.us"><title lang="es">El socio</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="NBCUniversoEste.us"><title lang="es">Seguridad de Frontera: Australia</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120180000 +0000" stop="20211120183000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más? Texas</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más? Texas</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más? Texas</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más? Texas</title></programme>
+<programme start="20211120210000 +0000" stop="20211120213000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120213000 +0000" stop="20211120220000 +0000" channel="NBCUniversoEste.us"><title lang="es">¿Quién da más?</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="NBCUniversoEste.us"><title lang="es">Caso Cerrado</title></programme>
 <programme start="20211118233000 +0000" stop="20211119003000 +0000" channel="NFLNetwork.us"><title lang="es">TNF Postgame Show</title></programme>
 <programme start="20211119003000 +0000" stop="20211119030000 +0000" channel="NFLNetwork.us"><title lang="es">ThurSDay night football</title></programme>
 <programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="NFLNetwork.us"><title lang="es">Sound FX</title></programme>
@@ -604,30 +589,17 @@
 <programme start="20211119200000 +0000" stop="20211119210000 +0000" channel="NFLNetwork.us"><title lang="es">A Football Life Bruce Smith</title></programme>
 <programme start="20211119210000 +0000" stop="20211119230000 +0000" channel="NFLNetwork.us"><title lang="es">A Football Life Tony Gonzalez</title></programme>
 <programme start="20211119230000 +0000" stop="20211120000000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Fantasy Live</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Fina Estampa</title></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
-<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
-<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
-<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lazos de sangre</title></programme>
-<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Melek</title></programme>
-<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Pedro, el escamoso</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Fina Estampa</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lazos de sangre</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Melek</title></programme>
-<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Pedro, el escamoso</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Fina Estampa</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lazos de sangre</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Melek</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lazos de sangre</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
+<programme start="20211120000000 +0000" stop="20211120030000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Football</title></programme>
+<programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Total Access</title></programme>
+<programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Fantasy Live</title></programme>
+<programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Total Access</title></programme>
+<programme start="20211120060000 +0000" stop="20211120080000 +0000" channel="NFLNetwork.us"><title lang="es">Around the NFL</title></programme>
+<programme start="20211120080000 +0000" stop="20211120110000 +0000" channel="NFLNetwork.us"><title lang="es">Good Morning Football Weekend</title></programme>
+<programme start="20211120110000 +0000" stop="20211120140000 +0000" channel="NFLNetwork.us"><title lang="es">Good Morning Football Weekend</title></programme>
+<programme start="20211120140000 +0000" stop="20211120170000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Football</title></programme>
+<programme start="20211120170000 +0000" stop="20211120200000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Football</title></programme>
+<programme start="20211120200000 +0000" stop="20211120230000 +0000" channel="NFLNetwork.us"><title lang="es">NFL Football</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="NFLNetwork.us"><title lang="es">NFL GameDay View</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Fina Estampa</title></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
 <programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
@@ -636,13 +608,13 @@
 <programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Melek</title></programme>
 <programme start="20211119060000 +0000" stop="20211119070000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
 <programme start="20211119070000 +0000" stop="20211119080000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
-<programme start="20211119080000 +0000" stop="20211119090000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Pedro, el escamoso</title></programme>
+<programme start="20211119080000 +0000" stop="20211119090000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Pedro el escamoso</title></programme>
 <programme start="20211119090000 +0000" stop="20211119100000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Fina Estampa</title></programme>
 <programme start="20211119100000 +0000" stop="20211119110000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
 <programme start="20211119110000 +0000" stop="20211119120000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lazos de sangre</title></programme>
 <programme start="20211119120000 +0000" stop="20211119130000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
 <programme start="20211119130000 +0000" stop="20211119140000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Melek</title></programme>
-<programme start="20211119140000 +0000" stop="20211119150000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Pedro, el escamoso</title></programme>
+<programme start="20211119140000 +0000" stop="20211119150000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Pedro el escamoso</title></programme>
 <programme start="20211119150000 +0000" stop="20211119160000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
 <programme start="20211119160000 +0000" stop="20211119170000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Fina Estampa</title></programme>
 <programme start="20211119170000 +0000" stop="20211119180000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
@@ -652,29 +624,27 @@
 <programme start="20211119210000 +0000" stop="20211119220000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lazos de sangre</title></programme>
 <programme start="20211119220000 +0000" stop="20211119230000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
 <programme start="20211119230000 +0000" stop="20211120000000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Apertura 2021: Mazatlán vs. Guadalajara</title></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
-<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Apertura 2021: América vs. Monterrey</title></programme>
-<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211118040000 +0000" stop="20211118050000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
-<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
-<programme start="20211118060000 +0000" stop="20211118070000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Futbol club</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Misión Europa</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Futbol club</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Apertura 2021: América vs. Monterrey</title></programme>
-<programme start="20211118160000 +0000" stop="20211118165500 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Misión Europa</title></programme>
-<programme start="20211118165500 +0000" stop="20211118190000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Tepatitlán vs. Universidad de Guadalajara</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Apertura 2021: Mazatlán vs. Guadalajara</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Fina Estampa</title></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">No sueltes mi mano</title></programme>
+<programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
+<programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">La novia de Estambul</title></programme>
+<programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lazos de sangre</title></programme>
+<programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Melek</title></programme>
+<programme start="20211120060000 +0000" stop="20211120070000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Un amor duradero</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lo que callamos las mujeres</title><desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png"/></programme>
+<programme start="20211120080000 +0000" stop="20211120090000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lo que callamos las mujeres</title><desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png"/></programme>
+<programme start="20211120090000 +0000" stop="20211120110000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">El Fantasma del Faro</title></programme>
+<programme start="20211120110000 +0000" stop="20211120120000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lo que callamos las mujeres</title><desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png"/></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lo que callamos las mujeres</title><desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png"/></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lo que callamos las mujeres</title><desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png"/></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lo que callamos las mujeres</title><desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png"/></programme>
+<programme start="20211120150000 +0000" stop="20211120160000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Lo que callamos las mujeres</title><desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.</desc><icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/lo_que_callamos_las_mujeres.png"/></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Decisiones</title><desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png"/></programme>
+<programme start="20211120170000 +0000" stop="20211120190000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">El amor golpea dos veces</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Una estrella para Navidad</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Decisiones</title><desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc><icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png"/></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Infieles</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="PasionesEstadosUnidos.us"><title lang="es">Infieles</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Apertura 2021: América vs. Monterrey</title></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
 <programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Apertura 2021: Mazatlán vs. Guadalajara</title></programme>
@@ -698,54 +668,28 @@
 <programme start="20211119210000 +0000" stop="20211119220000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
 <programme start="20211119220000 +0000" stop="20211119230000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
 <programme start="20211119230000 +0000" stop="20211120003000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Combate global</title></programme>
-<programme start="20211118000000 +0000" stop="20211118003000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118003000 +0000" stop="20211118010000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118010000 +0000" stop="20211118013000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
-<programme start="20211118013000 +0000" stop="20211118020000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
-<programme start="20211118020000 +0000" stop="20211118023000 +0000" channel="VePlusPanregional.ve"><title lang="es">Arroz con leche</title></programme>
-<programme start="20211118023000 +0000" stop="20211118030000 +0000" channel="VePlusPanregional.ve"><title lang="es">Arroz con leche</title></programme>
-<programme start="20211118030000 +0000" stop="20211118033000 +0000" channel="VePlusPanregional.ve"><title lang="es">El árbol de Gabriel</title></programme>
-<programme start="20211118033000 +0000" stop="20211118040000 +0000" channel="VePlusPanregional.ve"><title lang="es">El árbol de Gabriel</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118050000 +0000" stop="20211118053000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
-<programme start="20211118053000 +0000" stop="20211118060000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="VePlusPanregional.ve"><title lang="es">Qué locura</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="VePlusPanregional.ve"><title lang="es">Qué locura</title></programme>
-<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
-<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
-<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="VePlusPanregional.ve"><title lang="es">Y los astros serán propicios</title></programme>
-<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="VePlusPanregional.ve"><title lang="es">Y los astros serán propicios</title></programme>
-<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118100000 +0000" stop="20211118103000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="VePlusPanregional.ve"><title lang="es">Dra. Nancy</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="VePlusPanregional.ve"><title lang="es">Dra. Nancy</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="VePlusPanregional.ve"><title lang="es">Rosario</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="VePlusPanregional.ve"><title lang="es">Rosario</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="VePlusPanregional.ve"><title lang="es">Arroz con leche</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="VePlusPanregional.ve"><title lang="es">Arroz con leche</title></programme>
-<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="VePlusPanregional.ve"><title lang="es">El árbol de Gabriel</title></programme>
-<programme start="20211118153000 +0000" stop="20211118160000 +0000" channel="VePlusPanregional.ve"><title lang="es">El árbol de Gabriel</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118193000 +0000" stop="20211118200000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
-<programme start="20211118200000 +0000" stop="20211118203000 +0000" channel="VePlusPanregional.ve"><title lang="es">Dra. Nancy</title></programme>
-<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="VePlusPanregional.ve"><title lang="es">Dra. Nancy</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
-<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
-<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211119230000 +0000" stop="20211120003000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Combate global</title></programme>
+<programme start="20211120003000 +0000" stop="20211120010000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">UEFA Champions League Magazine</title></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
+<programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Somos LMX</title></programme>
+<programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
+<programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Somos LMX</title></programme>
+<programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
+<programme start="20211120060000 +0000" stop="20211120070000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Misión Europa</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Somos LMX</title></programme>
+<programme start="20211120080000 +0000" stop="20211120090000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Misión Europa</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Selección de Estados Unidos en 60</title></programme>
+<programme start="20211120110000 +0000" stop="20211120120000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Línea de cuatro</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Misión Europa</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Fútbol Central</title></programme>
+<programme start="20211120133000 +0000" stop="20211120153000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Philadelphia Union vs. New York Red Bulls</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Fútbol Central</title></programme>
+<programme start="20211120160000 +0000" stop="20211120180000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Sporting Kansas City vs. Vancouver Whitecaps FC</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Fútbol Central</title></programme>
+<programme start="20211120190000 +0000" stop="20211120210000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Fútbol Mexicano Primera División</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Contacto Deportivo</title></programme>
+<programme start="20211120220000 +0000" stop="20211121000000 +0000" channel="TUDNEstadosUnidos.mx"><title lang="es">Fútbol Mexicano Primera División</title></programme>
 <programme start="20211119000000 +0000" stop="20211119003000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
 <programme start="20211119003000 +0000" stop="20211119010000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
 <programme start="20211119010000 +0000" stop="20211119013000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
@@ -758,8 +702,8 @@
 <programme start="20211119043000 +0000" stop="20211119050000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
 <programme start="20211119050000 +0000" stop="20211119053000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
 <programme start="20211119053000 +0000" stop="20211119060000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
-<programme start="20211119060000 +0000" stop="20211119063000 +0000" channel="VePlusPanregional.ve"><title lang="es">Qué locura</title></programme>
-<programme start="20211119063000 +0000" stop="20211119070000 +0000" channel="VePlusPanregional.ve"><title lang="es">Qué locura</title></programme>
+<programme start="20211119060000 +0000" stop="20211119063000 +0000" channel="VePlusPanregional.ve"><title lang="es">¡Qué Locura!</title></programme>
+<programme start="20211119063000 +0000" stop="20211119070000 +0000" channel="VePlusPanregional.ve"><title lang="es">¡Qué Locura!</title></programme>
 <programme start="20211119070000 +0000" stop="20211119073000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
 <programme start="20211119073000 +0000" stop="20211119080000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
 <programme start="20211119080000 +0000" stop="20211119083000 +0000" channel="VePlusPanregional.ve"><title lang="es">Y los astros serán propicios</title></programme>
@@ -794,43 +738,54 @@
 <programme start="20211119223000 +0000" stop="20211119230000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
 <programme start="20211119230000 +0000" stop="20211119233000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
 <programme start="20211119233000 +0000" stop="20211120000000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
-<programme start="20211118000000 +0000" stop="20211118010000 +0000" channel="Vme.us"><title lang="es">Resurrección: Ertugrul</title></programme>
-<programme start="20211118010000 +0000" stop="20211118020000 +0000" channel="Vme.us"><title lang="es">Alerta Cobra</title></programme>
-<programme start="20211118020000 +0000" stop="20211118030000 +0000" channel="Vme.us"><title lang="es">Planeta feroz</title></programme>
-<programme start="20211118030000 +0000" stop="20211118040000 +0000" channel="Vme.us"><title lang="es">Planeta feroz</title></programme>
-<programme start="20211118040000 +0000" stop="20211118043000 +0000" channel="Vme.us"><title lang="es">Mi Mascota</title></programme>
-<programme start="20211118043000 +0000" stop="20211118050000 +0000" channel="Vme.us"><title lang="es">Vivir vale la pena</title></programme>
-<programme start="20211118050000 +0000" stop="20211118060000 +0000" channel="Vme.us"><title lang="es">Aire Yoga</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="Vme.us"><title lang="es">En forma con la mamá fitness</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="Vme.us"><title lang="es">Hola Maytte</title></programme>
-<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="Vme.us"><title lang="es">Barney y sus amigos</title></programme>
-<programme start="20211118073000 +0000" stop="20211118074500 +0000" channel="Vme.us"><title lang="es">El Mundo de Rosie</title></programme>
-<programme start="20211118074500 +0000" stop="20211118080000 +0000" channel="Vme.us"><title lang="es">Aventuras en Duckport</title></programme>
-<programme start="20211118080000 +0000" stop="20211118081500 +0000" channel="Vme.us"><title lang="es">Exploradores Espaciales</title></programme>
-<programme start="20211118081500 +0000" stop="20211118090000 +0000" channel="Vme.us"><title lang="es">Pororo</title></programme>
-<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="Vme.us"><title lang="es">Hola Maytte</title></programme>
-<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="Vme.us"><title lang="es">Tu Bebé</title></programme>
-<programme start="20211118100000 +0000" stop="20211118103000 +0000" channel="Vme.us"><title lang="es">Medicina TV.com salud</title></programme>
-<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="Vme.us"><title lang="es">Saludables</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="Vme.us"><title lang="es">Sal y Pimienta</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="Vme.us"><title lang="es">El gusto es mío</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="Vme.us"><title lang="es">La cocina de Juan Luis</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="Vme.us"><title lang="es">Todo sobre el arroz</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="Vme.us"><title lang="es">La cocina de Mikel Bermejo</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="Vme.us"><title lang="es">Arkeo</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="Vme.us"><title lang="es">Tu mundo fuera de casa</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="Vme.us"><title lang="es">Un Mundo Maravilloso</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="Vme.us"><title lang="es">Detectives: Casos de asesinatos</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="Vme.us"><title lang="es">Carrera Por Sobrevivir</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="Vme.us"><title lang="es">City Zoo</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="Vme.us"><title lang="es">Animalandia</title></programme>
-<programme start="20211118173000 +0000" stop="20211118183000 +0000" channel="Vme.us"><title lang="es">Planeta feroz</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="Vme.us"><title lang="es">Vivir vale la pena</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="Vme.us"><title lang="es">Urgencia cero</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="Vme.us"><title lang="es">Doc Martin</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="Vme.us"><title lang="es">Resurrección: Ertugrul</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="Vme.us"><title lang="es">Urgencia cero</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="Vme.us"><title lang="es">Doc Martin</title></programme>
+<programme start="20211120000000 +0000" stop="20211120003000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120003000 +0000" stop="20211120010000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120010000 +0000" stop="20211120013000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
+<programme start="20211120013000 +0000" stop="20211120020000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
+<programme start="20211120020000 +0000" stop="20211120023000 +0000" channel="VePlusPanregional.ve"><title lang="es">Arroz con leche</title></programme>
+<programme start="20211120023000 +0000" stop="20211120030000 +0000" channel="VePlusPanregional.ve"><title lang="es">Arroz con leche</title></programme>
+<programme start="20211120030000 +0000" stop="20211120033000 +0000" channel="VePlusPanregional.ve"><title lang="es">El árbol de Gabriel</title></programme>
+<programme start="20211120033000 +0000" stop="20211120040000 +0000" channel="VePlusPanregional.ve"><title lang="es">El árbol de Gabriel</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="VePlusPanregional.ve"><title lang="es">Guerra de los sexos</title></programme>
+<programme start="20211120053000 +0000" stop="20211120060000 +0000" channel="VePlusPanregional.ve"><title lang="es">Guerra de los sexos</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="VePlusPanregional.ve"><title lang="es">Guerra de los sexos</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="VePlusPanregional.ve"><title lang="es">Guerra de los sexos</title></programme>
+<programme start="20211120070000 +0000" stop="20211120073000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
+<programme start="20211120073000 +0000" stop="20211120080000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
+<programme start="20211120080000 +0000" stop="20211120083000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120083000 +0000" stop="20211120090000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120090000 +0000" stop="20211120093000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
+<programme start="20211120093000 +0000" stop="20211120100000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
+<programme start="20211120100000 +0000" stop="20211120103000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
+<programme start="20211120103000 +0000" stop="20211120110000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="VePlusPanregional.ve"><title lang="es">Casos de Familia</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="VePlusPanregional.ve"><title lang="es">El chateo</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
+<programme start="20211120180000 +0000" stop="20211120183000 +0000" channel="VePlusPanregional.ve"><title lang="es">Mensaje directo</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="VePlusPanregional.ve"><title lang="es">Mensaje directo</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="VePlusPanregional.ve"><title lang="es">Front Row</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="VePlusPanregional.ve"><title lang="es">Más de ti</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="VePlusPanregional.ve"><title lang="es">¡Qué Locura!</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="VePlusPanregional.ve"><title lang="es">¡Qué Locura!</title></programme>
+<programme start="20211120210000 +0000" stop="20211120213000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
+<programme start="20211120213000 +0000" stop="20211120220000 +0000" channel="VePlusPanregional.ve"><title lang="es">A que te ríes</title></programme>
+<programme start="20211120220000 +0000" stop="20211120223000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
+<programme start="20211120223000 +0000" stop="20211120230000 +0000" channel="VePlusPanregional.ve"><title lang="es">Palabra final</title></programme>
+<programme start="20211120230000 +0000" stop="20211120233000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
+<programme start="20211120233000 +0000" stop="20211121000000 +0000" channel="VePlusPanregional.ve"><title lang="es">¿Quién tiene la razón?</title></programme>
 <programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="Vme.us"><title lang="es">Resurrección: Ertugrul</title></programme>
 <programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="Vme.us"><title lang="es">Urgencia cero</title></programme>
 <programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="Vme.us"><title lang="es">Planeta feroz</title></programme>
@@ -868,4 +823,40 @@
 <programme start="20211119210000 +0000" stop="20211119220000 +0000" channel="Vme.us"><title lang="es">Historias de ultratumba</title></programme>
 <programme start="20211119220000 +0000" stop="20211119230000 +0000" channel="Vme.us"><title lang="es">Alerta Cobra</title></programme>
 <programme start="20211119230000 +0000" stop="20211120000000 +0000" channel="Vme.us"><title lang="es">Los Nuevos Detectives</title></programme>
+<programme start="20211120000000 +0000" stop="20211120010000 +0000" channel="Vme.us"><title lang="es">Historias de ultratumba</title></programme>
+<programme start="20211120010000 +0000" stop="20211120020000 +0000" channel="Vme.us"><title lang="es">Alerta Cobra</title></programme>
+<programme start="20211120020000 +0000" stop="20211120030000 +0000" channel="Vme.us"><title lang="es">Planeta feroz</title></programme>
+<programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="Vme.us"><title lang="es">Planeta feroz</title></programme>
+<programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="Vme.us"><title lang="es">Mi Mascota</title></programme>
+<programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="Vme.us"><title lang="es">Vivir vale la pena</title></programme>
+<programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="Vme.us"><title lang="es">Aire Yoga</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="Vme.us"><title lang="es">En forma con la mamá fitness</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="Vme.us"><title lang="es">Hola Maytte</title></programme>
+<programme start="20211120070000 +0000" stop="20211120073000 +0000" channel="Vme.us"><title lang="es">Barney y sus amigos</title></programme>
+<programme start="20211120073000 +0000" stop="20211120074500 +0000" channel="Vme.us"><title lang="es">El Mundo de Rosie</title></programme>
+<programme start="20211120074500 +0000" stop="20211120080000 +0000" channel="Vme.us"><title lang="es">Aventuras en Duckport</title></programme>
+<programme start="20211120080000 +0000" stop="20211120081500 +0000" channel="Vme.us"><title lang="es">Exploradores Espaciales</title></programme>
+<programme start="20211120081500 +0000" stop="20211120083000 +0000" channel="Vme.us"><title lang="es">Pororo</title></programme>
+<programme start="20211120083000 +0000" stop="20211120093000 +0000" channel="Vme.us"><title lang="es">Aire Yoga</title></programme>
+<programme start="20211120093000 +0000" stop="20211120100000 +0000" channel="Vme.us"><title lang="es">Hablemos de Salud y Belleza</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="Vme.us"><title lang="es">Doctor en casa</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="Vme.us"><title lang="es">Todo sobre el arroz</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="Vme.us"><title lang="es">La cocina del garabato</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="Vme.us"><title lang="es">Mi Mascota</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="Vme.us"><title lang="es">City Zoo</title></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="Vme.us"><title lang="es">Planeta feroz</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="Vme.us"><title lang="es">Collar al rescate</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="Vme.us"><title lang="es">Dr. Brown: Veterinario sin fronteras</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="Vme.us"><title lang="es">América Ahora</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="Vme.us"><title lang="es">MotorWeek</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="Vme.us"><title lang="es">Garage de perezosos</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="Vme.us"><title lang="es">Autos clásicos o modernos</title></programme>
+<programme start="20211120170000 +0000" stop="20211120180000 +0000" channel="Vme.us"><title lang="es">El caso de mi vida</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="Vme.us"><title lang="es">Detectives: Casos de asesinatos</title></programme>
+<programme start="20211120190000 +0000" stop="20211120200000 +0000" channel="Vme.us"><title lang="es">Historias de ultratumba</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="Vme.us"><title lang="es">Resurrección: Ertugrul</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="Vme.us"><title lang="es">Resurrección: Ertugrul</title></programme>
+<programme start="20211120220000 +0000" stop="20211120223000 +0000" channel="Vme.us"><title lang="es">Garage de perezosos</title></programme>
+<programme start="20211120223000 +0000" stop="20211120230000 +0000" channel="Vme.us"><title lang="es">Autos clásicos o modernos</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="Vme.us"><title lang="es">El caso de mi vida</title></programme>
 </tv>

@@ -1,57 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv>
-<channel id="Cablenoticias.co"><display-name>Cablenoticias</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_cablenoticias_m.png"/></channel>
-<channel id="CanalAntigua.gt"><display-name>Canal Antigua</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_canal-antigua_m.png"/></channel>
-<channel id="CartoonNetworkLatinAmerica.us"><display-name>Cartoon Network Latin America</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_cartoon-network_m.png"/></channel>
-<channel id="CinecanalEste.us"><display-name>Cinecanal Este</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_cinecanal_m.png"/></channel>
-<channel id="DiscoveryHomeHealthLatinoamerica.us"><display-name>Discovery Home &amp; Health Latinoamérica</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_discovery-home-and-health_m.png"/></channel>
-<channel id="DistritoComedia.mx"><display-name>Distrito Comedia</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_distrito-comedia_m.png"/></channel>
-<channel id="Guatevision.gt"><display-name>Guatevisión</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_guatevision_m.png"/></channel>
-<channel id="MTVLatino.us"><display-name>MTV Latino</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_m-tv_m.png"/></channel>
-<channel id="MultiPremier.mx"><display-name>MultiPremier</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_multipremier_m.png"/></channel>
-<channel id="NationalGeographicSur.us"><display-name>National Geographic Sur</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_national-geographic_m.png"/></channel>
-<channel id="SonyChannelSur.us"><display-name>Sony Channel Sur</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_sony_m.png"/></channel>
-<channel id="StarLifeSur.us"><display-name>Star Life Sur</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_fox-life_m.png"/></channel>
-<channel id="TDNMexico.mx"><display-name>TDN México</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_tdn_m.png"/></channel>
-<channel id="TelemicroInternacional.do"><display-name>Telemicro Internacional</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_telemicro_m.png"/></channel>
-<channel id="Televen.ve"><display-name>Televen</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_televen_m.png"/></channel>
-<channel id="TNTAmericaLatina.us"><display-name>TNT América Latina</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_tnt_m.png"/></channel>
-<channel id="TVAgro.co"><display-name>TV Agro</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_tv-agro_m.png"/></channel>
-<channel id="XTimeChannel.us"><display-name>XTime Channel</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_x-time_m.png"/></channel>
-<programme start="20211118053000 +0000" stop="20211118063000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
-<programme start="20211118063000 +0000" stop="20211118073000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
-<programme start="20211118073000 +0000" stop="20211118083000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
-<programme start="20211118083000 +0000" stop="20211118093000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
-<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="Cablenoticias.co"><title lang="es">Testigo directo</title></programme>
-<programme start="20211118100000 +0000" stop="20211118103000 +0000" channel="Cablenoticias.co"><title lang="es">La otra cara de la moneda</title></programme>
-<programme start="20211118103000 +0000" stop="20211118113000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
-<programme start="20211118113000 +0000" stop="20211118140000 +0000" channel="Cablenoticias.co"><title lang="es">Cablenoticias 6:30 a.m.</title></programme>
-<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="Cablenoticias.co"><title lang="es">Especiales</title></programme>
-<programme start="20211118150000 +0000" stop="20211118151500 +0000" channel="Cablenoticias.co"><title lang="es">Redes</title></programme>
-<programme start="20211118151500 +0000" stop="20211118153000 +0000" channel="Cablenoticias.co"><title lang="es">Paquete internacional</title></programme>
-<programme start="20211118153000 +0000" stop="20211118154500 +0000" channel="Cablenoticias.co"><title lang="es">Deportes Cablenoticias</title></programme>
-<programme start="20211118154500 +0000" stop="20211118160000 +0000" channel="Cablenoticias.co"><title lang="es">Entretenimiento Cablenoticias</title></programme>
-<programme start="20211118160000 +0000" stop="20211118161500 +0000" channel="Cablenoticias.co"><title lang="es">Panorama nacional</title></programme>
-<programme start="20211118161500 +0000" stop="20211118163000 +0000" channel="Cablenoticias.co"><title lang="es">Panorama nacional</title></programme>
-<programme start="20211118163000 +0000" stop="20211118164500 +0000" channel="Cablenoticias.co"><title lang="es">Pulso económico</title></programme>
-<programme start="20211118164500 +0000" stop="20211118170000 +0000" channel="Cablenoticias.co"><title lang="es">Noticias regionales</title></programme>
-<programme start="20211118170000 +0000" stop="20211118190000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias al mediodía</title></programme>
-<programme start="20211118190000 +0000" stop="20211118191500 +0000" channel="Cablenoticias.co"><title lang="es">Deportes Cablenoticias</title></programme>
-<programme start="20211118191500 +0000" stop="20211118193000 +0000" channel="Cablenoticias.co"><title lang="es">Paquete internacional</title></programme>
-<programme start="20211118193000 +0000" stop="20211118200000 +0000" channel="Cablenoticias.co"><title lang="es">Franja de especiales</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias a las 3</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="Cablenoticias.co"><title lang="es">Especiales</title></programme>
-<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="Cablenoticias.co"><title lang="es">Especiales</title></programme>
-<programme start="20211118220000 +0000" stop="20211118221500 +0000" channel="Cablenoticias.co"><title lang="es">Deportes Cablenoticias</title></programme>
-<programme start="20211118221500 +0000" stop="20211118223000 +0000" channel="Cablenoticias.co"><title lang="es">Paquete internacional</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="Cablenoticias.co"><title lang="es">Global 3000</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición central</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="Cablenoticias.co"><title lang="es">#HablemosClaro</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
-<programme start="20211119030000 +0000" stop="20211119033000 +0000" channel="Cablenoticias.co"><title lang="es">La otra cara de la moneda</title></programme>
-<programme start="20211119033000 +0000" stop="20211119043000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
-<programme start="20211119043000 +0000" stop="20211119053000 +0000" channel="Cablenoticias.co"><title lang="es">#HablemosClaro</title></programme>
-<programme start="20211119053000 +0000" stop="20211119063000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
+<channel id="Cablenoticias.co"><display-name>Cablenoticias</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_cablenoticias_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CanalAntigua.gt"><display-name>Canal Antigua</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_canal-antigua_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CartoonNetworkLatinAmerica.us"><display-name>Cartoon Network Latin America</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_cartoon-network_m.png"/><url>https://mi.tv</url></channel>
+<channel id="CinecanalEste.us"><display-name>Cinecanal Este</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_cinecanal_m.png"/><url>https://mi.tv</url></channel>
+<channel id="DiscoveryHomeHealthLatinoamerica.us"><display-name>Discovery Home &amp; Health Latinoamérica</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_discovery-home-and-health_m.png"/><url>https://mi.tv</url></channel>
+<channel id="DistritoComedia.mx"><display-name>Distrito Comedia</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_distrito-comedia_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Guatevision.gt"><display-name>Guatevisión</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_guatevision_m.png"/><url>https://mi.tv</url></channel>
+<channel id="MTVLatino.us"><display-name>MTV Latino</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_m-tv_m.png"/><url>https://mi.tv</url></channel>
+<channel id="MultiPremier.mx"><display-name>MultiPremier</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_multipremier_m.png"/><url>https://mi.tv</url></channel>
+<channel id="NationalGeographicSur.us"><display-name>National Geographic Sur</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_national-geographic_m.png"/><url>https://mi.tv</url></channel>
+<channel id="SonyChannelSur.us"><display-name>Sony Channel Sur</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_sony_m.png"/><url>https://mi.tv</url></channel>
+<channel id="StarLifeSur.us"><display-name>Star Life Sur</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_fox-life_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TDNMexico.mx"><display-name>TDN México</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_tdn_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TelemicroInternacional.do"><display-name>Telemicro Internacional</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_telemicro_m.png"/><url>https://mi.tv</url></channel>
+<channel id="Televen.ve"><display-name>Televen</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_televen_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TNTAmericaLatina.us"><display-name>TNT América Latina</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_tnt_m.png"/><url>https://mi.tv</url></channel>
+<channel id="TVAgro.co"><display-name>TV Agro</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_tv-agro_m.png"/><url>https://mi.tv</url></channel>
+<channel id="XTimeChannel.us"><display-name>XTime Channel</display-name><icon src="https://cdn.mitvstatic.com/channels/gt_x-time_m.png"/><url>https://mi.tv</url></channel>
 <programme start="20211119053000 +0000" stop="20211119063000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
 <programme start="20211119063000 +0000" stop="20211119073000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
 <programme start="20211119073000 +0000" stop="20211119083000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
@@ -87,35 +52,45 @@
 <programme start="20211120033000 +0000" stop="20211120043000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
 <programme start="20211120043000 +0000" stop="20211120053000 +0000" channel="Cablenoticias.co"><title lang="es">#HablemosClaro</title></programme>
 <programme start="20211120053000 +0000" stop="20211120063000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
-<programme start="20211118053000 +0000" stop="20211118063000 +0000" channel="CanalAntigua.gt"><title lang="es">Amigos y rivales VBQ</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo al día VOA</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 7:00 PM</title></programme>
-<programme start="20211118080000 +0000" stop="20211118084500 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo a las 8 PM</title></programme>
-<programme start="20211118084500 +0000" stop="20211118103000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 8:45 PM</title></programme>
-<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="CanalAntigua.gt"><title lang="es">Back to the 80s</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="CanalAntigua.gt"><title lang="es">Con sabor y saber</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="CanalAntigua.gt"><title lang="es">Dueños del balón</title></programme>
-<programme start="20211118120000 +0000" stop="20211118133000 +0000" channel="CanalAntigua.gt"><title lang="es">Vida real</title></programme>
-<programme start="20211118133000 +0000" stop="20211118153000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 7:00 AM</title></programme>
-<programme start="20211118153000 +0000" stop="20211118160000 +0000" channel="CanalAntigua.gt"><title lang="es">Cocina caliente</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="CanalAntigua.gt"><title lang="es">Dueños del balón</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="CanalAntigua.gt"><title lang="es">Con sabor y saber</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="CanalAntigua.gt"><title lang="es">El camino antiguo</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="CanalAntigua.gt"><title lang="es">Music Station</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a la 1:00 PM</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="CanalAntigua.gt"><title lang="es">Amigos y rivales VBQ</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="CanalAntigua.gt"><title lang="es">MÚsica registrada</title></programme>
-<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="CanalAntigua.gt"><title lang="es">Con sabor y saber</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="CanalAntigua.gt"><title lang="es">Cultura.21</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="CanalAntigua.gt"><title lang="es">Music Station</title></programme>
-<programme start="20211119000000 +0000" stop="20211119003000 +0000" channel="CanalAntigua.gt"><title lang="es">Cocina caliente</title></programme>
-<programme start="20211119003000 +0000" stop="20211119010000 +0000" channel="CanalAntigua.gt"><title lang="es">Dueños del balón</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 7:00 PM</title></programme>
-<programme start="20211119020000 +0000" stop="20211119024500 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo a las 8 PM</title></programme>
-<programme start="20211119024500 +0000" stop="20211119043000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 8:45 PM</title></programme>
-<programme start="20211119043000 +0000" stop="20211119050000 +0000" channel="CanalAntigua.gt"><title lang="es">Lluvias de gracia</title></programme>
-<programme start="20211119050000 +0000" stop="20211119053000 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo al día VOA</title></programme>
-<programme start="20211119053000 +0000" stop="20211119063000 +0000" channel="CanalAntigua.gt"><title lang="es">Amigos y rivales VBQ</title></programme>
+<programme start="20211120053000 +0000" stop="20211120063000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
+<programme start="20211120063000 +0000" stop="20211120073000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
+<programme start="20211120073000 +0000" stop="20211120083000 +0000" channel="Cablenoticias.co"><title lang="es">Hoy en el mundo</title></programme>
+<programme start="20211120083000 +0000" stop="20211120093000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
+<programme start="20211120093000 +0000" stop="20211120100000 +0000" channel="Cablenoticias.co"><title lang="es">Testigo directo</title></programme>
+<programme start="20211120100000 +0000" stop="20211120103000 +0000" channel="Cablenoticias.co"><title lang="es">35 milímetros</title></programme>
+<programme start="20211120103000 +0000" stop="20211120113000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de salud</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de salud</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de salud</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de salud</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de salud</title></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="Cablenoticias.co"><title lang="es">Franja de especiales</title></programme>
+<programme start="20211120150000 +0000" stop="20211120160000 +0000" channel="Cablenoticias.co"><title lang="es">Hechos y crónicas</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen deportivo</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de salud</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="Cablenoticias.co"><title lang="es">Impacto TDN</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="Cablenoticias.co"><title lang="es">Economía al día</title></programme>
+<programme start="20211120180000 +0000" stop="20211120183000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen Internacional</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen deportivo</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen Nacional</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de salud</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen económico</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen Internacional</title></programme>
+<programme start="20211120210000 +0000" stop="20211120213000 +0000" channel="Cablenoticias.co"><title lang="es">Impacto TDN</title></programme>
+<programme start="20211120213000 +0000" stop="20211120220000 +0000" channel="Cablenoticias.co"><title lang="es">Análisis mundial</title></programme>
+<programme start="20211120220000 +0000" stop="20211120223000 +0000" channel="Cablenoticias.co"><title lang="es">Venezuela 360</title></programme>
+<programme start="20211120223000 +0000" stop="20211120230000 +0000" channel="Cablenoticias.co"><title lang="es">35 milímetros</title></programme>
+<programme start="20211120230000 +0000" stop="20211120233000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen deportivo</title></programme>
+<programme start="20211120233000 +0000" stop="20211121000000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen económico</title></programme>
+<programme start="20211121000000 +0000" stop="20211121003000 +0000" channel="Cablenoticias.co"><title lang="es">Especial de entrevistas</title></programme>
+<programme start="20211121003000 +0000" stop="20211121010000 +0000" channel="Cablenoticias.co"><title lang="es">Testigo directo</title></programme>
+<programme start="20211121010000 +0000" stop="20211121020000 +0000" channel="Cablenoticias.co"><title lang="es">Noticias Uno</title></programme>
+<programme start="20211121020000 +0000" stop="20211121023000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen deportivo</title></programme>
+<programme start="20211121023000 +0000" stop="20211121033000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
+<programme start="20211121033000 +0000" stop="20211121040000 +0000" channel="Cablenoticias.co"><title lang="es">En la mira</title></programme>
+<programme start="20211121040000 +0000" stop="20211121050000 +0000" channel="Cablenoticias.co"><title lang="es">Cable noticias - Edición estelar</title></programme>
+<programme start="20211121050000 +0000" stop="20211121053000 +0000" channel="Cablenoticias.co"><title lang="es">Resumen Internacional</title></programme>
+<programme start="20211121053000 +0000" stop="20211121063000 +0000" channel="Cablenoticias.co"><title lang="es">Economía al día</title></programme>
 <programme start="20211119053000 +0000" stop="20211119063000 +0000" channel="CanalAntigua.gt"><title lang="es">Amigos y rivales VBQ</title></programme>
 <programme start="20211119063000 +0000" stop="20211119070000 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo al día VOA</title></programme>
 <programme start="20211119070000 +0000" stop="20211119080000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 7:00 PM</title></programme>
@@ -146,127 +121,34 @@
 <programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="CanalAntigua.gt"><title lang="es">Lluvias de gracia</title></programme>
 <programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo al día VOA</title></programme>
 <programme start="20211120053000 +0000" stop="20211120063000 +0000" channel="CanalAntigua.gt"><title lang="es">Control + a</title></programme>
-<programme start="20211118060000 +0000" stop="20211118061000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118061000 +0000" stop="20211118062000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118062000 +0000" stop="20211118063000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118063000 +0000" stop="20211118064000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118064000 +0000" stop="20211118065000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118065000 +0000" stop="20211118070000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118070000 +0000" stop="20211118071000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118071000 +0000" stop="20211118072000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118072000 +0000" stop="20211118073000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118073000 +0000" stop="20211118074000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118074000 +0000" stop="20211118075000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118075000 +0000" stop="20211118080000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118080000 +0000" stop="20211118081000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
-<programme start="20211118081000 +0000" stop="20211118082000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
-<programme start="20211118082000 +0000" stop="20211118083000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
-<programme start="20211118083000 +0000" stop="20211118084000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
-<programme start="20211118084000 +0000" stop="20211118085000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
-<programme start="20211118085000 +0000" stop="20211118090000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
-<programme start="20211118090000 +0000" stop="20211118091200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118091200 +0000" stop="20211118092400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118092400 +0000" stop="20211118093600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118093600 +0000" stop="20211118094800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118094800 +0000" stop="20211118100000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118100000 +0000" stop="20211118101200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118101200 +0000" stop="20211118102400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118102400 +0000" stop="20211118103600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118103600 +0000" stop="20211118104800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118104800 +0000" stop="20211118110000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118110000 +0000" stop="20211118110500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Oddbods</title></programme>
-<programme start="20211118110500 +0000" stop="20211118111000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Masha y el oso</title></programme>
-<programme start="20211118111000 +0000" stop="20211118111500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Masha y el oso</title></programme>
-<programme start="20211118111500 +0000" stop="20211118113000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118113000 +0000" stop="20211118114000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118114000 +0000" stop="20211118115000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118115000 +0000" stop="20211118120000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118120000 +0000" stop="20211118121000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Mao Mao: héroes de puro corazón</title></programme>
-<programme start="20211118121000 +0000" stop="20211118122000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Mao Mao: héroes de puro corazón</title></programme>
-<programme start="20211118122000 +0000" stop="20211118123000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Mao Mao: héroes de puro corazón</title></programme>
-<programme start="20211118123000 +0000" stop="20211118124000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
-<programme start="20211118124000 +0000" stop="20211118125000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
-<programme start="20211118125000 +0000" stop="20211118130000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
-<programme start="20211118130000 +0000" stop="20211118131200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118131200 +0000" stop="20211118132400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118132400 +0000" stop="20211118133600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118133600 +0000" stop="20211118134800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118134800 +0000" stop="20211118140000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118140000 +0000" stop="20211118141000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
-<programme start="20211118141000 +0000" stop="20211118142000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
-<programme start="20211118142000 +0000" stop="20211118143000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
-<programme start="20211118143000 +0000" stop="20211118144000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118144000 +0000" stop="20211118145000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118145000 +0000" stop="20211118150000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118150000 +0000" stop="20211118151000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118151000 +0000" stop="20211118152000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118152000 +0000" stop="20211118153000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118153000 +0000" stop="20211118154200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118154200 +0000" stop="20211118155400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118155400 +0000" stop="20211118160600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118160600 +0000" stop="20211118161800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118161800 +0000" stop="20211118163000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118163000 +0000" stop="20211118164000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
-<programme start="20211118164000 +0000" stop="20211118165000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
-<programme start="20211118165000 +0000" stop="20211118170000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
-<programme start="20211118170000 +0000" stop="20211118171000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118171000 +0000" stop="20211118172000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118172000 +0000" stop="20211118173000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118173000 +0000" stop="20211118174000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118174000 +0000" stop="20211118175000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118175000 +0000" stop="20211118180000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118180000 +0000" stop="20211118181000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118181000 +0000" stop="20211118182000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118182000 +0000" stop="20211118183000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211118183000 +0000" stop="20211118184000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Víctor y Valentino</title></programme>
-<programme start="20211118184000 +0000" stop="20211118185000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Víctor y Valentino</title></programme>
-<programme start="20211118185000 +0000" stop="20211118190000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Víctor y Valentino</title></programme>
-<programme start="20211118190000 +0000" stop="20211118191200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118191200 +0000" stop="20211118192400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118192400 +0000" stop="20211118193600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118193600 +0000" stop="20211118194800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118194800 +0000" stop="20211118200000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118200000 +0000" stop="20211118204500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Mes de DC Super Hero Girls y los Jóvenes Titanes en acción</title></programme>
-<programme start="20211118204500 +0000" stop="20211118210000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">ThunderCats Rugen</title></programme>
-<programme start="20211118210000 +0000" stop="20211118211000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118211000 +0000" stop="20211118212000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118212000 +0000" stop="20211118213000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
-<programme start="20211118213000 +0000" stop="20211118214000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Víctor y Valentino</title></programme>
-<programme start="20211118214000 +0000" stop="20211118215000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Víctor y Valentino</title></programme>
-<programme start="20211118215000 +0000" stop="20211118220000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Víctor y Valentino</title></programme>
-<programme start="20211118220000 +0000" stop="20211118224500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211118224500 +0000" stop="20211118230000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
-<programme start="20211118230000 +0000" stop="20211118231000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
-<programme start="20211118231000 +0000" stop="20211118232000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
-<programme start="20211118232000 +0000" stop="20211118233000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
-<programme start="20211118233000 +0000" stop="20211118234000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
-<programme start="20211118234000 +0000" stop="20211118235000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
-<programme start="20211118235000 +0000" stop="20211119000000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
-<programme start="20211119000000 +0000" stop="20211119001000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211119001000 +0000" stop="20211119002000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211119002000 +0000" stop="20211119003000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211119003000 +0000" stop="20211119004000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211119004000 +0000" stop="20211119005000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211119005000 +0000" stop="20211119010000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
-<programme start="20211119010000 +0000" stop="20211119011000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
-<programme start="20211119011000 +0000" stop="20211119012000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
-<programme start="20211119012000 +0000" stop="20211119013000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
-<programme start="20211119013000 +0000" stop="20211119014200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119014200 +0000" stop="20211119015400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119015400 +0000" stop="20211119020600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119020600 +0000" stop="20211119021800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119021800 +0000" stop="20211119023000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119023000 +0000" stop="20211119033000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Mes de DC Super Hero Girls y los Jóvenes Titanes en acción</title></programme>
-<programme start="20211119033000 +0000" stop="20211119034200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211119034200 +0000" stop="20211119035400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211119035400 +0000" stop="20211119040600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211119040600 +0000" stop="20211119041800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211119041800 +0000" stop="20211119043000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
-<programme start="20211119043000 +0000" stop="20211119044000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119044000 +0000" stop="20211119045000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119045000 +0000" stop="20211119050000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
-<programme start="20211119050000 +0000" stop="20211119053000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Supercampeones</title></programme>
-<programme start="20211119053000 +0000" stop="20211119063000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Dr. Stone</title></programme>
+<programme start="20211120053000 +0000" stop="20211120063000 +0000" channel="CanalAntigua.gt"><title lang="es">Control + a</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo al día VOA</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 7:00 PM</title></programme>
+<programme start="20211120080000 +0000" stop="20211120084500 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo a las 8 PM</title></programme>
+<programme start="20211120084500 +0000" stop="20211120103000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 8:45 PM</title></programme>
+<programme start="20211120103000 +0000" stop="20211120110000 +0000" channel="CanalAntigua.gt"><title lang="es">Pure Outdoor</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="CanalAntigua.gt"><title lang="es">Cultura.21</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="CanalAntigua.gt"><title lang="es">Dueños del balón</title></programme>
+<programme start="20211120120000 +0000" stop="20211120133000 +0000" channel="CanalAntigua.gt"><title lang="es">El mundo a las 8 PM &amp; A fondo</title></programme>
+<programme start="20211120133000 +0000" stop="20211120143000 +0000" channel="CanalAntigua.gt"><title lang="es">Music Station</title></programme>
+<programme start="20211120143000 +0000" stop="20211120153000 +0000" channel="CanalAntigua.gt"><title lang="es">Music Station</title></programme>
+<programme start="20211120153000 +0000" stop="20211120163000 +0000" channel="CanalAntigua.gt"><title lang="es">Control + a</title></programme>
+<programme start="20211120163000 +0000" stop="20211120173000 +0000" channel="CanalAntigua.gt"><title lang="es">Control + a</title></programme>
+<programme start="20211120173000 +0000" stop="20211120183000 +0000" channel="CanalAntigua.gt"><title lang="es">Amigos y rivales VBQ</title></programme>
+<programme start="20211120183000 +0000" stop="20211120193000 +0000" channel="CanalAntigua.gt"><title lang="es">Music Station</title></programme>
+<programme start="20211120193000 +0000" stop="20211120203000 +0000" channel="CanalAntigua.gt"><title lang="es">Amigos y rivales VBQ</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="CanalAntigua.gt"><title lang="es">Cocina caliente</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="CanalAntigua.gt"><title lang="es">El camino antiguo</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="CanalAntigua.gt"><title lang="es">A fondo &amp; 35MM</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="CanalAntigua.gt"><title lang="es">Amigos y rivales VBQ</title></programme>
+<programme start="20211121000000 +0000" stop="20211121010000 +0000" channel="CanalAntigua.gt"><title lang="es">MÚsica registrada</title></programme>
+<programme start="20211121010000 +0000" stop="20211121020000 +0000" channel="CanalAntigua.gt"><title lang="es">Music Station</title></programme>
+<programme start="20211121020000 +0000" stop="20211121023000 +0000" channel="CanalAntigua.gt"><title lang="es">IGSS TV</title></programme>
+<programme start="20211121023000 +0000" stop="20211121024500 +0000" channel="CanalAntigua.gt"><title lang="es">35 MM</title></programme>
+<programme start="20211121024500 +0000" stop="20211121033000 +0000" channel="CanalAntigua.gt"><title lang="es">Noticiero a las 8:45 PM</title></programme>
+<programme start="20211121033000 +0000" stop="20211121043000 +0000" channel="CanalAntigua.gt"><title lang="es">Hablando claro</title></programme>
+<programme start="20211121043000 +0000" stop="20211121050000 +0000" channel="CanalAntigua.gt"><title lang="es">RPM</title></programme>
+<programme start="20211121050000 +0000" stop="20211121060000 +0000" channel="CanalAntigua.gt"><title lang="es">Control + a</title></programme>
 <programme start="20211119060000 +0000" stop="20211119061000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
 <programme start="20211119061000 +0000" stop="20211119062000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
 <programme start="20211119062000 +0000" stop="20211119063000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
@@ -378,25 +260,92 @@
 <programme start="20211120045000 +0000" stop="20211120050000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
 <programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Supercampeones</title></programme>
 <programme start="20211120053000 +0000" stop="20211120063000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Dr. Stone</title></programme>
-<programme start="20211118044200 +0000" stop="20211118065500 +0000" channel="CinecanalEste.us"><title lang="es">Guerra mundial Z</title></programme>
-<programme start="20211118065500 +0000" stop="20211118084000 +0000" channel="CinecanalEste.us"><title lang="es">Magic Mike</title></programme>
-<programme start="20211118084000 +0000" stop="20211118101500 +0000" channel="CinecanalEste.us"><title lang="es">Un guardaespaldas escolar</title></programme>
-<programme start="20211118101500 +0000" stop="20211118120000 +0000" channel="CinecanalEste.us"><title lang="es">Cantantes en guerra</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118153000 +0000" stop="20211118164000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118164000 +0000" stop="20211118190000 +0000" channel="CinecanalEste.us"><title lang="es">El día después de mañana</title></programme>
-<programme start="20211118190000 +0000" stop="20211118203700 +0000" channel="CinecanalEste.us"><title lang="es">Mi súper exnovia</title></programme>
-<programme start="20211118203700 +0000" stop="20211118230000 +0000" channel="CinecanalEste.us"><title lang="es">Mentiras verdaderas</title></programme>
-<programme start="20211118230000 +0000" stop="20211119011000 +0000" channel="CinecanalEste.us"><title lang="es">Amor en juego</title></programme>
-<programme start="20211119011000 +0000" stop="20211119030000 +0000" channel="CinecanalEste.us"><title lang="es">Guerra de novias</title></programme>
-<programme start="20211119030000 +0000" stop="20211119052000 +0000" channel="CinecanalEste.us"><title lang="es">La mujer de mis pesadillas</title></programme>
-<programme start="20211119052000 +0000" stop="20211119062000 +0000" channel="CinecanalEste.us"><title lang="es">Resident Evil: Capítulo final</title></programme>
+<programme start="20211120060000 +0000" stop="20211120061000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
+<programme start="20211120061000 +0000" stop="20211120062000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
+<programme start="20211120062000 +0000" stop="20211120063000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
+<programme start="20211120063000 +0000" stop="20211120064000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
+<programme start="20211120064000 +0000" stop="20211120065000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
+<programme start="20211120065000 +0000" stop="20211120070000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El mundo de Craig</title></programme>
+<programme start="20211120070000 +0000" stop="20211120071000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120071000 +0000" stop="20211120072000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120072000 +0000" stop="20211120073000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120073000 +0000" stop="20211120074000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120074000 +0000" stop="20211120075000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120075000 +0000" stop="20211120080000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120080000 +0000" stop="20211120081000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
+<programme start="20211120081000 +0000" stop="20211120082000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
+<programme start="20211120082000 +0000" stop="20211120083000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
+<programme start="20211120083000 +0000" stop="20211120084000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
+<programme start="20211120084000 +0000" stop="20211120085000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
+<programme start="20211120085000 +0000" stop="20211120090000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Steven Universe</title></programme>
+<programme start="20211120090000 +0000" stop="20211120091200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120091200 +0000" stop="20211120092400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120092400 +0000" stop="20211120093600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120093600 +0000" stop="20211120094800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120094800 +0000" stop="20211120100000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120100000 +0000" stop="20211120101200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211120101200 +0000" stop="20211120102400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211120102400 +0000" stop="20211120103600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211120103600 +0000" stop="20211120104800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211120104800 +0000" stop="20211120110000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211120110000 +0000" stop="20211120121500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Scooby-Doo! miedo al escenario</title></programme>
+<programme start="20211120121500 +0000" stop="20211120122000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El show de Tom y Jerry</title></programme>
+<programme start="20211120122000 +0000" stop="20211120122500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El show de Tom y Jerry</title></programme>
+<programme start="20211120122500 +0000" stop="20211120123000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El show de Tom y Jerry</title></programme>
+<programme start="20211120123000 +0000" stop="20211120124000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120124000 +0000" stop="20211120125000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120125000 +0000" stop="20211120130000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Thomas y sus amigos</title></programme>
+<programme start="20211120133000 +0000" stop="20211120134000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Ben 10</title></programme>
+<programme start="20211120134000 +0000" stop="20211120135000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Ben 10</title></programme>
+<programme start="20211120135000 +0000" stop="20211120140000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Ben 10</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Power Rangers: Dino Fury</title></programme>
+<programme start="20211120143000 +0000" stop="20211120153000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Mes de DC Super Hero Girls y los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120153000 +0000" stop="20211120170000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120170000 +0000" stop="20211120171000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
+<programme start="20211120171000 +0000" stop="20211120172000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
+<programme start="20211120172000 +0000" stop="20211120173000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">DC Super Hero Girls</title></programme>
+<programme start="20211120173000 +0000" stop="20211120174000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
+<programme start="20211120174000 +0000" stop="20211120175000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
+<programme start="20211120175000 +0000" stop="20211120180000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
+<programme start="20211120180000 +0000" stop="20211120181200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120181200 +0000" stop="20211120182400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120182400 +0000" stop="20211120183600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120183600 +0000" stop="20211120184800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120184800 +0000" stop="20211120190000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120190000 +0000" stop="20211120204500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">¡Jóvenes Titanes en acción! La película</title></programme>
+<programme start="20211120204500 +0000" stop="20211120210000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120210000 +0000" stop="20211120211000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120211000 +0000" stop="20211120212000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120212000 +0000" stop="20211120213000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211120213000 +0000" stop="20211120214000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
+<programme start="20211120214000 +0000" stop="20211120215000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
+<programme start="20211120215000 +0000" stop="20211120220000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Manzana y Cebollín</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Toontubers</title></programme>
+<programme start="20211120230000 +0000" stop="20211120231200 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120231200 +0000" stop="20211120232400 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120232400 +0000" stop="20211120233600 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120233600 +0000" stop="20211120234800 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211120234800 +0000" stop="20211121000000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">El increíble mundo de Gumball</title></programme>
+<programme start="20211121000000 +0000" stop="20211121004500 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Víctor y Valentino</title></programme>
+<programme start="20211121004500 +0000" stop="20211121010000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121010000 +0000" stop="20211121011000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211121011000 +0000" stop="20211121012000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211121012000 +0000" stop="20211121013000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Escandalosos</title></programme>
+<programme start="20211121013000 +0000" stop="20211121014000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121014000 +0000" stop="20211121015000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121015000 +0000" stop="20211121020000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121020000 +0000" stop="20211121021000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121021000 +0000" stop="20211121022000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121022000 +0000" stop="20211121023000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121023000 +0000" stop="20211121024000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
+<programme start="20211121024000 +0000" stop="20211121025000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
+<programme start="20211121025000 +0000" stop="20211121030000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Drama total: la guardería</title></programme>
+<programme start="20211121030000 +0000" stop="20211121040000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Mes de DC Super Hero Girls y los Jóvenes Titanes en acción</title></programme>
+<programme start="20211121040000 +0000" stop="20211121053000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Tom y Jerry: una aventura con Sherlock Holmes</title></programme>
+<programme start="20211121053000 +0000" stop="20211121054000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Clarence</title></programme>
+<programme start="20211121054000 +0000" stop="20211121055000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Clarence</title></programme>
+<programme start="20211121055000 +0000" stop="20211121065000 +0000" channel="CartoonNetworkLatinAmerica.us"><title lang="es">Clarence</title></programme>
 <programme start="20211119052000 +0000" stop="20211119072000 +0000" channel="CinecanalEste.us"><title lang="es">Resident Evil: Capítulo final</title></programme>
 <programme start="20211119072000 +0000" stop="20211119093000 +0000" channel="CinecanalEste.us"><title lang="es">Oldboy: días de venganza</title></programme>
 <programme start="20211119093000 +0000" stop="20211119120000 +0000" channel="CinecanalEste.us"><title lang="es">Los 33</title></programme>
@@ -416,37 +365,23 @@
 <programme start="20211120011000 +0000" stop="20211120030000 +0000" channel="CinecanalEste.us"><title lang="es">Home: hogar dulce hogar</title></programme>
 <programme start="20211120030000 +0000" stop="20211120055000 +0000" channel="CinecanalEste.us"><title lang="es">Transformers: El último caballero</title></programme>
 <programme start="20211120055000 +0000" stop="20211120065000 +0000" channel="CinecanalEste.us"><title lang="es">Hitman: Agente 47</title></programme>
-<programme start="20211118055800 +0000" stop="20211118064800 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Sabotaje en la cocina</title></programme>
-<programme start="20211118064800 +0000" stop="20211118083000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Todo en 90 días</title></programme>
-<programme start="20211118083000 +0000" stop="20211118085500 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Busca hogares en Hawái</title></programme>
-<programme start="20211118085500 +0000" stop="20211118092000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Busca hogares en Hawái</title></programme>
-<programme start="20211118092000 +0000" stop="20211118101000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Como en casa</title></programme>
-<programme start="20211118101000 +0000" stop="20211118110000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">MasterChef</title></programme>
-<programme start="20211118110000 +0000" stop="20211118112700 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Cake Boss</title></programme>
-<programme start="20211118112700 +0000" stop="20211118122100 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">¡No te lo pongas!</title></programme>
-<programme start="20211118122100 +0000" stop="20211118124900 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Historia de un bebé</title></programme>
-<programme start="20211118124900 +0000" stop="20211118131600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Historia de un bebé</title></programme>
-<programme start="20211118131600 +0000" stop="20211118141000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Kilos mortales: las hermanas Slaton</title></programme>
-<programme start="20211118141000 +0000" stop="20211118150800 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Vestido de novia</title></programme>
-<programme start="20211118150800 +0000" stop="20211118153700 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Nuestro hogar frente al mar</title></programme>
-<programme start="20211118153700 +0000" stop="20211118160600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Nuestro hogar frente al mar</title></programme>
-<programme start="20211118160600 +0000" stop="20211118170600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Como en casa</title></programme>
-<programme start="20211118170600 +0000" stop="20211118180400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Sabotaje en la cocina</title></programme>
-<programme start="20211118180400 +0000" stop="20211118190200 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">MasterChef</title></programme>
-<programme start="20211118190200 +0000" stop="20211118200000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">MasterChef</title></programme>
-<programme start="20211118200000 +0000" stop="20211118203000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">La casa de mis sueños</title></programme>
-<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">La casa de mis sueños</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: Un hogar para siempre</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: desafío</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Vender para comprar</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: Un hogar para siempre</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: desafío</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: Un hogar para siempre</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Remodelaciones con celebridades</title></programme>
-<programme start="20211119040000 +0000" stop="20211119043000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">La casa de mis sueños</title></programme>
-<programme start="20211119043000 +0000" stop="20211119050000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">La casa de mis sueños</title></programme>
-<programme start="20211119050000 +0000" stop="20211119053000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Nuestro hogar en las Bahamas</title></programme>
-<programme start="20211119053000 +0000" stop="20211119063000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Nuestro hogar en las Bahamas</title></programme>
+<programme start="20211120055000 +0000" stop="20211120075000 +0000" channel="CinecanalEste.us"><title lang="es">Hitman: Agente 47</title></programme>
+<programme start="20211120075000 +0000" stop="20211120093000 +0000" channel="CinecanalEste.us"><title lang="es">Hansel &amp; Gretel: cazadores de brujas</title></programme>
+<programme start="20211120093000 +0000" stop="20211120120000 +0000" channel="CinecanalEste.us"><title lang="es">Top Gun, reto a la gloria</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120153000 +0000" stop="20211120175000 +0000" channel="CinecanalEste.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120175000 +0000" stop="20211120200000 +0000" channel="CinecanalEste.us"><title lang="es">Insurgente</title></programme>
+<programme start="20211120200000 +0000" stop="20211120224000 +0000" channel="CinecanalEste.us"><title lang="es">Transformers: El último caballero</title></programme>
+<programme start="20211120224000 +0000" stop="20211121003000 +0000" channel="CinecanalEste.us"><title lang="es">El planeta de los simios: Revolución</title></programme>
+<programme start="20211121003000 +0000" stop="20211121030000 +0000" channel="CinecanalEste.us"><title lang="es">El planeta de los simios: Confrontación</title></programme>
+<programme start="20211121030000 +0000" stop="20211121054000 +0000" channel="CinecanalEste.us"><title lang="es">El planeta de los simios: La guerra</title></programme>
+<programme start="20211121054000 +0000" stop="20211121064000 +0000" channel="CinecanalEste.us"><title lang="es">Despedida de soltera</title></programme>
 <programme start="20211119060000 +0000" stop="20211119065000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Sabotaje en la cocina</title></programme>
 <programme start="20211119065000 +0000" stop="20211119074000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: Un hogar para siempre</title></programme>
 <programme start="20211119074000 +0000" stop="20211119080500 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">La casa de mis sueños</title></programme>
@@ -478,37 +413,44 @@
 <programme start="20211120031000 +0000" stop="20211120041300 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">MasterChef Colombia Celebrity</title></programme>
 <programme start="20211120041300 +0000" stop="20211120051700 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">MasterChef Colombia Celebrity</title></programme>
 <programme start="20211120051700 +0000" stop="20211120061700 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Los peores cocineros</title></programme>
-<programme start="20211118075500 +0000" stop="20211118085000 +0000" channel="DistritoComedia.mx"><title lang="es">La hora pico</title></programme>
-<programme start="20211118085000 +0000" stop="20211118110000 +0000" channel="DistritoComedia.mx"><title lang="es">Cero en conducta</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="DistritoComedia.mx"><title lang="es">XH Derbez</title></programme>
+<programme start="20211120051700 +0000" stop="20211120061700 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Los peores cocineros</title></programme>
+<programme start="20211120061700 +0000" stop="20211120071600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Sabotaje en la cocina</title></programme>
+<programme start="20211120071600 +0000" stop="20211120081600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Vender para comprar</title></programme>
+<programme start="20211120081600 +0000" stop="20211120091600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">MasterChef Colombia Celebrity</title></programme>
+<programme start="20211120091600 +0000" stop="20211120101000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Como en casa</title></programme>
+<programme start="20211120101000 +0000" stop="20211120110000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">MasterChef</title></programme>
+<programme start="20211120110000 +0000" stop="20211120112700 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Cake Boss</title></programme>
+<programme start="20211120112700 +0000" stop="20211120122100 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">¡No te lo pongas!</title></programme>
+<programme start="20211120122100 +0000" stop="20211120124800 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Historia de un bebé</title></programme>
+<programme start="20211120124800 +0000" stop="20211120131600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Historia de un bebé</title></programme>
+<programme start="20211120131600 +0000" stop="20211120134300 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">No sabía que estaba embarazada</title></programme>
+<programme start="20211120134300 +0000" stop="20211120141000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">No sabía que estaba embarazada</title></programme>
+<programme start="20211120141000 +0000" stop="20211120143800 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Duff Takes the Cake</title></programme>
+<programme start="20211120143800 +0000" stop="20211120150600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Duff Takes the Cake</title></programme>
+<programme start="20211120150600 +0000" stop="20211120160400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Dinner: Impossible</title></programme>
+<programme start="20211120160400 +0000" stop="20211120170400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: Un hogar para siempre</title></programme>
+<programme start="20211120170400 +0000" stop="20211120180400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: desafío</title></programme>
+<programme start="20211120180400 +0000" stop="20211120183400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Atrapadas en el tiempo</title></programme>
+<programme start="20211120183400 +0000" stop="20211120190400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Atrapadas en el tiempo</title></programme>
+<programme start="20211120190400 +0000" stop="20211120200400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Supermarket Stakeout</title></programme>
+<programme start="20211120200400 +0000" stop="20211120210400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Rescata mi restaurante</title></programme>
+<programme start="20211120210400 +0000" stop="20211120220400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Vestido de novia</title></programme>
+<programme start="20211120220400 +0000" stop="20211120230400 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Hermanos a la obra: Un hogar para siempre</title></programme>
+<programme start="20211120230400 +0000" stop="20211121000200 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Dra. Sandra Lee: especialista en piel</title></programme>
+<programme start="20211121000200 +0000" stop="20211121010200 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Dra. Sandra Lee: especialista en piel</title></programme>
+<programme start="20211121010200 +0000" stop="20211121020000 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Vestido de novia</title></programme>
+<programme start="20211121020000 +0000" stop="20211121025800 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Vestido de novia</title></programme>
+<programme start="20211121025800 +0000" stop="20211121035600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Supermarket Stakeout</title></programme>
+<programme start="20211121035600 +0000" stop="20211121045600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Campeonato de reposteros: Halloween</title></programme>
+<programme start="20211121045600 +0000" stop="20211121055600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Rescata mi restaurante</title></programme>
+<programme start="20211121055600 +0000" stop="20211121065600 +0000" channel="DiscoveryHomeHealthLatinoamerica.us"><title lang="es">Juegos en el súper con Guy</title></programme>
 <programme start="20211119075500 +0000" stop="20211119085000 +0000" channel="DistritoComedia.mx"><title lang="es">La hora pico</title></programme>
 <programme start="20211119085000 +0000" stop="20211119110000 +0000" channel="DistritoComedia.mx"><title lang="es">Cero en conducta</title></programme>
 <programme start="20211119110000 +0000" stop="20211119120000 +0000" channel="DistritoComedia.mx"><title lang="es">XH Derbez</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118070000 +0000" stop="20211118080000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="Guatevision.gt"><title lang="es">Soñando en familia</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="Guatevision.gt"><title lang="es">El termómetro</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="Guatevision.gt"><title lang="es">Noticiero</title></programme>
-<programme start="20211118120000 +0000" stop="20211118133000 +0000" channel="Guatevision.gt"><title lang="es">Vida real</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="Guatevision.gt"><title lang="es">Viva la noticia</title></programme>
-<programme start="20211118140000 +0000" stop="20211118160000 +0000" channel="Guatevision.gt"><title lang="es">Viva la mañana</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="Guatevision.gt"><title lang="es">Menú para todos</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118170000 +0000" stop="20211118190000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="Guatevision.gt"><title lang="es">Noticiero Guatevisión</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="Guatevision.gt"><title lang="es">Jenni Rivera: mariposa de barrio</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="Guatevision.gt"><title lang="es">Natur líder</title></programme>
-<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="Guatevision.gt"><title lang="es">Planeta recreo</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="Guatevision.gt"><title lang="es">El termómetro</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="Guatevision.gt"><title lang="es">Noticiero Guatevisión</title></programme>
-<programme start="20211119010000 +0000" stop="20211119030000 +0000" channel="Guatevision.gt"><title lang="es">Jenni Rivera: mariposa de barrio</title></programme>
-<programme start="20211119030000 +0000" stop="20211119041500 +0000" channel="Guatevision.gt"><title lang="es">Noticiero Guatevisión</title></programme>
-<programme start="20211119041500 +0000" stop="20211119044500 +0000" channel="Guatevision.gt"><title lang="es">Menú para todos</title></programme>
-<programme start="20211119044500 +0000" stop="20211119050000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
+<programme start="20211120061000 +0000" stop="20211120090000 +0000" channel="DistritoComedia.mx"><title lang="es">Más noche</title></programme>
+<programme start="20211120090000 +0000" stop="20211120095500 +0000" channel="DistritoComedia.mx"><title lang="es">La hora pico</title></programme>
+<programme start="20211120095500 +0000" stop="20211120111000 +0000" channel="DistritoComedia.mx"><title lang="es">XH Derbez</title></programme>
+<programme start="20211120111000 +0000" stop="20211120121000 +0000" channel="DistritoComedia.mx"><title lang="es">Hotel todo incluido</title></programme>
 <programme start="20211119060000 +0000" stop="20211119063000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
 <programme start="20211119063000 +0000" stop="20211119070000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
 <programme start="20211119070000 +0000" stop="20211119080000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
@@ -534,37 +476,35 @@
 <programme start="20211120041500 +0000" stop="20211120044500 +0000" channel="Guatevision.gt"><title lang="es">Menú para todos</title></programme>
 <programme start="20211120044500 +0000" stop="20211120050000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
-<programme start="20211118055000 +0000" stop="20211118065000 +0000" channel="MTVLatino.us"><title lang="es">Estudio con mi ex</title></programme>
-<programme start="20211118065000 +0000" stop="20211118073500 +0000" channel="MTVLatino.us"><title lang="es">Geordie Shore</title></programme>
-<programme start="20211118073500 +0000" stop="20211118080500 +0000" channel="MTVLatino.us"><title lang="es">Mawy: diario de una convivencia</title></programme>
-<programme start="20211118080500 +0000" stop="20211118090000 +0000" channel="MTVLatino.us"><title lang="es">Playlist</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="MTVLatino.us"><title lang="es">Insomnio MTV</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="MTVLatino.us"><title lang="es">Insomnio MTV</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="MTVLatino.us"><title lang="es">Arriba MTV</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="MTVLatino.us"><title lang="es">Arriba MTV</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="MTVLatino.us"><title lang="es">Playlist</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="MTVLatino.us"><title lang="es">Ridiculousness</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="MTVLatino.us"><title lang="es">Ridiculousness</title></programme>
-<programme start="20211118150000 +0000" stop="20211118155000 +0000" channel="MTVLatino.us"><title lang="es">Just Tattoo of Us</title></programme>
-<programme start="20211118155000 +0000" stop="20211118170000 +0000" channel="MTVLatino.us"><title lang="es">The Challenge</title></programme>
-<programme start="20211118170000 +0000" stop="20211118174500 +0000" channel="MTVLatino.us"><title lang="es">Lindsay Lohan: la dueña de la playa</title></programme>
-<programme start="20211118174500 +0000" stop="20211118184000 +0000" channel="MTVLatino.us"><title lang="es">Catfish México</title></programme>
-<programme start="20211118184000 +0000" stop="20211118193500 +0000" channel="MTVLatino.us"><title lang="es">Super Shore</title></programme>
-<programme start="20211118193500 +0000" stop="20211118203000 +0000" channel="MTVLatino.us"><title lang="es">Super Shore</title></programme>
-<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="MTVLatino.us"><title lang="es">Chica rara</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="MTVLatino.us"><title lang="es">Chica rara</title></programme>
-<programme start="20211118213000 +0000" stop="20211118222500 +0000" channel="MTVLatino.us"><title lang="es">La venganza de los ex V.I.P.</title></programme>
-<programme start="20211118222500 +0000" stop="20211118232500 +0000" channel="MTVLatino.us"><title lang="es">Estudio con mi ex</title></programme>
-<programme start="20211118232500 +0000" stop="20211118233500 +0000" channel="MTVLatino.us"><title lang="es">Mix Short Formats</title></programme>
-<programme start="20211118233500 +0000" stop="20211119003500 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
-<programme start="20211119003500 +0000" stop="20211119013000 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
-<programme start="20211119013000 +0000" stop="20211119022000 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
-<programme start="20211119022000 +0000" stop="20211119031000 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
-<programme start="20211119031000 +0000" stop="20211119040000 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="MTVLatino.us"><title lang="es">La venganza de los ex V.I.P.</title></programme>
-<programme start="20211119050000 +0000" stop="20211119050500 +0000" channel="MTVLatino.us"><title lang="es">Doblajes sinceros</title></programme>
-<programme start="20211119050500 +0000" stop="20211119051500 +0000" channel="MTVLatino.us"><title lang="es">Escenas censuradas</title></programme>
-<programme start="20211119051500 +0000" stop="20211119061500 +0000" channel="MTVLatino.us"><title lang="es">La venganza de los ex V.I.P.</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
+<programme start="20211120063000 +0000" stop="20211120073000 +0000" channel="Guatevision.gt"><title lang="es">Noticiero Guatevisión</title></programme>
+<programme start="20211120073000 +0000" stop="20211120083000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
+<programme start="20211120083000 +0000" stop="20211120133000 +0000" channel="Guatevision.gt"><title lang="es">Soñando en familia</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="Guatevision.gt"><title lang="es">Súper libro 3D</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="Guatevision.gt"><title lang="es">Pororo</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="Guatevision.gt"><title lang="es">Go Astro Boy Go</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="Guatevision.gt"><title lang="es">Planeta recreo</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="Guatevision.gt"><title lang="es">¡Escápate!</title></programme>
+<programme start="20211120163000 +0000" stop="20211120180000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
+<programme start="20211120180000 +0000" stop="20211120190000 +0000" channel="Guatevision.gt"><title lang="es">Guatemúsica</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="Guatevision.gt"><title lang="es">El más morado</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="Guatevision.gt"><title lang="es">Vive +</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="Guatevision.gt"><title lang="es">Huite Visión</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="Guatevision.gt"><title lang="es">Los secretos mejor guardados</title></programme>
+<programme start="20211120210000 +0000" stop="20211120213000 +0000" channel="Guatevision.gt"><title lang="es">El termómetro</title></programme>
+<programme start="20211120213000 +0000" stop="20211120220000 +0000" channel="Guatevision.gt"><title lang="es">En forma</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="Guatevision.gt"><title lang="es">Mensaje ministerio: Eben Ezer</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="Guatevision.gt"><title lang="es">Todo sobre ruedas</title></programme>
+<programme start="20211121000000 +0000" stop="20211121010000 +0000" channel="Guatevision.gt"><title lang="es">Los investigadores médicos</title></programme>
+<programme start="20211121010000 +0000" stop="20211121013000 +0000" channel="Guatevision.gt"><title lang="es">IGSS TV</title></programme>
+<programme start="20211121013000 +0000" stop="20211121020000 +0000" channel="Guatevision.gt"><title lang="es">Menú para todos</title></programme>
+<programme start="20211121020000 +0000" stop="20211121030000 +0000" channel="Guatevision.gt"><title lang="es">Pasión por las motos</title></programme>
+<programme start="20211121030000 +0000" stop="20211121033000 +0000" channel="Guatevision.gt"><title lang="es">Huite Visión</title></programme>
+<programme start="20211121033000 +0000" stop="20211121041500 +0000" channel="Guatevision.gt"><title lang="es">Los secretos mejor guardados</title></programme>
+<programme start="20211121041500 +0000" stop="20211121044500 +0000" channel="Guatevision.gt"><title lang="es">Tú eres Guatemala</title></programme>
+<programme start="20211121044500 +0000" stop="20211121050000 +0000" channel="Guatevision.gt"><title lang="es">Tú eres Guatemala</title></programme>
+<programme start="20211121050000 +0000" stop="20211121060000 +0000" channel="Guatevision.gt"><title lang="es">Todo sobre ruedas</title></programme>
 <programme start="20211119051500 +0000" stop="20211119061500 +0000" channel="MTVLatino.us"><title lang="es">La venganza de los ex V.I.P.</title></programme>
 <programme start="20211119061500 +0000" stop="20211119072000 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
 <programme start="20211119072000 +0000" stop="20211119075000 +0000" channel="MTVLatino.us"><title lang="es">Mawy: diario de una convivencia</title></programme>
@@ -596,22 +536,33 @@
 <programme start="20211120040500 +0000" stop="20211120050000 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
 <programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="MTVLatino.us"><title lang="es">Mawy: diario de una convivencia</title></programme>
 <programme start="20211120053000 +0000" stop="20211120063000 +0000" channel="MTVLatino.us"><title lang="es">MTV EMA 2021</title></programme>
-<programme start="20211118045500 +0000" stop="20211118065500 +0000" channel="MultiPremier.mx"><title lang="es">John Lennon, el hombre que nunca fue niño</title></programme>
-<programme start="20211118065500 +0000" stop="20211118081500 +0000" channel="MultiPremier.mx"><title lang="es">Deseo de cabaret</title></programme>
-<programme start="20211118081500 +0000" stop="20211118103000 +0000" channel="MultiPremier.mx"><title lang="es">El defensor</title></programme>
-<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="MultiPremier.mx"><title lang="es">Infomercial</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="MultiPremier.mx"><title lang="es">Infomercial</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="MultiPremier.mx"><title lang="es">Infomercial</title></programme>
-<programme start="20211118120000 +0000" stop="20211118134500 +0000" channel="MultiPremier.mx"><title lang="es">Paraíso</title></programme>
-<programme start="20211118134500 +0000" stop="20211118153000 +0000" channel="MultiPremier.mx"><title lang="es">El sustituto de Santa</title></programme>
-<programme start="20211118153000 +0000" stop="20211118173000 +0000" channel="MultiPremier.mx"><title lang="es">No es más que el fin del mundo</title></programme>
-<programme start="20211118173000 +0000" stop="20211118193500 +0000" channel="MultiPremier.mx"><title lang="es">¡Por fin solos!</title></programme>
-<programme start="20211118193500 +0000" stop="20211118212000 +0000" channel="MultiPremier.mx"><title lang="es">Paraíso</title></programme>
-<programme start="20211118212000 +0000" stop="20211118230500 +0000" channel="MultiPremier.mx"><title lang="es">El sustituto de Santa</title></programme>
-<programme start="20211118230500 +0000" stop="20211119010500 +0000" channel="MultiPremier.mx"><title lang="es">No es más que el fin del mundo</title></programme>
-<programme start="20211119010500 +0000" stop="20211119030000 +0000" channel="MultiPremier.mx"><title lang="es">John Lennon, el hombre que nunca fue niño</title></programme>
-<programme start="20211119030000 +0000" stop="20211119052500 +0000" channel="MultiPremier.mx"><title lang="es">Frida</title></programme>
-<programme start="20211119052500 +0000" stop="20211119062500 +0000" channel="MultiPremier.mx"><title lang="es">Cuando cae la nieve</title></programme>
+<programme start="20211120053000 +0000" stop="20211120072000 +0000" channel="MTVLatino.us"><title lang="es">MTV EMA 2021</title></programme>
+<programme start="20211120072000 +0000" stop="20211120081000 +0000" channel="MTVLatino.us"><title lang="es">MTV World Stage</title></programme>
+<programme start="20211120081000 +0000" stop="20211120090000 +0000" channel="MTVLatino.us"><title lang="es">Playlist</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="MTVLatino.us"><title lang="es">Insomnio MTV</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="MTVLatino.us"><title lang="es">Insomnio MTV</title></programme>
+<programme start="20211120110000 +0000" stop="20211120120000 +0000" channel="MTVLatino.us"><title lang="es">Arriba MTV</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="MTVLatino.us"><title lang="es">Arriba MTV</title></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="MTVLatino.us"><title lang="es">Cuchareando en MTV</title></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="MTVLatino.us"><title lang="es">Cuchareando en MTV</title></programme>
+<programme start="20211120150000 +0000" stop="20211120160000 +0000" channel="MTVLatino.us"><title lang="es">Playlist</title></programme>
+<programme start="20211120160000 +0000" stop="20211120170000 +0000" channel="MTVLatino.us"><title lang="es">Rio Shore</title></programme>
+<programme start="20211120170000 +0000" stop="20211120175000 +0000" channel="MTVLatino.us"><title lang="es">Floribama Shore</title></programme>
+<programme start="20211120175000 +0000" stop="20211120185000 +0000" channel="MTVLatino.us"><title lang="es">Geordie Shore</title></programme>
+<programme start="20211120185000 +0000" stop="20211120191000 +0000" channel="MTVLatino.us"><title lang="es">Chica rara</title></programme>
+<programme start="20211120191000 +0000" stop="20211120210000 +0000" channel="MTVLatino.us"><title lang="es">MTV EMA 2021</title></programme>
+<programme start="20211120210000 +0000" stop="20211120211000 +0000" channel="MTVLatino.us"><title lang="es">Fresh Out Live</title></programme>
+<programme start="20211120211000 +0000" stop="20211120220500 +0000" channel="MTVLatino.us"><title lang="es">Super Shore</title></programme>
+<programme start="20211120220500 +0000" stop="20211120230000 +0000" channel="MTVLatino.us"><title lang="es">Super Shore</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="MTVLatino.us"><title lang="es">Super Shore</title></programme>
+<programme start="20211121000000 +0000" stop="20211121005000 +0000" channel="MTVLatino.us"><title lang="es">Super Shore</title></programme>
+<programme start="20211121005000 +0000" stop="20211121015000 +0000" channel="MTVLatino.us"><title lang="es">Super Shore</title></programme>
+<programme start="20211121015000 +0000" stop="20211121022000 +0000" channel="MTVLatino.us"><title lang="es">Mawy: diario de una convivencia</title></programme>
+<programme start="20211121022000 +0000" stop="20211121031500 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
+<programme start="20211121031500 +0000" stop="20211121040500 +0000" channel="MTVLatino.us"><title lang="es">Acapulco Shore</title></programme>
+<programme start="20211121040500 +0000" stop="20211121041000 +0000" channel="MTVLatino.us"><title lang="es">Casting de mi ex</title></programme>
+<programme start="20211121041000 +0000" stop="20211121050500 +0000" channel="MTVLatino.us"><title lang="es">La venganza de los ex V.I.P.</title></programme>
+<programme start="20211121050500 +0000" stop="20211121060500 +0000" channel="MTVLatino.us"><title lang="es">La venganza de los ex V.I.P.</title></programme>
 <programme start="20211119052500 +0000" stop="20211119071500 +0000" channel="MultiPremier.mx"><title lang="es">Cuando cae la nieve</title></programme>
 <programme start="20211119071500 +0000" stop="20211119090000 +0000" channel="MultiPremier.mx"><title lang="es">La madre de mi novia Vol. 8</title></programme>
 <programme start="20211119090000 +0000" stop="20211119110000 +0000" channel="MultiPremier.mx"><title lang="es">No es más que el fin del mundo</title></programme>
@@ -627,41 +578,22 @@
 <programme start="20211120011000 +0000" stop="20211120030000 +0000" channel="MultiPremier.mx"><title lang="es">Absolutamente todo</title></programme>
 <programme start="20211120030000 +0000" stop="20211120051500 +0000" channel="MultiPremier.mx"><title lang="es">Ese es mi hijo</title></programme>
 <programme start="20211120051500 +0000" stop="20211120061500 +0000" channel="MultiPremier.mx"><title lang="es">No confíes en nadie</title></programme>
-<programme start="20211118054800 +0000" stop="20211118064700 +0000" channel="NationalGeographicSur.us"><title lang="es">Esclavizados: una historia de injusticia</title></programme>
-<programme start="20211118064700 +0000" stop="20211118073000 +0000" channel="NationalGeographicSur.us"><title lang="es">Gordon Ramsay: sabores extremos</title></programme>
-<programme start="20211118073000 +0000" stop="20211118081300 +0000" channel="NationalGeographicSur.us"><title lang="es">Solo contra el mundo: China</title></programme>
-<programme start="20211118081300 +0000" stop="20211118085700 +0000" channel="NationalGeographicSur.us"><title lang="es">Isla salvaje</title></programme>
-<programme start="20211118085700 +0000" stop="20211118094200 +0000" channel="NationalGeographicSur.us"><title lang="es">Alerta aeropuerto</title></programme>
-<programme start="20211118094200 +0000" stop="20211118102600 +0000" channel="NationalGeographicSur.us"><title lang="es">Alerta aeropuerto</title></programme>
-<programme start="20211118102600 +0000" stop="20211118104800 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
-<programme start="20211118104800 +0000" stop="20211118110900 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
-<programme start="20211118110900 +0000" stop="20211118113100 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
-<programme start="20211118113100 +0000" stop="20211118120000 +0000" channel="NationalGeographicSur.us"><title lang="es">La ciencia de lo absurdo</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118153000 +0000" stop="20211118160200 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
-<programme start="20211118160200 +0000" stop="20211118162400 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
-<programme start="20211118162400 +0000" stop="20211118165300 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
-<programme start="20211118165300 +0000" stop="20211118172400 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
-<programme start="20211118172400 +0000" stop="20211118182200 +0000" channel="NationalGeographicSur.us"><title lang="es">Gordon Ramsay: sabores extremos</title></programme>
-<programme start="20211118182200 +0000" stop="20211118192300 +0000" channel="NationalGeographicSur.us"><title lang="es">Salvajemente famosos</title></programme>
-<programme start="20211118192300 +0000" stop="20211118201400 +0000" channel="NationalGeographicSur.us"><title lang="es">Isla salvaje</title></programme>
-<programme start="20211118201400 +0000" stop="20211118211200 +0000" channel="NationalGeographicSur.us"><title lang="es">Guardianes de Alaska</title></programme>
-<programme start="20211118211200 +0000" stop="20211118221000 +0000" channel="NationalGeographicSur.us"><title lang="es">El club de la pelea animal</title></programme>
-<programme start="20211118221000 +0000" stop="20211118230400 +0000" channel="NationalGeographicSur.us"><title lang="es">Secreto en los océanos</title></programme>
-<programme start="20211118230400 +0000" stop="20211119000300 +0000" channel="NationalGeographicSur.us"><title lang="es">Tesoros perdidos de Egipto</title></programme>
-<programme start="20211119000300 +0000" stop="20211119010100 +0000" channel="NationalGeographicSur.us"><title lang="es">Mayday: catástrofes aéreas</title></programme>
-<programme start="20211119010100 +0000" stop="20211119020000 +0000" channel="NationalGeographicSur.us"><title lang="es">Alerta aeropuerto</title></programme>
-<programme start="20211119020000 +0000" stop="20211119025800 +0000" channel="NationalGeographicSur.us"><title lang="es">Gordon Ramsay: sabores extremos</title></programme>
-<programme start="20211119025800 +0000" stop="20211119035700 +0000" channel="NationalGeographicSur.us"><title lang="es">Gordon, Gino y Fred</title></programme>
-<programme start="20211119035700 +0000" stop="20211119045200 +0000" channel="NationalGeographicSur.us"><title lang="es">Qué comemos</title></programme>
-<programme start="20211119045200 +0000" stop="20211119055000 +0000" channel="NationalGeographicSur.us"><title lang="es">Secreto en los océanos</title></programme>
-<programme start="20211119055000 +0000" stop="20211119065000 +0000" channel="NationalGeographicSur.us"><title lang="es">Esclavizados: una historia de injusticia</title></programme>
+<programme start="20211120051500 +0000" stop="20211120071000 +0000" channel="MultiPremier.mx"><title lang="es">No confíes en nadie</title></programme>
+<programme start="20211120071000 +0000" stop="20211120083500 +0000" channel="MultiPremier.mx"><title lang="es">Diferentes esposas, diferentes vidas</title></programme>
+<programme start="20211120083500 +0000" stop="20211120103000 +0000" channel="MultiPremier.mx"><title lang="es">Camino de la salvación</title></programme>
+<programme start="20211120103000 +0000" stop="20211120110000 +0000" channel="MultiPremier.mx"><title lang="es">Infomercial</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="MultiPremier.mx"><title lang="es">Infomercial</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="MultiPremier.mx"><title lang="es">Infomercial</title></programme>
+<programme start="20211120120000 +0000" stop="20211120135000 +0000" channel="MultiPremier.mx"><title lang="es">En busca del asesino</title></programme>
+<programme start="20211120135000 +0000" stop="20211120153000 +0000" channel="MultiPremier.mx"><title lang="es">Tenías que ser tú</title></programme>
+<programme start="20211120153000 +0000" stop="20211120173500 +0000" channel="MultiPremier.mx"><title lang="es">Jugando por amor</title></programme>
+<programme start="20211120173500 +0000" stop="20211120193000 +0000" channel="MultiPremier.mx"><title lang="es">Una gran amistad</title></programme>
+<programme start="20211120193000 +0000" stop="20211120212000 +0000" channel="MultiPremier.mx"><title lang="es">En busca del asesino</title></programme>
+<programme start="20211120212000 +0000" stop="20211120232000 +0000" channel="MultiPremier.mx"><title lang="es">Jugando por amor</title></programme>
+<programme start="20211120232000 +0000" stop="20211121011000 +0000" channel="MultiPremier.mx"><title lang="es">Una gran amistad</title></programme>
+<programme start="20211121011000 +0000" stop="20211121030000 +0000" channel="MultiPremier.mx"><title lang="es">No confíes en nadie</title></programme>
+<programme start="20211121030000 +0000" stop="20211121045500 +0000" channel="MultiPremier.mx"><title lang="es">Miénteme</title></programme>
+<programme start="20211121045500 +0000" stop="20211121055500 +0000" channel="MultiPremier.mx"><title lang="es">Mantequilla</title></programme>
 <programme start="20211119055000 +0000" stop="20211119065700 +0000" channel="NationalGeographicSur.us"><title lang="es">Esclavizados: una historia de injusticia</title></programme>
 <programme start="20211119065700 +0000" stop="20211119074100 +0000" channel="NationalGeographicSur.us"><title lang="es">Gordon Ramsay: sabores extremos</title></programme>
 <programme start="20211119074100 +0000" stop="20211119082500 +0000" channel="NationalGeographicSur.us"><title lang="es">Solo contra el mundo: China</title></programme>
@@ -695,26 +627,42 @@
 <programme start="20211120025700 +0000" stop="20211120035200 +0000" channel="NationalGeographicSur.us"><title lang="es">Aguas desconocidas, con Jeremy Wade</title></programme>
 <programme start="20211120035200 +0000" stop="20211120044700 +0000" channel="NationalGeographicSur.us"><title lang="es">Desastres de ingeniería</title></programme>
 <programme start="20211120044700 +0000" stop="20211120054700 +0000" channel="NationalGeographicSur.us"><title lang="es">Verano rojo de 1919</title></programme>
-<programme start="20211118051000 +0000" stop="20211118070500 +0000" channel="SonyChannelSur.us"><title lang="es">Espejito, espejito</title></programme>
-<programme start="20211118070500 +0000" stop="20211118080500 +0000" channel="SonyChannelSur.us"><title lang="es">De brutas, nada</title></programme>
-<programme start="20211118080500 +0000" stop="20211118090000 +0000" channel="SonyChannelSur.us"><title lang="es">Girlfriends&apos; Guide to Divorce</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="SonyChannelSur.us"><title lang="es">Shark Tank</title></programme>
-<programme start="20211118100000 +0000" stop="20211118110000 +0000" channel="SonyChannelSur.us"><title lang="es">Shark Tank</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="SonyChannelSur.us"><title lang="es">Grown-ish</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="SonyChannelSur.us"><title lang="es">Black-ish</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="SonyChannelSur.us"><title lang="es">Madre americana</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="SonyChannelSur.us"><title lang="es">Madre americana</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="SonyChannelSur.us"><title lang="es">TeveCompras</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="SonyChannelSur.us"><title lang="es">TeveCompras</title></programme>
-<programme start="20211118140000 +0000" stop="20211118155500 +0000" channel="SonyChannelSur.us"><title lang="es">Los cazafantasmas</title></programme>
-<programme start="20211118155500 +0000" stop="20211118175000 +0000" channel="SonyChannelSur.us"><title lang="es">Cazafantasmas II</title></programme>
-<programme start="20211118175000 +0000" stop="20211118194500 +0000" channel="SonyChannelSur.us"><title lang="es">Los cazafantasmas</title></programme>
-<programme start="20211118194500 +0000" stop="20211118214500 +0000" channel="SonyChannelSur.us"><title lang="es">Cazafantasmas II</title></programme>
-<programme start="20211118214500 +0000" stop="20211118234500 +0000" channel="SonyChannelSur.us"><title lang="es">Los cazafantasmas</title></programme>
-<programme start="20211118234500 +0000" stop="20211119014500 +0000" channel="SonyChannelSur.us"><title lang="es">Cazafantasmas II</title></programme>
-<programme start="20211119014500 +0000" stop="20211119034500 +0000" channel="SonyChannelSur.us"><title lang="es">Los cazafantasmas</title></programme>
-<programme start="20211119034500 +0000" stop="20211119054500 +0000" channel="SonyChannelSur.us"><title lang="es">Cazafantasmas II</title></programme>
-<programme start="20211119054500 +0000" stop="20211119064500 +0000" channel="SonyChannelSur.us"><title lang="es">Los cazafantasmas</title></programme>
+<programme start="20211120044700 +0000" stop="20211120064400 +0000" channel="NationalGeographicSur.us"><title lang="es">Verano rojo de 1919</title></programme>
+<programme start="20211120064400 +0000" stop="20211120072800 +0000" channel="NationalGeographicSur.us"><title lang="es">Gordon Ramsay: sabores extremos</title></programme>
+<programme start="20211120072800 +0000" stop="20211120081200 +0000" channel="NationalGeographicSur.us"><title lang="es">Solo contra el mundo</title></programme>
+<programme start="20211120081200 +0000" stop="20211120085500 +0000" channel="NationalGeographicSur.us"><title lang="es">Isla salvaje: Supervivencia en Alaska</title></programme>
+<programme start="20211120085500 +0000" stop="20211120093900 +0000" channel="NationalGeographicSur.us"><title lang="es">Alerta aeropuerto</title></programme>
+<programme start="20211120093900 +0000" stop="20211120102300 +0000" channel="NationalGeographicSur.us"><title lang="es">Alerta aeropuerto</title></programme>
+<programme start="20211120102300 +0000" stop="20211120104400 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
+<programme start="20211120104400 +0000" stop="20211120110500 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
+<programme start="20211120110500 +0000" stop="20211120112700 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
+<programme start="20211120112700 +0000" stop="20211120120000 +0000" channel="NationalGeographicSur.us"><title lang="es">La ciencia de lo absurdo</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160200 +0000" channel="NationalGeographicSur.us"><title lang="es">Infomercial</title></programme>
+<programme start="20211120160200 +0000" stop="20211120163000 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
+<programme start="20211120163000 +0000" stop="20211120165500 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
+<programme start="20211120165500 +0000" stop="20211120172000 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos: Estados Unidos</title></programme>
+<programme start="20211120172000 +0000" stop="20211120175000 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos: Estados Unidos</title></programme>
+<programme start="20211120175000 +0000" stop="20211120181500 +0000" channel="NationalGeographicSur.us"><title lang="es">Megaindustria de alimentos</title></programme>
+<programme start="20211120181500 +0000" stop="20211120191000 +0000" channel="NationalGeographicSur.us"><title lang="es">Los videos más divertidos: especial animales</title></programme>
+<programme start="20211120191000 +0000" stop="20211120200500 +0000" channel="NationalGeographicSur.us"><title lang="es">Los videos más divertidos: especial animales</title></programme>
+<programme start="20211120200500 +0000" stop="20211120210000 +0000" channel="NationalGeographicSur.us"><title lang="es">Los videos más divertidos: especial animales</title></programme>
+<programme start="20211120210000 +0000" stop="20211120220000 +0000" channel="NationalGeographicSur.us"><title lang="es">Los videos más divertidos: especial animales</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="NationalGeographicSur.us"><title lang="es">Los videos más divertidos: especial animales</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="NationalGeographicSur.us"><title lang="es">Tesoros perdidos de Egipto</title></programme>
+<programme start="20211121000000 +0000" stop="20211121010000 +0000" channel="NationalGeographicSur.us"><title lang="es">Tesoros perdidos de Egipto</title></programme>
+<programme start="20211121010000 +0000" stop="20211121020000 +0000" channel="NationalGeographicSur.us"><title lang="es">México salvaje</title></programme>
+<programme start="20211121020000 +0000" stop="20211121035500 +0000" channel="NationalGeographicSur.us"><title lang="es">Love &amp; Bananas</title></programme>
+<programme start="20211121035500 +0000" stop="20211121042500 +0000" channel="NationalGeographicSur.us"><title lang="es">Planet Defenders</title></programme>
+<programme start="20211121042500 +0000" stop="20211121045000 +0000" channel="NationalGeographicSur.us"><title lang="es">Planet Defenders</title></programme>
+<programme start="20211121045000 +0000" stop="20211121055000 +0000" channel="NationalGeographicSur.us"><title lang="es">México salvaje</title></programme>
+<programme start="20211121055000 +0000" stop="20211121065000 +0000" channel="NationalGeographicSur.us"><title lang="es">Tesoros perdidos de Egipto</title></programme>
 <programme start="20211119054500 +0000" stop="20211119074000 +0000" channel="SonyChannelSur.us"><title lang="es">Los cazafantasmas</title></programme>
 <programme start="20211119074000 +0000" stop="20211119080500 +0000" channel="SonyChannelSur.us"><title lang="es">Madre americana</title></programme>
 <programme start="20211119080500 +0000" stop="20211119090000 +0000" channel="SonyChannelSur.us"><title lang="es">Girlfriends&apos; Guide to Divorce</title></programme>
@@ -741,23 +689,26 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="SonyChannelSur.us"><title lang="es">Shark Tank Colombia</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="SonyChannelSur.us"><title lang="es">Shark Tank México</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="SonyChannelSur.us"><title lang="es">La herencia del Sr. Deeds</title></programme>
-<programme start="20211118040000 +0000" stop="20211118061300 +0000" channel="StarLifeSur.us"><title lang="es">Langosta</title></programme>
-<programme start="20211118061300 +0000" stop="20211118081300 +0000" channel="StarLifeSur.us"><title lang="es">Último viaje a Las Vegas</title></programme>
-<programme start="20211118081300 +0000" stop="20211118094400 +0000" channel="StarLifeSur.us"><title lang="es">Ingenious</title></programme>
-<programme start="20211118094400 +0000" stop="20211118103000 +0000" channel="StarLifeSur.us"><title lang="es">New Amsterdam</title></programme>
-<programme start="20211118103000 +0000" stop="20211118111300 +0000" channel="StarLifeSur.us"><title lang="es">Private Eyes</title></programme>
-<programme start="20211118111300 +0000" stop="20211118115800 +0000" channel="StarLifeSur.us"><title lang="es">Remedy</title></programme>
-<programme start="20211118115800 +0000" stop="20211118141500 +0000" channel="StarLifeSur.us"><title lang="es">The Romeo Section</title></programme>
-<programme start="20211118141500 +0000" stop="20211118151500 +0000" channel="StarLifeSur.us"><title lang="es">Remedy</title></programme>
-<programme start="20211118151500 +0000" stop="20211118161500 +0000" channel="StarLifeSur.us"><title lang="es">Private Eyes</title></programme>
-<programme start="20211118161500 +0000" stop="20211118171500 +0000" channel="StarLifeSur.us"><title lang="es">Private Eyes</title></programme>
-<programme start="20211118171500 +0000" stop="20211118180000 +0000" channel="StarLifeSur.us"><title lang="es">The Romeo Section</title></programme>
-<programme start="20211118180000 +0000" stop="20211118200000 +0000" channel="StarLifeSur.us"><title lang="es">Corazones en llamas</title></programme>
-<programme start="20211118200000 +0000" stop="20211118220000 +0000" channel="StarLifeSur.us"><title lang="es">El año del perro</title></programme>
-<programme start="20211118220000 +0000" stop="20211119000000 +0000" channel="StarLifeSur.us"><title lang="es">Ass Backwards</title></programme>
-<programme start="20211119000000 +0000" stop="20211119015500 +0000" channel="StarLifeSur.us"><title lang="es">Love on Safari</title></programme>
-<programme start="20211119015500 +0000" stop="20211119040000 +0000" channel="StarLifeSur.us"><title lang="es">27 bodas</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="StarLifeSur.us"><title lang="es">Frank y Lola: amor, sexo y traición</title></programme>
+<programme start="20211120050000 +0000" stop="20211120064500 +0000" channel="SonyChannelSur.us"><title lang="es">La herencia del Sr. Deeds</title></programme>
+<programme start="20211120064500 +0000" stop="20211120090000 +0000" channel="SonyChannelSur.us"><title lang="es">Cazafantasmas</title></programme>
+<programme start="20211120090000 +0000" stop="20211120100000 +0000" channel="SonyChannelSur.us"><title lang="es">Shark Tank</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="SonyChannelSur.us"><title lang="es">Shark Tank</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="SonyChannelSur.us"><title lang="es">Grown-ish</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="SonyChannelSur.us"><title lang="es">Black-ish</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="SonyChannelSur.us"><title lang="es">Madre americana</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="SonyChannelSur.us"><title lang="es">Madre americana</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="SonyChannelSur.us"><title lang="es">TeveCompras</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="SonyChannelSur.us"><title lang="es">TeveCompras</title></programme>
+<programme start="20211120140000 +0000" stop="20211120150000 +0000" channel="SonyChannelSur.us"><title lang="es">De brutas, nada</title></programme>
+<programme start="20211120150000 +0000" stop="20211120165000 +0000" channel="SonyChannelSur.us"><title lang="es">La herencia del Sr. Deeds</title></programme>
+<programme start="20211120165000 +0000" stop="20211120183000 +0000" channel="SonyChannelSur.us"><title lang="es">Mini espías 4: Los ladrones del tiempo</title></programme>
+<programme start="20211120183000 +0000" stop="20211120204500 +0000" channel="SonyChannelSur.us"><title lang="es">Cazafantasmas</title></programme>
+<programme start="20211120204500 +0000" stop="20211120224000 +0000" channel="SonyChannelSur.us"><title lang="es">Píxeles</title></programme>
+<programme start="20211120224000 +0000" stop="20211121003500 +0000" channel="SonyChannelSur.us"><title lang="es">Escalofríos</title></programme>
+<programme start="20211121003500 +0000" stop="20211121021500 +0000" channel="SonyChannelSur.us"><title lang="es">Escalofríos 2</title></programme>
+<programme start="20211121021500 +0000" stop="20211121041500 +0000" channel="SonyChannelSur.us"><title lang="es">Juerga hasta el fin</title></programme>
+<programme start="20211121041500 +0000" stop="20211121055000 +0000" channel="SonyChannelSur.us"><title lang="es">Un ninja en Beverly Hills</title></programme>
+<programme start="20211121055000 +0000" stop="20211121065000 +0000" channel="SonyChannelSur.us"><title lang="es">Escalofríos</title></programme>
 <programme start="20211119060000 +0000" stop="20211119080000 +0000" channel="StarLifeSur.us"><title lang="es">Laggies</title></programme>
 <programme start="20211119080000 +0000" stop="20211119100000 +0000" channel="StarLifeSur.us"><title lang="es">Sueños de libertad</title></programme>
 <programme start="20211119100000 +0000" stop="20211119104500 +0000" channel="StarLifeSur.us"><title lang="es">Remedy</title></programme>
@@ -773,26 +724,21 @@
 <programme start="20211120000000 +0000" stop="20211120020000 +0000" channel="StarLifeSur.us"><title lang="es">Erin Brockovich, una mujer audaz</title></programme>
 <programme start="20211120020000 +0000" stop="20211120040000 +0000" channel="StarLifeSur.us"><title lang="es">El año del perro</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="StarLifeSur.us"><title lang="es">Al diablo con el diablo</title></programme>
-<programme start="20211118060000 +0000" stop="20211118080000 +0000" channel="TDNMexico.mx"><title lang="es">México vs. EE.UU.</title></programme>
-<programme start="20211118080000 +0000" stop="20211118090000 +0000" channel="TDNMexico.mx"><title lang="es">Emisión del día 17/11/21</title></programme>
-<programme start="20211118090000 +0000" stop="20211118110000 +0000" channel="TDNMexico.mx"><title lang="es">Canadá vs. México</title></programme>
-<programme start="20211118110000 +0000" stop="20211118120000 +0000" channel="TDNMexico.mx"><title lang="es">Emisión del día 17/11/21</title></programme>
-<programme start="20211118120000 +0000" stop="20211118130000 +0000" channel="TDNMexico.mx"><title lang="es">Emisión del día 17/11/21</title></programme>
-<programme start="20211118130000 +0000" stop="20211118140000 +0000" channel="TDNMexico.mx"><title lang="es">Emisión del día 17/11/21</title></programme>
-<programme start="20211118140000 +0000" stop="20211118150000 +0000" channel="TDNMexico.mx"><title lang="es">El Pana, ídolo del pueblo</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="TDNMexico.mx"><title lang="es">América vs. Rayados</title></programme>
-<programme start="20211118160000 +0000" stop="20211118180000 +0000" channel="TDNMexico.mx"><title lang="es">Pumas UNAM vs. Puebla</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="TDNMexico.mx"><title lang="es">Retrato de la Plaza México</title></programme>
-<programme start="20211118190000 +0000" stop="20211118210000 +0000" channel="TDNMexico.mx"><title lang="es">Pumas UNAM vs. Cruz Azul</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="TDNMexico.mx"><title lang="es">América vs. Tigres</title></programme>
-<programme start="20211118220000 +0000" stop="20211118225500 +0000" channel="TDNMexico.mx"><title lang="es">Tu pase completo</title></programme>
-<programme start="20211118225500 +0000" stop="20211118230000 +0000" channel="TDNMexico.mx"><title lang="es">Tepatitlán vs. Leones Negros</title></programme>
-<programme start="20211118230000 +0000" stop="20211119010000 +0000" channel="TDNMexico.mx"><title lang="es">Tepatitlán vs. Leones Negros</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="TDNMexico.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="TDNMexico.mx"><title lang="es">Tu tribuna</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="TDNMexico.mx"><title lang="es">Contacto deportivo</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="TDNMexico.mx"><title lang="es">Línea de cuatro</title></programme>
-<programme start="20211119050000 +0000" stop="20211119060000 +0000" channel="TDNMexico.mx"><title lang="es">Contacto deportivo</title></programme>
+<programme start="20211120060000 +0000" stop="20211120080000 +0000" channel="StarLifeSur.us"><title lang="es">De amor y otras adicciones</title></programme>
+<programme start="20211120080000 +0000" stop="20211120094500 +0000" channel="StarLifeSur.us"><title lang="es">Viaje salvaje</title></programme>
+<programme start="20211120094500 +0000" stop="20211120103700 +0000" channel="StarLifeSur.us"><title lang="es">The Romeo Section</title></programme>
+<programme start="20211120103700 +0000" stop="20211120113000 +0000" channel="StarLifeSur.us"><title lang="es">The Romeo Section</title></programme>
+<programme start="20211120113000 +0000" stop="20211120140000 +0000" channel="StarLifeSur.us"><title lang="es">The Romeo Section</title></programme>
+<programme start="20211120140000 +0000" stop="20211120160000 +0000" channel="StarLifeSur.us"><title lang="es">Condenados a entenderse</title></programme>
+<programme start="20211120160000 +0000" stop="20211120200000 +0000" channel="StarLifeSur.us"><title lang="es">Tren nocturno a Lisboa</title></programme>
+<programme start="20211120200000 +0000" stop="20211120220000 +0000" channel="StarLifeSur.us"><title lang="es">Mistrust</title></programme>
+<programme start="20211120220000 +0000" stop="20211121001500 +0000" channel="StarLifeSur.us"><title lang="es">Sígueme el rollo</title></programme>
+<programme start="20211121001500 +0000" stop="20211121010000 +0000" channel="StarLifeSur.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211121010000 +0000" stop="20211121014500 +0000" channel="StarLifeSur.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211121014500 +0000" stop="20211121023000 +0000" channel="StarLifeSur.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211121023000 +0000" stop="20211121030500 +0000" channel="StarLifeSur.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211121030500 +0000" stop="20211121040000 +0000" channel="StarLifeSur.us"><title lang="es">La ley y el orden: U.V.E.</title></programme>
+<programme start="20211121040000 +0000" stop="20211121050000 +0000" channel="StarLifeSur.us"><title lang="es">Bandidas</title></programme>
 <programme start="20211119060000 +0000" stop="20211119080000 +0000" channel="TDNMexico.mx"><title lang="es">Canadá vs. México</title></programme>
 <programme start="20211119080000 +0000" stop="20211119090000 +0000" channel="TDNMexico.mx"><title lang="es">Emisión del día 18/11/21</title></programme>
 <programme start="20211119090000 +0000" stop="20211119110000 +0000" channel="TDNMexico.mx"><title lang="es">Tepatitlán vs. Leones Negros</title></programme>
@@ -812,24 +758,27 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="TDNMexico.mx"><title lang="es">Contacto deportivo</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="TDNMexico.mx"><title lang="es">Línea de cuatro</title></programme>
 <programme start="20211120050000 +0000" stop="20211120060000 +0000" channel="TDNMexico.mx"><title lang="es">Combate global</title></programme>
-<programme start="20211118043000 +0000" stop="20211118090000 +0000" channel="TelemicroInternacional.do"><title lang="es">Bloque de repeticiones</title></programme>
-<programme start="20211118090000 +0000" stop="20211118100000 +0000" channel="TelemicroInternacional.do"><title lang="es">La opción de la mañana</title></programme>
-<programme start="20211118100000 +0000" stop="20211118120000 +0000" channel="TelemicroInternacional.do"><title lang="es">Matinal</title></programme>
-<programme start="20211118120000 +0000" stop="20211118150000 +0000" channel="TelemicroInternacional.do"><title lang="es">Despierta, América</title></programme>
-<programme start="20211118150000 +0000" stop="20211118160000 +0000" channel="TelemicroInternacional.do"><title lang="es">La rosa de Guadalupe</title></programme>
-<programme start="20211118160000 +0000" stop="20211118170000 +0000" channel="TelemicroInternacional.do"><title lang="es">¿Qué le pasa a mi familia?</title></programme>
-<programme start="20211118170000 +0000" stop="20211118180000 +0000" channel="TelemicroInternacional.do"><title lang="es">La mexicana y el güero</title></programme>
-<programme start="20211118180000 +0000" stop="20211118190000 +0000" channel="TelemicroInternacional.do"><title lang="es">Noticias Telemicro</title></programme>
-<programme start="20211118190000 +0000" stop="20211118200000 +0000" channel="TelemicroInternacional.do"><title lang="es">El color de la pasión</title></programme>
-<programme start="20211118200000 +0000" stop="20211118210000 +0000" channel="TelemicroInternacional.do"><title lang="es">Diseñando tu amor</title></programme>
-<programme start="20211118210000 +0000" stop="20211118220000 +0000" channel="TelemicroInternacional.do"><title lang="es">El gordo y la flaca</title></programme>
-<programme start="20211118220000 +0000" stop="20211118230000 +0000" channel="TelemicroInternacional.do"><title lang="es">A bailar</title></programme>
-<programme start="20211118230000 +0000" stop="20211119000000 +0000" channel="TelemicroInternacional.do"><title lang="es">Kuzey Güney</title></programme>
-<programme start="20211119000000 +0000" stop="20211119010000 +0000" channel="TelemicroInternacional.do"><title lang="es">Ciudad despiadada</title></programme>
-<programme start="20211119010000 +0000" stop="20211119020000 +0000" channel="TelemicroInternacional.do"><title lang="es">El dragón</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="TelemicroInternacional.do"><title lang="es">Noticias Telemicro</title></programme>
-<programme start="20211119030000 +0000" stop="20211119040000 +0000" channel="TelemicroInternacional.do"><title lang="es">El reperpero</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="TelemicroInternacional.do"><title lang="es">Noticiero Univisión</title></programme>
+<programme start="20211120050000 +0000" stop="20211120063000 +0000" channel="TDNMexico.mx"><title lang="es">Combate global</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="TDNMexico.mx"><title lang="es">El podio</title></programme>
+<programme start="20211120070000 +0000" stop="20211120080000 +0000" channel="TDNMexico.mx"><title lang="es">Tema: Carlos Salcido</title></programme>
+<programme start="20211120080000 +0000" stop="20211120100000 +0000" channel="TDNMexico.mx"><title lang="es">Toluca vs. Guadalajara</title></programme>
+<programme start="20211120100000 +0000" stop="20211120120000 +0000" channel="TDNMexico.mx"><title lang="es">México vs. EE.UU.</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="TDNMexico.mx"><title lang="es">Emisión del día 19/11/21</title></programme>
+<programme start="20211120130000 +0000" stop="20211120140000 +0000" channel="TDNMexico.mx"><title lang="es">El Pana, ídolo del pueblo</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="TDNMexico.mx"><title lang="es">NBA Action</title></programme>
+<programme start="20211120143000 +0000" stop="20211120155500 +0000" channel="TDNMexico.mx"><title lang="es">133</title></programme>
+<programme start="20211120155500 +0000" stop="20211120160000 +0000" channel="TDNMexico.mx"><title lang="es">América vs. León</title></programme>
+<programme start="20211120160000 +0000" stop="20211120175500 +0000" channel="TDNMexico.mx"><title lang="es">América vs. León</title></programme>
+<programme start="20211120175500 +0000" stop="20211120180000 +0000" channel="TDNMexico.mx"><title lang="es">Pumas UNAM vs. Mazatlán</title></programme>
+<programme start="20211120180000 +0000" stop="20211120200000 +0000" channel="TDNMexico.mx"><title lang="es">Pumas UNAM vs. Mazatlán</title></programme>
+<programme start="20211120200000 +0000" stop="20211120210000 +0000" channel="TDNMexico.mx"><title lang="es">Tema: Carlos Salcido</title></programme>
+<programme start="20211120210000 +0000" stop="20211120225500 +0000" channel="TDNMexico.mx"><title lang="es">Toluca vs. Guadalajara</title></programme>
+<programme start="20211120225500 +0000" stop="20211120230000 +0000" channel="TDNMexico.mx"><title lang="es">Juárez vs. Tijuana</title></programme>
+<programme start="20211120230000 +0000" stop="20211121005000 +0000" channel="TDNMexico.mx"><title lang="es">Juárez vs. Tijuana</title></programme>
+<programme start="20211121005000 +0000" stop="20211121010000 +0000" channel="TDNMexico.mx"><title lang="es">Santos Laguna vs. Atl. San Luis</title></programme>
+<programme start="20211121010000 +0000" stop="20211121030000 +0000" channel="TDNMexico.mx"><title lang="es">Santos Laguna vs. Atl. San Luis</title></programme>
+<programme start="20211121030000 +0000" stop="20211121050000 +0000" channel="TDNMexico.mx"><title lang="es">Pumas UNAM vs. Mazatlán</title></programme>
+<programme start="20211121050000 +0000" stop="20211121060000 +0000" channel="TDNMexico.mx"><title lang="es">Contacto deportivo</title></programme>
 <programme start="20211119040000 +0000" stop="20211119090000 +0000" channel="TelemicroInternacional.do"><title lang="es">Noticiero Univisión</title></programme>
 <programme start="20211119090000 +0000" stop="20211119100000 +0000" channel="TelemicroInternacional.do"><title lang="es">La opción de la mañana</title></programme>
 <programme start="20211119100000 +0000" stop="20211119120000 +0000" channel="TelemicroInternacional.do"><title lang="es">Matinal</title></programme>
@@ -849,13 +798,21 @@
 <programme start="20211120030000 +0000" stop="20211120040000 +0000" channel="TelemicroInternacional.do"><title lang="es">El reperpero</title></programme>
 <programme start="20211120040000 +0000" stop="20211120043000 +0000" channel="TelemicroInternacional.do"><title lang="es">Noticiero Univisión</title></programme>
 <programme start="20211120043000 +0000" stop="20211120053000 +0000" channel="TelemicroInternacional.do"><title lang="es">Bloque de repeticiones</title></programme>
-<programme start="20211118040000 +0000" stop="20211118080000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
-<programme start="20211118080000 +0000" stop="20211118120000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
-<programme start="20211118120000 +0000" stop="20211118160000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
-<programme start="20211118160000 +0000" stop="20211118200000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
-<programme start="20211118200000 +0000" stop="20211119000000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
-<programme start="20211119000000 +0000" stop="20211119040000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
-<programme start="20211119040000 +0000" stop="20211119050000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
+<programme start="20211120043000 +0000" stop="20211120100000 +0000" channel="TelemicroInternacional.do"><title lang="es">Bloque de repeticiones</title></programme>
+<programme start="20211120100000 +0000" stop="20211120110000 +0000" channel="TelemicroInternacional.do"><title lang="es">La escuelita VIP</title></programme>
+<programme start="20211120110000 +0000" stop="20211120120000 +0000" channel="TelemicroInternacional.do"><title lang="es">Una familia de diez</title></programme>
+<programme start="20211120120000 +0000" stop="20211120130000 +0000" channel="TelemicroInternacional.do"><title lang="es">Vecinos</title></programme>
+<programme start="20211120130000 +0000" stop="20211120150000 +0000" channel="TelemicroInternacional.do"><title lang="es">La rosa de Guadalupe</title></programme>
+<programme start="20211120150000 +0000" stop="20211120160000 +0000" channel="TelemicroInternacional.do"><title lang="es">Qué es lo que hay</title></programme>
+<programme start="20211120160000 +0000" stop="20211120180000 +0000" channel="TelemicroInternacional.do"><title lang="es">Cine tres</title></programme>
+<programme start="20211120180000 +0000" stop="20211120200000 +0000" channel="TelemicroInternacional.do"><title lang="es">Cine tres</title></programme>
+<programme start="20211120200000 +0000" stop="20211120220000 +0000" channel="TelemicroInternacional.do"><title lang="es">Cine tres</title></programme>
+<programme start="20211120220000 +0000" stop="20211120230000 +0000" channel="TelemicroInternacional.do"><title lang="es">Chasing Life</title></programme>
+<programme start="20211120230000 +0000" stop="20211121000000 +0000" channel="TelemicroInternacional.do"><title lang="es">El show de la comedia</title></programme>
+<programme start="20211121000000 +0000" stop="20211121020000 +0000" channel="TelemicroInternacional.do"><title lang="es">Boca de piano es un show</title></programme>
+<programme start="20211121020000 +0000" stop="20211121030000 +0000" channel="TelemicroInternacional.do"><title lang="es">Zona 5</title></programme>
+<programme start="20211121030000 +0000" stop="20211121040000 +0000" channel="TelemicroInternacional.do"><title lang="es">Objetivo 5</title></programme>
+<programme start="20211121040000 +0000" stop="20211121050000 +0000" channel="TelemicroInternacional.do"><title lang="es">Bloque de repeticiones</title></programme>
 <programme start="20211119040000 +0000" stop="20211119080000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
 <programme start="20211119080000 +0000" stop="20211119120000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
 <programme start="20211119120000 +0000" stop="20211119160000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
@@ -863,21 +820,13 @@
 <programme start="20211119200000 +0000" stop="20211120000000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
 <programme start="20211120000000 +0000" stop="20211120040000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
 <programme start="20211120040000 +0000" stop="20211120050000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
-<programme start="20211118050600 +0000" stop="20211118072200 +0000" channel="TNTAmericaLatina.us"><title lang="es">Cincuenta sombras de Grey</title></programme>
-<programme start="20211118072200 +0000" stop="20211118090700 +0000" channel="TNTAmericaLatina.us"><title lang="es">Noche de juegos</title></programme>
-<programme start="20211118090700 +0000" stop="20211118103800 +0000" channel="TNTAmericaLatina.us"><title lang="es">Despedida de soltera</title></programme>
-<programme start="20211118103800 +0000" stop="20211118110000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Hollywood One on One</title></programme>
-<programme start="20211118110000 +0000" stop="20211118114900 +0000" channel="TNTAmericaLatina.us"><title lang="es">Ámame o muérete</title></programme>
-<programme start="20211118114900 +0000" stop="20211118132200 +0000" channel="TNTAmericaLatina.us"><title lang="es">Puntos de vista</title></programme>
-<programme start="20211118132200 +0000" stop="20211118151400 +0000" channel="TNTAmericaLatina.us"><title lang="es">Jumanji</title></programme>
-<programme start="20211118151400 +0000" stop="20211118170300 +0000" channel="TNTAmericaLatina.us"><title lang="es">El legado de las mentiras</title></programme>
-<programme start="20211118170300 +0000" stop="20211118193200 +0000" channel="TNTAmericaLatina.us"><title lang="es">El último gran héroe</title></programme>
-<programme start="20211118193200 +0000" stop="20211118213200 +0000" channel="TNTAmericaLatina.us"><title lang="es">Rescate en el metro 123</title></programme>
-<programme start="20211118213200 +0000" stop="20211118233000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Son como niños</title></programme>
-<programme start="20211118233000 +0000" stop="20211119010000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Latin Grammy 2021 - Red Carpet</title></programme>
-<programme start="20211119010000 +0000" stop="20211119040000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Latin Grammy 2021</title></programme>
-<programme start="20211119040000 +0000" stop="20211119055700 +0000" channel="TNTAmericaLatina.us"><title lang="es">Machete</title></programme>
-<programme start="20211119055700 +0000" stop="20211119065700 +0000" channel="TNTAmericaLatina.us"><title lang="es">Noche de juegos</title></programme>
+<programme start="20211120040000 +0000" stop="20211120080000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
+<programme start="20211120080000 +0000" stop="20211120120000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
+<programme start="20211120120000 +0000" stop="20211120160000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
+<programme start="20211120160000 +0000" stop="20211120200000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
+<programme start="20211120200000 +0000" stop="20211121000000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
+<programme start="20211121000000 +0000" stop="20211121040000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
+<programme start="20211121040000 +0000" stop="20211121050000 +0000" channel="Televen.ve"><title lang="es">Televen</title></programme>
 <programme start="20211119055700 +0000" stop="20211119074100 +0000" channel="TNTAmericaLatina.us"><title lang="es">Noche de juegos</title></programme>
 <programme start="20211119074100 +0000" stop="20211119092400 +0000" channel="TNTAmericaLatina.us"><title lang="es">John Wick</title></programme>
 <programme start="20211119092400 +0000" stop="20211119110000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Hollywood One on One</title></programme>
@@ -893,54 +842,23 @@
 <programme start="20211120030000 +0000" stop="20211120050800 +0000" channel="TNTAmericaLatina.us"><title lang="es">La vida sexual de las universitarias</title></programme>
 <programme start="20211120050800 +0000" stop="20211120051100 +0000" channel="TNTAmericaLatina.us"><title lang="es">Lo mejor de Latin Grammy Awards 2021</title></programme>
 <programme start="20211120051100 +0000" stop="20211120061100 +0000" channel="TNTAmericaLatina.us"><title lang="es">Megalodón</title></programme>
-<programme start="20211118060000 +0000" stop="20211118063000 +0000" channel="TVAgro.co"><title lang="es">TV Gan vitrina ganadera</title></programme>
-<programme start="20211118063000 +0000" stop="20211118070000 +0000" channel="TVAgro.co"><title lang="es">Hábitat</title></programme>
-<programme start="20211118070000 +0000" stop="20211118073000 +0000" channel="TVAgro.co"><title lang="es">Aroma y color</title></programme>
-<programme start="20211118073000 +0000" stop="20211118080000 +0000" channel="TVAgro.co"><title lang="es">Cascos y riendas</title></programme>
-<programme start="20211118080000 +0000" stop="20211118083000 +0000" channel="TVAgro.co"><title lang="es">En foco</title></programme>
-<programme start="20211118083000 +0000" stop="20211118090000 +0000" channel="TVAgro.co"><title lang="es">Frente al acontecer del campo</title></programme>
-<programme start="20211118090000 +0000" stop="20211118093000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
-<programme start="20211118093000 +0000" stop="20211118100000 +0000" channel="TVAgro.co"><title lang="es">Transformadores del campo</title></programme>
-<programme start="20211118100000 +0000" stop="20211118103000 +0000" channel="TVAgro.co"><title lang="es">Huellas</title></programme>
-<programme start="20211118103000 +0000" stop="20211118110000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
-<programme start="20211118110000 +0000" stop="20211118113000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
-<programme start="20211118113000 +0000" stop="20211118120000 +0000" channel="TVAgro.co"><title lang="es">Lo + del agro</title></programme>
-<programme start="20211118120000 +0000" stop="20211118123000 +0000" channel="TVAgro.co"><title lang="es">Las aventuras del profesor Yarumo</title></programme>
-<programme start="20211118123000 +0000" stop="20211118130000 +0000" channel="TVAgro.co"><title lang="es">Hábitat</title></programme>
-<programme start="20211118130000 +0000" stop="20211118133000 +0000" channel="TVAgro.co"><title lang="es">Cascos y riendas</title></programme>
-<programme start="20211118133000 +0000" stop="20211118140000 +0000" channel="TVAgro.co"><title lang="es">Aroma y color</title></programme>
-<programme start="20211118140000 +0000" stop="20211118143000 +0000" channel="TVAgro.co"><title lang="es">Lo + del agro</title></programme>
-<programme start="20211118143000 +0000" stop="20211118150000 +0000" channel="TVAgro.co"><title lang="es">Vistazo agropecuario</title></programme>
-<programme start="20211118150000 +0000" stop="20211118153000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
-<programme start="20211118153000 +0000" stop="20211118160000 +0000" channel="TVAgro.co"><title lang="es">Transformadores del campo</title></programme>
-<programme start="20211118160000 +0000" stop="20211118163000 +0000" channel="TVAgro.co"><title lang="es">Huellas</title></programme>
-<programme start="20211118163000 +0000" stop="20211118170000 +0000" channel="TVAgro.co"><title lang="es">Universo animal</title></programme>
-<programme start="20211118170000 +0000" stop="20211118173000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
-<programme start="20211118173000 +0000" stop="20211118180000 +0000" channel="TVAgro.co"><title lang="es">Hábitat</title></programme>
-<programme start="20211118180000 +0000" stop="20211118183000 +0000" channel="TVAgro.co"><title lang="es">Cascos y riendas</title></programme>
-<programme start="20211118183000 +0000" stop="20211118190000 +0000" channel="TVAgro.co"><title lang="es">Frente al acontecer del campo</title></programme>
-<programme start="20211118190000 +0000" stop="20211118193000 +0000" channel="TVAgro.co"><title lang="es">En foco</title></programme>
-<programme start="20211118193000 +0000" stop="20211118200000 +0000" channel="TVAgro.co"><title lang="es">Las aventuras del profesor Yarumo</title></programme>
-<programme start="20211118200000 +0000" stop="20211118203000 +0000" channel="TVAgro.co"><title lang="es">Transformadores del campo</title></programme>
-<programme start="20211118203000 +0000" stop="20211118210000 +0000" channel="TVAgro.co"><title lang="es">Latitud</title></programme>
-<programme start="20211118210000 +0000" stop="20211118213000 +0000" channel="TVAgro.co"><title lang="es">Huellas</title></programme>
-<programme start="20211118213000 +0000" stop="20211118220000 +0000" channel="TVAgro.co"><title lang="es">Universo animal</title></programme>
-<programme start="20211118220000 +0000" stop="20211118223000 +0000" channel="TVAgro.co"><title lang="es">Lo + del agro</title></programme>
-<programme start="20211118223000 +0000" stop="20211118230000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
-<programme start="20211118230000 +0000" stop="20211118233000 +0000" channel="TVAgro.co"><title lang="es">TV Gan vitrina ganadera</title></programme>
-<programme start="20211118233000 +0000" stop="20211119000000 +0000" channel="TVAgro.co"><title lang="es">TV Gan vitrina ganadera</title></programme>
-<programme start="20211119000000 +0000" stop="20211119003000 +0000" channel="TVAgro.co"><title lang="es">Al día con el agro</title></programme>
-<programme start="20211119003000 +0000" stop="20211119010000 +0000" channel="TVAgro.co"><title lang="es">Hábitat</title></programme>
-<programme start="20211119010000 +0000" stop="20211119013000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
-<programme start="20211119013000 +0000" stop="20211119020000 +0000" channel="TVAgro.co"><title lang="es">Lo + del agro</title></programme>
-<programme start="20211119020000 +0000" stop="20211119023000 +0000" channel="TVAgro.co"><title lang="es">Las aventuras del profesor Yarumo</title></programme>
-<programme start="20211119023000 +0000" stop="20211119030000 +0000" channel="TVAgro.co"><title lang="es">Frente al acontecer del campo</title></programme>
-<programme start="20211119030000 +0000" stop="20211119033000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
-<programme start="20211119033000 +0000" stop="20211119040000 +0000" channel="TVAgro.co"><title lang="es">Transformadores del campo</title></programme>
-<programme start="20211119040000 +0000" stop="20211119043000 +0000" channel="TVAgro.co"><title lang="es">Huellas</title></programme>
-<programme start="20211119043000 +0000" stop="20211119050000 +0000" channel="TVAgro.co"><title lang="es">Universo animal</title></programme>
-<programme start="20211119050000 +0000" stop="20211119053000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
-<programme start="20211119053000 +0000" stop="20211119063000 +0000" channel="TVAgro.co"><title lang="es">TV Gan vitrina ganadera</title></programme>
+<programme start="20211120051100 +0000" stop="20211120070600 +0000" channel="TNTAmericaLatina.us"><title lang="es">Megalodón</title></programme>
+<programme start="20211120070600 +0000" stop="20211120090900 +0000" channel="TNTAmericaLatina.us"><title lang="es">Riddick, el amo de la oscuridad</title></programme>
+<programme start="20211120090900 +0000" stop="20211120104200 +0000" channel="TNTAmericaLatina.us"><title lang="es">21, la gran fiesta</title></programme>
+<programme start="20211120104200 +0000" stop="20211120110000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Hollywood One on One</title></programme>
+<programme start="20211120110000 +0000" stop="20211120121300 +0000" channel="TNTAmericaLatina.us"><title lang="es">Persecución mortal</title></programme>
+<programme start="20211120121300 +0000" stop="20211120140000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Hombres de negro</title></programme>
+<programme start="20211120140000 +0000" stop="20211120161300 +0000" channel="TNTAmericaLatina.us"><title lang="es">Sombras tenebrosas</title></programme>
+<programme start="20211120161300 +0000" stop="20211120175800 +0000" channel="TNTAmericaLatina.us"><title lang="es">Hotel Transylvania 2</title></programme>
+<programme start="20211120175800 +0000" stop="20211120180100 +0000" channel="TNTAmericaLatina.us"><title lang="es">Lo mejor de Latin Grammy Awards 2021</title></programme>
+<programme start="20211120180100 +0000" stop="20211120205700 +0000" channel="TNTAmericaLatina.us"><title lang="es">2012</title></programme>
+<programme start="20211120205700 +0000" stop="20211120225000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Viaje al centro de la Tierra</title></programme>
+<programme start="20211120225000 +0000" stop="20211120225300 +0000" channel="TNTAmericaLatina.us"><title lang="es">Lo mejor de Latin Grammy Awards 2021</title></programme>
+<programme start="20211120225300 +0000" stop="20211121003400 +0000" channel="TNTAmericaLatina.us"><title lang="es">Asalto al camión blindado</title></programme>
+<programme start="20211121003400 +0000" stop="20211121003700 +0000" channel="TNTAmericaLatina.us"><title lang="es">Lo mejor de Latin Grammy Awards 2021</title></programme>
+<programme start="20211121003700 +0000" stop="20211121030000 +0000" channel="TNTAmericaLatina.us"><title lang="es">Megalodón</title></programme>
+<programme start="20211121030000 +0000" stop="20211121045400 +0000" channel="TNTAmericaLatina.us"><title lang="es">Furia de titanes 2</title></programme>
+<programme start="20211121045400 +0000" stop="20211121055400 +0000" channel="TNTAmericaLatina.us"><title lang="es">Riddick, el amo de la oscuridad</title></programme>
 <programme start="20211119060000 +0000" stop="20211119063000 +0000" channel="TVAgro.co"><title lang="es">TV Gan vitrina ganadera</title></programme>
 <programme start="20211119063000 +0000" stop="20211119070000 +0000" channel="TVAgro.co"><title lang="es">Nuestro tierra, nuestra agro</title></programme>
 <programme start="20211119070000 +0000" stop="20211119073000 +0000" channel="TVAgro.co"><title lang="es">Aroma y color</title></programme>
@@ -989,21 +907,54 @@
 <programme start="20211120043000 +0000" stop="20211120050000 +0000" channel="TVAgro.co"><title lang="es">Universo animal</title></programme>
 <programme start="20211120050000 +0000" stop="20211120053000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
 <programme start="20211120053000 +0000" stop="20211120063000 +0000" channel="TVAgro.co"><title lang="es">TV Gan vitrina ganadera</title></programme>
-<programme start="20211118045400 +0000" stop="20211118063000 +0000" channel="XTimeChannel.us"><title lang="es">Rottweiler</title></programme>
-<programme start="20211118063000 +0000" stop="20211118073700 +0000" channel="XTimeChannel.us"><title lang="es">El cazador de la Web</title></programme>
-<programme start="20211118073700 +0000" stop="20211118094400 +0000" channel="XTimeChannel.us"><title lang="es">Rocky</title></programme>
-<programme start="20211118094400 +0000" stop="20211118113500 +0000" channel="XTimeChannel.us"><title lang="es">Un romance en Nueva York</title></programme>
-<programme start="20211118113500 +0000" stop="20211118130900 +0000" channel="XTimeChannel.us"><title lang="es">Fenómeno 2</title></programme>
-<programme start="20211118130900 +0000" stop="20211118144100 +0000" channel="XTimeChannel.us"><title lang="es">Garfield 2</title></programme>
-<programme start="20211118144100 +0000" stop="20211118162600 +0000" channel="XTimeChannel.us"><title lang="es">Godzilla 2000: el dinosaurio mutante</title></programme>
-<programme start="20211118162600 +0000" stop="20211118180000 +0000" channel="XTimeChannel.us"><title lang="es">Gordo mentiroso</title></programme>
-<programme start="20211118180000 +0000" stop="20211118195600 +0000" channel="XTimeChannel.us"><title lang="es">Antes de las lluvias</title></programme>
-<programme start="20211118195600 +0000" stop="20211118214200 +0000" channel="XTimeChannel.us"><title lang="es">Atrapado</title></programme>
-<programme start="20211118214200 +0000" stop="20211118235400 +0000" channel="XTimeChannel.us"><title lang="es">Bajo el mismo techo</title></programme>
-<programme start="20211118235400 +0000" stop="20211119020000 +0000" channel="XTimeChannel.us"><title lang="es">Aracnofobia</title></programme>
-<programme start="20211119020000 +0000" stop="20211119030000 +0000" channel="XTimeChannel.us"><title lang="es">C.S.I. N.Y.</title></programme>
-<programme start="20211119030000 +0000" stop="20211119035300 +0000" channel="XTimeChannel.us"><title lang="es">La reportera del crimen: se ha escrito un crimen</title></programme>
-<programme start="20211119035300 +0000" stop="20211119045300 +0000" channel="XTimeChannel.us"><title lang="es">Más allá de las fronteras</title></programme>
+<programme start="20211120060000 +0000" stop="20211120063000 +0000" channel="TVAgro.co"><title lang="es">TV Gan vitrina ganadera</title></programme>
+<programme start="20211120063000 +0000" stop="20211120070000 +0000" channel="TVAgro.co"><title lang="es">Hábitat</title></programme>
+<programme start="20211120070000 +0000" stop="20211120073000 +0000" channel="TVAgro.co"><title lang="es">Al día con el agro</title></programme>
+<programme start="20211120073000 +0000" stop="20211120080000 +0000" channel="TVAgro.co"><title lang="es">Cascos y riendas</title></programme>
+<programme start="20211120080000 +0000" stop="20211120083000 +0000" channel="TVAgro.co"><title lang="es">En foco</title></programme>
+<programme start="20211120083000 +0000" stop="20211120090000 +0000" channel="TVAgro.co"><title lang="es">Al día con el agro</title></programme>
+<programme start="20211120090000 +0000" stop="20211120093000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
+<programme start="20211120093000 +0000" stop="20211120100000 +0000" channel="TVAgro.co"><title lang="es">Conectando el agro</title></programme>
+<programme start="20211120100000 +0000" stop="20211120103000 +0000" channel="TVAgro.co"><title lang="es">Huellas</title></programme>
+<programme start="20211120103000 +0000" stop="20211120110000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
+<programme start="20211120110000 +0000" stop="20211120113000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
+<programme start="20211120113000 +0000" stop="20211120120000 +0000" channel="TVAgro.co"><title lang="es">Latitud</title></programme>
+<programme start="20211120120000 +0000" stop="20211120123000 +0000" channel="TVAgro.co"><title lang="es">TV Gan</title></programme>
+<programme start="20211120123000 +0000" stop="20211120130000 +0000" channel="TVAgro.co"><title lang="es">TV Gan</title></programme>
+<programme start="20211120130000 +0000" stop="20211120133000 +0000" channel="TVAgro.co"><title lang="es">TV Gan</title></programme>
+<programme start="20211120133000 +0000" stop="20211120140000 +0000" channel="TVAgro.co"><title lang="es">Aroma y color</title></programme>
+<programme start="20211120140000 +0000" stop="20211120143000 +0000" channel="TVAgro.co"><title lang="es">Nuestro tierra, nuestra agro</title></programme>
+<programme start="20211120143000 +0000" stop="20211120150000 +0000" channel="TVAgro.co"><title lang="es">Frente al acontecer del campo</title></programme>
+<programme start="20211120150000 +0000" stop="20211120153000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
+<programme start="20211120153000 +0000" stop="20211120160000 +0000" channel="TVAgro.co"><title lang="es">Manos y oficios</title></programme>
+<programme start="20211120160000 +0000" stop="20211120163000 +0000" channel="TVAgro.co"><title lang="es">Huellas</title></programme>
+<programme start="20211120163000 +0000" stop="20211120170000 +0000" channel="TVAgro.co"><title lang="es">Universo animal</title></programme>
+<programme start="20211120170000 +0000" stop="20211120173000 +0000" channel="TVAgro.co"><title lang="es">El sembrador y la tierra</title></programme>
+<programme start="20211120173000 +0000" stop="20211120180000 +0000" channel="TVAgro.co"><title lang="es">Hábitat</title></programme>
+<programme start="20211120180000 +0000" stop="20211120183000 +0000" channel="TVAgro.co"><title lang="es">Cascos y riendas</title></programme>
+<programme start="20211120183000 +0000" stop="20211120190000 +0000" channel="TVAgro.co"><title lang="es">Aroma y color</title></programme>
+<programme start="20211120190000 +0000" stop="20211120193000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120193000 +0000" stop="20211120200000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120200000 +0000" stop="20211120203000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120203000 +0000" stop="20211120210000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120210000 +0000" stop="20211120213000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120213000 +0000" stop="20211120220000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120220000 +0000" stop="20211120223000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120223000 +0000" stop="20211120230000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120230000 +0000" stop="20211120233000 +0000" channel="TVAgro.co"><title lang="es">Comercialización Asocebú</title></programme>
+<programme start="20211120233000 +0000" stop="20211121000000 +0000" channel="TVAgro.co"><title lang="es">TV Gan el ganado</title></programme>
+<programme start="20211121000000 +0000" stop="20211121003000 +0000" channel="TVAgro.co"><title lang="es">Nuestro tierra, nuestra agro</title></programme>
+<programme start="20211121003000 +0000" stop="20211121010000 +0000" channel="TVAgro.co"><title lang="es">Somos agricultura tropical</title></programme>
+<programme start="20211121010000 +0000" stop="20211121013000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
+<programme start="20211121013000 +0000" stop="20211121020000 +0000" channel="TVAgro.co"><title lang="es">Latitud</title></programme>
+<programme start="20211121020000 +0000" stop="20211121023000 +0000" channel="TVAgro.co"><title lang="es">Las aventuras del profesor Yarumo</title></programme>
+<programme start="20211121023000 +0000" stop="20211121030000 +0000" channel="TVAgro.co"><title lang="es">En foco</title></programme>
+<programme start="20211121030000 +0000" stop="20211121033000 +0000" channel="TVAgro.co"><title lang="es">Entre establos y praderas</title></programme>
+<programme start="20211121033000 +0000" stop="20211121040000 +0000" channel="TVAgro.co"><title lang="es">Transformadores del campo</title></programme>
+<programme start="20211121040000 +0000" stop="20211121043000 +0000" channel="TVAgro.co"><title lang="es">TV Gan</title></programme>
+<programme start="20211121043000 +0000" stop="20211121050000 +0000" channel="TVAgro.co"><title lang="es">TV Gan</title></programme>
+<programme start="20211121050000 +0000" stop="20211121053000 +0000" channel="TVAgro.co"><title lang="es">TV Gan</title></programme>
+<programme start="20211121053000 +0000" stop="20211121063000 +0000" channel="TVAgro.co"><title lang="es">TV Gan el ganado</title></programme>
 <programme start="20211119060000 +0000" stop="20211119071100 +0000" channel="XTimeChannel.us"><title lang="es">El cazador de la Web</title></programme>
 <programme start="20211119071100 +0000" stop="20211119085800 +0000" channel="XTimeChannel.us"><title lang="es">Masa crítica</title></programme>
 <programme start="20211119085800 +0000" stop="20211119102800 +0000" channel="XTimeChannel.us"><title lang="es">Masacre en el barrio japonés</title></programme>
@@ -1017,4 +968,18 @@
 <programme start="20211119233700 +0000" stop="20211120020000 +0000" channel="XTimeChannel.us"><title lang="es">Batman regresa</title></programme>
 <programme start="20211120020000 +0000" stop="20211120033200 +0000" channel="XTimeChannel.us"><title lang="es">En busca de la estrella de Navidad</title></programme>
 <programme start="20211120033200 +0000" stop="20211120043200 +0000" channel="XTimeChannel.us"><title lang="es">Crónicas de un asesino en serie</title></programme>
+<programme start="20211120060000 +0000" stop="20211120070300 +0000" channel="XTimeChannel.us"><title lang="es">El cazador de la Web</title></programme>
+<programme start="20211120070300 +0000" stop="20211120084500 +0000" channel="XTimeChannel.us"><title lang="es">Visiones</title></programme>
+<programme start="20211120084500 +0000" stop="20211120101900 +0000" channel="XTimeChannel.us"><title lang="es">Masacre en la casa andante</title></programme>
+<programme start="20211120101900 +0000" stop="20211120114100 +0000" channel="XTimeChannel.us"><title lang="es">Me llamo Modesty</title></programme>
+<programme start="20211120114100 +0000" stop="20211120131400 +0000" channel="XTimeChannel.us"><title lang="es">Impacto lunar</title></programme>
+<programme start="20211120131400 +0000" stop="20211120143300 +0000" channel="XTimeChannel.us"><title lang="es">Vacas vaqueras</title></programme>
+<programme start="20211120143300 +0000" stop="20211120160500 +0000" channel="XTimeChannel.us"><title lang="es">Cinco chicos y esto</title></programme>
+<programme start="20211120160500 +0000" stop="20211120180000 +0000" channel="XTimeChannel.us"><title lang="es">Bajo el sol de Toscana</title></programme>
+<programme start="20211120180000 +0000" stop="20211120194300 +0000" channel="XTimeChannel.us"><title lang="es">Alto riesgo</title></programme>
+<programme start="20211120194300 +0000" stop="20211120215000 +0000" channel="XTimeChannel.us"><title lang="es">Ciudad del silencio</title></programme>
+<programme start="20211120215000 +0000" stop="20211120234800 +0000" channel="XTimeChannel.us"><title lang="es">El guardián</title></programme>
+<programme start="20211120234800 +0000" stop="20211121020100 +0000" channel="XTimeChannel.us"><title lang="es">Cadena de favores</title></programme>
+<programme start="20211121020100 +0000" stop="20211121035100 +0000" channel="XTimeChannel.us"><title lang="es">En busca del asesino</title></programme>
+<programme start="20211121035100 +0000" stop="20211121045100 +0000" channel="XTimeChannel.us"><title lang="es">Alguien sabe demasiado</title></programme>
 </tv>
